@@ -1,0 +1,1248 @@
+	(SENT	<S>
+1\1	TOK	Εφαρμογές	εφαρμογή	NoCmFePlNm
+1\11	TOK	Πληροφορικής	πληροφορική	NoCmFeSgGe
+1\24	TOK	Υπολογιστών	υπολογιστής	NoCmMaPlGe
+1\36	OPUNCT	(	(	OPUNCT
+1\37	TOK	Α	α	NoCmNeSgNm
+1\38	PUNCT	,	,	PUNCT
+1\40	TOK	Β	β	NoCmNeSgNm
+1\41	PUNCT	,	,	PUNCT
+1\43	TOK	Γ	γ	NoCmNeSgNm
+1\45	TOK	Γενικού	γενικός	AjBaNeSgGe
+1\53	TOK	Λυκείου	λύκειο	NoCmNeSgGe
+1\61	PUNCT	-	-	PUNCT
+1\63	TOK	Επιλογής	επιλογή	NoCmFeSgGe
+1\71	CPUNCT	)	)	CPUNCT
+1\73	PUNCT	-	-	PUNCT
+1\75	TOK	Βιβλίο	βιβλίο	NoCmNeSgNm
+1\82	TOK	Μαθητή	μαθητής	NoCmMaSgAc
+1\89	DIG	2	2	DIG
+	)SENT	</S>
+	(SENT	<S>
+1\91	TOK	Η	ο	AtDfFeSgNm
+1\93	TOK	έννοια	έννοια	NoCmFeSgNm
+1\100	TOK	και	και	CjCo
+1\104	TOK	η	ο	AtDfFeSgNm
+1\106	TOK	παράσταση	παράσταση	NoCmFeSgNm
+1\116	TOK	της	ο	AtDfFeSgGe
+1\120	TOK	πληροφορίας	πληροφορία	NoCmFeSgGe
+1\132	TOK	στον	στου	AsPpPaMaSgAc
+1\137	TOK	υπολογιστή	υπολογιστής	NoCmMaSgAc
+	)SENT	</S>
+	(SENT	<S>
+1\150	ENUM	2.7	2.7	ENUM
+1\154	TOK	Μαθηματική	μαθηματικός	AjBaFeSgNm
+1\165	TOK	λογική	λογική	NoCmFeSgNm
+1\172	PUNCT	-	-	PUNCT
+1\174	TOK	Άλγεβρα	άλγεβρα	NoCmFeSgNm
+1\182	TOK	Boole	Boole	RgFwOr
+	)SENT	</S>
+	(SENT	<S>
+1\188	TOK	Ο	ο	AtDfMaSgNm
+1\190	TOK	υπολογιστής	υπολογιστής	NoCmMaSgNm
+1\201	PUNCT	,	,	PUNCT
+1\203	TOK	εκτός	εκτός	AdXxBa
+1\209	TOK	από	από	AsPpSp
+1\213	TOK	αριθμητικές	αριθμητικός	AjBaFePlAc
+1\225	TOK	πράξεις	πράξη	NoCmFePlAc
+1\232	PUNCT	,	,	PUNCT
+1\234	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+1\239	TOK	τη	ο	AtDfFeSgAc
+1\242	TOK	δυνατότητα	δυνατότητα	NoCmFeSgAc
+1\253	TOK	να	να	PtSj
+1\256	TOK	εκτελεί	εκτελώ	VbMnIdPr03SgXxIpAvXx
+1\264	TOK	και	και	CjCo
+1\268	TOK	συγκρίσεις	σύγκριση	NoCmFePlAc
+1\278	PUNCT	,	,	PUNCT
+1\280	TOK	δηλαδή	δηλαδή	AdXxBa
+1\287	TOK	να	να	PtSj
+1\290	TOK	επεξεργάζεται	επεξεργάζομαι	VbMnIdPr03SgXxIpPvXx
+1\304	TOK	λογικά	λογικός	AjBaNePlAc
+1\311	TOK	δεδομένα	δεδομένο	NoCmNePlAc
+1\319	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\321	TOK	Τα	ο	AtDfNePlNm
+1\324	TOK	δεδομένα	δεδομένο	NoCmNePlNm
+1\333	TOK	αυτά	αυτός	PnDmNe03PlAcXx
+1\338	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+1\345	TOK	να	να	PtSj
+1\348	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+1\354	TOK	απλές	απλός	AjBaFePlNm
+1\360	TOK	ή	ή	CjCo
+1\362	TOK	σύνθετες	σύνθετος	AjBaFePlNm
+1\371	TOK	λογικές	λογική	NoCmFePlNm
+1\379	TOK	προτάσεις	πρόταση	NoCmFePlNm
+1\388	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\392	ENUM	2.7.1	2.7.1	ENUM
+1\398	TOK	Λογικές	λογικός	AjBaFePlNm
+1\406	TOK	προτάσεις	πρόταση	NoCmFePlNm
+	)SENT	</S>
+	(SENT	<S>
+1\416	TOK	Μια	ένας	AtIdFeSgNm
+1\420	TOK	πρόταση	πρόταση	NoCmFeSgNm
+1\428	TOK	λέγεται	λέγω	VbMnIdPr03SgXxIpPvXx
+1\436	TOK	λογική	λογική	NoCmFeSgNm
+1\442	PUNCT	,	,	PUNCT
+1\444	TOK	όταν	όταν	CjSb
+1\449	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+1\456	TOK	να	να	PtSj
+1\459	TOK	χαρακτηριστεί	χαρακτηρίζω	VbMnIdXx03SgXxPePvXx
+1\473	TOK	αληθής	αληθής	AjBaMaSgNm
+1\480	TOK	ή	ή	CjCo
+1\482	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\488	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\490	TOK	Ένας	ένας	AtIdMaSgNm
+1\495	TOK	τέτοιος	τέτοιος	PnDmMa03SgNmXx
+1\503	TOK	χαρακτηρισμός	χαρακτηρισμός	NoCmMaSgNm
+1\517	TOK	μιας	ένας	AtIdFeSgGe
+1\522	TOK	πρότασης	πρόταση	NoCmFeSgGe
+1\531	TOK	λέγεται	λέγω	VbMnIdPr03SgXxIpPvXx
+1\539	TOK	τιμή	τιμή	NoCmFeSgNm
+1\544	TOK	αλήθειας	αλήθεια	NoCmFeSgGe
+1\553	TOK	ή	ή	CjCo
+1\555	TOK	απλά	απλά	AdXxBa
+1\560	TOK	τιμή	τιμή	NoCmFeSgAc
+1\565	TOK	της	ο	AtDfFeSgGe
+1\569	TOK	πρότασης	πρόταση	NoCmFeSgGe
+1\577	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\579	TOK	Για	για	AsPpSp
+1\583	TOK	παράδειγμα	παράδειγμα	NoCmNeSgAc
+1\593	PTERM_P	:	:	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\596	ENUM	*	*	ENUM
+1\598	TOK	Ο	ο	AtDfMaSgNm
+1\600	TOK	αριθμός	αριθμός	NoCmMaSgNm
+1\608	DIG	4	4	DIG
+1\610	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\616	TOK	άρτιος	άρτιος	AjBaMaSgNm
+1\623	TOK	αριθμός	αριθμός	NoCmMaSgNm
+1\631	PUNCT	-	-	PUNCT
+1\633	TOK	αληθής	αληθής	AjBaFeSgNm
+1\640	TOK	πρόταση	πρόταση	NoCmFeSgNm
+1\647	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\650	ENUM	*	*	ENUM
+1\652	TOK	Τη	ο	AtDfFeSgAc
+1\655	TOK	νύχτα	νύχτα	NoCmFeSgAc
+1\661	TOK	λάμπει	λάμπω	VbMnIdPr03SgXxIpAvXx
+1\668	TOK	ο	ο	AtDfMaSgNm
+1\670	TOK	ήλιος	ήλιος	NoCmMaSgNm
+1\676	PUNCT	-	-	PUNCT
+1\678	TOK	ψευδής	ψευδής	AjBaFeSgNm
+1\685	TOK	πρόταση	πρόταση	NoCmFeSgNm
+1\692	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\695	ENUM	*	*	ENUM
+1\697	TOK	Ο	ο	AtDfMaSgNm
+1\699	TOK	αριθμός	αριθμός	NoCmMaSgNm
+1\707	DIG	3	3	DIG
+1\709	TOK	δεν	δεν	PtNg
+1\713	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\719	TOK	ζυγός	ζυγός	AjBaMaSgNm
+1\725	TOK	αριθμός	αριθμός	NoCmMaSgNm
+1\733	PUNCT	-	-	PUNCT
+1\735	TOK	αληθής	αληθής	AjBaFeSgNm
+1\742	TOK	πρόταση	πρόταση	NoCmFeSgNm
+1\749	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\751	DIG	2	2	DIG
+	)SENT	</S>
+	(SENT	<S>
+1\753	TOK	Εφαρμογές	εφαρμογή	NoCmFePlNm
+1\763	TOK	Πληροφορικής	πληροφορική	NoCmFeSgGe
+1\776	PUNCT	-	-	PUNCT
+1\778	TOK	Υπολογιστών	υπολογιστής	NoCmMaPlGe
+	)SENT	</S>
+	(SENT	<S>
+1\792	TOK	Στα	στου	AsPpPaNePlAc
+1\796	TOK	παραπάνω	παραπάνω	AdXxBa
+1\805	TOK	παραδείγματα	παράδειγμα	NoCmNePlAc
+1\818	TOK	οι	ο	AtDfFePlNm
+1\821	TOK	δύο	δύο	NmCdFePlNmAj
+1\825	TOK	πρώτες	πρώτος	NmOdFePlNmAj
+1\832	TOK	προτάσεις	πρόταση	NoCmFePlNm
+1\842	TOK	χαρακτηρίζονται	χαρακτηρίζω	VbMnIdPr03PlXxIpPvXx
+1\858	TOK	ως	ως	AdXxBa
+1\861	TOK	απλές	απλός	AjBaFePlAc
+1\867	TOK	λογικές	λογική	NoCmFePlAc
+1\875	TOK	προτάσεις	πρόταση	NoCmFePlAc
+1\884	PUNCT	,	,	PUNCT
+1\886	TOK	γιατί	γιατί	CjSb
+1\892	TOK	ένα	ένας	AtIdNeSgNm
+1\896	TOK	τμήμα	τμήμα	NoCmNeSgAc
+1\902	TOK	τους	ο	AtDfMaPlAc
+1\907	TOK	δεν	δεν	PtNg
+1\911	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\917	TOK	αρκετό	αρκετός	PnIdNe03SgAcXx
+1\924	TOK	για	για	AsPpSp
+1\928	TOK	να	να	PtSj
+1\931	TOK	οριστεί	ορίζω	VbMnIdXx03SgXxPePvXx
+1\939	TOK	μια	ένας	AtIdFeSgNm
+1\943	TOK	νέα	νέος	AjBaFeSgNm
+1\947	TOK	λογική	λογικός	AjBaFeSgNm
+1\954	TOK	πρόταση	πρόταση	NoCmFeSgNm
+1\961	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\963	TOK	Η	ο	AtDfFeSgNm
+1\965	TOK	τρίτη	τρίτος	NmOdFeSgNmAj
+1\971	TOK	πρόταση	πρόταση	NoCmFeSgNm
+1\979	TOK	χαρακτηρίζεται	χαρακτηρίζω	VbMnIdPr03SgXxIpPvXx
+1\994	TOK	σύνθετη	σύνθετος	AjBaFeSgNm
+1\1001	PUNCT	,	,	PUNCT
+1\1003	TOK	γιατί	γιατί	CjSb
+1\1009	TOK	αν	αν	CjSb
+1\1012	TOK	αφαιρεθεί	αφαιρώ	VbMnIdXx03SgXxPePvXx
+1\1022	TOK	ένα	ένας	AtIdNeSgNm
+1\1026	TOK	τμήμα	τμήμα	NoCmNeSgNm
+1\1032	TOK	της	μου	PnPoFe03SgGeXx
+1\1036	PUNCT	-	-	PUNCT
+1\1037	TOK	το	ο	AtDfNeSgAc
+1\1040	TOK	μόριο	μόριο	NoCmNeSgAc
+1\1046	OPUNCT	«	«	OPUNCT
+1\1047	TOK	δεν	δεν	PtNg
+1\1050	CPUNCT	»	»	CPUNCT
+1\1051	PUNCT	-	-	PUNCT
+1\1053	TOK	προκύπτει	προκύπτω	VbMnIdPr03SgXxIpAvXx
+1\1063	TOK	πάλι	πάλι	AdXxBa
+1\1068	TOK	λογική	λογικός	AjBaFeSgAc
+1\1075	TOK	πρόταση	πρόταση	NoCmFeSgAc
+1\1082	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1084	TOK	Ο	ο	AtDfMaSgNm
+1\1086	TOK	αριθμός	αριθμός	NoCmMaSgNm
+1\1094	DIG	3	3	DIG
+1\1096	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\1102	TOK	ζυγός	ζυγός	AjBaMaSgNm
+1\1108	TOK	αριθμός	αριθμός	NoCmMaSgNm
+1\1116	PUNCT	-	-	PUNCT
+1\1118	TOK	ψευδής	ψευδής	AjBaFeSgNm
+1\1125	TOK	πρόταση	πρόταση	NoCmFeSgNm
+	)SENT	</S>
+	(SENT	<S>
+1\1133	TOK	Κάθε	κάθε	PnIdFe03SgNmXx
+1\1138	TOK	λογική	λογικός	AjBaFeSgAc
+1\1145	TOK	πρόταση	πρόταση	NoCmFeSgNm
+1\1153	TOK	που	που	PnReFe03SgNmXx
+1\1157	TOK	δεν	δεν	PtNg
+1\1161	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\1167	TOK	απλή	απλός	AjBaFeSgNm
+1\1172	TOK	χαρακτηρίζεται	χαρακτηρίζω	VbMnIdPr03SgXxIpPvXx
+1\1187	TOK	ως	ως	AdXxBa
+1\1190	TOK	σύνθετη	σύνθετος	AjBaFeSgAc
+1\1197	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1199	TOK	Παραδείγματα	παράδειγμα	NoCmNePlNm
+1\1212	TOK	σύνθετων	σύνθετος	AjBaFePlGe
+1\1221	TOK	λογικών	λογικός	AjBaFePlGe
+1\1229	TOK	προτάσεων	πρόταση	NoCmFePlGe
+1\1238	PTERM_P	:	:	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1241	ENUM	*	*	ENUM
+1\1243	TOK	Αν	αν	CjSb
+1\1246	TOK	ο	ο	AtDfMaSgNm
+1\1248	TOK	Κώστας	Κώστας	NoPrMaSgNm
+1\1255	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\1261	TOK	πατέρας	πατέρας	NoCmMaSgNm
+1\1269	TOK	του	ο	AtDfMaSgGe
+1\1273	TOK	Δημήτρη	Δημήτρης	NoPrMaSgGe
+1\1280	PUNCT	,	,	PUNCT
+1\1282	TOK	τότε	τότε	AdXxBa
+1\1287	TOK	ο	ο	AtDfMaSgNm
+1\1289	TOK	Δημήτρης	Δημήτρης	NoPrMaSgNm
+1\1298	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\1304	TOK	γιος	γιος	NoCmMaSgNm
+1\1309	TOK	του	ο	AtDfMaSgGe
+1\1313	TOK	Κώστα	Κώστας	NoPrMaSgGe
+1\1318	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1321	ENUM	*	*	ENUM
+1\1323	TOK	Το	ο	AtDfNeSgAc
+1\1326	DIG	6	6	DIG
+1\1328	TOK	διαιρείται	διαιρώ	VbMnIdPr03SgXxIpPvXx
+1\1339	TOK	ακριβώς	ακριβώς	AdXxBa
+1\1347	TOK	από	από	AsPpSp
+1\1351	TOK	το	ο	AtDfNeSgAc
+1\1354	DIG	3	3	DIG
+1\1356	TOK	και	και	CjCo
+1\1360	TOK	το	ο	AtDfNeSgAc
+1\1363	DIG	6	6	DIG
+1\1365	TOK	διαιρείται	διαιρώ	VbMnIdPr03SgXxIpPvXx
+1\1376	TOK	ακριβώς	ακριβώς	AdXxBa
+1\1384	TOK	από	από	AsPpSp
+1\1388	TOK	το	ο	AtDfNeSgAc
+1\1391	DIG	2	2	DIG
+1\1392	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1395	ENUM	*	*	ENUM
+1\1397	TOK	Σήμερα	σήμερα	AdXxBa
+1\1404	TOK	θα	θα	PtFu
+1\1407	TOK	βρέξει	βρέχω	VbMnIdXx03SgXxPeAvXx
+1\1414	TOK	ή	ή	CjCo
+1\1416	TOK	δεν	δεν	PtNg
+1\1420	TOK	θα	θα	PtFu
+1\1423	TOK	βρέξει	βρέχω	VbMnIdXx03SgXxPeAvXx
+1\1429	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1431	TOK	Γενικά	γενικά	AdXxBa
+1\1437	PUNCT	,	,	PUNCT
+1\1439	TOK	αν	αν	CjSb
+1\1442	TOK	μετασχηματίσουμε	μετασχηματίζω	VbMnIdXx01PlXxPeAvXx
+1\1459	TOK	μια	ένας	AtIdFeSgNm
+1\1463	TOK	λογική	λογικός	AjBaFeSgNm
+1\1470	TOK	πρόταση	πρόταση	NoCmFeSgNm
+1\1478	TOK	με	με	AsPpSp
+1\1481	TOK	τη	ο	AtDfFeSgAc
+1\1484	TOK	χρησιμοποίηση	χρησιμοποίηση	NoCmFeSgAc
+1\1498	TOK	της	ο	AtDfFeSgGe
+1\1502	TOK	λέξης	λέξη	NoCmFeSgGe
+1\1508	OPUNCT	«	«	OPUNCT
+1\1509	TOK	δεν	δεν	PtNg
+1\1512	CPUNCT	»	»	CPUNCT
+1\1514	TOK	ή	ή	CjCo
+1\1516	TOK	αν	αν	CjSb
+1\1519	TOK	συνδέσουμε	συνδέω	VbMnIdXx01PlXxPeAvXx
+1\1530	TOK	προτάσεις	πρόταση	NoCmFePlAc
+1\1540	TOK	με	με	AsPpSp
+1\1543	TOK	τη	ο	AtDfFeSgAc
+1\1546	TOK	χρησιμοποίηση	χρησιμοποίηση	NoCmFeSgAc
+1\1560	TOK	των	ο	AtDfFePlGe
+1\1564	TOK	λέξεων	λέξη	NoCmFePlGe
+1\1571	OPUNCT	«	«	OPUNCT
+1\1572	TOK	και	και	CjCo
+1\1575	CPUNCT	»	»	CPUNCT
+1\1576	PUNCT	,	,	PUNCT
+1\1578	OPUNCT	«	«	OPUNCT
+1\1579	TOK	ή	ή	CjCo
+1\1580	CPUNCT	»	»	CPUNCT
+1\1581	PUNCT	,	,	PUNCT
+1\1583	OPUNCT	«	«	OPUNCT
+1\1584	TOK	αν	αν	CjSb
+1\1587	TOK	τότε	τότε	AdXxBa
+1\1592	PTERM_P	....	....	PTERM_P
+1\1596	CPUNCT	»	»	CPUNCT
+1\1597	PUNCT	,	,	PUNCT
+1\1599	TOK	δημιουργούνται	δημιουργώ	VbMnIdPr03PlXxIpPvXx
+1\1614	TOK	νέες	νέος	AjBaFePlNm
+1\1619	TOK	προτάσεις	πρόταση	NoCmFePlNm
+1\1628	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1630	TOK	Αυτές	αυτός	PnDmFe03PlNmXx
+1\1636	TOK	οι	ο	AtDfFePlNm
+1\1639	TOK	διαδικασίες	διαδικασία	NoCmFePlNm
+1\1651	TOK	σχηματισμού	σχηματισμός	NoCmMaSgGe
+1\1663	TOK	νέων	νέος	AjBaFePlGe
+1\1668	TOK	προτάσεων	πρόταση	NoCmFePlGe
+1\1678	TOK	λέγονται	λέγω	VbMnIdPr03PlXxIpPvXx
+1\1687	TOK	λογικές	λογική	NoCmFePlNm
+1\1695	TOK	πράξεις	πράξη	NoCmFePlNm
+1\1702	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1706	ENUM	2.7.2	2.7.2	ENUM
+1\1712	TOK	Άλγεβρα	άλγεβρα	NoCmFeSgNm
+1\1720	TOK	Boole	Boole	RgFwOr
+	)SENT	</S>
+	(SENT	<S>
+1\1726	TOK	Ο	ο	AtDfMaSgNm
+1\1728	TOK	πρώτος	πρώτος	NmOdMaSgNmAj
+1\1735	TOK	που	που	PnReMa03SgNmXx
+1\1739	TOK	διατύπωσε	διατυπώνω	VbMnIdPa03SgXxPeAvXx
+1\1749	TOK	τους	ο	AtDfMaPlAc
+1\1754	TOK	βασικούς	βασικός	AjBaMaPlAc
+1\1763	TOK	κανόνες	κανόνας	NoCmMaPlAc
+1\1771	TOK	με	με	AsPpSp
+1\1774	TOK	τους	ο	AtDfMaPlAc
+1\1779	TOK	οποίους	οποίος	PnReMa03PlAcXx
+1\1787	TOK	οι	ο	AtDfFePlNm
+1\1790	TOK	λογικές	λογική	NoCmFePlNm
+1\1798	TOK	προτάσεις	πρόταση	NoCmFePlNm
+1\1808	TOK	μπορούν	μπορώ	VbMnIdPr03PlXxIpAvXx
+1\1816	TOK	να	να	PtSj
+1\1819	TOK	παρουσιαστούν	παρουσιάζω	VbMnIdXx03PlXxPePvXx
+1\1833	TOK	με	με	AsPpSp
+1\1836	TOK	μαθηματικά	μαθηματικός	AjBaNePlAc
+1\1847	TOK	σύμβολα	σύμβολο	NoCmNePlAc
+1\1854	PUNCT	,	,	PUNCT
+1\1856	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+1\1861	TOK	ο	ο	AtDfMaSgNm
+1\1863	TOK	Άγγλος	Άγγλος	NoPrMaSgNm
+1\1870	TOK	μαθηματικός	μαθηματικός	NoCmMaSgNm
+1\1882	TOK	George	George	RgFwOr
+1\1889	TOK	Boole	Boole	RgFwOr
+1\1895	TOK	στην	στου	AsPpPaFeSgAc
+1\1900	TOK	εργασία	εργασία	NoCmFeSgAc
+1\1908	TOK	του	ο	AtDfNeSgGe
+1\1912	OPUNCT	«	«	OPUNCT
+1\1913	TOK	The	The	RgFwOr
+1\1917	TOK	Mathematical	Mathematical	RgFwOr
+1\1930	TOK	Analysis	Analysis	RgFwOr
+1\1939	TOK	of	of	RgFwOr
+1\1942	TOK	Logic	Logic	RgFwOr
+1\1948	PUNCT	-	-	PUNCT
+1\1950	TOK	Η	ο	AtDfFeSgNm
+1\1952	TOK	Μαθηματική	μαθηματικός	AjBaFeSgNm
+1\1963	TOK	Ανάλυση	ανάλυση	NoCmFeSgNm
+1\1971	TOK	της	ο	AtDfFeSgGe
+1\1975	TOK	Λογικής	λογικός	AjBaFeSgGe
+1\1982	CPUNCT	»	»	CPUNCT
+1\1983	PUNCT	,	,	PUNCT
+1\1985	TOK	το	ο	AtDfNeSgAc
+1\1988	DIG	1847	1847	DIG
+1\1992	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1994	TOK	Οι	ο	AtDfMaPlNm
+1\1997	TOK	κανόνες	κανόνας	NoCmMaPlNm
+1\2005	TOK	αυτοί	αυτός	PnDmMa03PlNmXx
+1\2011	TOK	αποτελούν	αποτελώ	VbMnIdPr03PlXxIpAvXx
+1\2021	TOK	τμήμα	τμήμα	NoCmNeSgAc
+1\2027	TOK	της	ο	AtDfFeSgGe
+1\2031	TOK	'Άλγεβρας	'Άλγεβρας	NoCmFeSgGe
+1\2041	TOK	Λογικής	λογικός	AjBaFeSgGe
+1\2049	PUNCT	-	-	PUNCT
+1\2051	TOK	ή	ή	CjCo
+1\2053	TOK	Άλγεβρας	άλγεβρα	NoCmFeSgGe
+1\2062	TOK	Boole	Boole	RgFwOr
+1\2068	TOK	προς	προς	AsPpSp
+1\2073	TOK	τιμήν	τιμή	NoCmFeSgAc
+1\2079	TOK	του	ο	AtDfMaSgGe
+1\2083	TOK	μεγάλου	μεγάλος	AjBaMaSgGe
+1\2091	TOK	αυτού	αυτός	PnDmMa03SgGeXx
+1\2097	TOK	μαθηματικού	μαθηματικός	AjBaMaSgGe
+1\2108	PUNCT	-	-	PUNCT
+1\2110	TOK	και	και	CjCo
+1\2114	TOK	χρησιμοποιούνται	χρησιμοποιώ	VbMnIdPr03PlXxIpPvXx
+1\2131	TOK	για	για	AsPpSp
+1\2135	TOK	να	να	PtSj
+1\2138	TOK	επιλύουμε	επιλύω	VbMnIdPr01PlXxIpAvXx
+1\2148	TOK	λογικά	λογικός	AjBaNePlAc
+1\2155	TOK	προβλήματα	πρόβλημα	NoCmNePlAc
+1\2165	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\2167	TOK	Στην	στου	AsPpPaFeSgAc
+1\2172	TOK	Άλγεβρα	άλγεβρα	NoCmFeSgAc
+1\2180	TOK	Boole	Boole	RgFwOr
+1\2186	TOK	υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+1\2195	TOK	μόνο	μόνο	AdXxBa
+1\2200	TOK	δύο	δύο	NmCdNePlAcAj
+1\2204	TOK	είδη	είδος	NoCmNePlAc
+1\2209	TOK	προτάσεων	πρόταση	NoCmFePlGe
+1\2218	PUNCT	,	,	PUNCT
+1\2220	TOK	αυτές	αυτός	PnDmFe03PlAcXx
+1\2226	TOK	που	που	PnReFe03PlNmXx
+1\2230	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+1\2236	TOK	αληθείς	αληθής	AjBaMaPlAc
+1\2244	TOK	και	και	CjCo
+1\2248	TOK	αυτές	αυτός	PnDmFe03PlAcXx
+1\2254	TOK	που	που	PnReFe03PlNmXx
+1\2258	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+1\2264	TOK	ψευδείς	ψευδής	AjBaMaPlAc
+1\2271	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\2273	TOK	Δηλαδή	δηλαδή	AdXxBa
+1\2280	TOK	οι	ο	AtDfFePlNm
+1\2283	TOK	μεταβλητές	μεταβλητός	AjBaFePlNm
+1\2294	TOK	που	που	PnReFe03PlNmXx
+1\2298	TOK	χρησιμοποιούνται	χρησιμοποιώ	VbMnIdPr03PlXxIpPvXx
+1\2315	TOK	στην	στου	AsPpPaFeSgAc
+1\2320	TOK	άλγεβρα	άλγεβρα	NoCmFeSgAc
+1\2328	TOK	αυτή	αυτός	PnDmFe03SgAcXx
+1\2333	TOK	μπορούν	μπορώ	VbMnIdPr03PlXxIpAvXx
+1\2341	TOK	να	να	PtSj
+1\2344	TOK	πάρουν	παίρνω	VbMnIdXx03PlXxPeAvXx
+1\2351	TOK	μόνο	μόνο	AdXxBa
+1\2356	TOK	δύο	δύο	NmCdFePlNmAj
+1\2360	TOK	τιμές	τιμή	NoCmFePlNm
+1\2365	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\2367	TOK	Στις	στου	AsPpPaFePlAc
+1\2372	TOK	τιμές	τιμή	NoCmFePlAc
+1\2378	TOK	αυτές	αυτός	PnDmFe03PlAcXx
+1\2384	TOK	μπορούμε	μπορώ	VbMnIdPr01PlXxIpAvXx
+1\2393	TOK	να	να	PtSj
+1\2396	TOK	αντιστοιχίσουμε	αντιστοιχίζω	VbMnIdXx01PlXxPeAvXx
+1\2412	TOK	τις	ο	AtDfFePlAc
+1\2416	TOK	δυάδες	δυάδα	NmCtFePlNmNo
+1\2422	PTERM_P	:	:	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\2424	DIG	0	0	DIG
+	)SENT	</S>
+	(SENT	<S>
+1\2426	DIG	1	1	DIG
+	)SENT	</S>
+	(SENT	<S>
+1\2428	TOK	Ναι	ναι	AdXxBa
+1\2432	OPUNCT	(	(	OPUNCT
+1\2433	TOK	N	N	RgFwOr
+1\2434	CPUNCT	)	)	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+1\2436	TOK	Όχι	όχι	AdXxBa
+1\2440	OPUNCT	(	(	OPUNCT
+1\2441	TOK	Ο	ο	AtDfMaSgNm
+1\2442	CPUNCT	)	)	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+1\2444	TOK	Αληθής	αληθής	AjBaNeSgGe
+1\2451	OPUNCT	(	(	OPUNCT
+1\2452	TOK	Α	α	NoCmNeSgNm
+1\2453	CPUNCT	)	)	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+1\2455	TOK	Ψευδής	ψευδής	AjBaMaSgNm
+1\2462	OPUNCT	(	(	OPUNCT
+1\2463	ABBR	Ψ	Ψ	ABBR
+1\2464	CPUNCT	)	)	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+1\2466	TOK	Yes	Yes	RgFwOr
+1\2470	OPUNCT	(	(	OPUNCT
+1\2471	TOK	Y	Y	RgFwOr
+1\2472	CPUNCT	)	)	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+1\2474	TOK	No	No	RgFwOr
+1\2477	OPUNCT	(	(	OPUNCT
+1\2478	TOK	N	N	RgFwOr
+1\2479	CPUNCT	)	)	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+1\2481	TOK	True	True	RgFwOr
+1\2485	OPUNCT	(	(	OPUNCT
+1\2486	TOK	T	T	RgFwOr
+1\2487	CPUNCT	)	)	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+1\2489	TOK	False	False	RgFwOr
+1\2494	OPUNCT	(	(	OPUNCT
+1\2495	TOK	F	F	RgFwOr
+1\2496	CPUNCT	)	)	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+1\2498	TOK	Επίσης	επίσης	AdXxBa
+1\2505	TOK	στην	στου	AsPpPaFeSgAc
+1\2510	TOK	Άλγεβρα	άλγεβρα	NoCmFeSgAc
+1\2518	TOK	Boole	Boole	RgFwOr
+1\2524	TOK	ορίζονται	ορίζω	VbMnIdPr03PlXxIpPvXx
+1\2534	TOK	και	και	CjCo
+1\2538	TOK	οι	ο	AtDfFePlNm
+1\2541	TOK	λογικές	λογική	NoCmFePlNm
+1\2549	TOK	σταθερές	σταθερά	NoCmFePlNm
+1\2557	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\2559	TOK	Λογική	λογική	NoCmFeSgNm
+1\2566	TOK	σταθερά	σταθερά	AdXxBa
+1\2574	TOK	ονομάζεται	ονομάζω	VbMnIdPr03SgXxIpPvXx
+1\2585	TOK	μια	ένας	AtIdFeSgNm
+1\2589	TOK	πρόταση	πρόταση	NoCmFeSgNm
+1\2597	TOK	που	που	PnReFe03SgNmXx
+1\2601	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\2607	TOK	πάντοτε	πάντοτε	AdXxBa
+1\2615	TOK	αληθής	αληθής	AjBaMaSgNm
+1\2622	TOK	ή	ή	CjCo
+1\2624	TOK	πάντοτε	πάντοτε	AdXxBa
+1\2632	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\2639	TOK	και	και	CjCo
+1\2643	TOK	διαφέρει	διαφέρω	VbMnIdPr03SgXxIpAvXx
+1\2652	TOK	από	από	AsPpSp
+1\2656	TOK	τη	ο	AtDfFeSgAc
+1\2659	TOK	λογική	λογική	NoCmFeSgAc
+1\2666	TOK	μεταβλητή	μεταβλητός	AjBaFeSgAc
+1\2675	PUNCT	,	,	PUNCT
+1\2677	TOK	η	ο	AtDfFeSgNm
+1\2679	TOK	οποία	οποίος	PnReFe03SgNmXx
+1\2685	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\2691	TOK	μια	ένας	AtIdFeSgNm
+1\2695	TOK	πρόταση	πρόταση	NoCmFeSgNm
+1\2703	TOK	που	που	PnReFe03SgNmXx
+1\2707	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+1\2714	TOK	να	να	PtSj
+1\2717	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\2723	TOK	άλλοτε	άλλοτε	AdXxBa
+1\2730	TOK	αληθής	αληθής	AjBaMaSgNm
+1\2737	TOK	και	και	CjCo
+1\2741	TOK	άλλοτε	άλλοτε	AdXxBa
+1\2748	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\2754	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\2756	TOK	Παραδείγματα	παράδειγμα	NoCmNePlNm
+1\2768	PTERM_P	:	:	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\2771	ENUM	*	*	ENUM
+1\2773	TOK	Μετά	μετά	AsPpSp
+1\2778	TOK	τον	ο	AtDfMaSgAc
+1\2782	TOK	Ιούνιο	Ιούνιος	NoCmMaSgAc
+1\2789	TOK	ακολουθεί	ακολουθώ	VbMnIdPr03SgXxIpAvXx
+1\2799	TOK	ο	ο	AtDfMaSgNm
+1\2801	TOK	Ιούλιος	Ιούλιος	NoCmMaSgNm
+1\2808	PTERM_P	.	.	PTERM_P
+1\2810	PUNCT	-	-	PUNCT
+1\2812	TOK	Λογική	λογική	NoCmFeSgNm
+1\2819	TOK	σταθερά	σταθερά	AdXxBa
+1\2826	PUNCT	,	,	PUNCT
+1\2828	TOK	αληθής	αληθής	AjBaMaSgNm
+1\2834	PUNCT	,	,	PUNCT
+1\2836	TOK	γιατί	γιατί	CjSb
+1\2842	TOK	ισχύει	ισχύω	VbMnIdPr03SgXxIpAvXx
+1\2849	TOK	πάντοτε	πάντοτε	AdXxBa
+1\2856	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\2859	ENUM	*	*	ENUM
+1\2861	TOK	Η	ο	AtDfFeSgNm
+1\2863	TOK	προηγούμενη	προηγούμενος	AjBaFeSgNm
+1\2875	TOK	από	από	AsPpSp
+1\2879	TOK	την	ο	AtDfFeSgAc
+1\2883	TOK	Παρασκευή	Παρασκευή	NoCmFeSgAc
+1\2893	TOK	μέρα	μέρα	NoCmFeSgAc
+1\2898	TOK	ονομάζεται	ονομάζω	VbMnIdPr03SgXxIpPvXx
+1\2909	TOK	Σάββατο	Σάββατο	NoCmNeSgNm
+1\2916	PTERM_P	.	.	PTERM_P
+1\2918	PUNCT	-	-	PUNCT
+1\2920	TOK	Λογική	λογική	NoCmFeSgNm
+1\2927	TOK	σταθερά	σταθερά	AdXxBa
+1\2934	PUNCT	,	,	PUNCT
+1\2936	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\2942	PUNCT	,	,	PUNCT
+1\2944	TOK	γιατί	γιατί	CjSb
+1\2950	TOK	δεν	δεν	PtNg
+1\2954	TOK	ισχύει	ισχύω	VbMnIdPr03SgXxIpAvXx
+1\2960	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\2963	ENUM	*	*	ENUM
+1\2965	TOK	Ο	ο	AtDfMaSgNm
+1\2967	TOK	μονοψήφιος	μονοψήφιος	AjBaMaSgNm
+1\2978	TOK	φυσικός	φυσικός	NoCmMaSgNm
+1\2986	TOK	αριθμός	αριθμός	NoCmMaSgNm
+1\2994	TOK	χ	χ	RgSyXx
+1\2996	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\3002	TOK	μεγαλύτερος	μεγάλος	AjCpMaSgNm
+1\3014	TOK	από	από	AsPpSp
+1\3018	TOK	το	ο	AtDfNeSgAc
+1\3021	DIG	6	6	DIG
+1\3022	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\3024	TOK	Λογική	λογική	NoCmFeSgNm
+1\3031	TOK	μεταβλητή	μεταβλητός	AjBaFeSgNm
+1\3040	PUNCT	,	,	PUNCT
+1\3042	TOK	γιατί	γιατί	CjSb
+1\3048	TOK	άλλοτε	άλλοτε	AdXxBa
+1\3055	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\3061	TOK	αληθής	αληθής	AjBaMaSgNm
+1\3067	PUNCT	,	,	PUNCT
+1\3069	TOK	όταν	όταν	CjSb
+1\3074	TOK	x	x	RgSyXx
+1\3075	TOK	=	=	RgSyXx
+1\3076	DIG	7	7	DIG
+1\3078	TOK	ή	ή	CjCo
+1\3080	DIG	8	8	DIG
+1\3082	TOK	ή	ή	CjCo
+1\3084	DIG	9	9	DIG
+1\3086	TOK	και	και	CjCo
+1\3090	TOK	άλλοτε	άλλοτε	AdXxBa
+1\3097	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\3103	PUNCT	,	,	PUNCT
+1\3105	TOK	όταν	όταν	CjSb
+1\3110	TOK	ο	ο	AtDfMaSgNm
+1\3112	TOK	x	x	RgSyXx
+1\3114	TOK	παίρνει	παίρνω	VbMnIdPr03SgXxIpAvXx
+1\3122	TOK	τις	ο	AtDfFePlAc
+1\3126	TOK	τιμές	τιμή	NoCmFePlAc
+1\3132	DIG	0,1,2,3,4,5,6	0,1,2,3,4,5,6	DIG
+1\3145	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\3147	DIG	2	2	DIG
+	)SENT	</S>
+	(SENT	<S>
+1\3149	TOK	Η	ο	AtDfFeSgNm
+1\3151	TOK	έννοια	έννοια	NoCmFeSgNm
+1\3158	TOK	και	και	CjCo
+1\3162	TOK	η	ο	AtDfFeSgNm
+1\3164	TOK	παράσταση	παράσταση	NoCmFeSgNm
+1\3174	TOK	της	ο	AtDfFeSgGe
+1\3178	TOK	πληροφορίας	πληροφορία	NoCmFeSgGe
+1\3190	TOK	στον	στου	AsPpPaMaSgAc
+1\3195	TOK	υπολογιστή	υπολογιστής	NoCmMaSgAc
+	)SENT	</S>
+	(SENT	<S>
+1\3206	TOK	Ο	ο	AtDfMaSgNm
+1\3208	TOK	Boole	Boole	RgFwOr
+1\3213	PUNCT	,	,	PUNCT
+1\3215	TOK	μετά	μετά	AsPpSp
+1\3220	TOK	τις	ο	AtDfFePlAc
+1\3224	TOK	λογικές	λογική	NoCmFePlAc
+1\3232	TOK	μεταβλητές	μεταβλητός	AjBaFePlAc
+1\3243	TOK	και	και	CjCo
+1\3247	TOK	σταθερές	σταθερά	NoCmFePlAc
+1\3255	PUNCT	,	,	PUNCT
+1\3257	TOK	όρισε	ορίζω	VbMnIdPa03SgXxPeAvXx
+1\3263	TOK	και	και	CjCo
+1\3267	TOK	τους	ο	AtDfMaPlAc
+1\3272	TOK	κανόνες	κανόνας	NoCmMaPlAc
+1\3280	TOK	που	που	PnReMa03PlNmXx
+1\3284	TOK	καθορίζουν	καθορίζω	VbMnIdPr03PlXxIpAvXx
+1\3295	TOK	τις	ο	AtDfFePlAc
+1\3299	TOK	βασικές	βασικός	AjBaFePlAc
+1\3307	TOK	λογικές	λογική	NoCmFePlAc
+1\3315	TOK	πράξεις	πράξη	NoCmFePlAc
+1\3322	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\3324	TOK	Για	για	AsPpSp
+1\3328	TOK	να	να	PtSj
+1\3331	TOK	ορίσει	ορίζω	VbMnIdXx03SgXxPeAvXx
+1\3338	TOK	τις	ο	AtDfFePlAc
+1\3342	TOK	πράξεις	πράξη	NoCmFePlAc
+1\3350	TOK	αυτές	αυτός	PnDmFe03PlAcXx
+1\3355	PUNCT	,	,	PUNCT
+1\3357	TOK	χρησιμοποίησε	χρησιμοποιώ	VbMnIdPa03SgXxPeAvXx
+1\3371	TOK	πίνακες	πίνακας	NoCmMaPlAc
+1\3379	TOK	στους	στου	AsPpPaMaPlAc
+1\3385	TOK	οποίους	οποίος	PnReMa03PlAcXx
+1\3393	TOK	περιλαμβάνονται	περιλαμβάνω	VbMnIdPr03PlXxIpPvXx
+1\3409	TOK	όλοι	όλος	AjBaMaPlNm
+1\3414	TOK	οι	ο	AtDfMaPlNm
+1\3417	TOK	δυνατοί	δυνατός	AjBaMaPlNm
+1\3425	TOK	συνδυασμοί	συνδυασμός	NoCmMaPlNm
+1\3436	TOK	των	ο	AtDfFePlGe
+1\3440	TOK	τιμών	τιμή	NoCmFePlGe
+1\3446	TOK	που	που	PnReFe03PlNmXx
+1\3450	TOK	μπορούν	μπορώ	VbMnIdPr03PlXxIpAvXx
+1\3458	TOK	να	να	PtSj
+1\3461	TOK	πάρουν	παίρνω	VbMnIdXx03PlXxPeAvXx
+1\3468	TOK	οι	ο	AtDfFePlNm
+1\3471	TOK	λογικές	λογική	NoCmFePlNm
+1\3479	TOK	μεταβλητές	μεταβλητός	AjBaFePlNm
+1\3490	TOK	καθώς	καθώς	AdXxBa
+1\3496	TOK	και	και	CjCo
+1\3500	TOK	τα	ο	AtDfNePlAc
+1\3503	TOK	αποτελέσματα	αποτέλεσμα	NoCmNePlAc
+1\3516	TOK	που	που	PnReNe03PlAcXx
+1\3520	TOK	προκύπτουν	προκύπτω	VbMnIdPr03PlXxIpAvXx
+1\3531	TOK	από	από	AsPpSp
+1\3535	TOK	αυτούς	αυτός	PnDmMa03PlAcXx
+1\3542	TOK	τους	ο	AtDfMaPlAc
+1\3547	TOK	συνδυασμούς	συνδυασμός	NoCmMaPlAc
+1\3558	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\3560	TOK	Στα	στου	AsPpPaNePlAc
+1\3564	TOK	επόμενα	επόμενος	AjBaNePlAc
+1\3572	TOK	βλέπουμε	βλέπω	VbMnIdPr01PlXxIpAvXx
+1\3581	TOK	τις	ο	AtDfFePlAc
+1\3585	TOK	βασικές	βασικός	AjBaFePlAc
+1\3593	TOK	πράξεις	πράξη	NoCmFePlAc
+1\3601	TOK	της	ο	AtDfFeSgGe
+1\3605	TOK	Άλγεβρας	άλγεβρα	NoCmFeSgGe
+1\3614	TOK	Boole	Boole	RgFwOr
+1\3619	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\3623	TOK	Άρνηση	άρνηση	NoCmFeSgNm
+1\3630	PUNCT	-	-	PUNCT
+1\3632	TOK	NOT	NOT	RgFwOr
+	)SENT	</S>
+	(SENT	<S>
+1\3636	TOK	A	A	RgFwOr
+1\3638	TOK	NOT	NOT	RgFwOr
+1\3642	TOK	A	A	RgFwOr
+	)SENT	</S>
+	(SENT	<S>
+1\3644	TOK	Σήμερα	σήμερα	AdXxBa
+1\3651	TOK	θα	θα	PtFu
+1\3654	TOK	βρέξει	βρέχω	VbMnIdXx03SgXxPeAvXx
+1\3661	TOK	Σήμερα	σήμερα	AdXxBa
+1\3668	TOK	δεν	δεν	PtNg
+1\3672	TOK	θα	θα	PtFu
+1\3675	TOK	βρέξει	βρέχω	VbMnIdXx03SgXxPeAvXx
+	)SENT	</S>
+	(SENT	<S>
+1\3684	TOK	Πίνακας	πίνακας	NoCmMaSgNm
+1\3692	TOK	αλήθειας	αλήθεια	NoCmFeSgGe
+	)SENT	</S>
+	(SENT	<S>
+1\3701	TOK	A	A	RgFwOr
+1\3703	TOK	NOT	NOT	RgFwOr
+1\3707	TOK	A	A	RgFwOr
+	)SENT	</S>
+	(SENT	<S>
+1\3709	TOK	αληθής	αληθής	AjBaMaSgNm
+1\3716	TOK	ψευδής	ψευδής	AjBaMaSgNm
+	)SENT	</S>
+	(SENT	<S>
+1\3723	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\3730	TOK	αληθής	αληθής	AjBaMaSgNm
+	)SENT	</S>
+	(SENT	<S>
+1\3737	TOK	H	H	RgFwOr
+1\3739	TOK	πράξη	πράξη	NoCmFeSgAc
+1\3745	TOK	αυτή	αυτός	PnDmFe03SgAcXx
+1\3750	TOK	λέγεται	λέγω	VbMnIdPr03SgXxIpPvXx
+1\3758	TOK	και	και	CjCo
+1\3762	TOK	αντιστροφή	αντιστροφή	NoCmFeSgNm
+1\3773	TOK	ή	ή	CjCo
+1\3775	TOK	συμπλήρωμα	συμπλήρωμα	NoCmNeSgAc
+1\3786	TOK	και	και	CjCo
+1\3790	TOK	συμβολίζεται	συμβολίζω	VbMnIdPr03SgXxIpPvXx
+1\3803	TOK	με	με	AsPpSp
+	)SENT	</S>
+	(SENT	<S>
+1\3808	TOK	Σύζευξη-AND	Σύζευξη-AND	NoPrMaSgNm
+	)SENT	</S>
+	(SENT	<S>
+1\3820	TOK	Με	με	AsPpSp
+1\3823	TOK	την	ο	AtDfFeSgAc
+1\3827	TOK	πράξη	πράξη	NoCmFeSgAc
+1\3833	TOK	της	ο	AtDfFeSgGe
+1\3837	TOK	σύζευξης	σύζευξη	NoCmFeSgGe
+1\3846	TOK	συνθέτουμε	συνθέτω	VbMnIdPr01PlXxIpAvXx
+1\3857	TOK	δύο	δύο	NmCdFePlAcAj
+1\3861	TOK	προτάσεις	πρόταση	NoCmFePlAc
+1\3871	TOK	με	με	AsPpSp
+1\3874	TOK	τη	ο	AtDfFeSgAc
+1\3877	TOK	λέξη	λέξη	NoCmFeSgAc
+1\3882	OPUNCT	«	«	OPUNCT
+1\3883	TOK	και	και	CjCo
+1\3886	CPUNCT	»	»	CPUNCT
+1\3887	PUNCT	,	,	PUNCT
+1\3889	TOK	οπότε	οπότε	CjCo
+1\3895	TOK	σχηματίζεται	σχηματίζω	VbMnIdPr03SgXxIpPvXx
+1\3908	TOK	μια	ένας	AtIdFeSgNm
+1\3912	TOK	νέα	νέος	AjBaFeSgNm
+1\3916	TOK	πρόταση	πρόταση	NoCmFeSgNm
+1\3923	PUNCT	,	,	PUNCT
+1\3925	TOK	η	ο	AtDfFeSgNm
+1\3927	TOK	οποία	οποίος	PnReFe03SgNmXx
+1\3933	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\3939	TOK	αληθής	αληθής	AjBaMaSgNm
+1\3946	TOK	μόνο	μόνο	AdXxBa
+1\3951	TOK	όταν	όταν	CjSb
+1\3956	TOK	και	και	CjCo
+1\3960	TOK	οι	ο	AtDfFePlNm
+1\3963	TOK	δύο	δύο	NmCdNePlAcAj
+1\3967	TOK	αρχικές	αρχικός	AjBaFePlNm
+1\3975	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+1\3981	TOK	αληθείς	αληθής	AjBaMaPlAc
+1\3988	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\3990	ABBR	Π.χ.	Π.χ.	ABBR
+	)SENT	</S>
+	(SENT	<S>
+1\3995	TOK	A	A	RgFwOr
+1\3997	TOK	B	B	RgFwOr
+1\3999	TOK	A	A	RgFwOr
+1\4001	TOK	AND	AND	RgFwOr
+1\4005	TOK	B	B	RgFwOr
+	)SENT	</S>
+	(SENT	<S>
+1\4007	TOK	Το	ο	AtDfNeSgAc
+1\4010	DIG	12	12	DIG
+1\4013	TOK	διαιρείται	διαιρώ	VbMnIdPr03SgXxIpPvXx
+1\4024	TOK	από	από	AsPpSp
+1\4028	TOK	το	ο	AtDfNeSgAc
+1\4031	DIG	6	6	DIG
+1\4033	TOK	Το	ο	AtDfNeSgAc
+1\4036	DIG	4	4	DIG
+1\4038	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\4044	TOK	διαιρέτης	διαιρέτης	NoCmMaSgNm
+1\4054	TOK	του	ο	AtDfNeSgGe
+1\4058	DIG	8	8	DIG
+1\4060	TOK	Το	ο	AtDfNeSgAc
+1\4063	DIG	12	12	DIG
+1\4066	TOK	διαιρείται	διαιρώ	VbMnIdPr03SgXxIpPvXx
+1\4077	TOK	από	από	AsPpSp
+1\4081	TOK	το	ο	AtDfNeSgAc
+1\4084	DIG	6	6	DIG
+1\4086	TOK	και	και	CjCo
+1\4090	TOK	το	ο	AtDfNeSgAc
+1\4093	DIG	4	4	DIG
+1\4095	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\4101	TOK	διαιρέτης	διαιρέτης	NoCmMaSgNm
+1\4111	TOK	του	ο	AtDfNeSgGe
+1\4115	DIG	8	8	DIG
+	)SENT	</S>
+	(SENT	<S>
+1\4119	TOK	Πίνακας	πίνακας	NoCmMaSgNm
+1\4127	TOK	αλήθειας	αλήθεια	NoCmFeSgGe
+	)SENT	</S>
+	(SENT	<S>
+1\4136	TOK	A	A	RgFwOr
+1\4138	TOK	B	B	RgFwOr
+1\4140	TOK	A	A	RgFwOr
+1\4142	TOK	AND	AND	RgFwOr
+1\4146	TOK	B	B	RgFwOr
+	)SENT	</S>
+	(SENT	<S>
+1\4148	TOK	αληθής	αληθής	AjBaMaSgNm
+1\4155	TOK	αληθής	αληθής	AjBaMaSgNm
+1\4162	TOK	αληθής	αληθής	AjBaMaSgNm
+	)SENT	</S>
+	(SENT	<S>
+1\4169	TOK	αληθής	αληθής	AjBaMaSgNm
+1\4176	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\4183	TOK	ψευδής	ψευδής	AjBaMaSgNm
+	)SENT	</S>
+	(SENT	<S>
+1\4190	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\4197	TOK	αληθής	αληθής	AjBaMaSgNm
+1\4204	TOK	ψευδής	ψευδής	AjBaMaSgNm
+	)SENT	</S>
+	(SENT	<S>
+1\4211	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\4218	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\4225	TOK	ψευδής	ψευδής	AjBaMaSgNm
+	)SENT	</S>
+	(SENT	<S>
+1\4232	TOK	H	H	RgFwOr
+1\4234	TOK	πράξη	πράξη	NoCmFeSgAc
+1\4240	TOK	αυτή	αυτός	PnDmFe03SgAcXx
+1\4245	TOK	λέγεται	λέγω	VbMnIdPr03SgXxIpPvXx
+1\4253	TOK	και	και	CjCo
+1\4257	TOK	λογικός	λογικός	AjBaMaSgNm
+1\4265	TOK	πολλαπλασιασμός	πολλαπλασιασμός	NoCmMaSgNm
+1\4281	TOK	και	και	CjCo
+1\4285	TOK	συμβολίζεται	συμβολίζω	VbMnIdPr03SgXxIpPvXx
+1\4298	TOK	με	με	AsPpSp
+1\4301	TOK	A	A	RgFwOr
+1\4303	PUNCT	•	•	PUNCT
+1\4305	INIT	B.	B.	INIT
+	)SENT	</S>
+	(SENT	<S>
+1\4310	TOK	Διάζευξη	διάζευξη	NoCmFeSgNm
+1\4319	PUNCT	-	-	PUNCT
+1\4321	TOK	OR	OR	RgFwOr
+	)SENT	</S>
+	(SENT	<S>
+1\4324	TOK	Με	με	AsPpSp
+1\4327	TOK	την	ο	AtDfFeSgAc
+1\4331	TOK	πράξη	πράξη	NoCmFeSgAc
+1\4337	TOK	της	ο	AtDfFeSgGe
+1\4341	TOK	διάζευξης	διάζευξη	NoCmFeSgGe
+1\4351	TOK	συνθέτουμε	συνθέτω	VbMnIdPr01PlXxIpAvXx
+1\4362	TOK	δύο	δύο	NmCdFePlAcAj
+1\4366	TOK	προτάσεις	πρόταση	NoCmFePlAc
+1\4376	TOK	με	με	AsPpSp
+1\4379	TOK	τη	ο	AtDfFeSgAc
+1\4382	TOK	λέξη	λέξη	NoCmFeSgAc
+1\4387	OPUNCT	«	«	OPUNCT
+1\4388	TOK	ή	ή	CjCo
+1\4389	CPUNCT	»	»	CPUNCT
+1\4390	PUNCT	,	,	PUNCT
+1\4392	TOK	οπότε	οπότε	CjCo
+1\4398	TOK	σχηματίζεται	σχηματίζω	VbMnIdPr03SgXxIpPvXx
+1\4411	TOK	μια	ένας	AtIdFeSgNm
+1\4415	TOK	νέα	νέος	AjBaFeSgNm
+1\4419	TOK	πρόταση	πρόταση	NoCmFeSgNm
+1\4426	PUNCT	,	,	PUNCT
+1\4428	TOK	η	ο	AtDfFeSgNm
+1\4430	TOK	οποία	οποίος	PnReFe03SgNmXx
+1\4436	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\4442	TOK	αληθής	αληθής	AjBaMaSgNm
+1\4449	TOK	όταν	όταν	CjSb
+1\4454	TOK	τουλάχιστον	τουλάχιστο	AdXxBa
+1\4466	TOK	η	ο	AtDfFeSgNm
+1\4468	TOK	μία	ένας	PnIdFe03SgNmXx
+1\4472	TOK	από	από	AsPpSp
+1\4476	TOK	τις	ο	AtDfFePlAc
+1\4480	TOK	δύο	δύο	NmCdNePlAcAj
+1\4484	TOK	αρχικές	αρχικός	AjBaFePlAc
+1\4492	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\4498	TOK	αληθής	αληθής	AjBaMaSgNm
+1\4504	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\4506	ABBR	Π.χ.	Π.χ.	ABBR
+	)SENT	</S>
+	(SENT	<S>
+1\4511	TOK	A	A	RgFwOr
+1\4513	TOK	B	B	RgFwOr
+1\4515	TOK	A	A	RgFwOr
+1\4517	TOK	AND	AND	RgFwOr
+1\4521	TOK	B	B	RgFwOr
+	)SENT	</S>
+	(SENT	<S>
+1\4523	TOK	Το	ο	AtDfNeSgAc
+1\4526	DIG	12	12	DIG
+1\4529	TOK	διαιρείται	διαιρώ	VbMnIdPr03SgXxIpPvXx
+1\4540	TOK	από	από	AsPpSp
+1\4544	TOK	το	ο	AtDfNeSgAc
+1\4547	DIG	6	6	DIG
+1\4549	TOK	Το	ο	AtDfNeSgAc
+1\4552	DIG	1	1	DIG
+1\4554	DIG	2	2	DIG
+1\4556	TOK	διαιρείται	διαιρώ	VbMnIdPr03SgXxIpPvXx
+1\4567	TOK	από	από	AsPpSp
+1\4571	TOK	το	ο	AtDfNeSgAc
+1\4574	DIG	5	5	DIG
+1\4576	TOK	Το	ο	AtDfNeSgAc
+1\4579	DIG	12	12	DIG
+1\4582	TOK	διαιρείται	διαιρώ	VbMnIdPr03SgXxIpPvXx
+1\4593	TOK	από	από	AsPpSp
+1\4597	TOK	το	ο	AtDfNeSgAc
+1\4600	DIG	6	6	DIG
+1\4602	TOK	ή	ή	CjCo
+1\4604	TOK	το	ο	AtDfNeSgAc
+1\4607	DIG	12	12	DIG
+1\4610	TOK	διαιρείται	διαιρώ	VbMnIdPr03SgXxIpPvXx
+1\4621	TOK	από	από	AsPpSp
+1\4625	TOK	το	ο	AtDfNeSgAc
+1\4628	DIG	5	5	DIG
+	)SENT	</S>
+	(SENT	<S>
+1\4632	TOK	Πίνακας	πίνακας	NoCmMaSgNm
+1\4640	TOK	αλήθειας	αλήθεια	NoCmFeSgGe
+	)SENT	</S>
+	(SENT	<S>
+1\4649	TOK	A	A	RgFwOr
+1\4651	TOK	B	B	RgFwOr
+1\4653	TOK	A	A	RgFwOr
+1\4655	TOK	OR	OR	RgFwOr
+1\4658	TOK	B	B	RgFwOr
+	)SENT	</S>
+	(SENT	<S>
+1\4660	TOK	αληθής	αληθής	AjBaMaSgNm
+1\4667	TOK	αληθής	αληθής	AjBaMaSgNm
+1\4674	TOK	αληθής	αληθής	AjBaMaSgNm
+	)SENT	</S>
+	(SENT	<S>
+1\4681	TOK	αληθής	αληθής	AjBaMaSgNm
+1\4688	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\4695	TOK	ψευδής	ψευδής	AjBaMaSgNm
+	)SENT	</S>
+	(SENT	<S>
+1\4702	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\4709	TOK	αληθής	αληθής	AjBaMaSgNm
+1\4716	TOK	αληθής	αληθής	AjBaMaSgNm
+	)SENT	</S>
+	(SENT	<S>
+1\4723	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\4730	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\4737	TOK	ψευδής	ψευδής	AjBaMaSgNm
+	)SENT	</S>
+	(SENT	<S>
+1\4744	TOK	H	H	RgFwOr
+1\4746	TOK	πράξη	πράξη	NoCmFeSgAc
+1\4752	TOK	αυτή	αυτός	PnDmFe03SgAcXx
+1\4757	TOK	λέγεται	λέγω	VbMnIdPr03SgXxIpPvXx
+1\4765	TOK	και	και	CjCo
+1\4769	TOK	λογική	λογικός	AjBaFeSgNm
+1\4776	TOK	πρόσθεση	πρόσθεση	NoCmFeSgNm
+1\4785	TOK	και	και	CjCo
+1\4789	TOK	συμβολίζεται	συμβολίζω	VbMnIdPr03SgXxIpPvXx
+1\4802	TOK	με	με	AsPpSp
+1\4805	TOK	A	A	RgFwOr
+1\4807	PUNCT	+	+	PUNCT
+1\4809	INIT	B.	B.	INIT
+	)SENT	</S>
+	(SENT	<S>
+1\4812	DIG	2	2	DIG
+	)SENT	</S>
+	(SENT	<S>
+1\4814	TOK	Εφαρμογές	εφαρμογή	NoCmFePlNm
+1\4824	TOK	Πληροφορικής	πληροφορική	NoCmFeSgGe
+1\4837	PUNCT	-	-	PUNCT
+1\4839	TOK	Υπολογιστών	υπολογιστής	NoCmMaPlGe
+	)SENT	</S>
+	(SENT	<S>
+1\4855	TOK	Αποκλειστική	αποκλειστικός	AjBaFeSgNm
+1\4868	TOK	διάζευξη	διάζευξη	NoCmFeSgNm
+1\4877	PUNCT	-	-	PUNCT
+1\4879	TOK	XOR	XOR	RgFwOr
+	)SENT	</S>
+	(SENT	<S>
+1\4883	TOK	Με	με	AsPpSp
+1\4886	TOK	την	ο	AtDfFeSgAc
+1\4890	TOK	πράξη	πράξη	NoCmFeSgAc
+1\4896	TOK	της	ο	AtDfFeSgGe
+1\4900	TOK	αποκλειστικής	αποκλειστικός	AjBaFeSgGe
+1\4914	TOK	διάζευξης	διάζευξη	NoCmFeSgGe
+1\4924	TOK	συνθέτουμε	συνθέτω	VbMnIdPr01PlXxIpAvXx
+1\4935	TOK	δύο	δύο	NmCdFePlAcAj
+1\4939	TOK	προτάσεις	πρόταση	NoCmFePlAc
+1\4949	TOK	βάζοντας	βάζω	VbMnPpXxXxXxXxIpAvXx
+1\4958	TOK	το	ο	AtDfNeSgAc
+1\4961	TOK	διαζευκτικό	διαζευκτικός	AjBaNeSgAc
+1\4973	OPUNCT	«	«	OPUNCT
+1\4974	TOK	είτε	είτε	CjCo
+1\4978	CPUNCT	»	»	CPUNCT
+1\4980	TOK	μπροστά	μπροστά	AdXxBa
+1\4988	TOK	σε	σε	AsPpSp
+1\4991	TOK	καθεμία	καθένας	PnIdFe03SgNmXx
+1\4998	PUNCT	,	,	PUNCT
+1\5000	TOK	οπότε	οπότε	CjCo
+1\5006	TOK	σχηματίζεται	σχηματίζω	VbMnIdPr03SgXxIpPvXx
+1\5019	TOK	μια	ένας	AtIdFeSgNm
+1\5023	TOK	νέα	νέος	AjBaFeSgNm
+1\5026	PUNCT	,	,	PUNCT
+1\5028	TOK	η	ο	AtDfFeSgNm
+1\5030	TOK	οποία	οποίος	PnReFe03SgNmXx
+1\5036	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\5042	TOK	αληθής	αληθής	AjBaMaSgNm
+1\5049	TOK	μόνο	μόνο	AdXxBa
+1\5054	TOK	όταν	όταν	CjSb
+1\5059	TOK	η	ο	AtDfFeSgNm
+1\5061	TOK	μία	ένας	PnIdFe03SgNmXx
+1\5065	TOK	από	από	AsPpSp
+1\5069	TOK	τις	ο	AtDfFePlAc
+1\5073	TOK	αρχικές	αρχικός	AjBaFePlAc
+1\5081	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\5087	TOK	αληθής	αληθής	AjBaMaSgNm
+1\5094	TOK	και	και	CjCo
+1\5098	TOK	η	ο	AtDfFeSgNm
+1\5100	TOK	άλλη	άλλος	PnIdFe03SgAcXx
+1\5105	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\5111	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\5113	TOK	A	A	RgFwOr
+1\5115	TOK	B	B	RgFwOr
+1\5117	TOK	A	A	RgFwOr
+1\5119	TOK	XOR	XOR	RgFwOr
+1\5123	TOK	B	B	RgFwOr
+	)SENT	</S>
+	(SENT	<S>
+1\5125	TOK	Το	ο	AtDfNeSgAc
+1\5128	DIG	12	12	DIG
+1\5131	TOK	διαιρείται	διαιρώ	VbMnIdPr03SgXxIpPvXx
+1\5142	TOK	από	από	AsPpSp
+1\5146	TOK	το	ο	AtDfNeSgAc
+1\5149	DIG	6	6	DIG
+1\5151	TOK	Το	ο	AtDfNeSgAc
+1\5154	DIG	1	1	DIG
+1\5156	DIG	2	2	DIG
+1\5158	TOK	διαιρείται	διαιρώ	VbMnIdPr03SgXxIpPvXx
+1\5169	TOK	από	από	AsPpSp
+1\5173	TOK	το	ο	AtDfNeSgAc
+1\5176	DIG	5	5	DIG
+1\5178	TOK	Είτε	είτε	CjCo
+1\5183	TOK	το	ο	AtDfNeSgAc
+1\5186	DIG	12	12	DIG
+1\5189	TOK	διαιρείται	διαιρώ	VbMnIdPr03SgXxIpPvXx
+1\5200	TOK	από	από	AsPpSp
+1\5204	TOK	το	ο	AtDfNeSgAc
+1\5207	DIG	6	6	DIG
+1\5209	TOK	είτε	είτε	CjCo
+1\5214	TOK	το	ο	AtDfNeSgAc
+1\5217	DIG	12	12	DIG
+1\5220	TOK	διαιρείται	διαιρώ	VbMnIdPr03SgXxIpPvXx
+1\5231	TOK	από	από	AsPpSp
+1\5235	TOK	το	ο	AtDfNeSgAc
+1\5238	DIG	5	5	DIG
+	)SENT	</S>
+	(SENT	<S>
+1\5242	TOK	Πίνακας	πίνακας	NoCmMaSgNm
+1\5250	TOK	αλήθειας	αλήθεια	NoCmFeSgGe
+	)SENT	</S>
+	(SENT	<S>
+1\5259	TOK	A	A	RgFwOr
+1\5261	TOK	B	B	RgFwOr
+1\5263	TOK	A	A	RgFwOr
+1\5265	TOK	XOR	XOR	RgFwOr
+1\5269	TOK	B	B	RgFwOr
+	)SENT	</S>
+	(SENT	<S>
+1\5271	TOK	αληθής	αληθής	AjBaMaSgNm
+1\5278	TOK	αληθής	αληθής	AjBaMaSgNm
+1\5285	TOK	ψευδής	ψευδής	AjBaMaSgNm
+	)SENT	</S>
+	(SENT	<S>
+1\5292	TOK	αληθής	αληθής	AjBaMaSgNm
+1\5299	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\5306	TOK	αληθής	αληθής	AjBaMaSgNm
+	)SENT	</S>
+	(SENT	<S>
+1\5313	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\5320	TOK	αληθής	αληθής	AjBaMaSgNm
+1\5327	TOK	αληθής	αληθής	AjBaMaSgNm
+	)SENT	</S>
+	(SENT	<S>
+1\5334	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\5341	TOK	ψευδής	ψευδής	AjBaMaSgNm
+1\5348	TOK	ψευδής	ψευδής	AjBaMaSgNm
+	)SENT	</S>
+	(SENT	<S>
+1\5355	TOK	Η	ο	AtDfFeSgNm
+1\5357	TOK	πράξη	πράξη	NoCmFeSgNm
+1\5363	TOK	αυτή	αυτός	PnDmFe03SgNmXx
+1\5368	TOK	συμβολίζεται	συμβολίζω	VbMnIdPr03SgXxIpPvXx
+1\5381	TOK	με	με	AsPpSp
+1\5384	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\5386	TOK	Οι	ο	AtDfFePlNm
+1\5389	TOK	πράξεις	πράξη	NoCmFePlNm
+1\5397	TOK	σύζευξη	σύζευξη	NoCmFeSgAc
+1\5404	PUNCT	,	,	PUNCT
+1\5406	TOK	διάζευξη	διάζευξη	NoCmFeSgAc
+1\5415	TOK	και	και	CjCo
+1\5419	TOK	αποκλειστική	αποκλειστικός	AjBaFeSgAc
+1\5432	TOK	διάζευξη	διάζευξη	NoCmFeSgAc
+1\5440	PUNCT	,	,	PUNCT
+1\5442	TOK	εφαρμόζονται	εφαρμόζω	VbMnIdPr03PlXxIpPvXx
+1\5455	TOK	και	και	CjCo
+1\5459	TOK	για	για	AsPpSp
+1\5463	TOK	περισσότερες	πολύς	AjCpFePlAc
+1\5476	TOK	από	από	AsPpSp
+1\5480	TOK	δύο	δύο	NmCdFePlAcAj
+1\5484	TOK	λογικές	λογική	NoCmFePlAc
+1\5492	TOK	μεταβλητές	μεταβλητός	AjBaFePlAc
+1\5502	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\5504	TOK	Οι	ο	AtDfFePlNm
+1\5507	TOK	συναρτήσεις	συνάρτηση	NoCmFePlNm
+1\5519	TOK	που	που	PnReFe03PlNmXx
+1\5523	TOK	δέχονται	δέχομαι	VbMnIdPr03PlXxIpPvXx
+1\5532	TOK	ως	ως	AdXxBa
+1\5535	TOK	είσοδο	είσοδος	NoCmFeSgAc
+1\5542	TOK	λογικές	λογική	NoCmFePlAc
+1\5550	TOK	μεταβλητές	μεταβλητός	AjBaFePlAc
+1\5561	TOK	και	και	CjCo
+1\5565	TOK	δίνουν	δίνω	VbMnIdPr03PlXxIpAvXx
+1\5572	TOK	ως	ως	AdXxBa
+1\5575	TOK	έξοδο	έξοδος	NoCmFeSgAc
+1\5581	TOK	το	ο	AtDfNeSgAc
+1\5584	TOK	αποτέλεσμα	αποτέλεσμα	NoCmNeSgAc
+1\5595	TOK	λογικών	λογικός	AjBaFePlGe
+1\5603	TOK	πράξεων	πράξη	NoCmFePlGe
+1\5611	TOK	καλούνται	καλώ	VbMnIdPr03PlXxIpPvXx
+1\5621	TOK	λογικές	λογική	NoCmFePlNm
+1\5629	TOK	συναρτήσεις	συνάρτηση	NoCmFePlNm
+1\5640	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\5642	TOK	Παραδείγματα	παράδειγμα	NoCmNePlNm
+1\5655	TOK	λογικών	λογικός	AjBaFePlGe
+1\5663	TOK	συναρτήσεων	συνάρτηση	NoCmFePlGe
+1\5674	PTERM_P	:	:	PTERM_P
+	)SENT	</S>

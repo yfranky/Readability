@@ -1,0 +1,6 @@
+filename	tokens	types	awl	lemma_types	sentences	asl	nouns	verbs	adjectives	adverbs	pronouns	conjunctions	freq1	freq2	freq3	freq4	freqn
+3722_16327.tag.lem	3175	1196	5	802	316	10
+3725_16330.tag.lem	402	235	5	185	31	12
+3725_16331.tag.lem	326	212	5	157	25	13
+3725_16334.tag.lem	1299	645	4	503	161	8
+3725_16335.tag.lem	900	322	5	220	100	9
