@@ -12,84 +12,111 @@ import operator
 import nltk
 #from numpy import genfromtxt
 
+#Helper functions
 
 def debug_print(message):
     #prints for debugging purposes only
     print("Debug:", message)
 
 
-# To delete
-# #Define paths for folders: Project, Data, Results
-# projectPath = os.getcwd() + '\\..'
-# dataPath = projectPath + '\\data'
-# resultsPath = projectPath + '\\results'
-# #Define input data files
-# dataFiles = glob.glob(dataPath + '\\*.lem')
-# debug_print( dataFiles )
-# #Define output file
-# output_filename = 'featext.csv'
-# functional_words_filename = os.getcwd() + '\\' + 'functwords.txt'
+def write_log(message):
+    """
+    Write to log file
+    Arguments:  message: log message
+    Returns:    nothing
+    Globals:    log_filename
+    """
+    with  codecs.open(log_filename, "a", "utf-8") as f:
+        f.write(message + '\n')
+    f.close()
+    return
 
 #Functions
 
+
+def extract_data_from_tabbed_files(files, separator='\t'):
+    """
+    Extract tuples of data from files containing tabbed data
+    Arguments:  files: a list of files
+                separator: separates the tabbed data in the file
+    Returns: A list of tuples
+    """
+    data = []
+    for file in files:
+        list_of_tuples = []
+        with codecs.open(file, 'r', 'utf-8') as f:
+            for line in f:
+                tuple = line.split(separator)
+                list_of_tuples.append(tuple)
+        f.close()
+        data.append((os.path.basename(file), list_of_tuples))
+    return data
+
+
 def func_words_list(filename):
     """
-    returns: a list of functional words
-    Requires: a text file with functional words, one per line
+    arguments: a text file with functional words, one per line
+    returns:    a list of functional words
     """
-    # with codecs.open(filename, 'r', 'utf-8') as file:
-    #     for line in file:
-    #         wordlist.append(line.split)
-    words = [word for line in codecs.open(filename, 'r', 'utf-8') for word in line.split()]
-    print(words)
+    words = [x for line in codecs.open(filename, 'r', 'utf-8') for x in line.split()]
+    debug_print(words)
     return words
 
 
-def getFuncT(words, func_words):
+def getFuncT(data_words, func_words):
     """
-    Compute the number of functional words in words[]
+    Compute how many of func_words are in data_words
+    arguments:  data_words, func_words : lists of words
+    returns:    an integer with the number of words found
     """
-    #TODO: Resolve if letter case matters
-    return len([x for x in func_words if x in words])
+    return len([x for x in func_words if x in data_words])
 
 
-def type_freqs(list, n=5):
+def freq_of_freqs(list):
     """
-    Compute the frequency of instance frequencies of a list (?!?)
-    Arguments:  list
-                n: only the first n items of the resulting list are returned
-    Returns: A frequency list of length n
+    Compute the frequency-of-frequencies distribution of a list (?!?)
+    arguments:  list
+    Returns:    a frequency-of-frequencies list
     """
     #Create a frequency distribution list
     fdist = nltk.FreqDist(list)
     debug_print('#########')
-    debug_print(fdist.most_common(n))
+    debug_print(['fdist', fdist.most_common(100)])
     # Create a frequencies-frequency distribution list
     freqlist = [item[1] for item in fdist.items()] # Create a list of frequencies
-    debug_print(freqlist)
+    debug_print(['freqlist', freqlist])
     freqfreq = nltk.FreqDist(freqlist)
-    debug_print(freqfreq.most_common(n))
+    debug_print(['freqfreq', freqfreq.most_common(100)])
     #Make dictionary from list
     d = dict(freqfreq)
     debug_print(['d', d])
+    #Find the dictionary's biggest key
+    max_key = sorted(d.keys(), reverse=True)[0]
+    debug_print(['d keys', sorted(d.keys(), reverse=True)])
+    debug_print(['biggest d key', max_key])
     #Make new list from dictionary
-    new_list = [(x, d.get(x, 0)) for x in range(1,n+1) ]
+    new_list = [(x, d.get(x, 0)) for x in range(1,max_key+1) ]
     debug_print(['new_list', new_list])
-    return new_list[:n]
+    return new_list
 
 """
 Initialize
 """
 #Define paths for folders: Project, Data, Results
-projectPath = os.getcwd() + '\\..'
+module_path = os.getcwd()
+projectPath = module_path + '\\..'
 dataPath = projectPath + '\\data'
 resultsPath = projectPath + '\\results'
-#Define input data files
-dataFiles = glob.glob(dataPath + '\\*.lem')
-debug_print( dataFiles )
-#Define output file
+#Define input & data files
+lem_datafiles = glob.glob(dataPath + '\\*.lem')
+debug_print( lem_datafiles )
+txt_datafiles = glob.glob(dataPath + '\\*.txt')
+debug_print( txt_datafiles )
+functional_words_filename = module_path + '\\' + 'functional words.txt'
+#Define output files
 output_filename = 'featext.txt'
-functional_words_filename = os.getcwd() + '\\' + 'functwords.txt'
+log_filename = 'feature_extract.log'
+
 # read a list of functional words from file
 func_words = func_words_list(functional_words_filename)
 # Define how many type frequencies are significant
@@ -108,7 +135,7 @@ with  codecs.open(resultsPath + '\\' + output_filename, "w", "utf-8") as fout:
     fout.write(FreqT_header + '\n')
 
     #Iterate through data files
-    for file in dataFiles:
+    for file in lem_datafiles:
         with codecs.open(file, 'r', 'utf-8') as f:
             #Initialize feature variables
             numofSents = 0
@@ -159,7 +186,6 @@ with  codecs.open(resultsPath + '\\' + output_filename, "w", "utf-8") as fout:
             adv_types = []
             # Iterate lines
             for line in f:
-                #print( line )
                 tknAttr = line.split('\t')
                 if tknAttr[1] == '(SENT': # Encountered beginning of sentence
                     numofSents += 1
@@ -279,7 +305,7 @@ with  codecs.open(resultsPath + '\\' + output_filename, "w", "utf-8") as fout:
         #Get number of functional words
         FuncT = getFuncT(words, func_words)
         #Get frequencies of type instances
-        FreqT = type_freqs(type_instances, type_freqs_num)
+        FreqT = freq_of_freqs(type_instances)
 
 
         debug_print(['file', file])
@@ -314,3 +340,4 @@ with  codecs.open(resultsPath + '\\' + output_filename, "w", "utf-8") as fout:
         fout.write(Feat_out)
         fout.write(FreqT_out + '\n')
 fout.close()
+print(extract_data_from_tabbed_files(lem_datafiles))
