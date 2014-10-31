@@ -523,44 +523,7 @@ def extract_features(lem_data, feature_list):
     """
     Extract features as mentioned in a feature list from data.
 
-    Arguments:  lem_da"""
-Welcome to Codeskulptor's visualization mode (Viz mode)!
-Viz mode runs in Chrome, Firefox or Safari
-
-Click the wrench button above to active Viz mode, then
-click the triangle button to visualize the execution of
-the demo program
-"""
-
-def list_minimum(numbers):
-    """
-    Compute the minimum of a list of numbers
-    """
-
-    min_num = float("inf")
-    for num in numbers:
-        if num < min_num:
-            min_num = num  # Set breakpoint on this line
-    return min_num
-
-example_list = [4.6, 5.9, 2.1, 5.7, 1.1, 8.3]
-print "An example list is", example_list
-print
-minimum_number = list_minimum(example_list)
-print "The minimum of this example list is", minimum_number
-
-
-
-# The light blue bars in the code editor and console
-# indicate the current active line/event.
-
-# Navigate the execution trace of your program using
-# the next/prev statement buttons.
-
-# Click a line number to set a breakpoint for a line
-# Navigate between execution trace breakpoints using
-# the next/prev breakpoint/event buttons
-ta
+    Arguments:  lem_data
                 feature_list
     Returns:    a dictionary of features
     """
@@ -687,14 +650,17 @@ Initialize variables
 # Get settings from configuration file and initialize
 
 # Define configuration filename. NOTE: specify full path if different from cwd.
-config_file = 'config.cfg'
+config_file =  'config.cfg'
 
 try:
     # Get Settings from configuration file.
 
     #Define paths for folders: Project, Data, Results.
     config=configparser.ConfigParser(allow_no_value=True)
-    config.read_file(open(config_file))
+    print('Passed 0')
+    config.read_file(codecs.open(config_file, "r", "utf-8"))
+    #config.read_file(open(config_file))
+    print('Passed 1')
     paths = config['Paths and files']
     working_path = paths.get(os.getcwd() + '\\' + 'working dir' + '\\', os.getcwd() + '\\..')
     data_path = working_path + '\\' +  paths.get('data dir', 'data')
