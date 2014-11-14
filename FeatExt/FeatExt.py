@@ -24,8 +24,8 @@ except ImportError:
 # Print for debugging purposes only
 def debug_print(message):
     """Print for debugging purposes only."""
-    print("Debug:",  str(message)[:240]) # truncate message because damned IDLE can't handle long output!!! (I wasted several hours to figure it out!)
-    write_log(message)
+    print('Debug: {!s}'.format(message)[:240]) # truncate message because damned IDLE can't handle long output!!! (I wasted several hours to figure it out!)
+    #write_log(message)
 
 
 # Initialize log file.
@@ -117,8 +117,8 @@ def extract_data_from_tabbed_file(file, separator='\t'):
     list_of_tuples = []
     with codecs.open(file, 'rU', 'utf-8') as f:
         for line in f:
-            tuple = line[:-2].split(separator)
-            list_of_tuples.append(tuple)
+            tup = line[:-2].split(separator)
+            list_of_tuples.append(tup)
     f.close()
     debug_print(['extract_data_from_tabbed_file', (os.path.basename(file), list_of_tuples)])
     return (os.path.basename(file), list_of_tuples)
@@ -484,7 +484,7 @@ def get_TAdv(words):
     return len([x[1] for x in words if re.match('Ad', x[2])])
 
 
-def getFuncT(words, func_words):
+def get_FuncT(words, func_words):
     """
     Compute how many of func_words are in data_words
     arguments:  data_words, func_words : lists of words
@@ -613,7 +613,7 @@ def extract_features(lem_data, feature_list):
         elif feature == 'TAdv':
             features[feature] = get_TAdv(words)
         elif feature == 'FuncT':
-            features[feature] = getFuncT(words, func_words)
+            features[feature] = get_FuncT(words, func_words)
         elif feature == 'FreqT':
             features.update(getFreqT(words))
         else:
@@ -629,63 +629,46 @@ def extract_features(lem_data, feature_list):
 """
 Initialize variables
 """
-# #Define paths for folders: Project, Data, Results
-# module_path = os.getcwd()
-# debug_print(['module_path', module_path])
-# projectPath = module_path + '\\..'
-# data_path = projectPath + '\\data'
-# results_path = projectPath + '\\results'
-# #Define input & data files
-# lem_datafiles = glob.glob(data_path + '\\*.lem')
-# debug_print( lem_datafiles )
-# txt_datafiles = glob.glob(data_path + '\\*.txt')
-# debug_print( txt_datafiles )
-# functional_words_filename = data_path + '\\' + 'functional words.txt'
-# #Define output files
-# output_filename = results_path + '\\' + 'featext.txt'
-# log_filename = 'feature_extract.log'
-#
-
-
 # Get settings from configuration file and initialize
 
 # Define configuration filename. NOTE: specify full path if different from cwd.
-config_file =  'config.cfg'
+config_file = 'config.cfg'
 
 try:
     # Get Settings from configuration file.
 
     #Define paths for folders: Project, Data, Results.
     config=configparser.ConfigParser(allow_no_value=True)
-    print('Passed 0')
     config.read_file(codecs.open(config_file, "r", "utf-8"))
-    #config.read_file(open(config_file))
-    print('Passed 1')
-    paths = config['Paths and files']
-    working_path = paths.get(os.getcwd() + '\\' + 'working dir' + '\\', os.getcwd() + '\\..')
+    paths = config['PATHS AND FILES']
+    # Working path. Alla other paths are relative to this.
+    working_path = os.path.abspath( paths.get('working dir', '..'))
+    debug_print(['working path', working_path])
     data_path = working_path + '\\' +  paths.get('data dir', 'data')
     results_path = working_path + '\\' + paths.get('results dir', 'results')
 
     #Define output files
     output_filename = results_path + '\\' +  paths.get('output filename', 'featext.txt')
     log_filename = results_path + '\\' +  paths.get('log filename', 'feature_extract.log')
-    debug_print(log_filename)
+    debug_print('logfile: {}'.format(log_filename))
 
-    #Define input & data files
+    #Define input files
+    # texts = get_filestems
     lem_datafiles = glob.glob(data_path + '\\*.lem')
     debug_print( lem_datafiles )
+    #Define data files
     functional_words_filename = data_path + '\\' +  paths.get('functional words filename', 'functional words.txt')
 
 
     # Get Features list from configuration file
-    feature_list = config['Features']['feature_list'].split()
-    #debug_print(['feature_list', feature_list])
+    feature_list = config['FEATURES']['grammar_features_list'].split()
+    debug_print(['feature_list', feature_list])
     if feature_list == []: raise Exception
 except :
     # If unable to read  from the configuration file, use default values.
-    print('Error reading from configuration file: ' + config_file + ' . Will use default configuration instead.')
+    print('Error reading from configuration file: {0} . Will use default configuration instead.'.format(config_file))
     #Define paths for folders: Project, Data, Results
-    working_path = os.getcwd() + '\\..'
+    working_path = os.path.abspath('..')
     data_path = working_path + '\\' + 'data'
     results_path = working_path + '\\' + 'results'
     #Define output files
@@ -702,9 +685,9 @@ except :
         'Char',
         'awl',
         'S',
-        #'SL10',
-        #'SL20',
-        #'SL30',
+        'SL10',
+        'SL20',
+        'SL30',
         'asl',
         'LemT',
         'Noun',
@@ -739,7 +722,7 @@ except :
     ]
 
 debug_print(feature_list)
-# Initialize log file
+# Write initial information to the log file
 init_log(log_filename)
 # get the list of functional words from file
 func_words = func_words_list(functional_words_filename)
