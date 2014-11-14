@@ -1,0 +1,131 @@
+1	Αγαπημένο	αγαπημένος	Vb	VbMn	Pp|Xx|Xx|Sg|Ne|Xx|Pv|Ac	3	Atr	_	_	
+2	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	3	Atr	_	_	
+3	περιοδικό	περιοδικό	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+4	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	6	Pred_Co	_	_	
+2	μια	ένας	At	AtId	Fe|Sg|Ac	4	Det	_	_	
+3	τακτική	τακτικός	Aj	Aj	Ba|Fe|Sg|Ac	4	Atr	_	_	
+4	αναγνώστριά	αναγνώστρια	No	NoCm	Fe|Sg|Ac	1	Pnom	_	_	
+5	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	4	Pos	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	8	Obj	_	_	
+8	νιώθω	νιώθω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+9	σαν	σαν	Ad	Ad	Ba	8	Adv	_	_	
+10	την	ο	At	AtDf	Fe|Sg|Ac	13	Det	_	_	
+11	καλύτερή	καλός	Aj	Aj	Cp|Fe|Sg|Ac	13	Atr	_	_	
+12	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	13	Pos	_	_	
+13	φίλη	φίλη	No	NoCm	Fe|Sg|Ac	8	Obj	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	2	IObj	_	_	
+2	γράφω	γράφω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	γιατί	γιατί	Cj	CjSb	_	2	AuxC	_	_	
+4	οι	ο	At	AtDf	Ma|Pl|Nm	5	Det	_	_	
+5	γονείς	γονέας	No	NoCm	Ma|Pl|Nm	9	Sb	_	_	
+6	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	5	Pos	_	_	
+7	δε	δε	Ad	Ad	Ba	9	Adv	_	_	
+8	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	9	Obj	_	_	
+9	καταλαβαίνουν	καταλαβαίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	3	Adv	_	_	
+10	καθόλου	καθόλου	Ad	Ad	Ba	9	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλο	όλος	Aj	Aj	Ba|Ne|Sg|Nm	2	Sb	_	_	
+2	γκρινιάζουν	γκρινιάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Συνέχεια	συνέχεια	No	NoCm	Fe|Sg|Nm	3	Pnom	_	_	
+2	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	1	Pos	_	_	
+3	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	διαβάζω	διαβάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Sb	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μόνο	μόνο	Ad	Ad	Ba	5	Adv	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+3	Σαββατοκύριακο	σαββατοκύριακο	No	NoCm	Ne|Sg|Nm	5	Sb	_	_	
+4	μ'	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	5	Obj	_	_	
+5	αφήνουν	αφήνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	να	να	Pt	PtSj	_	7	AuxV	_	_	
+7	βγαίνω	βγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	5	Obj	_	_	
+8	με	με	AsPp	AsPpSp	_	12	AuxP	_	_	
+9	την	ο	At	AtDf	Fe|Sg|Ac	10	Det	_	_	
+10	παρέα	παρέα	No	NoCm	Fe|Sg|Ac	8	Adv_Co	_	_	
+11	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	10	Pos	_	_	
+12	αλλά	αλλά	Cj	CjCo	_	7	Coord	_	_	
+13	και	και	Cj	CjCo	_	12	AuxY	_	_	
+14	πάλι	πάλι	Ad	Ad	Ba	16	Adv	_	_	
+15	δεν	δεν	Pt	PtNg	_	16	AuxV	_	_	
+16	μπορώ	μπορώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	12	Adv	_	_	
+17	να	να	Pt	PtSj	_	18	AuxV	_	_	
+18	αργήσω	αργώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	16	Obj	_	_	
+19	πολύ	πολύ	Ad	Ad	Ba	21	Adv	_	_	
+20	το	ο	At	AtDf	Ne|Sg|Ac	21	Det	_	_	
+21	βράδυ	βράδυ	No	NoCm	Ne|Sg|Ac	18	Obj	_	_	
+22	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όταν	όταν	Cj	CjSb	_	9	AuxC	_	_	
+2	θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	πάω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	σε	σε	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	κάποιο	κάποιος	Pn	PnId	Ne|03|Sg|Ac|Xx	7	Atr	_	_	
+7	πάρτι	πάρτι	No	NoCm	Ne|Pl|Ac	5	Adv	_	_	
+8	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+9	πρέπει	πρέπει	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+10	να	να	Pt	PtSj	_	11	AuxV	_	_	
+11	γίνει	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	9	Sb	_	_	
+12	καβγάς	καβγάς	No	NoCm	Ma|Sg|Nm	11	Sb	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	σε	σε	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	αδιέξοδο	αδιέξοδο	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	ξέρω	ξέρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	5	Obj	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	κάνω	κάνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μερικές	μερικοί	Pn	PnId	Fe|03|Pl|Nm|Xx	2	Atr	_	_	
+2	φορές	φορά	No	NoCm	Fe|Pl|Ac	3	Adv	_	_	
+3	σκέφτομαι	σκέφτομαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	φύγω	φεύγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+6	από	από	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	αντέχω	αντέχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	άλλο	άλλος	Pn	PnId	Ne|03|Sg|Ac|Xx	2	Obj	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	έκανες	κάνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	αν	αν	Cj	CjSb	_	3	AuxC	_	_	
+5	ήσουν	είμαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	4	Adv	_	_	
+6	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	5	AuxP	_	_	
+7	θέση	θέση	No	NoCm	Fe|Sg|Ac	6	Adv	_	_	
+8	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	7	Pos	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	έφευγες	φεύγω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	θα	θα	Pt	PtFu	_	5	AuxV	_	_	
+5	έμενες	μένω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	2	Adv	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Με	με	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	αγάπη	αγάπη	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+
+1	Μια	ένας	At	AtId	Fe|Sg|Nm	3	Det	_	_	
+2	απελπισμένη	απελπισμένος	Vb	VbMn	Pp|Xx|Xx|Sg|Fe|Xx|Pv|Nm	3	Atr	_	_	
+3	καρδιά	καρδιά	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+
