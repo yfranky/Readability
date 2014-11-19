@@ -99,20 +99,6 @@ def write_results(filename, results, feature_list):
     fout.close()
 
 
-def get_basenames(path, file_extension):
-    """
-    Build list of file basenames (without the name extension) from contents of directory, collecting all files of a
-    certain type.
-
-    @rtype : list of file basenames
-    @param data_path: the directory where files reside
-    @param file_extension: type of files to collect file names
-    """
-    files = glob.glob(path + '\\*.' + file_extension)
-    stems = [ os.path.splitext( os.path.split(file)[1] )[0] for file in files]
-    debug_print('Stems: {0}'.format(str(stems)))
-    return stems
-
 
 
 #Functions
@@ -121,26 +107,21 @@ def get_basenames(path, file_extension):
 # Extract tuples of data from file containing tabbed data
 def extract_data_from_tabbed_file(file, separator='\t'):
     """
-    Extract lists of data from file containing tabbed data.
+    Extract tuples of data from file containing tabbed data.
 
     Arguments:  file: string containing the name of the file
                 separator: separates the tabbed data in the file
-    @rtype : A list of lists of strings
+    Returns: A list of tuples
     """
 
-    list_of_lists = []
+    list_of_tuples = []
     with codecs.open(file, 'rU', 'utf-8') as f:
         for line in f:
-            # Skip empty lines
-            # if len(line) < 3 : continue # too small line, considered empty
-            if line == '\r\n': continue #empty line contains only a CR and a LF. ATTN:this is an empirical observation!
-            line_data = line[:-2].split(separator)
-            #debug_print(line)
-            #debug_print(line_data)
-            list_of_lists.append(line_data)
+            tup = line[:-2].split(separator)
+            list_of_tuples.append(tup)
     f.close()
-    debug_print(['extract_data_from_tabbed_file', (os.path.basename(file), list_of_lists)])
-    return (os.path.basename(file), list_of_lists)
+    debug_print(['extract_data_from_tabbed_file', (os.path.basename(file), list_of_tuples)])
+    return (os.path.basename(file), list_of_tuples)
 
 
 # Extract tuples of data from  many files containing tabbed data
@@ -553,7 +534,7 @@ def extract_features(lem_data, feature_list):
     debug_print(['sentences', sentences])
     words = [item for sublist in sentences for item in sublist]
     debug_print(['words', words])
-     # words = get_words(lem_data)
+    # words = get_words(lem_data)
     # debug_print(['words', words])
 
     for feature in feature_list:
@@ -637,260 +618,14 @@ def extract_features(lem_data, feature_list):
             features.update(getFreqT(words))
         else:
             # Unknown feature
-            write_log('Unable to extract feature: "' + feature + '". Unknown feature, skipped.')
-        """ dummy elif
+            write_log('Unable to extract feature: "' + feature + '". Unknown feature, skip.')
+        """
         if feature == '':
-            features[feature] = get_()
+            features[feature] = get_(words)
         """
     return features
 
-
-def conll_sentences(data):
-    """
-    Extract sentences from conll data.
-
-    @rtype : list of sentences as lists.
-    @param data: conll data.
-    """
-    sents = []
-    sent  = []
-    for item in data:
-        if item[0] == '1': # first item of new sentence
-            # Append previous sentence in sentences.
-            # Note: probably, on first for-iteration an empty first sentence is appended. Will be removed after the for-loop
-            sents.append(sent)
-            # Start new sentence
-            sent = [item]
-        else: # inside sentence
-           sent.append(item)
-
-    # remove empty first sentence
-    if sents[0] == []: del sents[0]
-
-    write_log('Sentences: {0}'.format(sents))
-    debug_print('Sentences: {0}'.format(sents))
-    return sents
-
-
-def heads_count(sentences):
-    """
-    Count heads for each of a list of conll sentences
-
-    @rtype :  a list of integers, containing the count of heads for each sentence
-    @param sentences: a list of sentences. Each sentence is itself a list
-    """
-    # global all_count
-    # if all_count != None:
-    #     return all_count
-    # else:
-    #     all_count =[]
-    all_count =[]
-
-    for sent in sentences:
-        # make a list with the nodes that head other nodes in the sentence
-        heads = [x[6] for x in sent]
-        # count unique heads, excluding '0'
-        heads_set = set( heads )
-        if '0' in heads_set:
-            count= len( heads_set ) -1
-        else:
-            count= len( heads_set )
-        all_count.append(count)
-
-    return all_count
-
-
-def get_HeadsSum( sentences ):
-    """
-    Sum heads for a list of sentences
-
-    @param sentences: a list of sentences. Each sentence is itself a list
-    @return: an integer containing the sum of all heads in all sentences
-    """
-
-    return sum( heads_count( sentences ) )
-    
-
-
-def get_HeadsAv( sentences ):
-    """
-    Compute average num of heads for a list of sentences
-
-    @param sentences: a list of sentences. Each sentence is itself a list
-    @return: an integer containing the average of all heads in all sentences
-    """
-
-    return get_HeadsSum(sentences) / len(sentences)
-
-
-def leaves_count( sentences ):
-    """
-    Count leaves for each of a list of conll sentences
-
-    @rtype :  a list of integers, containing the count of leaves for each sentence
-    @param sentences: a list of sentences. Each sentence is itself a list
-    """
-
-    all_count =[]
-
-    for sent in sentences:
-        # make a list with the nodes that head other nodes in the sentence
-        heads = [x[6] for x in sent]
-        # count unique heads, excluding '0'
-        heads_set = set( heads )
-        if '0' in heads_set:
-            count= len( heads_set ) -1
-        else:
-            count= len( heads_set )
-        all_count.append(count)
-
-    return all_count
-
-
-def get_LeavesSum( sentences ):
-    """
-    Sum leaves for a list of sentences
-
-    @param sentences: a list of sentences. Each sentence is itself a list
-    @return: an integer containing the sum of all leaves in all sentences
-    """
-
-    # leaves_count =[]
-    #
-    # for sent in sentences:
-    #     # make a list with the nodes that
-    #     heads = [x[6] for x in sent]
-    #     # count unique heads, excluding '0'
-    #     heads_set = set( heads )
-    #     if '0' in heads_set:
-    #         count= len( heads_set ) -1
-    #     else:
-    #         count= len( heads_set )
-    #     leaves_count.append(count)
-
-    return sum( leaves_count( sentences ) )
-
-
-
-def get_LeavesAv( sentences ):
-    """
-    Compute average num of leaves for a list of sentences
-
-    @param sentences: a list of sentences. Each sentence is itself a list
-    @return: an integer containing the average of all leqaves in all sentences
-    """
-
-    return get_LeavesSum(sentences) / len(sentences)
-
-
-def get_DepDist( sentences ):
-    pass
-
-def get_DepWidth( sentences ):
-    pass
-
-
-def get_DepHeight( sentences ):
-    pass
-
-
-def get_syntax_features(text_data, feature_list):
-    """
-    Extract features from text data as mentioned in a feature list from data.
-
-    @param text_data: data of text as a list of tuples
-    @param feature_list: a list of features to extract
-    @rtype : a dictionary of feature - value pairs
-    """
-
-
-
-    debug_print(['Text data', text_data])
-
-    #extract words, sentences etc. from data
-    sentences = conll_sentences(text_data)
-    #words = [item for sublist in sentences for item in sublist]
-    #debug_print(['words', words])
-    # words = get_words(lem_data)
-    # debug_print(['words', words])
-
-    features = {}
-
-    #Create a frequency distribution of 8th column of text_data containing syntax parts
-    syntax_ids = [x[7] for x in text_data]
-    debug_print('Syntax parts: {0}'.format(syntax_ids))
-    syntax_parts_count = 1 # len(syntax_ids) #set to '= 1' when debugging
-    debug_print('Syntax parts count: {0}'.format(syntax_parts_count))
-    fd = nltk.FreqDist( syntax_ids )
-    debug_print(['syntax_feat_freq', fd.most_common(100)])
-
-    for feature in feature_list:
-        if feature in ['AuxS', 'Pred', 'Sb', 'Obj', 'IObj', 'Pnom', 'Atv', 'Atr', 'AuxP', 'AuxC', 'Coord', 'Apos',\
-                       'AuxX', 'AuxK', 'AuxG', 'ExD', 'AuxY', 'AuxV' ]:
-            features[feature] = fd[feature] / syntax_parts_count
-        elif feature in [ 'all_Co', 'all_Ap', 'all_Pa' ]:
-            features[feature] = len( [ x for x in syntax_ids if feature[-3:]==x[-3:] ] ) / syntax_parts_count
-        elif feature == 'DepDist':
-            features[feature] = get_DepDist(sentences)
-        elif feature == 'HeadsSum':
-            features[feature] = get_HeadsSum(sentences)
-        elif feature == 'HeadsAv':
-            features[feature] = get_HeadsAv(sentences)
-        elif feature == 'LeavesSum':
-            features[feature] = get_LeavesSum(sentences)
-        elif feature == 'LeavesAv':
-            features[feature] = get_LeavesAv(sentences)
-        elif feature == 'DepHeight':
-            features[feature] = get_DepHeight(sentences)
-        elif feature == 'DepWidth':
-            features[feature] = get_DepWidth(sentences)
-        else:
-            # Unknown feature
-            write_log('Unable to extract feature: "' + feature + '". Unknown feature, skipped.')
-
-    return features
-
-
-def extract_syntax_features(syntax_features_list, path, text_ids):
-    """
-    Extract syntax features from files corresponding to a
-     list of text id's
-
-    @rtype : object
-    @param syntax_features_list: the requested features
-    @param path: path where the data files reside
-    @param text_ids: a list of text id's
-    """
-
-    write_log('Now extracting syntax features.')
-    write_log('Syntax feature list: {0}'.format(syntax_features_list))
-
-    result = []
-
-    # Create file list from text id's
-    files = [ os.path.join(path, text_id + '.' + conll_file_extension ) for text_id in text_ids ]
-    write_log('To extract syntax features, will look into these files: {0}'.format(files))
-
-    # Iterate  data files and extract features
-    for file in files:
-        write_log('Extracting features from file ' + file)
-        file_data = extract_data_from_tabbed_file(file)
-        debug_print(['file_data', file_data])
-        write_log(file_data)
-        result.append((
-            file_data[0], #filename
-            get_syntax_features(file_data[1],syntax_features_list)))
-
-    return result
-
-
-
-
-def extract_phrase_features(syntax_features_list, data_path, inputfile_names):
-    pass
-
-
-#______________________________________________________________________________________________________
+###################################################################################
 
 """
 Initialize variables
@@ -901,6 +636,16 @@ Initialize variables
 config_file = 'config.cfg'
 
 
+def get_filestems(data_path):
+    """
+    Build list of file names from contents of directory, removing path and file extension
+
+    @param data_path: the directory where data files reside
+    """
+    pass
+
+
+
 try:
     # Get Settings from configuration file.
 
@@ -908,39 +653,45 @@ try:
     config=configparser.ConfigParser(allow_no_value=True)
     config.read_file(codecs.open(config_file, "r", "utf-8"))
     paths = config['PATHS AND FILES']
-    # # Working path. Alla other paths are relative to this.
-    # working_path = os.path.abspath( paths.get('working dir', '..'))
-    # debug_print(['working path', working_path])
-    # data_path = working_path + '\\' +  paths.get('data dir', 'data')
-    # results_path = working_path + '\\' + paths.get('results dir', 'results')
-    #
-    # #Define output files
-    # output_filename = results_path + '\\' +  paths.get('output filename', 'featext.txt')
-    # log_filename = results_path + '\\' +  paths.get('log filename', 'feature_extract.log')
-    # debug_print('logfile: {}'.format(log_filename))
-    #
-    # #Define input files
-    # text_ids = get_filestems( data_path )
-    # lem_datafiles = glob.glob(data_path + '\\*.lem')
-    # debug_print( lem_datafiles )
-    # #Define data files
-    # functional_words_filename = data_path + '\\' +  paths.get('functional words filename', 'functional words.txt')
-    #
+    # Working path. Alla other paths are relative to this.
+    working_path = os.path.abspath( paths.get('working dir', '..'))
+    debug_print(['working path', working_path])
+    data_path = working_path + '\\' +  paths.get('data dir', 'data')
+    results_path = working_path + '\\' + paths.get('results dir', 'results')
+
+    #Define output files
+    output_filename = results_path + '\\' +  paths.get('output filename', 'featext.txt')
+    log_filename = results_path + '\\' +  paths.get('log filename', 'feature_extract.log')
+    debug_print('logfile: {}'.format(log_filename))
+
+    #Define input files
+    inputfile_names = get_filestems( data_path )
+    lem_datafiles = glob.glob(data_path + '\\*.lem')
+    debug_print( lem_datafiles )
+    #Define data files
+    functional_words_filename = data_path + '\\' +  paths.get('functional words filename', 'functional words.txt')
+
 
     # Get Features list from configuration file
-    grammar_features_list = config['FEATURES']['grammar_features_list'].split()
-    syntax_features_list = config['FEATURES']['syntax_features_list'].split()
-    phrase_features_list = config['FEATURES']['phrase_features_list'].split()
-    # If all feature lists are empty, no features can be extracted
-    if grammar_features_list == syntax_features_list == phrase_features_list == []: raise Exception
+    feature_list = config['FEATURES']['grammar_features_list'].split()
+    debug_print(['grammar_features_list', feature_list])
+    if feature_list == []: raise Exception
 except :
-    # If unable to read  from the configuration file, or no features found, use default values.
-    print('Error reading from configuration file, or no features found in it: {0} . \
-    Will use default configuration instead.'.format(config_file))
-    # Create a dummy 'paths' configparser object, so that the fallback values will be used in subsequent paths.get() calls
-    # note: configparser object is more or less like a dictionary, so dummy dictionary is used.
-    paths = {'Dummy': None }
-    grammar_features_list = [
+    # If unable to read  from the configuration file, use default values.
+    print('Error reading from configuration file: {0} . Will use default configuration instead.'.format(config_file))
+    #Define paths for folders: Project, Data, Results
+    working_path = os.path.abspath('..')
+    data_path = working_path + '\\' + 'data'
+    results_path = working_path + '\\' + 'results'
+    #Define output files
+    output_filename = results_path + '\\' + 'featext.txt'
+    log_filename = results_path + '\\' + 'feature_extract.log'
+    #Define input & data files
+    lem_datafiles = glob.glob(data_path + '\\*.lem')
+    debug_print( lem_datafiles )
+    functional_words_filename = data_path + '\\' + 'functional words.txt'
+
+    feature_list = [
         'N',
         'T',
         'Char',
@@ -982,55 +733,16 @@ except :
         'FreqT'
     ]
 
-# Working path. All other paths are relative to this.
-working_path = os.path.abspath( paths.get('working dir', '..'))
-debug_print(['working path', working_path])
-data_path = working_path + '\\' + paths.get('data dir', 'data')
-results_path = working_path + '\\' + paths.get('results dir', 'results')
-
-# Define output files
-output_filename = results_path + '\\' + paths.get('output filename', 'featext.txt')
-log_filename = results_path + '\\' + paths.get('log filename', 'feature_extract.log')
-debug_print('logfile: {}'.format(log_filename))
-
-# Define file extensions
-conll_file_extension = paths.get('conll file extension', 'conll')
-lem_file_extension = paths.get('lem file extension', 'lem')
-chunk_file_extension = paths.get('chunk file extension', 'chunk')
-debug_print('{0} {1} {2}'.format(conll_file_extension, lem_file_extension, chunk_file_extension))
-#Define text id's by searching for connl files and removing file extension
-text_ids = get_basenames(data_path, conll_file_extension)
-lem_datafiles = glob.glob(data_path + '\\*.lem')
-debug_print(lem_datafiles)
-#Define data files
-functional_words_filename = data_path + '\\' + paths.get('functional words filename', 'functional words.txt')
-# working_path = os.path.abspath('..')
-#  data_path = working_path + '\\' + 'data'
-#  results_path = working_path + '\\' + 'results'
-#  #Define output files
-#  output_filename = results_path + '\\' + 'featext.txt'
-#  log_filename = results_path + '\\' + 'feature_extract.log'
-#  #Define input & data files
-#  lem_datafiles = glob.glob(data_path + '\\*.lem')
-#  debug_print( lem_datafiles )
-#  functional_words_filename = data_path + '\\' + 'functional words.txt'
-
-
-
-
+debug_print(feature_list)
 # Write initial information to the log file
 init_log(log_filename)
-
-results = []
-
-#Extract grammar features
 # get the list of functional words from file
 func_words = func_words_list(functional_words_filename)
 # Define how many type frequencies are significant
 #TODO: parameterize this
 type_freqs_num = 10
-write_log('Grammar feature list: {0}'.format(grammar_features_list))
-# Iterate  data files and extract features
+#Extract features from all lem files
+results = []
 for file in lem_datafiles:
     write_log('Extracting features from file ' + file)
     file_data = extract_data_from_tabbed_file(file)
@@ -1038,19 +750,12 @@ for file in lem_datafiles:
     debug_print(['sentences', get_sentences(file_data[1])])
     results.append((
         file_data[0], #filename
-        extract_features(file_data[1],grammar_features_list)))
-debug_print('results: {0}'.format(results))
+        extract_features(file_data[1],feature_list)))
 
-write_log('Texts ids: {0}'.format(text_ids))
-
-results_syntax_features = extract_syntax_features(syntax_features_list, data_path, text_ids)
-write_log('Syntax features results: {0}'.format(results_syntax_features))
-debug_print('Syntax features results: {0}'.format(results_syntax_features))
-#results_phrase_features = extract_phrase_features(phrase_features_list, data_path, text_ids)
-
+debug_print(['results', results])
 #Write to output file
 write_log('Writing results to file ' + output_filename + '  ...')
-write_results(output_filename, results, grammar_features_list)
+write_results(output_filename, results, feature_list)
 write_log('  ... done')
-write_log('---END OF PROGRAM---')
+write_log('---END PROGRAM---')
 
