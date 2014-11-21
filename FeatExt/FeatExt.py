@@ -139,7 +139,7 @@ def extract_data_from_tabbed_file(file, separator='\t'):
             if len(line) < 3 : continue # too small line, considered empty
             #if line == '\r\n': continue #empty line contains only a CR and a LF. ATTN:this is an empirical observation!
                                          #problem: '\r\n' seems to be system or editor dependent.
-            line_data = line[:-1].split(separator)
+            line_data = line[:-2].split(separator)
             #debug_print(line)
             #debug_print(line_data)
             list_of_lists.append(line_data)
@@ -566,7 +566,7 @@ def get_grammar_features(lem_data, feature_list):
     func_words = func_words_list(functional_words_filename)
     # Define how many type frequencies are significant
     #TODO: parameterize this
-    type_freqs_num = 10
+    type_freqs_num = 30
 
 
     for feature in feature_list:
@@ -740,6 +740,16 @@ def get_HeadsAv( sentences ):
     return statistics.mean(heads_count(sentences))
 
 
+def sentence_leaves(sentence):
+    """
+
+    @param sentence:
+    """
+    heads = set([x[6] for x in sentence])
+    leaves = [x for x in sentence if x[0] not in heads]
+
+    return leaves
+
 
 def leaves_count( sentences ):
     """
@@ -753,9 +763,9 @@ def leaves_count( sentences ):
 
     for sent in sentences:
         # make a list with the leaf nodes (i.e. not heads) in the sentence
-        heads = set([x[6] for x in sent])
-        leaves = [x for x in sent if x[0] not in heads]
-        all_count.append(len(leaves))
+        #heads = set([x[6] for x in sent])
+        #leaves = [x for x in sent if x[0] not in heads]
+        all_count.append(len(sentence_leaves(sent)))
 
     return all_count
 
@@ -797,12 +807,44 @@ def get_DepDist(text_data):
     return statistics.mean(token_depdist)
 
 
+def find_node_depth(node, sentence):
+    debug_print(node[6])
+    node_id = int(node[6])
+    debug_print(node_id)
+    debug_print(sentence)
+    if node_id == 0:
+        return 1
+    else:
+        return 1 + int( find_node_depth(sentence[node_id - 1], sentence) )
+
+    #return 1 if int(node[6]) == 0 else (1 + int( find_node_depth(sentences[int(node[6])-1], sentences) ))
+
+
 def get_DepHeight(sentences):
-    pass
+    """
+
+    @param sentences:
+    """
+    sent_depth =[]
+    for sent in sentences:
+        tree_depths =[]
+        for node in sentence_leaves(sent):
+            tree_depths.append( find_node_depth(node, sent) )
+        sent_depth.append( max(tree_depths) )
+    return statistics.mean(sent_depth)
 
 
 def get_DepWidth(sentences):
-    pass
+
+    dep_width =[]
+    for sent in sentences:
+        list = [int(x[6]) for x in sent]
+        #Create a frequency distribution list
+        fdist = nltk.FreqDist(list)
+        dep_width += fdist
+        debug_print('dep_width list: {0}'.format(dep_width))
+
+    return statistics.mean(dep_width)
 
 
 def get_syntax_features(text_data, feature_list):
@@ -868,7 +910,7 @@ def av_phrase_len(data, phrase_id):
         if item[2] == '[' + phrase_id : # Begin of phrase
             # Start counting for the new phrase
             word_counter = 0
-        elif item[2] == '/' + phrase_id + ']' : # End of phrase
+        elif item[2] == '/' + phrase_id + ']': # End of phrase
             # Counter holds the length of phrase. Append it to the list of phrase lengths
             len_list.append(word_counter)
             #word_counter = 0
