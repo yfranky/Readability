@@ -1,6 +1,8 @@
 """
 Extract features from corpus (set of text files) for later readability assessment
 """
+import math
+
 __author__ = 'Yorgos'
 
 #Import modules
@@ -8,6 +10,8 @@ import os
 import codecs
 from datetime import datetime
 import statistics
+from math import log2
+import sympy
 import glob
 import re
 import configparser
@@ -139,7 +143,7 @@ def extract_data_from_tabbed_file(file, separator='\t'):
             if len(line) < 3 : continue # too small line, considered empty
             #if line == '\r\n': continue #empty line contains only a CR and a LF. ATTN:this is an empirical observation!
                                          #problem: '\r\n' seems to be system or editor dependent.
-            line_data = line[:-2].split(separator)
+            line_data = line[:-1].split(separator)
             #debug_print(line)
             #debug_print(line_data)
             list_of_lists.append(line_data)
@@ -179,15 +183,15 @@ def func_words_list(filename):
 
 
 # Compute how many of func_words are in data_words
-def getFuncT(data_words, func_words):
+def getFuncT(types, func_words):
     """
-    Compute how many of func_words are in data_words.
+    Compute how many of func_words are in types.
 
     arguments:  data_words, func_words : lists of words
     returns:    an integer with the number of words found
     """
 
-    return len([x for x in func_words if x in data_words])
+    return len([x for x in func_words if x in types])
 
 
 # Compute the frequency-of-frequencies distribution of a list (?!?)
@@ -208,10 +212,10 @@ def freq_of_freqs(list):
     #debug_print(['freqfreq', freqfreq.most_common(100)])
     return freqfreq
 
-# Extract sentences from lem data.
+
 def get_sentences(data):
     """
-    Extract sentences from lem data.
+    Extract sentences from chunk data.
 
     Filter-out tokens that are not considered words (the definition of a word is important!)
     Arguments:  data
@@ -226,7 +230,9 @@ def get_sentences(data):
         elif item[1] in ['TOK', 'ABBR', 'DIG']:
            #Only TOK, ABBR and DIG are considered proper words!
            #TODO: Parameterise word definition in config file
-           sent.append((item[2], item[3], item[4]))
+           # Convert to lowercase to get word type and add it as last in the tuple
+           type = item[2].lower()
+           sent.append((item[2], item[3], item[4], type ))
     return sents
 
 
@@ -240,7 +246,7 @@ def get_All_tokens(data):
     """
 
     #Only TOK, ABBR and DIG are considered proper words! This needs discussion.
-    tokens = [(x[2], x[3], x[4]) for x in data if x[1] not in ['(SENT', ')SENT']]
+    tokens = [x for x in data if x[1] not in ['(SENT', ')SENT', 'SYN']]
     debug_print('All tokens: {0}'.format(tokens))
     return len(tokens)
 
@@ -255,11 +261,11 @@ def get_N(words):
     return len(words)
 
 
-def get_T(words):
+def get_T(types):
     """
     count types
     """
-    return len(set([x[0].lower() for x in words]))
+    return len(set(types))
 
 
 def get_Char(words):
@@ -305,12 +311,11 @@ def get_SL30(sentences):
     return len([x for x in sentences if len(x) > 30])
 
 
-def get_ASL(lem_data, words):
+def get_ASL(words, sentences):
     """
     Average sentence length in words
-    Uses get_N and get_S
     """
-    return(get_N(words) / get_S(lem_data))
+    return(get_N(words) / get_S(sentences))
 
 
 def get_LemT(words):
@@ -484,49 +489,49 @@ def get_TNoun(words):
     """
     Count noun types
     """
-    debug_print(['TNoun', set([x[1] for x in words if re.match('No', x[2])])])
-    return len(set([x[1] for x in words if re.match('No', x[2])]))
+    #debug_print(['TNoun', set([x[1] for x in words if re.match('No', x[2])])])
+    return len(set([x[3] for x in words if re.match('No', x[2])]))
 
 
 def get_TVerb(words):
     """
     Count Verb types
     """
-    return len([x[1] for x in words if re.match('Vb', x[2])])
+    return len(set([x[3] for x in words if re.match('Vb', x[2])]))
 
 
 def get_TAdj(words):
     """
     Count Adjective types
     """
-    return len([x[1] for x in words if re.match('Aj', x[2])])
+    return len(set([x[1] for x in words if re.match('Aj', x[2])]))
 
 
 def get_TAdv(words):
     """
     Count Adverbs
     """
-    return len([x[1] for x in words if re.match('Ad', x[2])])
+    return len(set([x[1] for x in words if re.match('Ad', x[2])]))
 
 
-def get_FuncT(words, func_words):
+def get_FuncT(types, func_words):
     """
     Compute how many of func_words are in data_words
     arguments:  data_words, func_words : lists of words
     returns:    an integer with the number of words found
     """
-    return len([x for x in func_words if x in words])
+    return len([x for x in func_words if x in types])
 
 
 # Compute the frequencies of word Types
-def getFreqT(words, n=10):
+def getFreqT(types, n=10):
     """
     Compute the frequencies of word Types.
 
     """
     #Get the frequency of frequencies distribution of types
     #debug_print(['list(set', list(set([x[1] for x in words]))])
-    f_list = freq_of_freqs([x[1] for x in words])
+    f_list = freq_of_freqs(types)
     #debug_print(['f_list', f_list])
     #Make dictionary from list
     d = dict(f_list)
@@ -543,24 +548,92 @@ def getFreqT(words, n=10):
     return f_dict
 
 
-def get_grammar_features(lem_data, feature_list):
+def get_YuleK(types):
+    """
+
+    @param types:
+    @return:
+    """
+
+    #Get the frequency of frequencies distribution of types
+    f_list = freq_of_freqs(types) #[x[1] for x in words])
+    # debug_print(['f_list', f_list])
+    s = 0
+    for item in f_list.keys():
+        s += f_list[item]*item*item
+
+    return 10000 * (s - len(types)) / float(len(types)*len(types))
+
+
+def get_D(words, types):
+    """
+    Measure D lexical diversity
+    reference: Duran, Malvern, Richards, Chipere:
+            Developmental Trends in Lexical Diversity Oxford UP 2004, p224
+    uses sympy
+
+    @param words:
+    @param types:
+    """
+    n = get_N(words)
+    t = get_T(types)
+    ttr = t/n
+    # Solve the equation as in reference
+    d = sympy.symbols('d')
+    answer = sympy.solve(d/n*(sympy.sqrt(1+2*n/d)-1)-ttr, d)
+
+    return answer[0] if answer else ''
+
+
+
+
+def get_Entr(types):
+    """
+
+    @param types:
+    """
+    # Create a frequency distribution of types
+    fdist = nltk.FreqDist(types)
+    freqlist = [item[1] for item in fdist.items()] # Create a list of frequencies
+
+    entr = 0
+    for item in freqlist:
+        prob = item / len(types) # calculate the probability for each type
+        log_prob = log2(prob) # calculates the log-2 of probability for each type
+        entr -= prob*log_prob # accumulate entropy of each type to find the entropy of the whole text
+
+    return entr
+
+def get_RelEntr(types):
+    """
+
+    @param types:
+    @return:
+    """
+
+    max_entr = -log2(1 / len(types))
+
+    return get_Entr(types) / max_entr
+
+
+def get_grammar_features(data, feature_list):
     """
     Extract grammar features as mentioned in a feature list from data.
 
-    Arguments:  lem_data
+    Arguments:  data
                 grammar_features_list
     Returns:    a dictionary of features
     """
 
     features = {}
     #extract words, sentences etc. from data
-    sentences = get_sentences(lem_data)
+    sentences = get_sentences(data)
     debug_print(['sentences', sentences])
     words = [item for sublist in sentences for item in sublist]
     debug_print(['words', words])
-     # words = get_words(lem_data)
-    # debug_print(['words', words])
-
+    # build a list of types to avoid repetitive building later
+    types = [x[3] for x in words]
+    debug_print(['types', types])
 
     # get the list of functional words from file
     func_words = func_words_list(functional_words_filename)
@@ -571,11 +644,11 @@ def get_grammar_features(lem_data, feature_list):
 
     for feature in feature_list:
         if feature == 'All_tokens':
-            features[feature] = get_All_tokens(lem_data)
-        if feature == 'N':
+            features[feature] = get_All_tokens(data)
+        elif feature == 'N':
             features[feature] = get_N(words)
         elif feature == 'T':
-            features[feature] = get_T(words)
+            features[feature] = get_T(types)
         elif feature == 'Char':
             features[feature] = get_Char(words)
         elif feature == 'AWL':
@@ -589,7 +662,7 @@ def get_grammar_features(lem_data, feature_list):
         elif feature == 'SL30':
             features[feature] = get_SL30(sentences)
         elif feature == 'ASL':
-             features[feature] = get_ASL(lem_data, words)
+             features[feature] = get_ASL(words, sentences)
         elif feature == 'LemT':
              features[feature] = get_LemT(words)
         elif feature == 'Noun':
@@ -647,9 +720,17 @@ def get_grammar_features(lem_data, feature_list):
         elif feature == 'TAdv':
             features[feature] = get_TAdv(words)
         elif feature == 'FuncT':
-            features[feature] = get_FuncT(words, func_words)
+            features[feature] = get_FuncT(types, func_words)
         elif feature == 'FreqT':
-            features.update(getFreqT(words, type_freqs_num))
+            features.update(getFreqT(types, type_freqs_num))
+        elif feature == 'YuleK':
+            features[feature] = get_YuleK(types)
+        elif feature == 'D':
+            features[feature] = get_D(words, types)
+        elif feature == 'Entr':
+            features[feature] = get_Entr(types)
+        elif feature == 'RelEntr':
+            features[feature] = get_RelEntr(types)
         else:
             # Unknown feature
             write_log('Unable to extract feature: "' + feature + '". Unknown feature, skipped.')
@@ -737,7 +818,8 @@ def get_HeadsAv( sentences ):
 
     #return get_HeadsSum(sentences) / float(len(sentences))
     #debug_print('Diairesh: {0}, Mean: {1}'.format(get_HeadsSum(sentences) / float(len(sentences)), statistics.mean(heads_count(sentences) ) ))
-    return statistics.mean(heads_count(sentences))
+    c = heads_count(sentences)
+    return statistics.mean( c ) if len(c) > 0 else 0
 
 
 def sentence_leaves(sentence):
@@ -789,8 +871,8 @@ def get_LeavesAv(sentences):
     @param sentences: a list of sentences. Each sentence is itself a list
     @return: an integer containing the average of all leqaves in all sentences
     """
-
-    return statistics.mean(leaves_count(sentences))
+    c = leaves_count(sentences)
+    return statistics.mean( c ) if len(c) > 0 else 0
 
 
 def get_DepDist(text_data):
@@ -804,20 +886,21 @@ def get_DepDist(text_data):
     #find dependency distance for each token
     token_depdist = [abs(int(token[0])-int(token[6])) for token in text_data]
 
-    return statistics.mean(token_depdist)
+    return statistics.mean(token_depdist) if len(token_depdist)>0 else 0
 
 
 def find_node_depth(node, sentence):
-    debug_print(node[6])
+    #debug_print(node[6])
     node_id = int(node[6])
-    debug_print(node_id)
-    debug_print(sentence)
+    #debug_print(node_id)
+    #debug_print(sentence)
     if node_id == 0:
         return 1
+    elif node_id == int(node[0]): # !!! self-referencing node, it will loop, so break recursion
+        write_log('ALERT! self-referencing node: {0} in sentence: {1}'.format(node_id, sentence))
+        return 0
     else:
         return 1 + int( find_node_depth(sentence[node_id - 1], sentence) )
-
-    #return 1 if int(node[6]) == 0 else (1 + int( find_node_depth(sentences[int(node[6])-1], sentences) ))
 
 
 def get_DepHeight(sentences):
@@ -831,7 +914,7 @@ def get_DepHeight(sentences):
         for node in sentence_leaves(sent):
             tree_depths.append( find_node_depth(node, sent) )
         sent_depth.append( max(tree_depths) )
-    return statistics.mean(sent_depth)
+    return statistics.mean(sent_depth) if len(sent_depth) > 0 else 0
 
 
 def get_DepWidth(sentences):
@@ -844,7 +927,7 @@ def get_DepWidth(sentences):
         dep_width += fdist
         debug_print('dep_width list: {0}'.format(dep_width))
 
-    return statistics.mean(dep_width)
+    return statistics.mean(dep_width) if len(dep_width) > 0 else 0
 
 
 def get_syntax_features(text_data, feature_list):
@@ -977,7 +1060,7 @@ def extract_grammar_features(features_list, path, text_ids):
     # Iterate  texts and extract features
     for text_id in text_ids:
         #Create file name from text id
-        file = os.path.join(path, text_id + '.' + lem_file_extension)
+        file = os.path.join(path, text_id + '.' + chunk_file_extension)
         write_log('Extracting grammar features for text: {0} from file: {1}'.format(text_id, file))
         #Check if file exists, skip if not
         if not os.path.exists(file):
@@ -1196,4 +1279,3 @@ write_log('Writing phrase features')
 write_results(output_filename[:-4] + '_phrase.txt', results_phrase_features, phrase_features_list)
 write_log('  ... done')
 write_log('---END OF PROGRAM---')
-
