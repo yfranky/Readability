@@ -1,0 +1,122 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\1	TOK	Από	από	AsPpSp
+	SYN	[np_ac
+1\5	TOK	τις	ο	AtDfFePlAc
+1\9	TOK	αρχές	αρχή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\15	TOK	του	ο	AtDfMaSgGe
+	SYN	[adjp_ge
+1\19	TOK	20ού	20ός	NmOdMaSgGeAj
+	SYN	/adjp_ge]
+1\24	TOK	αιώνα	αιώνας	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\30	TOK	και	και	CjCo
+	SYN	[pp
+1\34	TOK	μέχρι	μέχρι	AsPpSp
+	SYN	[np_ac
+1\40	TOK	τη	ο	AtDfFeSgAc
+1\43	TOK	δεκαετία	δεκαετία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\52	TOK	του	ο	AtDfMaSgGe
+	SYN	[np_ac
+1\56	DATE	’70	’70	DATE
+	SYN	[adjp_ac
+1\60	TOK	χιλιάδες	χιλιάδα	NmCtFePlAcNo
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_nm
+1\69	TOK	Έλληνες	Έλληνας	NoPrMaPlNm
+	SYN	/np_nm]
+1\76	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\78	TOK	υπό	υπό	AsPpSp
+	SYN	[np_ac
+1\82	TOK	την	ο	AtDfFeSgAc
+1\86	TOK	πίεση	πίεση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\92	TOK	ποικίλων	ποικίλος	AjBaNePlGe
+	SYN	/adjp_ge]
+1\101	TOK	προβλημάτων	πρόβλημα	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\113	OPUNCT	(	(	OPUNCT
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\114	TOK	οικονομική	οικονομικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\125	TOK	κρίση	κρίση	NoCmFeSgNm
+	SYN	/np_nm]
+1\130	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\132	TOK	πόλεμοι	πόλεμος	NoCmMaPlNm
+	SYN	/np_nm]
+1\139	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\141	TOK	ανεργία	ανεργία	NoCmFeSgNm
+	SYN	/np_nm]
+1\148	CPUNCT	)	)	CPUNCT
+1\149	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\151	TOK	εγκαταλείπουν	εγκαταλείπω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\165	TOK	τη	ο	AtDfFeSgAc
+1\168	TOK	χώρα	χώρα	NoCmFeSgAc
+1\173	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\178	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\182	TOK	αναζητούν	αναζητώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\192	TOK	καλύτερη	καλός	AjCpFeSgAc
+	SYN	/adjp_ac]
+1\201	TOK	τύχη	τύχη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\206	TOK	προς	προς	AsPpSp
+	SYN	[np_ac
+1\211	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\215	TOK	παγκόσμιες	παγκόσμιος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\226	TOK	αγορές	αγορά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\233	TOK	εργατικής	εργατικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\243	TOK	δύναμης	δύναμη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\250	PTERM_P	:	:	PTERM_P
+1\252	ABBR	ΗΠΑ	ΗΠΑ	ABBR
+1\255	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\257	TOK	Αυστραλία	Αυστραλία	NoPrFeSgNm
+	SYN	/np_nm]
+1\266	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\268	TOK	Καναδάς	Καναδάς	NoPrMaSgNm
+	SYN	/np_nm]
+1\275	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\277	TOK	Γερμανία	Γερμανία	NoPrFeSgNm
+	SYN	/np_nm]
+1\285	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\287	TOK	Βέλγιο	Βέλγιο	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\293	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

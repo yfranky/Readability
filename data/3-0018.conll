@@ -1,0 +1,95 @@
+1	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αγαπητοί	αγαπητός	Aj	Aj	Ba|Ma|Pl|Vo	2	Atr	_	_	
+2	ακροατές	ακροατής	No	NoCm	Ma|Pl|Ac	5	Obj	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ge|We	5	IObj	_	_	
+5	μιλάμε	μιλώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	από	από	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	στάδιο	στάδιο	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+9	της	ο	At	AtDf	Fe|Sg|Ge	10	Det	_	_	
+10	Μελβούρνης	Μελβούρνη	No	NoPr	Fe|Sg|Ge	8	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είμαστε	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	πάλι	πάλι	Ad	Ad	Ba	1	Adv	_	_	
+3	μαζί	μαζί	Ad	Ad	Ba	1	Adv	_	_	
+4	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	παρακολουθήσουμε	παρακολουθώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	4	Adv	_	_	
+7	τον	ο	At	AtDf	Ma|Sg|Ac	9	Det	_	_	
+8	Μαραθώνιο	μαραθώνιος	Aj	Aj	Ba|Ma|Sg|Ac	9	Atr	_	_	
+9	δρόμο	δρόμος	No	NoCm	Ma|Sg|Ac	6	Obj	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+2	Γιάννης	Γιάννης	No	NoPr	Ma|Sg|Nm	3	Atr	_	_	
+3	Κούρος	κούρος	No	NoCm	Ma|Sg|Nm	4	Sb_Ap	_	_	
+4	,	,	PUNCT	PUNCT	_	9	Apos	_	_	
+5	ο	ο	At	AtDf	Ma|Sg|Nm	7	Det	_	_	
+6	φτερωτός	φτερωτός	Aj	Aj	Ba|Ma|Sg|Nm	7	Atr	_	_	
+7	δρομέας	δρομέας	No	NoCm	Ma|Sg|Nm	4	Sb_Ap	_	_	
+8	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+9	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+10	επίσης	επίσης	Ad	Ad	Ba	11	Adv	_	_	
+11	εδώ	εδώ	Ad	Ad	Ba	9	Adv	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Για	για	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	δούμε	βλέπω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	1	Adv	_	_	
+4	πώς	πώς	Ad	Ad	Ba	7	Adv	_	_	
+5	θα	θα	Pt	PtFu	_	7	AuxV	_	_	
+6	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	7	Obj	_	_	
+7	πάει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	8	Obj_Co	_	_	
+8	και	και	Cj	CjCo	_	3	Coord	_	_	
+9	σήμερα	σήμερα	Ad	Ad	Ba	8	Adv	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	5	AuxC	_	_	
+2	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+3	οι	ο	At	AtDf	Ma|Pl|Nm	4	Det	_	_	
+4	αθλητές	αθλητής	No	NoCm	Ma|Pl|Nm	5	Sb	_	_	
+5	ξεκίνησαν	ξεκινώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ναι	ναι	Ad	Ad	Ba	5	Atr	_	_	
+2	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+3	αγαπητοί	αγαπητός	Aj	Aj	Ba|Ma|Pl|Vo	5	Atr	_	_	
+4	μου	μου	Pn	PnPo	Fe|01|Sg|Ge|Xx	5	Pos	_	_	
+5	ακροατές	ακροατής	No	NoCm	Ma|Pl|Ac	0	ExD	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τελείωσε	τελειώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+2	και	και	Cj	CjCo	_	0	Coord	_	_	
+3	σήμερα	σήμερα	Ad	Ad	Ba	6	Adv	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	6	Det	_	_	
+5	μεγάλος	μεγάλος	Aj	Aj	Ba|Ma|Sg|Nm	6	Atr	_	_	
+6	Μαραθώνιος	μαραθώνιος	No	NoCm	Ma|Sg|Nm	2	ExD_Co	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Κούρος	κούρος	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+3	και	και	Cj	CjCo	_	4	AuxY	_	_	
+4	πάλι	πάλι	Ad	Ad	Ba	5	Adv	_	_	
+5	πρωταθλητής	πρωταθλητής	No	NoCm	Ma|Sg|Nm	2	Atr	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μπράβο	μπράβο	Ij	Ij	_	0	ExD	_	_	
+2	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	1	AuxP	_	_	
+3	μεγάλο	μεγάλος	Aj	Aj	Ba|Ma|Sg|Ac	5	Atr	_	_	
+4	τον	ο	At	AtDf	Ma|Sg|Ac	5	Det	_	_	
+5	Κούρο	κούρος	No	NoCm	Ma|Sg|Ac	2	Adv	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εύγε	εύγε	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+3	μεγάλε	μεγάλος	Aj	Aj	Ba|Ma|Sg|Vo	4	Atr	_	_	
+4	Έλληνα	Έλληνας	No	NoPr	Ma|Sg|Ac	5	Atr	_	_	
+5	αθλητή	αθλητής	No	NoCm	Ma|Sg|Ac	1	Atr	_	_	
+6	!	!	PTERM_P	PTERM_P	_	1	AuxG	_	_	
+7	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

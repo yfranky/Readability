@@ -1,0 +1,65 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Ζίου	Ζίου	NoPrNeSgNm
+	SYN	/np_nm]
+	SYN	[advp
+1\6	TOK	ζίτσου	ζίτσου	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\13	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\16	TOK	δαγκάνες	δαγκάνα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\26	TOK	Τα	ο	AtDfNePlNm
+1\29	TOK	καβούρια	καβούρι	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\38	TOK	δαγκώνουν	δαγκώνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\48	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\52	TOK	σπρώχνουν	σπρώχνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+1\62	TOK	το	ο	AtDfNeSgAc
+	SYN	[np_nm
+1\65	TOK	ένα	ένας	PnIdNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[np_ac
+1\69	TOK	το	ο	AtDfNeSgAc
+1\72	TOK	άλλο	άλλος	PnIdNe03SgAcXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\76	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\78	TOK	Φαίνεται	φαίνομαι	VbIsIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\87	TOK	πως	πως	CjSb
+	SYN	[np_nm
+1\91	TOK	κάτι	κάτι	PnIdNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\96	TOK	νόστιμο	νόστιμος	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[vg
+1\104	TOK	κρύβεται	κρύβω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\113	TOK	εκεί	εκεί	AdXxBa
+	SYN	/advp]
+1\117	PTERM_P	...	...	PTERM_P
+	SYN	/cl_o]
+	)SENT	</S>

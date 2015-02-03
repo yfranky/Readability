@@ -1,0 +1,258 @@
+	(SENT	<S>
+	SYN	[cl_o
+	SYN	[vg_s
+1\1	TOK	Για	για	AsPpSp
+1\5	TOK	να	να	PtSj
+1\8	TOK	φτιάξουμε	φτιάχνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\18	TOK	μακαρόνια	μακαρόνι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\28	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\31	TOK	κιμά	κιμάς	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\35	PTERM_P	...	...	PTERM_P
+	SYN	/cl_o]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\40	TOK	Χρειαζόμαστε	χρειάζομαι	VbMnIdPr01PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\53	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\56	TOK	εξής	εξής	AjBaNePlAc
+	SYN	/adjp_ac]
+1\61	TOK	υλικά	υλικό	NoCmNePlAc
+	SYN	/np_ac]
+1\66	PTERM_P	:	:	PTERM_P
+	SYN	[np_ac
+1\68	TOK	μακαρόνια	μακαρόνι	NoCmNePlAc
+	SYN	/np_ac]
+1\77	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\79	TOK	κιμά	κιμάς	NoCmMaSgAc
+	SYN	/np_ac]
+1\83	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\85	TOK	τυρί	τυρί	NoCmNeSgAc
+	SYN	[adjp_ac
+1\90	TOK	τριμμένο	τριμμένος	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\98	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\100	TOK	βούτυρο	βούτυρο	NoCmNeSgAc
+	SYN	/np_ac]
+1\107	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\109	TOK	κρεμμύδια	κρεμμύδι	NoCmNePlAc
+	SYN	/np_ac]
+1\118	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\120	TOK	ντομάτα	ντομάτα	NoCmFeSgAc
+1\128	TOK	πουρέ	πουρές	NoCmMaSgAc
+	SYN	/np_ac]
+1\133	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\135	TOK	κρασί	κρασί	NoCmNeSgAc
+	SYN	/np_ac]
+1\140	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\142	TOK	αλάτι	αλάτι	NoCmNeSgAc
+	SYN	/np_ac]
+1\147	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\149	TOK	πιπέρι	πιπέρι	NoCmNeSgAc
+	SYN	/np_ac]
+1\155	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\157	TOK	μαϊντανό	μαϊντανός	NoCmMaSgAc
+	SYN	/np_ac]
+1\165	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\167	TOK	ζάχαρη	ζάχαρη	NoCmFeSgAc
+	SYN	/np_ac]
+1\173	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\175	TOK	κανέλα	κανέλα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\183	TOK	Χρησιμοποιούμε	χρησιμοποιώ	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\198	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\201	TOK	εξής	εξής	AjBaNePlAc
+	SYN	/adjp_ac]
+1\206	TOK	σκεύη	σκεύος	NoCmNePlAc
+	SYN	/np_ac]
+1\212	OPUNCT	(	(	OPUNCT
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\213	TOK	μαγειρικής	μαγειρικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+1\223	CPUNCT	)	)	CPUNCT
+1\224	PTERM_P	:	:	PTERM_P
+	SYN	[np_ac
+1\226	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\230	TOK	μεγάλη	μεγάλος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\237	TOK	κατσαρόλα	κατσαρόλα	NoCmFeSgAc
+	SYN	/np_ac]
+1\246	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\248	TOK	ένα	ένας	AtIdNeSgAc
+1\252	TOK	σουρωτήρι	σουρωτήρι	NoCmNeSgAc
+	SYN	/np_ac]
+1\261	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\263	TOK	μια	ένας	AtIdFeSgNm
+	SYN	[adjp_nm
+1\267	TOK	μικρή	μικρός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\273	TOK	κατσαρόλα	κατσαρόλα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\284	TOK	Ακολουθούμε	ακολουθώ	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\296	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\299	TOK	εξής	εξής	AjBaNePlAc
+	SYN	/adjp_ac]
+1\304	TOK	βήματα	βήμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\310	PTERM_P	:	:	PTERM_P
+	SYN	[cl
+	SYN	[vg
+1\312	TOK	βράζουμε	βράζω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\320	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\322	TOK	στραγγίζουμε	στραγγίζω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\335	TOK	τα	ο	AtDfNePlAc
+1\338	TOK	μακαρόνια	μακαρόνι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\347	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\349	TOK	περιχύνουμε	περιχύνω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\361	TOK	τα	ο	AtDfNePlAc
+1\364	TOK	μακαρόνια	μακαρόνι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\374	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\377	TOK	βούτυρο	βούτυρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\384	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\386	TOK	σοτάρουμε	σοτάρω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\396	TOK	τον	ο	AtDfMaSgAc
+1\400	TOK	κιμά	κιμάς	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\404	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\406	TOK	σβήνουμε	σβήνω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\415	TOK	τον	ο	AtDfMaSgAc
+1\419	TOK	κιμά	κιμάς	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\424	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\427	TOK	κρασί	κρασί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\432	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\434	TOK	προσθέτουμε	προσθέτω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\446	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\451	TOK	κιμά	κιμάς	NoCmMaSgAc
+1\456	TOK	αλατοπίπερο	αλατοπίπερο	NoCmNeSgAc
+	SYN	/np_ac]
+1\467	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\469	TOK	μαϊντανό	μαϊντανός	NoCmMaSgAc
+	SYN	/np_ac]
+1\477	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\479	TOK	ζάχαρη	ζάχαρη	NoCmFeSgAc
+	SYN	/np_ac]
+1\485	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\487	TOK	κανέλα	κανέλα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\493	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\495	TOK	περιχύνουμε	περιχύνω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\507	TOK	τα	ο	AtDfNePlAc
+1\510	TOK	μακαρόνια	μακαρόνι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\520	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\523	TOK	τη	ο	AtDfFeSgAc
+1\526	TOK	σάλτσα	σάλτσα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\533	TOK	του	ο	AtDfMaSgGe
+1\537	TOK	κιμά	κιμάς	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\541	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\543	TOK	ρίχνουμε	ρίχνω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\552	TOK	τυρί	τυρί	NoCmNeSgAc
+	SYN	[adjp_ac
+1\557	TOK	τριμμένο	τριμμένος	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\565	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

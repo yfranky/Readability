@@ -1,0 +1,19 @@
+1	Αναγγελία	αναγγελία	No	NoCm	Fe|Sg|Nm	7	Sb	_	_	
+2	θυελλωδών	θυελλώδης	Aj	Aj	Ba|Ma|Pl|Ge	3	Atr	_	_	
+3	ανέμων	άνεμος	No	NoCm	Ma|Pl|Ge	1	Atr	_	_	
+4	:	:	PTERM_P	PTERM_P	_	1	AuxG	_	_	
+5	Λόγω	λόγω	AsPp	AsPpSp	_	1	AuxP	_	_	
+6	κακοκαιριάς	κακοκαιριά	No	NoCm	Fe|Sg|Ge	5	Atr	_	_	
+7	απαγορεύθηκε	απαγορεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+8	ο	ο	At	AtDf	Ma|Sg|Nm	9	Det	_	_	
+9	απόπλους	απόπλους	No	NoCm	Ma|Sg|Nm	7	Pnom	_	_	
+10	από	από	AsPp	AsPpSp	_	9	AuxP	_	_	
+11	και	και	Cj	CjCo	_	12	AuxY	_	_	
+12	προς	προς	AsPp	AsPpSp	_	10	Adv	_	_	
+13	τα	ο	At	AtDf	Ne|Pl|Ac	14	Det	_	_	
+14	λιμάνια	λιμάνι	No	NoCm	Ne|Pl|Ac	12	Adv	_	_	
+15	όλης	όλος	Aj	Aj	Ba|Fe|Sg|Ge	17	Atr	_	_	
+16	της	ο	At	AtDf	Fe|Sg|Ge	17	Det	_	_	
+17	χώρας	χώρα	No	NoCm	Fe|Sg|Ge	14	Atr	_	_	
+18	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

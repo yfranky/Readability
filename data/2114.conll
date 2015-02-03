@@ -1,0 +1,102 @@
+1	Ντριιιιν	Ντριιιιν	No	NoPr	Ma|Sg|Nm	2	ExD_Co	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	Coord	_	_	
+3	!	!	PTERM_P	PTERM_P	_	2	ExD_Co	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	κουδούνι	κουδούνι	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	κάνουν	κάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	διάλειμμα	διάλειμμα	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Μαρίνα	Μαρίνα	No	NoPr	Fe|Sg|Nm	9	Sb_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	Τατιάνα	Τατιάνα	No	NoPr	Fe|Sg|Nm	9	Sb_Co	_	_	
+6	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+7	η	ο	At	AtDf	Fe|Sg|Nm	8	Det	_	_	
+8	Σόνια	Σόνια	No	NoPr	Fe|Sg|Nm	9	Sb_Co	_	_	
+9	και	και	Cj	CjCo	_	12	Coord	_	_	
+10	η	ο	At	AtDf	Fe|Sg|Nm	11	Det	_	_	
+11	Όλγα	Όλγα	No	NoPr	Fe|Sg|Nm	9	Sb_Co	_	_	
+12	παίρνουν	παίρνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	15	Pred_Co	_	_	
+13	τα	ο	At	AtDf	Ne|Pl|Ac	14	Det	_	_	
+14	σχοινάκια	σχοινάκι	No	NoCm	Ne|Pl|Ac	12	Obj	_	_	
+15	και	και	Cj	CjCo	_	0	Coord	_	_	
+16	αρχίζουν	αρχίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	15	Pred_Co	_	_	
+17	το	ο	At	AtDf	Ne|Sg|Ac	18	Det	_	_	
+18	παιχνίδι	παιχνίδι	No	NoCm	Ne|Sg|Ac	16	Obj	_	_	
+19	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Χρήστος	Χρήστος	No	NoPr	Ma|Sg|Nm	6	Sb_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	Ιβάν	Ιβάν	No	NoPr	Ma|Sg|Nm	6	Sb_Co	_	_	
+6	και	και	Cj	CjCo	_	9	Coord	_	_	
+7	ο	ο	At	AtDf	Ma|Sg|Nm	8	Det	_	_	
+8	Πέδρο	Πέδρο	No	NoPr	Ma|Sg|Nm	6	Sb_Co	_	_	
+9	παίζουν	παίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+10	μπάσκετ	μπάσκετ	No	NoCm	Ne|Sg|Ge	9	Obj	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Κατερίνα	Κατερίνα	No	NoPr	Fe|Sg|Nm	3	Sb_Co	_	_	
+3	και	και	Cj	CjCo	_	6	Coord	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	Χουάν	Χουάν	No	NoPr	Ma|Sg|Nm	3	Sb_Co	_	_	
+6	πηγαίνουν	πηγαίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	6	AuxP	_	_	
+8	κυλικείο	κυλικείο	No	NoCm	Ne|Sg|Ac	7	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Κατερίνα	Κατερίνα	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+3	θέλει	θέλω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+4	μία	ένας	At	AtId	Fe|Sg|Ac	5	Det	_	_	
+5	τυρόπιτα	τυρόπιτα	No	NoCm	Fe|Sg|Ac	6	Obj_Co	_	_	
+6	και	και	Cj	CjCo	_	3	Coord	_	_	
+7	έναν	ένας	At	AtId	Ma|Sg|Ac	8	Det	_	_	
+8	χυμό	χυμός	No	NoCm	Ma|Sg|Ac	6	Obj_Co	_	_	
+9	πορτοκάλι	πορτοκάλι	No	NoCm	Ne|Sg|Ac	8	Atr	_	_	
+10	και	και	Cj	CjCo	_	0	Coord	_	_	
+
+1	ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Χουάν	Χουάν	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	θέλει	θέλω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ένα	ένας	At	AtId	Ne|Sg|Ac	5	Det	_	_	
+5	κρουασάν	κρουασάν	No	NoCm	Ne|Pl|Ac	6	Obj_Co	_	_	
+6	και	και	Cj	CjCo	_	3	Coord	_	_	
+7	μία	ένας	At	AtId	Fe|Sg|Ac	8	Det	_	_	
+8	λεμονάδα	λεμονάδα	No	NoCm	Fe|Sg|Ac	6	Obj_Co	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Αλεξάντερ	Αλεξάντερ	No	NoPr	Ma|Sg|Nm	3	Sb_Co	_	_	
+3	και	και	Cj	CjCo	_	7	Coord	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	Πάολα	Πάολα	No	NoPr	Fe|Sg|Nm	3	Sb_Co	_	_	
+6	δεν	δεν	Pt	PtNg	_	7	AuxV	_	_	
+7	νιώθουν	νιώθω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+8	καλά	καλά	Ad	Ad	Ba	7	Adv	_	_	
+9	και	και	Cj	CjCo	_	0	Coord	_	_	
+
+1	γι’	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+2	αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Ac|Xx	1	Adv	_	_	
+3	μένουν	μένω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+4	μέσα	μέσα	Ad	Ad	Ba	3	Adv	_	_	
+5	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+6	τάξη	τάξη	No	NoCm	Fe|Sg|Ac	5	Adv	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	συζητούν	συζητώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+9	για	για	AsPp	AsPpSp	_	8	AuxP	_	_	
+10	τα	ο	At	AtDf	Ne|Pl|Ac	11	Det	_	_	
+11	μαθήματά	μάθημα	No	NoCm	Ne|Pl|Ac	9	Adv	_	_	
+12	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	11	Pos	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

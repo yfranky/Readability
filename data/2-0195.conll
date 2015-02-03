@@ -1,0 +1,44 @@
+1	Και	και	Cj	CjCo	_	2	AuxY	_	_	
+2	ενώ	ενώ	Cj	CjCo	_	0	Coord	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	Ιησούς	Ιησούς	No	NoPr	Ma|Sg|Nm	5	Sb	_	_	
+5	μιλούσε	μιλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Obj_Co	_	_	
+6	ακόμη	ακόμα	Ad	Ad	Ba	5	Adv	_	_	
+7	στους	στου	AsPp	AsPpPa	Ma|Pl|Ac	5	AuxP	_	_	
+8	Μαθητές	μαθητής	No	NoCm	Ma|Pl|Ac	7	Adv	_	_	
+9	Του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	8	Pos	_	_	
+10	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+11	ήρθε	έρχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	2	Pred_Co	_	_	
+12	ο	ο	At	AtDf	Ma|Sg|Nm	13	Det	_	_	
+13	Ιούδας	Ιούδας	No	NoPr	Ma|Sg|Nm	11	Sb	_	_	
+14	μαζί	μαζί	Ad	Ad	Ba	11	Adv	_	_	
+15	με	με	AsPp	AsPpSp	_	14	AuxP	_	_	
+16	τους	ο	At	AtDf	Ma|Pl|Ac	17	Det	_	_	
+17	στρατιώτες	στρατιώτης	No	NoCm	Ma|Pl|Ac	18	Atr_Co	_	_	
+18	και	και	Cj	CjCo	_	15	Coord	_	_	
+19	πολύ	πολύ	Ad	Ad	Ba	20	Adv	_	_	
+20	κόσμο	κόσμος	No	NoCm	Ma|Sg|Ac	18	Atr_Co	_	_	
+21	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	2	Obj	_	_	
+2	πλησίασε	πλησιάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	Τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	5	Obj	_	_	
+5	φίλησε	φιλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	Τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	8	Obj	_	_	
+8	χαιρέτησε	χαιρετώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Οι	ο	At	AtDf	Ma|Pl|Nm	2	Det	_	_	
+2	στρατιώτες	στρατιώτης	No	NoCm	Ma|Pl|Nm	3	Sb	_	_	
+3	έπιασαν	πιάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+4	τον	ο	At	AtDf	Ma|Sg|Ac	5	Det	_	_	
+5	Ιησού	Ιησούς	No	NoPr	Ma|Sg|Ac	3	Obj	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	8	Obj	_	_	
+8	πήγαν	πηγαίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+9	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	8	AuxP	_	_	
+10	Καϊάφα	Καϊάφας	No	NoPr	Ma|Sg|Ac	9	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

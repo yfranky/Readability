@@ -1,0 +1,239 @@
+1	Τη	ο	At	AtDf	Fe|Sg|Ac	2	Det	_	_	
+2	νύχτα	νύχτα	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+3	της	ο	At	AtDf	Fe|Sg|Ge	4	Det	_	_	
+4	Ανάστασης	ανάσταση	No	NoCm	Fe|Sg|Ge	2	Atr	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Μαμά	μαμά	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	κάνε	κάνω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	2	Atr	_	_	
+5	γρήγορα	γρήγορα	Ad	Ad	Ba	4	Adv	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	προλάβουμε	προλαβαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	την	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	Ανάσταση	ανάσταση	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	Atr	_	_	
+2	Δέκα	δέκα	Nm	NmCd	Fe|Pl|Ac|Aj	4	Atr	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	ώρα	ώρα	No	NoCm	Fe|Sg|Nm	5	Sb	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	ακόμη	ακόμα	Ad	Ad	Ba	5	Adv	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	μεσάνυχτα	μεσάνυχτα	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	αργούν	αργώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μη	μην	Pt	PtNg	_	2	AuxV	_	_	
+2	βιάζεσαι	βιάζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τα	ο	At	AtDf	Ne|Pl|Nm	4	Det	_	_	
+3	κόκκινα	κόκκινος	Aj	Aj	Ba|Ne|Pl|Nm	4	Atr	_	_	
+4	αυγά	αυγό	No	NoCm	Ne|Pl|Nm	6	Sb	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	πάρετε	παίρνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	μαζί	μαζί	Ad	Ad	Ba	6	Adv	_	_	
+8	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ge|We	7	Adv	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Μπαμπά	μπαμπάς	No	NoCm	Ma|Sg|Ac	7	Obj	_	_	
+3	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+4	τώρα	τώρα	Ad	Ad	Ba	7	Adv	_	_	
+5	θα	θα	Pt	PtFu	_	7	AuxV	_	_	
+6	έχουν	έχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	7	AuxV	_	_	
+7	πάει	πηγαίνω	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Av|Xx	0	Pred	_	_	
+8	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Nm	10	Atr	_	_	
+9	τα	ο	At	AtDf	Ne|Pl|Nm	10	Det	_	_	
+10	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	7	Sb	_	_	
+11	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	7	AuxP	_	_	
+12	εκκλησία	εκκλησία	No	NoCm	Fe|Sg|Ac	11	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κάνε	κάνω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+2	γρήγορα	γρήγορα	Ad	Ad	Ba	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	0	Coord	_	_	
+4	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	5	Obj	_	_	
+5	παρακαλώ	παρακαλώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Εντάξει	εντάξει	Ad	Ad	Ba	6	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+4	δεν	δεν	Pt	PtNg	_	6	AuxV	_	_	
+5	θα	θα	Pt	PtFu	_	6	AuxV	_	_	
+6	αργήσουμε	αργώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+8	Νίκο	Νίκος	No	NoPr	Ma|Sg|Ac	6	Obj	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φεύγουμε	φεύγω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	αμέσως	αμέσως	Ad	Ad	Ba	1	Adv	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	πάρουμε	παίρνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τις	ο	At	AtDf	Fe|Pl|Ac	4	Det	_	_	
+4	λαμπάδες	λαμπάδα	No	NoCm	Fe|Pl|Ac	2	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μην	μην	Pt	PtNg	_	3	AuxV	_	_	
+2	τις	εγώ	Pn	PnPe	Fe|03|Pl|Ac|We	3	Obj	_	_	
+3	ξεχάσουμε	ξεχνώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	αν	αν	Cj	CjSb	_	1	AuxC	_	_	
+4	και	και	Cj	CjCo	_	3	AuxY	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	3	Adv	_	_	
+6	πολύ	πολύ	Ad	Ad	Ba	7	Adv	_	_	
+7	νωρίς	νωρίς	Ad	Ad	Ba	8	Adv	_	_	
+8	ακόμα	ακόμα	Ad	Ad	Ba	5	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κρατώντας	κρατώ	Vb	VbMn	Pp|Xx|Xx|Xx|Xx|Xx|Av|Xx	10	Adv	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	3	Det	_	_	
+3	χέρι	χέρι	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	του	ο	At	AtDf	Ma|Sg|Ge	5	Det	_	_	
+5	μπαμπά	μπαμπάς	No	NoCm	Ma|Sg|Ge	3	Atr	_	_	
+6	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	5	Pos	_	_	
+7	,	,	PUNCT	PUNCT	_	10	AuxX	_	_	
+8	ο	ο	At	AtDf	Ma|Sg|Nm	9	Det	_	_	
+9	Νίκος	Νίκος	No	NoPr	Ma|Sg|Nm	10	Sb	_	_	
+10	μπαίνει	μπαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+11	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	10	AuxP	_	_	
+12	εκκλησία	εκκλησία	No	NoCm	Fe|Sg|Ac	11	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	φώτα	φως	No	NoCm	Ne|Pl|Nm	4	Sb	_	_	
+3	έχουν	έχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	4	AuxV	_	_	
+4	σβήσει	σβήνω	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	οι	ο	At	AtDf	Ma|Pl|Nm	7	Det	_	_	
+7	ψάλτες	ψάλτης	No	NoCm	Ma|Pl|Nm	8	Sb	_	_	
+8	ψάλλουν	ψέλνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σε	σε	AsPp	AsPpSp	_	5	AuxP	_	_	
+2	λίγο	λίγο	Ad	Ad	Ba	1	Adv	_	_	
+3	οι	ο	At	AtDf	Fe|Pl|Nm	4	Det	_	_	
+4	ψαλμωδίες	ψαλμωδία	No	NoCm	Fe|Pl|Nm	5	Sb	_	_	
+5	σταματούν	σταματώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	και	και	Cj	CjCo	_	7	AuxY	_	_	
+7	μέσα	μέσα	Ad	Ad	Ba	5	Adv	_	_	
+8	από	από	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	το	ο	At	AtDf	Ne|Sg|Ac	10	Det	_	_	
+10	Ιερό	ιερός	Aj	Aj	Ba|Ne|Sg|Ac	8	Adv	_	_	
+11	βγαίνει	βγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Obj	_	_	
+12	ο	ο	At	AtDf	Ma|Sg|Nm	13	Det	_	_	
+13	παπάς	παπάς	No	NoCm	Ma|Sg|Nm	11	Sb	_	_	
+14	με	με	AsPp	AsPpSp	_	13	AuxP	_	_	
+15	τα	ο	At	AtDf	Ne|Pl|Ac	18	Det	_	_	
+16	πιο	πιο	Ad	Ad	Ba	17	Adv	_	_	
+17	όμορφα	όμορφος	Aj	Aj	Ba|Ne|Pl|Ac	18	Atr	_	_	
+18	άμφιά	άμφιο	No	NoCm	Ne|Pl|Ac	14	Atr	_	_	
+19	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	18	Pos	_	_	
+20	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	4	AuxP	_	_	
+2	χέρια	χέρι	No	NoCm	Ne|Pl|Ac	1	Adv	_	_	
+3	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	2	Pos	_	_	
+4	κρατάει	κρατώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	αναμμένη	αναμμένος	Vb	VbMn	Pp|Xx|Xx|Sg|Fe|Xx|Pv|Ac	6	Atr	_	_	
+6	λαμπάδα	λαμπάδα	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	2	Sb	_	_	
+2	πλησιάζουν	πλησιάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εκείνος	εκείνος	Pn	PnDm	Ma|03|Sg|Nm|Xx	2	Sb	_	_	
+2	στέκεται	στέκω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	2	AuxP	_	_	
+4	Ωραία	ωραία	Ad	Ad	Ba	5	Adv	_	_	
+5	Πύλη	πύλη	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	ψάλλει	ψέλνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Adv	_	_	
+8	με	με	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	γλυκιά	γλυκός	Aj	Aj	Ba|Fe|Sg|Ac	10	Atr	_	_	
+10	φωνή	φωνή	No	NoCm	Fe|Sg|Ac	8	Adv	_	_	
+11	το	ο	At	AtDf	Ne|Sg|Ac	14	Det	_	_	
+12	"	"	OPUNCT	OPUNCT	_	14	AuxG	_	_	
+13	Δεύτε	δεύτε	No	NoPr	Ma|Sg|Nm	14	Sb	_	_	
+14	λάβετε	λαμβάνω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	17	Obj_Co	_	_	
+15	φως	φως	No	NoCm	Ne|Sg|Ac	14	Obj	_	_	
+16	"	"	CPUNCT	CPUNCT	_	14	AuxG	_	_	
+17	και	και	Cj	CjCo	_	7	Coord	_	_	
+18	δίνει	δίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	17	Obj_Co	_	_	
+19	το	ο	At	AtDf	Ne|Sg|Ac	21	Det	_	_	
+20	Άγιο	άγιος	Aj	Aj	Ba|Ne|Sg|Ac	21	Atr	_	_	
+21	φως	φως	No	NoCm	Ne|Sg|Ac	18	Obj	_	_	
+22	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	2	Sb	_	_	
+2	ανάβουν	ανάβω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τις	ο	At	AtDf	Fe|Pl|Ac	4	Det	_	_	
+4	λαμπάδες	λαμπάδα	No	NoCm	Fe|Pl|Ac	2	Obj	_	_	
+5	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	4	Pos	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	εκκλησία	εκκλησία	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	λάμπει	λάμπω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Νίκος	Νίκος	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	κοιτάζει	κοιτάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	θαμπωμένος	θαμπωμένος	Aj	Aj	Ba|Ma|Sg|Nm	7	Atr	_	_	
+5	την	ο	At	AtDf	Fe|Sg|Ac	7	Det	_	_	
+6	ολόφωτη	ολόφωτος	Aj	Aj	Ba|Fe|Sg|Ac	7	Atr	_	_	
+7	εκκλησία	εκκλησία	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	κόσμος	κόσμος	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	βγαίνει	βγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+5	προαύλιο	προαύλιο	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+6	κρατώντας	κρατώ	Vb	VbMn	Pp|Xx|Xx|Xx|Xx|Xx|Av|Xx	3	Adv	_	_	
+7	τις	ο	At	AtDf	Fe|Pl|Ac	9	Det	_	_	
+8	αναμμένες	αναμμένος	Aj	Aj	Ba|Fe|Pl|Ac	9	Atr	_	_	
+9	λαμπάδες	λαμπάδα	No	NoCm	Fe|Pl|Ac	6	Obj	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	ιερέας	ιερέας	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	ανεβαίνει	ανεβαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+4	μαζί	μαζί	Ad	Ad	Ba	3	Adv	_	_	
+5	με	με	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	τους	ο	At	AtDf	Ma|Pl|Ac	7	Det	_	_	
+7	ψάλτες	ψάλτης	No	NoCm	Ma|Pl|Ac	5	Adv	_	_	
+8	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	7	AuxP	_	_	
+9	εξέδρα	εξέδρα	No	NoCm	Fe|Sg|Ac	8	Atr	_	_	
+10	και	και	Cj	CjCo	_	0	Coord	_	_	
+11	διαβάζει	διαβάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+12	το	ο	At	AtDf	Ne|Sg|Ac	13	Det	_	_	
+13	Ευαγγέλιο	ευαγγέλιο	No	NoCm	Ne|Sg|Ac	11	Obj	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Χριστός	χριστός	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	νίκησε	νικώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τον	ο	At	AtDf	Ma|Sg|Ac	5	Det	_	_	
+5	θάνατο	θάνατος	No	NoCm	Ma|Sg|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αναστήθηκε	ανασταίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

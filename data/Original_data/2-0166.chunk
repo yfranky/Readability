@@ -1,0 +1,622 @@
+	(SENT	<S>
+	SYN	[np_ac
+1\1	TOK	Χριστούγεννα	Χριστούγεννα	NoPrNePlAc
+	SYN	/np_ac]
+1\13	PTERM_P	...	...	PTERM_P
+	SYN	[pp
+1\16	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\20	TOK	κατακαλόκαιρο	κατακαλόκαιρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\33	PTERM_P	!	!	PTERM_P
+1\34	PTERM_P	!	!	PTERM_P
+1\35	PTERM_P	!	!	PTERM_P
+1\36	OPUNCT	(	(	OPUNCT
+	SYN	[pp
+1\37	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\41	TOK	το	ο	AtDfNeSgAc
+1\44	TOK	ημερολόγιο	ημερολόγιο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\55	TOK	της	ο	AtDfFeSgGe
+1\59	TOK	Αγγελικής	Αγγελική	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\68	CPUNCT	)	)	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\71	TOK	Αδελαΐδα	Αδελαΐδα	NoPrFeSgAc
+	SYN	/np_ac]
+1\79	PUNCT	,	,	PUNCT
+	SYN	[np_ge
+1\81	DIG	8	8	DIG
+1\83	TOK	Δεκεμβρίου	Δεκέμβριος	NoCmMaSgGe
+1\94	DIG	1999	1999	DIG
+	SYN	/np_ge]
+1\98	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[advp
+1\101	TOK	Μέσα	μέσα	AdXxBa
+	SYN	[np_ge
+1\106	TOK	Δεκεμβρίου	Δεκέμβριος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/advp]
+1\116	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\118	TOK	Κοντεύει	κοντεύω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\127	TOK	να	να	PtSj
+1\130	TOK	τελειώσει	τελειώνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+1\140	TOK	κι	και	CjCo
+	SYN	[np_nm
+1\143	TOK	αυτή	αυτός	PnDmFe03SgNmXx
+1\148	TOK	η	ο	AtDfFeSgNm
+1\150	TOK	χρονιά	χρονιά	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\156	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\158	TOK	Ήδη	ήδη	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\162	TOK	το	ο	AtDfNeSgNm
+1\165	TOK	καλοκαίρι	καλοκαίρι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\175	TOK	μπήκε	μπαίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\181	TOK	για	για	AsPpSp
+	SYN	[advp
+1\185	TOK	καλά	καλά	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	/cl]
+1\189	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\191	TOK	Τα	ο	AtDfNePlNm
+1\194	TOK	μαγαζιά	μαγαζί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\202	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\207	TOK	πόλη	πόλη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\212	TOK	στολίστηκαν	στολίζω	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\224	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\228	TOK	τα	ο	AtDfNePlAc
+1\231	TOK	Χριστούγεννα	Χριστούγεννα	NoPrNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\243	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\245	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\248	TOK	επόμενο	επόμενος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\256	TOK	Σάββατο	Σάββατο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\264	TOK	θα	θα	PtFu
+1\267	TOK	γίνει	γίνομαι	VbMnIdXx03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\273	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\278	TOK	πόλη	πόλη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\283	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\285	TOK	χριστουγεννιάτικη	χριστουγεννιάτικος	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\303	TOK	παρέλαση	παρέλαση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\311	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\313	TOK	Συμφωνήσαμε	συμφωνώ	VbMnIdPa01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\325	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\328	TOK	τη	ο	AtDfFeSgAc
+1\331	TOK	Ναρίγκα	Ναρίγκα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\339	TOK	να	να	PtSj
+1\342	TOK	πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\346	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\348	TOK	Θα	θα	PtFu
+1\351	TOK	παρελάσουν	παρελαύνω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\362	TOK	διάφορα	διάφορος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\370	TOK	άρματα	άρμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\377	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\381	TOK	θα	θα	PtFu
+1\384	TOK	γίνει	γίνομαι	VbMnIdXx03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\390	TOK	διαγωνισμός	διαγωνισμός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\401	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\403	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\406	TOK	καλύτερο	καλός	AjCpMaSgNm
+	SYN	/adjp_nm]
+1\415	TOK	άρμα	άρμα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\420	TOK	θα	θα	PtFu
+1\423	TOK	πάρει	παίρνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\429	TOK	το	ο	AtDfNeSgAc
+1\432	TOK	βραβείο	βραβείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\439	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\441	TOK	Πέρυσι	πέρυσι	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\448	TOK	θυμάμαι	θυμάμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\456	TOK	ότι	ότι	CjSb
+	SYN	[vg
+1\460	TOK	πήρε	παίρνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\465	TOK	το	ο	AtDfNeSgNm
+1\468	TOK	βραβείο	βραβείο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\476	TOK	το	ο	AtDfNeSgNm
+1\479	TOK	άρμα	άρμα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\484	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\487	TOK	τον	ο	AtDfMaSgAc
+	SYN	[adjp_ac
+1\491	TOK	Άγιο	άγιος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\496	TOK	Βασίλη	Βασίλης	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\503	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\507	TOK	έκανε	κάνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+1\513	TOK	σέρφιγκ	σέρφιγκ	RgFwTr
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\520	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\522	TOK	Μετά	μετά	AsPpSp
+	SYN	[np_ac
+1\527	TOK	την	ο	AtDfFeSgAc
+1\531	TOK	παρέλαση	παρέλαση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\540	TOK	θα	θα	PtFu
+1\543	TOK	πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\548	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\552	TOK	θάλασσα	θάλασσα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\560	TOK	να	να	PtSj
+1\563	TOK	περπατήσουμε	περπατώ	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\576	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\580	TOK	να	να	PtSj
+1\583	TOK	παίξουμε	παίζω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\592	TOK	ρακέτες	ρακέτα	NoCmFePlAc
+	SYN	/np_ac]
+1\599	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\601	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+1\606	TOK	και	και	CjCo
+	SYN	[np_ac
+1\610	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\614	TOK	περασμένη	περασμένος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\624	TOK	Κυριακή	Κυριακή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\631	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\633	TOK	Τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	[cl_r
+	SYN	[pou_advp
+1\638	TOK	που	που	AdXxBa
+	SYN	/pou_advp]
+	SYN	[vg
+1\642	TOK	μπήκε	μπαίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\648	TOK	το	ο	AtDfNeSgAc
+1\651	TOK	καλοκαίρι	καλοκαίρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	[vg
+1\661	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\667	TOK	πολύ	πολύ	AdXxBa
+1\672	TOK	όμορφα	όμορφα	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\679	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\683	TOK	θάλασσα	θάλασσα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\690	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\692	TOK	γιατί	γιατί	CjSb
+	SYN	[vg
+1\698	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\703	TOK	δροσιά	δροσιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\710	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg
+1\714	TOK	μαζεύεται	μαζεύω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\724	TOK	πολύς	πολύς	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\730	TOK	κόσμος	κόσμος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\736	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\738	TOK	Προχτές	προχθές	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\746	TOK	πήραμε	παίρνω	VbMnIdPa01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\753	TOK	τηλέφωνο	τηλέφωνο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\762	TOK	τη	ο	AtDfFeSgAc
+1\765	TOK	θεία	θεία	NoCmFeSgAc
+1\770	TOK	Βαρβάρα	Βαρβάρα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\778	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\783	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\789	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+	SYN	[vg_s
+1\791	TOK	για	για	AsPpSp
+1\795	TOK	να	να	PtSj
+	SYN	[np_ge
+1\798	TOK	της	εγώ	PnPeFe03SgGeWe
+	SYN	/np_ge]
+1\802	TOK	ευχηθούμε	εύχομαι	VbMnIdXx01PlXxPePvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\812	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\816	TOK	γιορτή	γιορτή	NoCmFeSgAc
+1\823	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\826	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\828	TOK	Μας	εγώ	PnPeMa01PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\832	TOK	είπε	λέγω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\837	TOK	ότι	ότι	CjSb
+	SYN	[advp
+1\841	TOK	εκεί	εκεί	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\846	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\850	TOK	χωριό	χωριό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\856	TOK	έπεσε	πέφτω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\862	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\865	TOK	πρώτο	πρώτος	NmOdNeSgAcAj
+	SYN	/adjp_ac]
+1\871	TOK	χιόνι	χιόνι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\877	TOK	και	και	CjCo
+	SYN	[cl_o
+1\881	TOK	ότι	ότι	CjSb
+	SYN	[vg
+1\885	TOK	περιμένουν	περιμένω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+1\896	TOK	και	και	CjCo
+	SYN	[advp
+1\900	TOK	φέτος	φέτος	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\906	TOK	τα	ο	AtDfNePlAc
+1\909	TOK	Χριστούγεννα	Χριστούγεννα	NoPrNePlAc
+	SYN	/np_ac]
+	SYN	[advp
+1\922	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\927	TOK	χιόνι	χιόνι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\932	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\934	TOK	Εγώ	εγώ	PnPeMa01SgNmSt
+	SYN	/np_nm]
+	SYN	[vg
+1\938	TOK	έχω	έχω	VbMnIdPr01SgXxIpAvXx
+1\942	TOK	δει	βλέπω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\946	TOK	χιόνι	χιόνι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[advp
+1\952	TOK	μονάχα	μονάχα	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\959	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\964	TOK	φωτογραφίες	φωτογραφία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\976	TOK	και	και	CjCo
+	SYN	[pp
+1\980	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\985	TOK	τηλεόραση	τηλεόραση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\994	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\996	TOK	Θέλω	θέλω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\1001	TOK	πολύ	πολύ	AdXxBa
+1\1006	TOK	κάποτε	κάποτε	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1013	TOK	να	να	PtSj
+1\1016	TOK	γιορτάσω	γιορτάζω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\1025	TOK	τα	ο	AtDfNePlAc
+1\1028	TOK	Χριστούγεννα	Χριστούγεννα	NoPrNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1041	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1044	TOK	χιόνι	χιόνι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\1050	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\1054	TOK	χωριό	χωριό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1060	TOK	της	ο	AtDfFeSgGe
+1\1064	TOK	γιαγιάς	γιαγιά	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_o]
+1\1072	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\1076	TOK	να	να	PtSj
+1\1079	TOK	παίξω	παίζω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\1085	TOK	χιονοπόλεμο	χιονοπόλεμος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\1096	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+	SYN	[advp
+1\1098	TOK	Όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\1103	TOK	λέει	λέγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+1\1108	TOK	και	και	CjCo
+	SYN	[np_ac
+1\1112	TOK	κείνο	κείνος	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\1118	TOK	το	ο	AtDfNeSgAc
+1\1121	TOK	τραγουδάκι	τραγουδάκι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1132	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1136	TOK	μάθαμε	μαθαίνω	VbMnIdPa01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\1143	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1147	TOK	ελληνικό	ελληνικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\1156	TOK	σχολείο	σχολείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\1163	PTERM_P	:	:	PTERM_P
+	SYN	/cl_r]
+	SYN	/cl_o]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\1166	TOK	Χιόνια	χιόνι	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\1173	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\1177	TOK	καμπαναριό	καμπαναριό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1189	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[np_ac
+1\1193	TOK	Χριστούγεννα	Χριστούγεννα	NoPrNePlAc
+	SYN	/np_ac]
+	SYN	[vg
+1\1206	TOK	σημαίνει	σημαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+1\1214	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\1217	TOK	Χιόνια	χιόνι	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\1224	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\1228	TOK	καμπαναριό	καμπαναριό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1240	TOK	Ξύπνησε	ξυπνώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1248	TOK	όλο	όλος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\1252	TOK	το	ο	AtDfNeSgAc
+1\1255	TOK	χωριό	χωριό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1260	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

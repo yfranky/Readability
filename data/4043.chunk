@@ -1,0 +1,56 @@
+	(SENT	<S>
+	SYN	[cl
+1\1	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\2	TOK	Η	ο	AtDfFeSgNm
+1\4	TOK	Μπολόνια	Μπολόνια	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\13	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\19	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\21	TOK	καλύτερη	καλός	AjCpFeSgNm
+	SYN	/adjp_nm]
+1\30	TOK	ομάδα	ομάδα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\36	TOK	του	ο	AtDfNeSgGe
+1\40	TOK	Καμπιονάτο	καμπιονάτο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\50	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\53	ENUM	-	-	ENUM
+	SYN	[vg
+1\54	TOK	Κοίτα	κοιτάζω	VbMnMpXx02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\59	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[pp
+1\61	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\65	TOK	μένα	εγώ	PnPeMa01SgAcSt
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\70	TOK	η	ο	AtDfFeSgNm
+1\72	TOK	Γιουβέντους	Γιουβέντους	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\84	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\90	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\92	TOK	καλύτερη	καλός	AjCpFeSgNm
+	SYN	/adjp_nm]
+1\101	TOK	ομάδα	ομάδα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\106	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

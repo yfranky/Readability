@@ -1,0 +1,69 @@
+1	Δύο	δύο	Nm	NmCd	Fe|Pl|Ac|Aj	2	Atr	_	_	
+2	κότες	κότα	No	NoCm	Fe|Pl|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+4	δύο	δύο	Nm	NmCd	Fe|Pl|Ac|Aj	6	Atr	_	_	
+5	άσπρες	άσπρος	Aj	Aj	Ba|Fe|Pl|Ac	6	Atr	_	_	
+6	κότες	κότα	No	NoCm	Fe|Pl|Ac	2	Atr	_	_	
+
+1	μπαίνουν	μπαίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μέσα	μέσα	Ad	Ad	Ba	1	Adv	_	_	
+3	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	1	AuxP	_	_	
+4	μπλε	μπλε	Aj	Aj	Ba|Ne|Sg|Ac	6	Atr	_	_	
+5	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	6	Pos	_	_	
+6	μπότες	μπότα	No	NoCm	Fe|Pl|Ac	3	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κοίτα	κοιτάζω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μέσα	μέσα	Ad	Ad	Ba	0	ExD	_	_	
+2	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+3	μία	ένας	At	AtId	Fe|Sg|Ac	4	Det	_	_	
+4	μπότα	μπότα	No	NoCm	Fe|Sg|Ac	2	Adv	_	_	
+
+1	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+2	μία	ένας	Pn	PnId	Fe|03|Sg|Nm|Xx	3	Atr	_	_	
+3	κότα	κότα	No	NoCm	Fe|Sg|Nm	4	Sb	_	_	
+4	τρώει	τρώω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	μπισκότα	μπισκότο	No	NoCm	Ne|Pl|Ac	4	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τρώει	τρώω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μπισκότα	μπισκότο	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	τρώει	τρώω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+5	και	και	Cj	CjCo	_	6	AuxY	_	_	
+6	ρύζι	ρύζι	No	NoCm	Ne|Sg|Ac	4	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μπουμ	μπουμ	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μπουμ	μπουμ	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μπουμ	μπουμ	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βρέχει	βρέχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+2	και	και	Cj	CjCo	_	0	Coord	_	_	
+3	μπουμπουνίζει	μπουμπουνίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+
+1	και	και	Cj	CjCo	_	2	AuxY	_	_	
+2	κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	μπάνιο	μπάνιο	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	6	Det	_	_	
+5	άλλη	άλλος	Pn	PnId	Fe|03|Sg|Nm|Xx	6	Atr	_	_	
+6	κότα	κότα	No	NoCm	Fe|Sg|Nm	2	Sb	_	_	
+
+1	μέσα	μέσα	Ad	Ad	Ba	9	Adv	_	_	
+2	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+3	μπλε	μπλε	Aj	Aj	Ba|Ne|Sg|Ac	2	Atr	_	_	
+4	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	3	Pos	_	_	
+5	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+6	την	ο	At	AtDf	Fe|Sg|Ac	9	Det	_	_	
+7	μπλε	μπλε	Aj	Aj	Ba|Fe|Sg|Ac	9	Atr	_	_	
+8	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	9	Pos	_	_	
+9	μπότα	μπότα	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

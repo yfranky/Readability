@@ -1,0 +1,32 @@
+1	Καλό	καλός	Aj	Aj	Ba|Ne|Sg|Ac	2	Atr	_	_	
+2	Πάσχα	Πάσχα	No	NoPr	Ne|Sg|Ac	0	ExD	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	Πάσχα	Πάσχα	No	NoPr	Ne|Sg|Nm	3	Sb	_	_	
+3	έρχεται	έρχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	βάψετε	βάφω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	3	Adv	_	_	
+6	αβγά	αβγό	No	NoCm	Ne|Pl|Ac	5	Obj	_	_	
+7	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	λουλούδια	λουλούδι	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	κόψετε	κόβω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	1	Atr	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	φτιάξτε	φτιάχνω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	2	Adv	_	_	
+5	γλυκά	γλυκά	Ad	Ad	Ba	4	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	5	AuxP	_	_	
+2	εκκλησία	εκκλησία	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	παπάς	παπάς	No	NoCm	Ma|Sg|Nm	5	Sb	_	_	
+5	καρτερεί	καρτερεί	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+2	αγάπη	αγάπη	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+3	δώστε	δίνω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ζεστό	ζεστός	Aj	Aj	Ba|Ne|Sg|Ac	5	Atr	_	_	
+5	φιλί	φιλί	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,141 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Η	ο	AtDfFeSgNm
+1\3	TOK	οικογένεια	οικογένεια	NoCmFeSgNm
+1\14	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\19	TOK	Με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\22	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\27	TOK	Παναγιώτη	Παναγιώτης	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\36	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\38	TOK	Πηγαίνω	πηγαίνω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\46	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\50	TOK	σχολείο	σχολείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\58	TOK	Κλάριντα	Κλάριντα	NoPrNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\66	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\68	TOK	Είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\74	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\79	TOK	έκτη	έκτος	NmOdFeSgAcAj
+	SYN	/adjp_ac]
+1\84	TOK	τάξη	τάξη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\88	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\90	TOK	Έχω	έχω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\94	TOK	τρεις	τρεις	NmCdFePlAcAj
+	SYN	/adjp_ac]
+1\100	TOK	αδερφές	αδερφές	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\107	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\109	TOK	Ο	ο	AtDfMaSgNm
+1\111	TOK	πατέρας	πατέρας	NoCmMaSgNm
+1\119	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\123	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\129	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\133	TOK	την	ο	AtDfFeSgAc
+1\137	TOK	Άρτα	Άρτα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\142	TOK	και	και	CjCo
+	SYN	[np_nm
+1\146	TOK	η	ο	AtDfFeSgNm
+1\148	TOK	μητέρα	μητέρα	NoCmFeSgNm
+1\155	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+	SYN	[pp
+1\159	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\163	TOK	το	ο	AtDfNeSgAc
+1\166	TOK	Αγρίνιο	Αγρίνιο	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\173	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\175	TOK	Έχω	έχω	VbMnIdPr01SgXxIpAvXx
+1\179	TOK	γεννηθεί	γεννώ	VbMnNfXxXxXxXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\188	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\193	TOK	Αυστραλία	Αυστραλία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\202	PUNCT	,	,	PUNCT
+1\204	TOK	αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[vg
+1\209	TOK	βαφτίστηκα	βαφτίζω	VbMnIdPa01SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\220	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\225	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\231	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\234	TOK	Παναγιώτης	Παναγιώτης	NoPrMaSgNm
+1\245	TOK	Τάσσας	Τάσσας	NoPrMaSgNm
+	SYN	/np_nm]
+1\251	PUNCT	,	,	PUNCT
+	SYN	[np_ge
+1\253	DIG	11	11	DIG
+1\256	TOK	χρονών	χρονών	NoCmMaPlGe
+	SYN	/np_ge]
+	)SENT	</S>

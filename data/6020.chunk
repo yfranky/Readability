@@ -1,0 +1,36 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	ΣΥΜΠΑΝ	σύμπαν	NoCmNeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\9	TOK	Υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\18	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\26	DIG	100.000	100.000	DIG
+1\34	TOK	εκατομμύρια	εκατομμύριο	NoCmNePlAc
+1\46	TOK	γαλαξίες	γαλαξίας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\55	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\58	DIG	1.000	1.000	DIG
+1\64	TOK	εκατομμύρια	εκατομμύριο	NoCmNePlAc
+1\76	TOK	άστρα	άστρο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\82	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\90	TOK	ο	ο	AtDfMaSgNm
+1\92	TOK	καθένας	καθένας	PnIdMa03SgNmXx
+	SYN	/np_nm]
+	SYN	/cl]
+1\99	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

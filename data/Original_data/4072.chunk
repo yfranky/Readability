@@ -1,0 +1,296 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Το	ο	AtDfNeSgNm
+1\4	TOK	μπουζούκι	μπουζούκι	NoCmNeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\15	TOK	Έγχορδο	έγχορδος	AjBaNeSgAc
+1\23	TOK	μουσικό	μουσικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\31	TOK	όργανο	όργανο	NoCmNeSgAc
+	SYN	/np_ac]
+1\37	PUNCT	,	,	PUNCT
+1\39	TOK	από	από	AsPpSp
+1\43	TOK	τα	ο	AtDfNePlAc
+	SYN	[advp
+1\46	TOK	λαϊκότερα	λαϊκός	AdXxCp
+	SYN	/advp]
+	SYN	[np_ge
+1\56	TOK	της	ο	AtDfFeSgGe
+1\60	TOK	οικογένειας	οικογένεια	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\72	TOK	του	ο	AtDfNeSgGe
+1\76	TOK	λαγούτου	λαούτο	NoCmNeSgGe
+	SYN	/np_ge]
+1\84	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\86	TOK	Μοιάζει	μοιάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\94	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\97	TOK	το	ο	AtDfNeSgAc
+1\100	TOK	μαντολίνο	μαντολίνο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\109	PUNCT	,	,	PUNCT
+1\111	TOK	αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\116	TOK	ο	ο	AtDfMaSgNm
+1\118	TOK	λαιμός	λαιμός	NoCmMaSgNm
+1\125	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\129	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\135	TOK	μακρύτερος	μακρύς	AjCpMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\146	TOK	κατά	κατά	AsPpSp
+	SYN	[np_nm
+1\151	DIG	60	60	DIG
+	SYN	[adjp_nm
+1\154	TOK	εκατοστά	εκατοστός	NmOdNePlNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	[advp
+1\163	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\170	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\172	TOK	Το	ο	AtDfNeSgNm
+1\175	TOK	μπουζούκι	μπουζούκι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\185	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\190	TOK	αχλαδόσχημο	αχλαδόσχημος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\202	TOK	ηχείο	ηχείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\208	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\212	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\218	TOK	τρίχορδο	τρίχορδος	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\227	TOK	ή	ή	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\229	TOK	τετράχορδο	τετράχορδος	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\239	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\241	TOK	Παίζεται	παίζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\250	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\253	TOK	λεπτό	λεπτός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\259	TOK	πλήκτρο	πλήκτρο	NoCmNeSgAc
+	SYN	/np_ac]
+1\266	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\268	TOK	την	ο	AtDfFeSgAc
+1\272	TOK	πένα	πένα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\276	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\278	TOK	Οι	ο	AtDfFePlNm
+	SYN	[adjp_nm
+	SYN	[advp
+1\281	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\285	TOK	καλές	καλός	AjBaFePlNm
+	SYN	/adjp_nm]
+1\291	TOK	πένες	πένα	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\297	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\303	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\307	TOK	ξερή	ξερός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\312	TOK	φλούδα	φλούδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\319	TOK	κερασιάς	κερασής	AjBaFeSgGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	/pp]
+1\328	TOK	ή	ή	CjCo
+	SYN	[pp
+1\330	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\334	TOK	φτερό	φτερό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\339	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\341	TOK	Το	ο	AtDfNeSgNm
+1\344	TOK	μπουζούκι	μπουζούκι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\354	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\360	TOK	δεξιοτεχνικό	δεξιοτεχνικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\373	TOK	όργανο	όργανο	NoCmNeSgNm
+	SYN	/np_nm]
+1\379	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\381	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\384	TOK	λεπτό	λεπτό	NoCmNeSgAc
+1\390	TOK	ήχο	ήχος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\393	PUNCT	,	,	PUNCT
+1\395	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\399	TOK	αποτελεί	αποτελώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+1\408	TOK	το	ο	AtDfNeSgNm
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\411	TOK	κύριο	κύριος	AjBaNeSgAc
+1\417	TOK	μελωδικό	μελωδικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\426	TOK	όργανο	όργανο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\433	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\438	TOK	ορχήστρα	ορχήστρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\447	TOK	του	ο	AtDfMaSgGe
+	SYN	[adjp_ge
+1\451	TOK	ρεμπέτικου	ρεμπέτικος	AjBaNeSgGe
+1\462	TOK	και	και	CjCo
+1\466	TOK	λαϊκού	λαϊκός	AjBaNeSgGe
+	SYN	/adjp_ge]
+1\473	TOK	τραγουδιού	τραγούδι	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\483	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\485	TOK	Το	ο	AtDfNeSgNm
+1\488	TOK	μπουζούκι	μπουζούκι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\498	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\502	TOK	σημερινή	σημερινός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\511	TOK	εποχή	εποχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\517	TOK	θεωρείται	θεωρώ	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\527	TOK	βασικό	βασικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\534	TOK	όργανο	όργανο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\541	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\544	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\548	TOK	λαϊκή	λαϊκός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\554	TOK	ορχήστρα	ορχήστρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\562	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\564	TOK	Πρόσφατα	πρόσφατα	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\573	TOK	μάλιστα	μάλιστα	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\581	TOK	το	ο	AtDfNeSgNm
+1\584	TOK	μπουζούκι	μπουζούκι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\594	TOK	έκανε	κάνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+1\600	TOK	και	και	CjCo
+	SYN	[np_ac
+1\604	TOK	την	ο	AtDfFeSgAc
+1\608	TOK	παρουσία	παρουσία	NoCmFeSgAc
+1\617	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	[pp
+1\621	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\625	TOK	Μέγαρο	μέγαρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\632	TOK	Μουσικής	μουσική	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\640	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

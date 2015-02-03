@@ -1,0 +1,134 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	Λίγες	λίγος	AjBaFePlNm
+	SYN	/adjp_nm]
+1\7	TOK	φορές	φορά	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\13	TOK	τον	ο	AtDfMaSgAc
+1\17	TOK	μήνα	μήνας	NoCmMaSgAc
+	SYN	/np_ac]
+1\22	TOK	ή	ή	CjCo
+	SYN	[advp
+1\24	TOK	συχνότερα	συχνά	AdXxCp
+	SYN	/advp]
+1\33	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\35	TOK	αρκεί	αρκώ	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\41	TOK	να	να	PtSj
+1\44	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\50	TOK	μικρές	μικρός	AjBaFePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_nm
+1\57	TOK	οι	ο	AtDfFePlNm
+1\60	TOK	ποσότητες	ποσότητα	NoCmFePlNm
+	SYN	/np_nm]
+1\69	PTERM_P	:	:	PTERM_P
+	SYN	[np_nm
+1\71	TOK	Κρέας	κρέας	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\78	TOK	Λίγες	λίγος	AjBaFePlNm
+	SYN	/adjp_nm]
+1\84	TOK	φορές	φορά	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\90	TOK	την	ο	AtDfFeSgAc
+1\94	TOK	εβδομάδα	εβδομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+1\102	PTERM_P	:	:	PTERM_P
+	SYN	[np_ac
+1\104	TOK	Γλυκά	Γλυκάς	NoPrMaSgAc
+	SYN	/np_ac]
+1\109	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\111	TOK	Αυγά	αυγό	NoCmNePlNm
+	SYN	/np_nm]
+1\115	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\117	TOK	Πουλερικά	πουλερικό	NoCmNePlNm
+	SYN	/np_nm]
+1\126	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\128	TOK	Ψάρια	ψάρι	NoCmNePlAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[advp
+1\135	TOK	Καθημερινά	καθημερινά	AdXxBa
+	SYN	/advp]
+1\145	PTERM_P	:	:	PTERM_P
+	SYN	[np_ac
+1\147	TOK	Τυρί	τυρί	NoCmNeSgAc
+	SYN	/np_ac]
+1\152	TOK	και	και	CjCo
+	SYN	[np_ac
+1\156	TOK	γιαούρτι	γιαούρτι	NoCmNeSgAc
+	SYN	/np_ac]
+1\164	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\166	TOK	Ελαιόλαδο	ελαιόλαδο	NoCmNeSgNm
+	SYN	/np_nm]
+1\176	TOK	και	και	CjCo
+	SYN	[np_ac
+1\180	TOK	ελιές	ελιά	NoCmFePlAc
+	SYN	/np_ac]
+1\185	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\187	TOK	Λαχανικά	λαχανικό	NoCmNePlAc
+	SYN	/np_ac]
+1\195	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\197	TOK	Όσπρια	όσπριο	NoCmNePlAc
+	SYN	/np_ac]
+1\204	TOK	και	και	CjCo
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\208	TOK	ξηροί	ξηρός	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\214	TOK	καρποί	καρπός	NoCmMaPlNm
+	SYN	/np_nm]
+1\220	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\222	TOK	Φρούτα	φρούτο	NoCmNePlNm
+	SYN	/np_nm]
+1\228	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\230	TOK	Ψωμί	ψωμί	NoCmNeSgAc
+	SYN	/np_ac]
+1\234	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\236	TOK	ζυμαρικά	ζυμαρικό	NoCmNePlAc
+	SYN	/np_ac]
+1\244	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\246	TOK	ρύζι	ρύζι	NoCmNeSgAc
+1\251	TOK	πλιγούρι	πλιγούρι	NoCmNeSgAc
+	SYN	/np_ac]
+1\259	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\261	TOK	άλλα	άλλος	PnIdNe03PlAcXx
+	SYN	/np_ac]
+	SYN	[np_nm
+1\266	TOK	δημητριακά	δημητριακά	NoCmNePlNm
+	SYN	/np_nm]
+1\277	TOK	και	και	CjCo
+	SYN	[np_ac
+1\281	TOK	πατάτες	πατάτα	NoCmFePlAc
+	SYN	/np_ac]
+1\288	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

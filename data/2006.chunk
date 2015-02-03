@@ -1,0 +1,56 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\2	TOK	Ποιος	ποιος	PnIrMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\8	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\14	TOK	αυτός	αυτός	PnDmMa03SgNmXx
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\19	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\22	ENUM	-	-	ENUM
+	SYN	[vg
+1\23	TOK	Είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\29	TOK	ο	ο	AtDfMaSgNm
+1\31	TOK	Φίλιππος	Φίλιππος	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\39	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\42	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\43	TOK	Ποια	ποιος	PnIrFe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\48	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\54	TOK	αυτή	αυτός	PnDmFe03SgNmXx
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\58	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\61	ENUM	-	-	ENUM
+	SYN	[vg
+1\62	TOK	Είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\68	TOK	η	ο	AtDfFeSgNm
+1\70	TOK	Χριστίνα	Χριστίνα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\78	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

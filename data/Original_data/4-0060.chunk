@@ -1,0 +1,515 @@
+	(SENT	<S>
+	SYN	[cl
+1\1	OPUNCT	«	«	OPUNCT
+	SYN	[pp
+1\2	TOK	Στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\7	TOK	αρχή	αρχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\12	TOK	του	ο	AtDfNeSgGe
+1\16	TOK	παιχνιδιού	παιχνίδι	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[np_nm
+1\27	TOK	ο	ο	AtDfMaSgNm
+1\29	TOK	κάθε	κάθε	PnIdMa03SgNmXx
+1\34	TOK	παίκτης	παίκτης	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\42	TOK	παίρνει	παίρνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\50	TOK	μια	ένας	AtIdFeSgAc
+1\54	TOK	κάρτα	κάρτα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\60	TOK	ταξιδιού	ταξίδι	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	[cl_r
+	SYN	[np_nm
+1\69	TOK	η	ο	AtDfFeSgNm
+1\71	TOK	οποία	οποίος	PnReFe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\77	TOK	ορίζει	ορίζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\84	TOK	την	ο	AtDfFeSgAc
+1\88	TOK	πορεία	πορεία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\95	TOK	που	που	PnReFe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\99	TOK	πρέπει	πρέπει	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\106	TOK	να	να	PtSj
+1\109	TOK	ακολουθήσει	ακολουθώ	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\120	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\122	TOK	Σκοπός	σκοπός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\129	TOK	του	ο	AtDfNeSgGe
+1\133	TOK	παιχνιδιού	παιχνίδι	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\144	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\150	TOK	να	να	PtSj
+1\153	TOK	επισκεφτούν	επισκέπτομαι	VbMnIdXx03PlXxPePvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+1\165	TOK	οι	ο	AtDfMaPlNm
+1\168	TOK	παίκτες	παίκτης	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\176	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\180	TOK	πέντε	πέντε	NmCdFePlAcAj
+	SYN	/adjp_ac]
+1\186	TOK	πρωτεύουσες	πρωτεύουσα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\198	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\202	TOK	ορίζονται	ορίζω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\212	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\216	TOK	την	ο	AtDfFeSgAc
+1\220	TOK	κάρτα	κάρτα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\226	TOK	ταξιδιών	ταξίδι	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\235	TOK	του	ο	AtDfMaSgGe
+1\239	TOK	κάθε	κάθε	PnIdMa03SgGeXx
+1\244	TOK	παίκτη	παίκτης	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\250	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\252	TOK	Υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\261	TOK	τριών	τρεις	NmCdNePlGeAj
+	SYN	/adjp_ge]
+1\267	TOK	ειδών	είδος	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\273	TOK	διαδρομές	διαδρομή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\283	TOK	που	που	PnReNe03PlAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\287	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\294	TOK	να	να	PtSj
+1\297	TOK	ακολουθήσει	ακολουθώ	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+1\309	TOK	ο	ο	AtDfMaSgNm
+1\311	TOK	κάθε	κάθε	PnIdMa03SgNmXx
+1\316	TOK	παίκτης	παίκτης	NoCmMaSgNm
+	SYN	/np_nm]
+1\323	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\325	TOK	οι	ο	AtDfFePlNm
+	SYN	[adjp_nm
+1\328	TOK	επίγειες	επίγειος	AjBaFePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\336	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\338	TOK	οι	ο	AtDfFePlNm
+	SYN	[adjp_nm
+1\341	TOK	θαλάσσιες	θαλάσσιος	AjBaFePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\351	TOK	και	και	CjCo
+	SYN	[np_nm
+1\355	TOK	οι	ο	AtDfFePlNm
+	SYN	[adjp_nm
+1\358	TOK	εναέριες	εναέριος	AjBaFePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\366	PTERM_P	...	...	PTERM_P
+	SYN	/cl_o]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\371	TOK	Κανόνες	κανόνας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\379	TOK	που	που	PnReMa03PlAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\383	TOK	δεν	δεν	PtNg
+1\387	TOK	πρέπει	πρέπει	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	[cl_o
+	SYN	[vg_s
+1\394	TOK	να	να	PtSj
+1\397	TOK	ξεχνιούνται	ξεχνώ	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\408	PTERM_P	:	:	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\411	ENUM	1.	1.	ENUM
+	SYN	[np_nm
+1\414	TOK	Οι	ο	AtDfMaPlNm
+1\417	TOK	παίκτες	παίκτης	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\425	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\431	TOK	υποχρεωτικό	υποχρεωτικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\443	TOK	να	να	PtSj
+1\446	TOK	περάσουν	περνώ	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+1\455	TOK	και	και	CjCo
+	SYN	[pp
+1\459	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\463	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\467	TOK	πέντε	πέντε	NmCdFePlAcAj
+	SYN	/adjp_ac]
+1\473	TOK	πρωτεύουσες	πρωτεύουσα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\484	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\486	TOK	Πρέπει	πρέπει	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\493	TOK	πάντα	πάντα	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\499	TOK	να	να	PtSj
+1\502	TOK	περνούν	περνώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\510	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\514	TOK	μια	ένας	AtIdFeSgAc
+1\518	TOK	πρωτεύουσα	πρωτεύουσα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\528	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[advp
+1\530	TOK	πριν	πριν	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\535	TOK	πάνε	πηγαίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\540	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\543	TOK	κάποια	κάποιος	PnIdFe03SgAcXx
+	SYN	[adjp_ac
+1\550	TOK	μικρή	μικρός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\556	TOK	πόλη	πόλη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\561	TOK	για	για	AsPpSp
+1\565	TOK	να	να	PtSj
+1\568	TOK	πάρουν	παίρνω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\575	TOK	μια	ένας	AtIdFeSgAc
+1\579	OPUNCT	«	«	OPUNCT
+	SYN	[adjp_ac
+1\580	TOK	ταχυδρομική	ταχυδρομικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\592	TOK	κάρτα	κάρτα	NoCmFeSgAc
+1\597	CPUNCT	»	»	CPUNCT
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\598	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\600	TOK	Αυτή	αυτός	PnDmFe03SgNmXx
+	SYN	/np_nm]
+	SYN	[np_ge
+1\605	TOK	τους	εγώ	PnPeMa03PlGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\610	TOK	δίνει	δίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\616	TOK	οδηγίες	οδηγία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\624	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\628	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\632	TOK	επόμενη	επόμενος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\640	TOK	πορεία	πορεία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\647	TOK	που	που	PnReFe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\651	TOK	πρέπει	πρέπει	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\658	TOK	να	να	PtSj
+1\661	TOK	ακολουθήσουν	ακολουθώ	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\673	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\676	ENUM	2.	2.	ENUM
+	SYN	[np_nm
+1\679	TOK	Κανείς	κανένας	PnIdMa03SgNmXx
+1\686	TOK	παίκτης	παίκτης	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\694	TOK	δεν	δεν	PtNg
+1\698	TOK	πρέπει	πρέπει	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\705	TOK	να	να	PtSj
+1\708	TOK	μείνει	μένω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\715	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\719	TOK	ίδιο	ίδιος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\724	TOK	σημείο	σημείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\731	TOK	για	για	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\735	TOK	περισσότερους	πολύς	AjCpMaPlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\749	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\753	TOK	δύο	δύο	NmCdMaPlAcAj
+	SYN	/adjp_ac]
+1\757	TOK	γύρους	γύρος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\763	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_c
+1\765	TOK	Αν	αν	CjSb
+	SYN	[vg
+1\768	TOK	ταξιδεύει	ταξιδεύω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\778	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\781	TOK	πλοίο	πλοίο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\787	TOK	ή	ή	CjCo
+	SYN	[pp
+1\789	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\792	TOK	αεροπλάνο	αεροπλάνο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\802	TOK	για	για	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\806	TOK	δύο	δύο	NmCdMaPlAcAj
+	SYN	/adjp_ac]
+1\810	TOK	γύρους	γύρος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\816	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\818	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\823	TOK	τρίτο	τρίτος	NmOdMaSgAcAj
+	SYN	/adjp_ac]
+1\829	TOK	γύρο	γύρος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_c]
+	SYN	[cl
+	SYN	[vg
+1\834	TOK	θα	θα	PtFu
+1\837	TOK	πρέπει	πρέπει	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\844	TOK	υποχρεωτικά	υποχρεωτικά	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\856	TOK	να	να	PtSj
+1\859	TOK	επιλέξει	επιλέγω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\868	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\872	TOK	επίγεια	επίγειος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\880	TOK	διαδρομή	διαδρομή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\888	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\891	ENUM	3.	3.	ENUM
+	SYN	[np_nm
+1\894	TOK	Οι	ο	AtDfFePlNm
+	SYN	[adjp_nm
+1\897	TOK	ταχυδρομικές	ταχυδρομικός	AjBaFePlNm
+	SYN	/adjp_nm]
+1\910	TOK	κάρτες	κάρτα	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\917	TOK	πρέπει	πρέπει	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\924	TOK	να	να	PtSj
+1\927	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\933	TOK	συνεχώς	συνεχώς	AdXxBa
+	SYN	/advp]
+1\941	TOK	φανερές	φανερός	AjBaFePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\949	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\952	TOK	όλους	όλος	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\958	TOK	τους	ο	AtDfMaPlAc
+1\963	TOK	παίκτες	παίκτης	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\970	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\973	ENUM	4.	4.	ENUM
+	SYN	[vg
+1\976	TOK	Είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\982	TOK	υποχρεωτικό	υποχρεωτικός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[np_nm
+1\994	TOK	οι	ο	AtDfMaPlNm
+1\997	TOK	παίκτες	παίκτης	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg_s
+1\1005	TOK	να	να	PtSj
+1\1008	TOK	επιλέγουν	επιλέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\1018	TOK	την	ο	AtDfFeSgAc
+1\1022	TOK	κάρτα	κάρτα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1028	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1031	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\1035	TOK	υψηλότερη	ψηλός	AjCpFeSgAc
+1\1045	TOK	χρηματική	χρηματικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\1055	TOK	αξία	αξία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\1059	CPUNCT	»	»	CPUNCT
+	SYN	/cl_o]
+1\1060	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

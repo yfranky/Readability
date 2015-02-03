@@ -1,0 +1,247 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Καλημέρα	καλημέρα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Καλημέρα	καλημέρα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	2	Obj	_	_	
+2	θέλετε	θέλω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	2	Sb	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ψάχνουμε	ψάχνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	ένα	ένας	At	AtId	Ne|Sg|Ac	4	Det	_	_	
+4	δέμα	δέμα	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πώς	πώς	Ad	Ad	Ba	4	Adv	_	_	
+3	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	4	Obj	_	_	
+4	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Αγγέλα	Αγγέλα	No	NoPr	Fe|Sg|Nm	3	Atr	_	_	
+3	Παυλίδου	Παυλίδου	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ένα	ένας	At	AtId	Ne|Sg|Nm	3	Det	_	_	
+3	λεπτό	λεπτό	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+4	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ορίστε	ορίζω	Ad	Ad	Ba	0	Coord	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+3	δέμα	δέμα	No	NoCm	Ne|Sg|Nm	1	ExD_Co	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ευχαριστώ	ευχαριστώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	ανοίγουν	ανοίγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	δέμα	δέμα	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	δέμα	δέμα	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ένα	ένας	At	AtId	Ne|Sg|Ac	5	Det	_	_	
+5	βιβλίο	βιβλίο	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πόσους	πόσος	Aj	Aj	Ba|Ma|Pl|Ac	2	Atr	_	_	
+2	μήνες	μήνας	No	NoCm	Ma|Pl|Ac	3	Obj	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	χρόνος	χρόνος	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+
+1	Πόσες	πόσος	Pn	PnIr	Fe|03|Pl|Ac|Xx	2	Atr	_	_	
+2	μέρες	μέρα	No	NoCm	Fe|Pl|Ac	3	Obj	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	εβδομάδα	εβδομάδα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πόσες	πόσος	Pn	PnIr	Fe|03|Pl|Ac|Xx	2	Atr	_	_	
+2	ώρες	ώρα	No	NoCm	Fe|Pl|Ac	3	Obj	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	μέρα	μέρα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κάνε	κάνω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	πρόσθεση	πρόσθεση	No	NoCm	Fe|Sg|Nm	1	Pnom	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μπορείς	μπορώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τη	ο	At	AtDf	Fe|Sg|Ac	2	Det	_	_	
+2	σελίδα	σελίδα	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+3	για	για	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	βρεις	βρίσκω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	3	Atr	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-12	-12	DIG	DIG	_	2	Atr	_	_	
+2	μήνες	μήνας	No	NoCm	Ma|Pl|Ac	3	Obj	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	χρόνος	χρόνος	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-7	-7	DIG	DIG	_	2	Atr	_	_	
+2	μέρες	μέρα	No	NoCm	Fe|Pl|Ac	3	Obj	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	εβδομάδα	εβδομάδα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-24	-24	DIG	DIG	_	2	Atr	_	_	
+2	ώρες	ώρα	No	NoCm	Fe|Pl|Ac	3	Obj	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	μέρα	μέρα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	σελίδα	σελίδα	No	NoCm	Fe|Sg|Nm	2	Pnom	_	_	
+5	43	43	DIG	DIG	_	4	Atr	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	γράμματα	γράμμα	No	NoCm	Ne|Pl|Nm	1	Pnom	_	_	
+3	γεμάτη	γεμάτος	Aj	Aj	Ba|Fe|Sg|Nm	2	Atr	_	_	
+4	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+
+1	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	εικόνες	εικόνα	No	NoCm	Fe|Pl|Ac	3	Obj_Co	_	_	
+3	και	και	Cj	CjCo	_	1	Coord	_	_	
+4	ειδήσεις	είδηση	No	NoCm	Fe|Pl|Ac	3	Obj_Co	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κάθε	κάθε	Pn	PnId	Fe|03|Sg|Nm|Xx	2	Atr	_	_	
+2	μέρα	μέρα	No	NoCm	Fe|Sg|Nm	4	Sb	_	_	
+3	τη	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	4	Obj	_	_	
+4	διαβάζεις	διαβάζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+
+1	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+2	περίπτερο	περίπτερο	No	NoCm	Ne|Sg|Ac	1	Adv	_	_	
+3	τη	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	4	Obj	_	_	
+4	βρίσκεις	βρίσκω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Nm|Xx	2	Sb	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	3	Obj	_	_	
+3	βρήκα	βρίσκω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+3	βιβλίο	βιβλίο	No	NoCm	Ne|Sg|Nm	1	Pnom	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Για	για	AsPp	AsPpSp	_	6	AuxP	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	βιβλίο	βιβλίο	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+5	δε	δεν	Pt	PtNg	_	6	AuxV	_	_	
+6	λέμε	λέγω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	"	"	OPUNCT	OPUNCT	_	11	AuxG	_	_	
+8	τη	ο	At	AtDf	Fe|Sg|Ac	9	Det	_	_	
+9	"	"	CPUNCT	CPUNCT	_	11	AuxG	_	_	
+10	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+11	λέμε	λέγω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	6	Obj	_	_	
+12	"	"	OPUNCT	OPUNCT	_	11	AuxG	_	_	
+13	το	ο	At	AtDf	Ne|Sg|Ac	12	Det	_	_	
+14	"	"	CPUNCT	CPUNCT	_	13	AuxG	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	2	Obj	_	_	
+2	διαβάζεις	διαβάζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+4	δεν	δεν	Pt	PtNg	_	6	AuxV	_	_	
+5	τη	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	6	Obj	_	_	
+6	διαβάζεις	διαβάζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	2	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Έχεις	έχω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	δίκιο	δίκιο	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εεε	Εεε	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+2	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	εφημερίδα	εφημερίδα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	αγοράσουμε	αγοράζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	μια	ένας	At	AtId	Fe|Sg|Ac	5	Det	_	_	
+5	εφημερίδα	εφημερίδα	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+6	αμέσως	αμέσως	Ad	Ad	Ba	3	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Εδώ	εδώ	Ad	Ad	Ba	3	Adv	_	_	
+3	γράφει	γράφω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	έναν	ένας	At	AtId	Ma|Sg|Ac	6	Det	_	_	
+6	θησαυρό	θησαυρός	No	NoCm	Ma|Sg|Ac	4	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	4	Det	_	_	
+2	νέο	νέος	Aj	Aj	Ba|Ne|Sg|Nm	4	Atr	_	_	
+3	μικρό	μικρός	Aj	Aj	Ba|Ne|Sg|Nm	4	Atr	_	_	
+4	λεξικό	λεξικός	Aj	Aj	Ba|Ma|Sg|Ac	0	ExD	_	_	
+5	της	ο	At	AtDf	Fe|Sg|Ge	7	Det	_	_	
+6	ελληνικής	ελληνικός	Aj	Aj	Ba|Fe|Sg|Ge	7	Atr	_	_	
+7	γλώσσας	γλώσσα	No	NoCm	Fe|Sg|Ge	4	Atr	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ένας	ένας	At	AtId	Ma|Sg|Nm	2	Det	_	_	
+2	θησαυρός	θησαυρός	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+3	για	για	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	κάθε	κάθε	Pn	PnId	Ma|03|Sg|Ac|Xx	5	Atr	_	_	
+5	μαθητή	μαθητής	No	NoCm	Ma|Sg|Ac	3	Atr	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+2	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	3	Obj	_	_	
+3	βρείτε	βρίσκω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+5	βιβλιοπωλείο	βιβλιοπωλείο	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+6	"	"	OPUNCT	OPUNCT	_	8	AuxG	_	_	
+7	Το	ο	At	AtDf	Ne|Sg|Nm	8	Det	_	_	
+8	Χελιδόνι	χελιδόνι	No	NoCm	Ne|Sg|Nm	3	ExD	_	_	
+9	"	"	CPUNCT	CPUNCT	_	8	AuxG	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	γρήγορα	γρήγορα	Ad	Ad	Ba	2	Adv	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	2	AuxP	_	_	
+5	βιβλιοπωλείο	βιβλιοπωλείο	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+6	να	να	Pt	PtSj	_	7	AuxV	_	_	
+7	βρούμε	βρίσκω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+8	το	ο	At	AtDf	Ne|Sg|Ac	9	Det	_	_	
+9	λεξικό	λεξικός	Aj	Aj	Ba|Ne|Sg|Ac	7	Obj	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

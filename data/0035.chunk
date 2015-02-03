@@ -1,0 +1,171 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Ο	ο	AtDfMaSgNm
+1\3	TOK	Χασάν	Χασάν	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\9	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\15	TOK	χασάπης	χασάπης	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\22	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\25	TOK	Έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\30	TOK	χασάπικο	χασάπικος	AjBaMaSgAc
+1\39	TOK	δικό	δικός	AjBaNeSgAc
+1\44	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\47	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\50	TOK	Κόβει	κόβω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\56	TOK	το	ο	AtDfNeSgNm
+1\59	TOK	κρέας	κρέας	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\65	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\68	TOK	το	ο	AtDfNeSgAc
+1\71	TOK	μαχαίρι	μαχαίρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\80	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\84	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\89	TOK	πάντα	πάντα	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\95	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\99	TOK	ένα	ένας	AtIdNeSgAc
+1\103	TOK	χέρι	χέρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\107	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\110	TOK	Ο	ο	AtDfMaSgNm
+1\112	TOK	Χουσεΐν	Χουσεΐν	RgFwTr
+	SYN	/np_nm]
+	SYN	[vg
+1\120	TOK	πουλάει	πουλώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\128	TOK	χαλιά	χαλί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\133	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\136	TOK	Πουλάει	πουλώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\144	TOK	χαλιά	χαλί	NoCmNePlAc
+	SYN	[adjp_ac
+1\150	TOK	χρωματιστά	χρωματιστός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\160	PUNCT	,	,	PUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\163	TOK	χαλιά	χαλί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[advp
+1\169	TOK	φτηνά	φτηνός	AdXxBa
+	SYN	/advp]
+1\174	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\176	TOK	χαλιά	χαλί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\182	TOK	ακριβά	ακριβός	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\188	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\191	TOK	Ο	ο	AtDfMaSgNm
+1\193	TOK	Αχμέτ	Αχμέτ	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\199	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\202	TOK	ένα	ένας	AtIdNeSgAc
+1\206	TOK	χαρτί	χαρτί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\213	TOK	σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\220	TOK	πάει	πηγαίνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\225	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\229	TOK	παζάρι	παζάρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+	SYN	[vg_s
+1\237	TOK	να	να	PtSj
+1\240	TOK	πάρει	παίρνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\246	TOK	χόρτα	χόρτο	NoCmNePlAc
+	SYN	/np_ac]
+1\252	TOK	και	και	CjCo
+	SYN	[np_ac
+1\256	TOK	τυρί	τυρί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+	)SENT	</S>
+	(SENT	<S>
+1\262	TOK	κι	και	CjCo
+	SYN	[np_ac
+1\265	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\269	TOK	χοντρό	χοντρός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\276	TOK	παντζάρι	παντζάρι	NoCmNeSgAc
+	SYN	/np_ac]
+1\284	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

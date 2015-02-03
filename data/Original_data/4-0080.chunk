@@ -1,0 +1,319 @@
+	(SENT	<S>
+1\1	OPUNCT	«	«	OPUNCT
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\2	TOK	Δύσκολοι	δύσκολος	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\11	TOK	αποχαιρετισμοί	αποχαιρετισμός	NoCmMaPlNm
+	SYN	/np_nm]
+1\25	PTERM_P	:	:	PTERM_P
+	SYN	[np_nm
+1\27	TOK	Ο	ο	AtDfMaSgNm
+1\29	TOK	μπαμπάς	μπαμπάς	NoCmMaSgNm
+1\37	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+1\40	CPUNCT	»	»	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\43	TOK	Κοινωνικό	κοινωνικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\53	TOK	δράμα	δράμα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\59	TOK	ελληνικής	ελληνικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\69	TOK	παραγωγής	παραγωγή	NoCmFeSgGe
+1\79	DIG	2002	2002	DIG
+	SYN	/np_ge]
+1\83	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\85	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\88	TOK	σκηνοθεσία	σκηνοθεσία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\99	TOK	Πέννυς	Πέννυς	NoPrFeSgNm
+1\106	TOK	Παναγιωτοπούλου	Παναγιωτοπούλου	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\122	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\125	TOK	τους	ο	AtDfMaPlAc
+1\130	TOK	Γιώργο	Γιώργος	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\137	TOK	Καραγιάννη	Καραγιάννης	NoPrFeSgVo
+1\147	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\149	TOK	Χρήστο	Χρήστος	NoPrMaSgAc
+1\156	TOK	Στέργιογλου	Στέργιογλου	NoPrMaSgAc
+	SYN	/np_ac]
+1\167	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\169	TOK	Ιωάννα	Ιωάννα	NoPrFeSgNm
+1\176	TOK	Τσιριγκούλη	Τσιριγκούλη	NoPrFeSgNm
+	SYN	/np_nm]
+1\187	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\189	TOK	Στέλιο	Στέλιος	NoPrMaSgAc
+1\196	TOK	Μάινα	Μάινα	NoPrMaSgAc
+	SYN	/np_ac]
+1\201	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\204	TOK	Ο	ο	AtDfMaSgNm
+1\206	TOK	Ηλίας	Ηλίας	NoPrMaSgNm
+	SYN	/np_nm]
+1\211	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\213	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\217	TOK	δεκάχρονο	δεκάχρονος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\227	TOK	αγόρι	αγόρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\233	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\237	TOK	ζει	ζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\241	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\246	TOK	Αθήνα	Αθήνα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\252	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\256	TOK	τέλη	τέλος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\261	TOK	της	ο	AtDfFeSgGe
+1\265	TOK	δεκαετίας	δεκαετία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\275	TOK	του	ο	AtDfMaSgGe
+1\279	DATE	'60	'60	DATE
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	[advp
+1\283	TOK	ξαφνικά	ξαφνικά	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\291	TOK	χάνει	χάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\297	TOK	τον	ο	AtDfMaSgAc
+1\301	TOK	πατέρα	πατέρας	NoCmMaSgAc
+1\308	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\311	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\313	TOK	Η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\315	TOK	υπόλοιπη	υπόλοιπος	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\324	TOK	οικογένεια	οικογένεια	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\335	TOK	προσπαθεί	προσπαθώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\345	TOK	να	να	PtSj
+1\348	TOK	συνηθίσει	συνηθίζω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\358	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\362	TOK	καινούρια	καινούριος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\372	TOK	πραγματικότητα	πραγματικότητα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\386	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\388	TOK	καθένας	καθένας	PnIdMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[pp
+1\396	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\399	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\402	TOK	δικό	δικός	AjBaNeSgAc
+1\407	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/adjp_ac]
+1\411	TOK	τρόπο	τρόπος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\416	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\418	TOK	εκτός	εκτός	AdXxBa
+	SYN	[pp
+1\424	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\428	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\431	TOK	μικρό	μικρός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\437	TOK	αγόρι	αγόρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\443	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\447	TOK	αρνείται	αρνιέμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	[cl_o
+	SYN	[vg_s
+1\456	TOK	να	να	PtSj
+1\459	TOK	πιστέψει	πιστεύω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+	SYN	[cl_o
+1\468	TOK	ότι	ότι	CjSb
+	SYN	[np_nm
+1\472	TOK	ο	ο	AtDfMaSgNm
+1\474	TOK	πατέρας	πατέρας	NoCmMaSgNm
+1\482	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\486	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\492	TOK	νεκρός	νεκρός	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\498	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\501	TOK	Η	ο	AtDfFeSgNm
+1\503	TOK	ταινία	ταινία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\510	TOK	συμμετείχε	συμμετέχω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\521	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\525	TOK	διεθνές	διεθνής	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\533	TOK	Φεστιβάλ	Φεστιβάλ	RgFwTr
+	SYN	/np_ac]
+	SYN	[np_ge
+1\542	TOK	του	ο	AtDfNeSgGe
+1\546	TOK	Λοκάρνο	Λοκάρνο	NoPrNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\553	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[advp
+1\555	TOK	όπου	όπου	AdXxBa
+	SYN	/advp]
+1\560	TOK	και	και	CjCo
+	SYN	[np_nm
+1\564	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\566	TOK	9χρονος	9χρονος	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\574	TOK	πρωταγωνιστής	πρωταγωνιστής	NoCmMaSgNm
+	SYN	/np_nm]
+1\588	TOK	της	ο	AtDfFeSgGe
+	SYN	[np_nm
+1\592	TOK	Γιώργος	Γιώργος	NoPrMaSgNm
+1\600	TOK	Καραγιάννης	Καραγιάννης	NoPrMaSgNm
+	SYN	/np_nm]
+1\611	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\613	TOK	τιμήθηκε	τιμώ	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\622	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\625	TOK	τη	ο	AtDfFeSgAc
+1\628	TOK	Χρυσή	χρυσή	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\634	TOK	Λεοπάρδαλη	λεοπάρδαλη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\645	TOK	Α'	Α'	NmOdMaSgNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\648	TOK	Ανδρικού	ανδρικός	AjBaMaSgGe
+	SYN	/adjp_ge]
+1\657	TOK	Ρόλου	ρόλος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/cl_r]
+	SYN	/cl]
+1\662	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\664	TOK	Επίσης	επίσης	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\671	TOK	τιμήθηκε	τιμώ	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\680	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\683	TOK	δύο	δύο	NmCdNePlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\687	TOK	κρατικά	κρατικός	AjBaNePlNm
+1\695	TOK	κινηματογραφικά	κινηματογραφικός	AjBaNePlNm
+	SYN	/adjp_nm]
+1\711	TOK	βραβεία	βραβείο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\719	TOK	ποιότητας	ποιότητα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[pp
+1\729	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\733	TOK	43ο	43ος	NmOdMaSgAcAj
+	SYN	/adjp_ac]
+1\737	TOK	Φεστιβάλ	Φεστιβάλ	RgFwTr
+	SYN	/np_ac]
+	SYN	[np_ge
+1\746	TOK	Θεσσαλονίκης	Θεσσαλονίκη	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\758	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

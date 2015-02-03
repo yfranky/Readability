@@ -1,0 +1,173 @@
+1	Ψώνια	ψώνιο	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+3	πολυκατάστημα	πολυκατάστημα	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Ιφιγένεια	Ιφιγένεια	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+3	πηγαίνει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τη	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	συμμαθήτριά	συμμαθήτρια	No	NoCm	Fe|Sg|Ac	4	Adv	_	_	
+7	της	μου	Pn	PnPo	Fe|03|Sg|Ge|Xx	6	Pos	_	_	
+8	τη	ο	At	AtDf	Fe|Sg|Ac	9	Det	_	_	
+9	Μαριαλένα	Μαριαλένα	No	NoPr	Fe|Sg|Ac	3	Adv	_	_	
+10	σ’	σε	AsPp	AsPpSp	_	3	AuxP	_	_	
+11	ένα	ένας	At	AtId	Ne|Sg|Ac	13	Det	_	_	
+12	καινούριο	καινούριος	Aj	Aj	Ba|Ne|Sg|Ac	13	Atr	_	_	
+13	πολυκατάστημα	πολυκατάστημα	No	NoCm	Ne|Sg|Ac	10	Adv	_	_	
+14	που	που	Pn	PnRe	Ne|03|Sg|Nm|Xx	15	Sb	_	_	
+15	άνοιξε	ανοίγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	13	Atr	_	_	
+16	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	15	AuxP	_	_	
+17	περιοχή	περιοχή	No	NoCm	Fe|Sg|Ac	16	Adv	_	_	
+18	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	17	Pos	_	_	
+19	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ενδιαφέρονται	ενδιαφέρω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	αγοράσουν	αγοράζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	καλλυντικά	καλλυντικό	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	3	Sb	_	_	
+3	θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+4	ένα	ένας	At	AtId	Ne|Sg|Ac	5	Det	_	_	
+5	άρωμα	άρωμα	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	ίσως	ίσως	Ad	Ad	Ba	8	Adv	_	_	
+8	ένα	ένας	At	AtId	Ne|Sg|Ac	9	Det	_	_	
+9	κραγιόν	κραγιόν	No	NoCm	Ne|Pl|Ac	6	ExD_Co	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	2	Sb	_	_	
+2	θέλεις	θέλω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τίποτα	τίποτα	Pn	PnId	Ne|03|Sg|Ac|Xx	2	Obj	_	_	
+4	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+5	δω	βλέπω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Adv	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Adv	_	_	
+2	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	3	Sb	_	_	
+3	θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ένα	ένας	At	AtId	Ne|Sg|Ac	5	Det	_	_	
+5	ζευγάρι	ζευγάρι	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	γαλάζια	γαλάζιος	Aj	Aj	Ba|Ne|Pl|Ac	7	Atr	_	_	
+7	τσιμπιδάκια	τσιμπιδάκι	No	NoCm	Ne|Pl|Ac	5	Atr	_	_	
+8	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+9	να	να	Pt	PtSj	_	11	AuxV	_	_	
+10	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	11	Obj	_	_	
+11	ταιριάξω	ταιριάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Adv	_	_	
+12	με	με	AsPp	AsPpSp	_	11	AuxP	_	_	
+13	το	ο	At	AtDf	Ne|Sg|Ac	17	Det	_	_	
+14	καινούριο	καινούριος	Aj	Aj	Ba|Ne|Sg|Ac	17	Atr	_	_	
+15	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	17	Pos	_	_	
+16	γαλάζιο	γαλάζιος	Aj	Aj	Ba|Ne|Sg|Ac	17	Atr	_	_	
+17	φόρεμα	φόρεμα	No	NoCm	Ne|Sg|Ac	12	Adv	_	_	
+18	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Θέλετε	θέλω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	βοήθεια	βοήθεια	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxV	_	_	
+2	Θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	ένα	ένας	At	AtId	Ne|Sg|Ac	4	Det	_	_	
+4	άρωμα	άρωμα	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+5	για	για	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	μένα	εγώ	Pn	PnPe	Ma|01|Sg|Ac|St	5	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Για	για	AsPp	AsPpSp	_	0	ExD	_	_	
+3	δοκίμασε	δοκιμάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Adv	_	_	
+4	αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	3	Pred_Co	_	_	
+2	νεανικό	νεανικός	Aj	Aj	Ba|Ma|Sg|Ac	1	Pnom	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+5	υπέροχο	υπέροχος	Aj	Aj	Ba|Ne|Sg|Ac	6	Atr	_	_	
+6	άρωμα	άρωμα	No	NoCm	Ne|Sg|Ac	4	Obj	_	_	
+7	φρούτων	φρούτο	No	NoCm	Ne|Pl|Ge	6	Atr	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μυρίζει	μυρίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	άνοιξη	άνοιξη	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	1	IObj	_	_	
+5	καταπληκτικό	καταπληκτικός	Aj	Aj	Ba|Ne|Sg|Nm	4	Pnom	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxV	_	_	
+2	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	φοβερό	φοβερός	Aj	Aj	Ba|Ne|Sg|Nm	2	Pnom	_	_	
+4	.	.	PTERM_P	PTERM_P	_	2	AuxK	_	_	
+5	θα	θα	Pt	PtFu	_	7	AuxV	_	_	
+6	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	7	Obj	_	_	
+7	πάρω	παίρνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Pnom	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Για	για	AsPp	AsPpSp	_	0	ExD	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	μυρίσω	μυρίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Adv	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μμμμ	Μμμμ	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ταιριάζει	ταιριάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	πολύ	πολύ	Ad	Ad	Ba	1	Adv	_	_	
+3	με	με	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	δέρμα	δέρμα	No	NoCm	Ne|Sg|Ac	3	Adv	_	_	
+6	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	5	Pos	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	3	AuxV	_	_	
+2	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	3	Obj	_	_	
+3	πάρεις	παίρνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	4	Sb	_	_	
+2	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+3	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	4	Obj	_	_	
+4	λες	λέγω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	πάρω	παίρνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	αυτά	αυτός	Pn	PnDm	Ne|03|Pl|Ac|Xx	5	Atr	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	τσιμπιδάκια	τσιμπιδάκι	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+6	με	με	AsPp	AsPpSp	_	2	AuxP	_	_	
+7	τον	ο	At	AtDf	Ma|Sg|Ac	8	Det	_	_	
+8	φιόγκο	φιόγκος	No	NoCm	Ma|Sg|Ac	9	Atr_Co	_	_	
+9	ή	ή	Cj	CjCo	_	6	Coord	_	_	
+10	αυτά	αυτός	Pn	PnDm	Ne|03|Pl|Ac|Xx	9	Atr_Co	_	_	
+11	που	που	Pn	PnRe	Ne|03|Sg|Nm|Xx	12	Sb	_	_	
+12	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	10	Atr	_	_	
+13	πιο	πιο	Ad	Ad	Ba	14	Adv	_	_	
+14	απλά	απλά	Ad	Ad	Ba	12	Adv	_	_	
+15	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Πάρε	παίρνω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	καλύτερα	καλά	Ad	Ad	Cp	2	Adv	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	απλά	απλά	Ad	Ad	Ba	2	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	άλλα	άλλος	Pn	PnId	Ne|03|Pl|Nm|Xx	9	Sb	_	_	
+3	σε	σε	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	λίγο	λίγος	Aj	Aj	Ba|Ma|Sg|Ac	5	Atr	_	_	
+5	καιρό	καιρός	No	NoCm	Ma|Sg|Ac	3	Adv	_	_	
+6	δεν	δεν	Pt	PtNg	_	9	AuxV	_	_	
+7	θα	θα	Pt	PtFu	_	9	AuxV	_	_	
+8	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	9	Obj	_	_	
+9	αρέσουν	αρέσω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,172 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1	TOK	Είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\7	TOK	νύχτα	νύχτα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\12	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\14	TOK	Είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\20	TOK	ώρα	ώρα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\24	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\28	TOK	ύπνο	ύπνος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\32	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\35	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\36	TOK	Καληνύχτα	καληνύχτα	NoCmFeSgNm
+	SYN	/np_nm]
+1\45	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\47	TOK	Μελέκ	Μελέκ	NoPrMaSgNm
+	SYN	/np_nm]
+1\52	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\55	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\56	TOK	Καληνύχτα	καληνύχτα	NoCmFeSgNm
+	SYN	/np_nm]
+1\65	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\67	TOK	Αχμέτ	Αχμέτ	NoPrMaSgNm
+	SYN	/np_nm]
+1\72	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\75	TOK	Ο	ο	AtDfMaSgNm
+1\77	TOK	Αχμέτ	Αχμέτ	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\83	TOK	κοιμάται	κοιμάμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\91	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\94	TOK	Ο	ο	AtDfMaSgNm
+1\96	TOK	Αχμέτ	Αχμέτ	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\102	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\107	TOK	ύπνο	ύπνος	NoCmMaSgAc
+1\112	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\116	TOK	πετάει	πετώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\123	TOK	πάνω	πάνω	AdXxBa
+	SYN	[pp
+1\128	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\132	TOK	τα	ο	AtDfNePlAc
+1\135	TOK	σύννεφα	σύννεφο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\142	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\145	TOK	Η	ο	AtDfFeSgNm
+1\147	TOK	Αγγέλα	Αγγέλα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\154	TOK	κοιμάται	κοιμάμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\162	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\165	TOK	Η	ο	AtDfFeSgNm
+1\167	TOK	Αγγέλα	Αγγέλα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\174	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\179	TOK	ύπνο	ύπνος	NoCmMaSgAc
+1\184	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\188	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\194	TOK	πάνω	πάνω	AdXxBa
+	SYN	[pp
+1\199	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\203	TOK	καράβι	καράβι	NoCmNeSgAc
+1\210	TOK	ΥΔΡΑ	Ύδρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\214	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\217	TOK	Η	ο	AtDfFeSgNm
+1\219	TOK	Μελέκ	Μελέκ	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\225	TOK	κοιμάται	κοιμάμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\233	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\236	TOK	Η	ο	AtDfFeSgNm
+1\238	TOK	Μελέκ	Μελέκ	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\244	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\249	TOK	ύπνο	ύπνος	NoCmMaSgAc
+1\254	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\258	TOK	παίζει	παίζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\265	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\268	TOK	δύο	δύο	NmCdNePlAcAj
+	SYN	/adjp_ac]
+1\272	TOK	χελιδόνια	χελιδόνι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\281	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

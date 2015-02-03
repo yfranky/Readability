@@ -1,0 +1,170 @@
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[advp
+1\1	TOK	Πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\5	TOK	εφευρέθηκε	εφευρίσκω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\16	TOK	το	ο	AtDfNeSgNm
+1\19	TOK	αλεξικέραυνο	αλεξικέραυνο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\31	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_g
+	SYN	[vg_g
+1\34	TOK	Πετώντας	πετώ	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[np_ac
+1\43	TOK	τον	ο	AtDfMaSgAc
+1\47	TOK	αετό	αετός	NoCmMaSgAc
+1\52	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	[pp
+1\56	TOK	κατά	κατά	AsPpSp
+	SYN	[np_ac
+1\61	TOK	τη	ο	AtDfFeSgAc
+1\64	TOK	διάρκεια	διάρκεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\73	TOK	μιας	ένας	AtIdFeSgGe
+1\78	TOK	καταιγίδας	καταιγίδα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_g]
+1\88	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\90	TOK	ο	ο	AtDfMaSgNm
+1\92	TOK	Αμερικανός	Αμερικανός	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\103	TOK	επιστήμονας	επιστήμονας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\115	TOK	Βενιαμίν	Βενιαμίν	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\124	TOK	Φραγκλίνος	Φραγκλίνος	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[cl
+	SYN	[vg
+1\135	TOK	απέδειξε	αποδεικνύω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+1\143	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\145	TOK	το	ο	AtDfNeSgAc
+1\148	DIG	1752	1752	DIG
+	SYN	/np_ac]
+	SYN	/cl]
+1\152	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\154	TOK	ότι	ότι	CjSb
+	SYN	[np_nm
+1\158	TOK	ο	ο	AtDfMaSgNm
+1\160	TOK	κεραυνός	κεραυνός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\169	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\174	TOK	μια	ένας	AtIdFeSgNm
+1\178	TOK	μορφή	μορφή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\184	TOK	ηλεκτρισμού	ηλεκτρισμός	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\195	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\197	TOK	Τα	ο	AtDfNePlNm
+1\200	TOK	πειράματά	πείραμα	NoCmNePlNm
+1\210	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\214	TOK	οδήγησαν	οδηγώ	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\223	TOK	τον	ο	AtDfMaSgAc
+1\227	TOK	Φραγκλίνο	Φραγκλίνος	NoPrMaSgAc
+	SYN	/np_ac]
+1\236	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\238	TOK	το	ο	AtDfNeSgAc
+1\241	DIG	1752	1752	DIG
+	SYN	/np_ac]
+1\245	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\247	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\252	TOK	εφεύρεση	εφεύρεση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\261	TOK	του	ο	AtDfNeSgGe
+1\265	TOK	αλεξικέραυνου	αλεξικέραυνο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\278	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\280	TOK	Το	ο	AtDfNeSgNm
+1\283	TOK	αλεξικέραυνο	αλεξικέραυνο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\296	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\299	TOK	τοποθετούσαν	τοποθετώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\312	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\316	TOK	ψηλότερο	ψηλός	AjCpNeSgAc
+	SYN	/adjp_ac]
+1\325	TOK	σημείο	σημείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\332	TOK	ενός	ένας	AtIdNeSgGe
+1\337	TOK	κτιρίου	κτίριο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\345	TOK	για	για	AsPpSp
+1\349	TOK	να	να	PtSj
+	SYN	[np_ac
+1\352	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+1\355	TOK	προστατέψουν	προστατεύω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\368	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\372	TOK	τους	ο	AtDfMaPlAc
+1\377	TOK	κεραυνούς	κεραυνός	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\387	TOK	κατά	κατά	AsPpSp
+	SYN	[np_ac
+1\392	TOK	τη	ο	AtDfFeSgAc
+1\395	TOK	διάρκεια	διάρκεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\404	TOK	των	ο	AtDfFePlGe
+1\408	TOK	καταιγίδων	καταιγίδα	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_o]
+1\418	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

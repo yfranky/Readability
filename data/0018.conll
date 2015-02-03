@@ -1,0 +1,36 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Καλημέρα	καλημέρα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Καλημέρα	καλημέρα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	βρούμε	βρίσκω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	τον	ο	At	AtDf	Ma|Sg|Ac	6	Det	_	_	
+6	Φασαρία	φασαρία	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Μήπως	μήπως	Ad	Ad	Ba	3	Adv	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+5	παλιό	παλιός	Aj	Aj	Ba|Ne|Sg|Ac	6	Atr	_	_	
+6	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	δούμε	βλέπω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

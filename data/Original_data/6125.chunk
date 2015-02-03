@@ -1,0 +1,227 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Σημείωμα	σημείωμα	NoCmNeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\11	TOK	Κατεβαίνεις	κατεβαίνω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\23	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\27	TOK	στάση	στάση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\33	TOK	του	ο	AtDfNeSgGe
+1\37	TOK	λεωφορείου	λεωφορείο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[advp
+1\48	TOK	έξω	έξω	AdXxBa
+	SYN	[pp
+1\52	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\56	TOK	τον	ο	AtDfMaSgAc
+1\60	TOK	κινηματογράφο	κινηματογράφος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[np_nm
+1\74	TOK	Παλλάς	Παλλάς	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\80	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\82	TOK	Διασχίζεις	διασχίζω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\93	TOK	το	ο	AtDfMaSgAc
+1\96	TOK	δρόμο	δρόμος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\102	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\106	TOK	κατεβαίνεις	κατεβαίνω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\118	TOK	την	ο	AtDfFeSgAc
+1\122	TOK	οδό	οδός	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\126	TOK	Κύπρου	Κύπρος	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\132	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\134	TOK	Περνάς	περνώ	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\141	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\145	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\148	TOK	μεγάλο	μεγάλος	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\155	TOK	σουπερ	σούπερ	AjBaNePlNm
+	SYN	/adjp_nm]
+1\162	TOK	μάρκετ	μάρκετ	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\169	TOK	και	και	CjCo
+	SYN	[cl
+1\173	TOK	μετά	μετά	AsPpSp
+	SYN	[vg
+1\178	TOK	στρίβεις	στρίβω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\187	TOK	αριστερά	αριστερά	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\196	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\201	TOK	οδό	οδός	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\205	TOK	Σολωμού	Σολωμός	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\212	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\214	TOK	Συναντάς	συναντώ	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\223	TOK	το	ο	AtDfNeSgAc
+1\226	TOK	νοσοκομείο	νοσοκομείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\237	TOK	Ερυθρός	ερυθρός	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\245	TOK	Σταυρός	σταυρός	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\253	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\257	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\263	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\267	TOK	δεξιά	δεξιός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ge
+1\273	TOK	σου	εγώ	PnPeMa02SgGeWe
+	SYN	/np_ge]
+	SYN	/cl_r]
+	SYN	/cl]
+1\277	TOK	αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\282	TOK	εσύ	εγώ	PnPeMa02SgNmSt
+	SYN	/np_nm]
+	SYN	[vg
+1\286	TOK	προχωράς	προχωρώ	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\295	TOK	και	και	CjCo
+	SYN	[cl
+1\299	TOK	μετά	μετά	AsPpSp
+	SYN	[vg
+1\304	TOK	στρίβεις	στρίβω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\313	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\317	TOK	δεύτερο	δεύτερος	NmOdNeSgAcAj
+1\325	TOK	στενό	στενός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\331	TOK	δεξιά	δεξιά	AdXxBa
+	SYN	/advp]
+1\337	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\339	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\344	TOK	οδό	οδός	NoCmFeSgAc
+1\348	TOK	Παπαφλέσσα	Παπαφλέσσας	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\358	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\360	TOK	Εγώ	εγώ	PnPeMa01SgNmSt
+	SYN	/np_nm]
+	SYN	[vg
+1\364	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\370	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\375	TOK	αριθμό	αριθμός	NoCmMaSgAc
+1\382	DIG	15	15	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+1\384	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\386	TOK	δίπλα	δίπλα	AdXxBa
+	SYN	[pp
+1\392	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\396	TOK	φαρμακείο	φαρμακείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\405	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\407	TOK	Τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\410	TOK	λέμε	λέγω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\415	TOK	εκεί	εκεί	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\419	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\422	TOK	Φιλιά	φιλί	NoCmNePlNm
+	SYN	/np_nm]
+1\427	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\429	TOK	Μαίρη	Μαίρη	NoPrFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>

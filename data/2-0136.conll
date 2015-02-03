@@ -1,0 +1,32 @@
+1	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	2	Atr	_	_	
+2	Πετράκη	Πετράκη	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	9	9	DIG	DIG	_	5	Atr	_	_	
+5	χρονών	χρονών	No	NoCm	Ma|Pl|Ge	2	Atr	_	_	
+6	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	3	Sb	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	στείλω	στέλνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ένα	ένας	At	AtId	Ne|Sg|Ac	5	Det	_	_	
+5	γράμμα	γράμμα	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+7	Ε.ΔΙΑ.Μ.ΜΕ.	Ε.ΔΙΑ.Μ.ΜΕ.	ABBR	ABBR	_	6	Adv	_	_	
+8	με	με	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	ηλεκτρονικό	ηλεκτρονικός	Aj	Aj	Ba|Ne|Sg|Ac	10	Atr	_	_	
+10	ταχυδρομείο	ταχυδρομείο	No	NoCm	Ne|Sg|Ac	8	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τη	ο	At	AtDf	Fe|Sg|Ac	2	Det	_	_	
+2	διεύθυνση	διεύθυνση	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+3	την	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	4	Obj	_	_	
+4	ξέρω	ξέρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	τη	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	7	Obj	_	_	
+7	λέω	λέγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+8	και	και	Cj	CjCo	_	9	AuxY	_	_	
+9	σε	σε	AsPp	AsPpSp	_	7	AuxP	_	_	
+10	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ge|We	9	IObj	_	_	
+11	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+12	ediamme@edc.uoc.gr	ediamme@edc.uoc.gr	Rg	RgFw	_	0	ExD	_	_	
+

@@ -1,0 +1,106 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Ο	ο	AtDfMaSgNm
+1\3	TOK	Άγγελος	Άγγελος	NoPrMaSgNm
+	SYN	/np_nm]
+1\10	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\12	TOK	ο	ο	AtDfMaSgNm
+1\14	TOK	Γρηγόρης	Γρηγόρης	NoPrMaSgNm
+	SYN	/np_nm]
+1\23	TOK	και	και	CjCo
+	SYN	[np_nm
+1\27	TOK	ο	ο	AtDfMaSgNm
+1\29	TOK	Σταμάτης	Σταμάτης	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\38	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\44	TOK	φοιτητές	φοιτητής	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\52	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\54	TOK	Μένουν	μένω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\61	TOK	μαζί	μαζί	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\66	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\70	TOK	μοιράζονται	μοιράζω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\82	TOK	έξοδα	έξοδο	NoCmNePlNm
+	SYN	/np_nm]
+1\88	TOK	και	και	CjCo
+	SYN	[np_ac
+1\92	TOK	δουλειές	δουλειά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\100	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\102	TOK	Ο	ο	AtDfMaSgNm
+1\104	TOK	Άγγελος	Άγγελος	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\112	TOK	κάνει	κάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\118	TOK	συνήθως	συνήθως	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\126	TOK	τα	ο	AtDfNePlAc
+1\129	TOK	ψώνια	ψώνιο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\134	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\136	TOK	Ο	ο	AtDfMaSgNm
+1\138	TOK	Γρηγόρης	Γρηγόρης	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\147	TOK	τακτοποιεί	τακτοποιώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\158	TOK	το	ο	AtDfNeSgAc
+1\161	TOK	σπίτι	σπίτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\166	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\168	TOK	Ο	ο	AtDfMaSgNm
+1\170	TOK	Σταμάτης	Σταμάτης	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\179	TOK	μαγειρεύει	μαγειρεύω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\190	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\194	TOK	πληρώνει	πληρώνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\203	TOK	τους	ο	AtDfMaPlAc
+1\208	TOK	λογαριασμούς	λογαριασμός	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\220	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

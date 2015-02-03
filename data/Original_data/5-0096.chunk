@@ -1,0 +1,62 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Φιλόλογος	φιλόλογος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\11	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\14	TOK	πολυετή	πολυετής	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\22	TOK	πείρα	πείρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\27	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\29	TOK	παραδίδει	παραδίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\39	TOK	ιδιαίτερα	ιδιαίτερα	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\49	TOK	μαθήματα	μάθημα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\58	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\61	TOK	μαθητές	μαθητής	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\69	TOK	Γυμνασίου-Λυκείου	Γυμνασίου-Λυκείου	NoPrMaSgNm
+	SYN	/np_nm]
+1\86	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\88	TOK	ομαδικά	ομαδικά	AdXxBa
+1\96	TOK	ή	ή	CjCo
+1\98	TOK	ατομικά	ατομικά	AdXxBa
+	SYN	/advp]
+1\105	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\107	TOK	τιμές	τιμή	NoCmFePlNm
+1\113	TOK	λογικές	λογική	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\120	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\122	TOK	Χαλάνδρι	Χαλάνδρι	NoPrNeSgAc
+	SYN	/np_ac]
+1\131	PUNCT	–	–	PUNCT
+	SYN	[np_nm
+1\133	TOK	Χολαργός	Χολαργός	NoPrMaSgNm
+	SYN	/np_nm]
+1\141	PUNCT	,	,	PUNCT
+1\143	ABBR	τηλ.	τηλ.	ABBR
+1\147	PTERM_P	:	:	PTERM_P
+1\149	DIG	270	270	DIG
+1\153	DIG	661	661	DIG
+1\156	PTERM_P	...	...	PTERM_P
+	)SENT	</S>

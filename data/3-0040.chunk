@@ -1,0 +1,140 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Η	ο	AtDfFeSgNm
+1\3	TOK	οικογένεια	οικογένεια	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\14	TOK	του	ο	AtDfMaSgGe
+1\18	TOK	Ανδρέα	Ανδρέας	NoPrMaSgGe
+	SYN	/np_ge]
+	)SENT	</S>
+	(SENT	<S>
+1\26	TOK	Να	να	PtSj
+	SYN	[np_nm
+1\29	TOK	η	ο	AtDfFeSgNm
+1\31	TOK	οικογένειά	οικογένεια	NoCmFeSgNm
+1\42	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+1\45	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\47	TOK	Να	να	PtSj
+	SYN	[np_nm
+1\50	TOK	η	ο	AtDfFeSgNm
+1\52	TOK	μητέρα	μητέρα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\59	TOK	μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+1\62	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\64	TOK	Την	εγώ	PnPeFe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\68	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\73	TOK	Άννα	Άννα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\77	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\79	TOK	Νά	να	PtOt
+	SYN	[np_nm
+1\82	TOK	ο	ο	AtDfMaSgNm
+1\84	TOK	πατέρας	πατέρας	NoCmMaSgNm
+1\92	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+1\95	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\97	TOK	Τον	εγώ	PnPeMa03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\101	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\106	TOK	Γιώργο	Γιώργος	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\112	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\114	TOK	Να	να	PtSj
+	SYN	[np_nm
+1\117	TOK	η	ο	AtDfFeSgNm
+1\119	TOK	αδερφή	αδερφή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\126	TOK	μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+1\129	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\131	TOK	Την	εγώ	PnPeFe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\135	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\140	TOK	Σοφία	Σοφία	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\145	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\147	TOK	Να	να	PtSj
+	SYN	[np_nm
+1\150	TOK	η	ο	AtDfFeSgNm
+1\152	TOK	γάτα	γάτα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\157	TOK	μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+1\160	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\162	TOK	Την	ο	AtDfFeSgAc
+	SYN	[vg
+1\166	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\171	TOK	Ψιψίνα	ψιψίνα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\177	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\179	TOK	Να	να	PtSj
+	SYN	[np_nm
+1\182	TOK	ο	ο	AtDfMaSgNm
+1\184	TOK	σκύλος	σκύλος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\191	TOK	μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+1\194	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\196	TOK	Τον	εγώ	PnPeMa03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\200	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\205	TOK	Άργο	Άργο	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\209	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

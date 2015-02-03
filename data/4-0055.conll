@@ -1,0 +1,251 @@
+1	Ιερογλυφικά	ιερογλυφικός	Aj	Aj	Ba|Ne|Pl|Ac	0	ExD	_	_	
+2	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+3	Μινωική	μινωικός	Aj	Aj	Ba|Fe|Sg|Ac	4	Atr	_	_	
+4	Κρήτη	Κρήτη	No	NoPr	Fe|Sg|Ac	2	Atr	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxV	_	_	
+2	Κοίτα	κοιτάζω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	Τζένη	Τζένη	No	NoPr	Fe|Sg|Nm	2	ExD	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αυτά	αυτός	Pn	PnDm	Ne|03|Pl|Nm|Xx	6	Sb	_	_	
+2	εδώ	εδώ	Ad	Ad	Ba	6	Adv	_	_	
+3	τα	ο	At	AtDf	Ne|Pl|Ac	4	Det	_	_	
+4	σύμβολα	σύμβολο	No	NoCm	Ne|Pl|Ac	6	Sb	_	_	
+5	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	6	Obj	_	_	
+6	ξέρεις	ξέρω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Όχι	όχι	Ad	Ad	Ba	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Nm|Xx	2	Sb	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	«	«	OPUNCT	OPUNCT	_	3	AuxG	_	_	
+3	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	ένα	ένας	At	AtId	Ne|Sg|Nm	5	Det	_	_	
+5	σύστημα	σύστημα	No	NoCm	Ne|Sg|Nm	3	Pnom	_	_	
+6	γραφής	γραφή	No	NoCm	Fe|Sg|Ge	5	Atr	_	_	
+7	που	που	Pn	PnRe	Ne|03|Sg|Nm|Xx	9	Sb	_	_	
+8	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	9	Obj	_	_	
+9	χρησιμοποιούσαν	χρησιμοποιώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	5	Atr	_	_	
+10	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	9	AuxP	_	_	
+11	μινωική	μινωικός	Aj	Aj	Ba|Fe|Sg|Ac	12	Atr	_	_	
+12	Κρήτη	Κρήτη	No	NoPr	Fe|Sg|Ac	10	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	γραφή	γραφή	No	NoCm	Fe|Sg|Nm	4	Sb	_	_	
+3	αυτή	αυτός	Pn	PnDm	Fe|03|Sg|Nm|Xx	2	Atr	_	_	
+4	λέγεται	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	Γραμμική	γραμμικός	Aj	Aj	Ba|Fe|Sg|Nm	6	Atr	_	_	
+6	Β'	Β'	Nm	NmOd	Ne|Sg|Nm|Aj	4	Pnom	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Την	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	2	Obj	_	_	
+2	αποκρυπτογράφησε	αποκρυπτογραφώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	δηλαδή	δηλαδή	Ad	Ad	Ba	2	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+6	τη	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	7	Obj	_	_	
+7	διάβασε	διαβάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+8	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+9	ο	ο	At	AtDf	Ma|Sg|Nm	10	Det	_	_	
+10	Άγγλος	Άγγλος	No	NoPr	Ma|Sg|Nm	7	Sb	_	_	
+11	Michael	Michael	Rg	RgFw	_	10	Atr	_	_	
+12	Ventris	Ventris	Rg	RgFw	_	11	Atr	_	_	
+13	το	ο	At	AtDf	Ne|Sg|Ac	14	Det	_	_	
+14	1952	1952	DIG	DIG	_	12	Atr	_	_	
+15	»	»	CPUNCT	CPUNCT	_	14	AuxG	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	δηλαδή	δηλαδή	Ad	Ad	Ba	2	Adv	_	_	
+4	αλφάβητο	αλφάβητο	No	NoCm	Ne|Sg|Ac	2	Pnom	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Όχι	όχι	Ad	Ad	Ba	3	Adv	_	_	
+3	ακριβώς	ακριβώς	Ad	Ad	Ba	0	ExD	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Άκου	ακούω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+2	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+3	λέει	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	:	:	PTERM_P	PTERM_P	_	0	Coord	_	_	
+5	«	«	OPUNCT	OPUNCT	_	9	AuxG	_	_	
+6	Η	ο	At	AtDf	Fe|Sg|Nm	7	Det	_	_	
+7	γραφή	γραφή	No	NoCm	Fe|Sg|Nm	9	Sb	_	_	
+8	αυτή	αυτός	Pn	PnDm	Fe|03|Sg|Nm|Xx	7	Atr	_	_	
+9	περιλαμβάνει	περιλαμβάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+10	σύμβολα	σύμβολο	No	NoCm	Ne|Pl|Ac	17	Obj_Ap	_	_	
+11	που	που	Pn	PnRe	Ne|03|Pl|Ac|Xx	14	Obj	_	_	
+12	το	ο	At	AtDf	Ne|Sg|Ac	13	Det	_	_	
+13	καθένα	καθένας	Pn	PnId	Ne|03|Sg|Nm|Xx	14	Sb	_	_	
+14	δηλώνει	δηλώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	10	Atr	_	_	
+15	και	και	Cj	CjCo	_	14	Coord	_	_	
+16	κάτι	κάτι	Pn	PnId	Ne|03|Sg|Ac|Xx	15	Atr_Co	_	_	
+17	:	:	PTERM_P	PTERM_P	_	9	Apos	_	_	
+18	το	ο	At	AtDf	Ne|Sg|Ac	20	Det	_	_	
+19	ανθρώπινο	ανθρώπινος	Aj	Aj	Ba|Ne|Sg|Ac	20	Atr	_	_	
+20	σώμα	σώμα	No	NoCm	Ne|Sg|Ac	44	Obj_Co	_	_	
+21	,	,	PUNCT	PUNCT	_	44	AuxX	_	_	
+22	όπλα	όπλο	No	NoCm	Ne|Pl|Ac	44	Obj_Co	_	_	
+23	,	,	PUNCT	PUNCT	_	44	AuxX	_	_	
+24	εργαλεία	εργαλείο	No	NoCm	Ne|Pl|Ac	44	Obj_Co	_	_	
+25	,	,	PUNCT	PUNCT	_	44	AuxX	_	_	
+26	όργανα	όργανο	No	NoCm	Ne|Pl|Ac	44	Obj_Co	_	_	
+27	,	,	PUNCT	PUNCT	_	44	AuxX	_	_	
+28	το	ο	At	AtDf	Ne|Sg|Ac	29	Det	_	_	
+29	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	44	Obj_Co	_	_	
+30	,	,	PUNCT	PUNCT	_	44	AuxX	_	_	
+31	το	ο	At	AtDf	Ne|Sg|Nm	32	Det	_	_	
+32	νοικοκυριό	νοικοκυριό	No	NoCm	Ne|Sg|Nm	44	Obj_Co	_	_	
+33	,	,	PUNCT	PUNCT	_	44	AuxX	_	_	
+34	μαγειρικά	μαγειρικός	Aj	Aj	Ba|Ne|Pl|Ac	35	Atr	_	_	
+35	σκεύη	σκεύος	No	NoCm	Ne|Pl|Ac	44	Obj_Co	_	_	
+36	,	,	PUNCT	PUNCT	_	44	AuxX	_	_	
+37	πλοία	πλοίο	No	NoCm	Ne|Pl|Ac	44	Obj_Co	_	_	
+38	,	,	PUNCT	PUNCT	_	44	AuxX	_	_	
+39	τη	ο	At	AtDf	Fe|Sg|Ac	40	Det	_	_	
+40	γη	γη	No	NoCm	Fe|Sg|Ac	44	Obj_Co	_	_	
+41	,	,	PUNCT	PUNCT	_	44	AuxX	_	_	
+42	τον	ο	At	AtDf	Ma|Sg|Ac	43	Det	_	_	
+43	ουρανό	ουρανός	No	NoCm	Ma|Sg|Ac	44	Obj_Co	_	_	
+44	και	και	Cj	CjCo	_	17	Coord_Ap	_	_	
+45	τόσα	τόσος	Pn	PnDm	Ne|03|Pl|Ac|Xx	46	Atr	_	_	
+46	άλλα	άλλος	Pn	PnId	Ne|03|Pl|Ac|Xx	44	Obj_Co	_	_	
+47	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μερικά	μερικοί	Pn	PnId	Ne|03|Pl|Nm|Xx	2	Atr	_	_	
+2	σύμβολα	σύμβολο	No	NoCm	Ne|Pl|Nm	6	Sb	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	όμως	όμως	Cj	CjCo	_	0	Coord	_	_	
+5	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+6	απέδιδαν	αποδίδω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+7	μια	ένας	At	AtId	Fe|Sg|Ac	8	Det	_	_	
+8	συλλαβή	συλλαβή	No	NoCm	Fe|Sg|Ac	6	Obj	_	_	
+9	,	,	PUNCT	PUNCT	_	12	AuxX	_	_	
+10	όχι	όχι	Pt	PtNg	_	12	Atr	_	_	
+11	μια	ένας	At	AtId	Fe|Sg|Ac	12	Det	_	_	
+12	λέξη	λέξη	No	NoCm	Fe|Sg|Ac	6	Adv	_	_	
+13	»	»	CPUNCT	CPUNCT	_	12	AuxG	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Πρέπει	πρέπει	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	2	Sb	_	_	
+5	πάρα	πάρα	Ad	Ad	Ba	6	Adv	_	_	
+6	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Nm	4	Pnom	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πού	πού	Ad	Ad	Ba	2	Adv	_	_	
+2	βρέθηκαν	βρίσκω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	αυτά	αυτός	Pn	PnDm	Ne|03|Pl|Ac|Xx	5	Atr	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	σύμβολα	σύμβολο	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	«	«	OPUNCT	OPUNCT	_	6	AuxG	_	_	
+3	Οι	ο	At	AtDf	Ma|Pl|Nm	4	Det	_	_	
+4	αρχαιολόγοι	αρχαιολόγος	No	NoCm	Ma|Pl|Nm	6	Sb	_	_	
+5	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	6	Obj	_	_	
+6	βρήκαν	βρίσκω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	χαραγμένα	χαραγμένος	Aj	Aj	Ba|Ne|Pl|Ac	6	Obj	_	_	
+8	πάνω	πάνω	Ad	Ad	Ba	7	Adv	_	_	
+9	σε	σε	AsPp	AsPpSp	_	17	AuxP	_	_	
+10	πήλινες	πήλινος	Aj	Aj	Ba|Fe|Pl|Ac	11	Atr	_	_	
+11	πινακίδες	πινακίδα	No	NoCm	Fe|Pl|Ac	9	Adv_Co	_	_	
+12	,	,	PUNCT	PUNCT	_	17	AuxX	_	_	
+13	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	17	AuxP	_	_	
+14	ανασκαφές	ανασκαφή	No	NoCm	Fe|Pl|Ac	13	Adv_Co	_	_	
+15	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	14	AuxP	_	_	
+16	Κνωσό	Κνωσός	No	NoPr	Fe|Sg|Ac	15	Atr	_	_	
+17	και	και	Cj	CjCo	_	7	Coord	_	_	
+18	σε	σε	AsPp	AsPpSp	_	17	AuxP	_	_	
+19	άλλα	άλλος	Pn	PnId	Ne|03|Pl|Ac|Xx	20	Atr	_	_	
+20	μέρη	μέρος	No	NoCm	Ne|Pl|Ac	18	IObj_Co	_	_	
+21	της	ο	At	AtDf	Fe|Sg|Ge	22	Det	_	_	
+22	Κρήτης	Κρήτη	No	NoPr	Fe|Sg|Ge	20	Atr	_	_	
+23	»	»	CPUNCT	CPUNCT	_	6	AuxG	_	_	
+24	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Α	α	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	2	IObj	_	_	
+2	έδωσες	δίνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	μια	ένας	At	AtId	Fe|Sg|Ac	5	Det	_	_	
+4	ωραία	ωραίος	Aj	Aj	Ba|Fe|Sg|Ac	5	Atr	_	_	
+5	ιδέα	ιδέα	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όταν	όταν	Cj	CjSb	_	7	AuxC	_	_	
+2	πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	1	Adv	_	_	
+3	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	2	AuxP	_	_	
+4	Ηράκλειο	Ηράκλειο	No	NoPr	Ma|Sg|Ac	3	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+6	να	να	Pt	PtSj	_	7	AuxV	_	_	
+7	επισκεφτούμε	επισκέπτομαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+8	το	ο	At	AtDf	Ne|Sg|Ac	10	Det	_	_	
+9	Αρχαιολογικό	αρχαιολογικός	Aj	Aj	Ba|Ne|Sg|Ac	10	Atr	_	_	
+10	μουσείο	μουσείο	No	NoCm	Ne|Sg|Ac	7	Obj	_	_	
+11	για	για	AsPp	AsPpSp	_	7	AuxP	_	_	
+12	να	να	Pt	PtSj	_	14	AuxV	_	_	
+13	τις	εγώ	Pn	PnPe	Fe|03|Pl|Ac|We	14	Obj	_	_	
+14	δούμε	βλέπω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	11	Adv	_	_	
+15	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	γιατί	γιατί	Cj	CjSb	_	2	AuxC	_	_	
+5	όχι	όχι	Pt	PtNg	_	4	ExD_Co	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κοίτα	κοιτάζω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εδώ	εδώ	Ad	Ad	Ba	2	Adv	_	_	
+2	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τα	ο	At	AtDf	Ne|Pl|Ac	4	Det	_	_	
+4	σύμβολα	σύμβολο	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+5	που	που	Pn	PnRe	Ne|03|Pl|Ac|Xx	6	Obj	_	_	
+6	δήλωναν	δηλώνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	4	Atr	_	_	
+7	συλλαβές	συλλαβή	No	NoCm	Fe|Pl|Ac	6	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+3	λες	λέγω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	προσπαθήσουμε	προσπαθώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	γράψουμε	γράφω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	κάτι	κάτι	Pn	PnId	Ne|03|Sg|Ac|Xx	4	Obj	_	_	
+6	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	4	AuxP	_	_	
+7	Γραμμική	γραμμικός	Aj	Aj	Ba|Fe|Sg|Ac	8	Atr	_	_	
+8	Β'	Β'	Nm	NmOd	Ne|Sg|Nm|Aj	6	ExD_Co	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Καλή	καλός	Aj	Aj	Ba|Fe|Sg|Nm	3	Atr	_	_	
+3	ιδέα	ιδέα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πλάκα	πλάκα	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

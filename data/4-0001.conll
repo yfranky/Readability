@@ -1,0 +1,55 @@
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	μητέρα	μητέρα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+
+1	Λέγομαι	λέγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	4	Pred_Co	_	_	
+2	Φωτεινή	Φωτεινή	No	NoPr	Fe|Sg|Nm	3	Atr	_	_	
+3	Βλαστού	βλαστός	No	NoCm	Ma|Sg|Ge	1	Adv	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	4	Pred_Co	_	_	
+6	σαράντα	σαράντα	Nm	NmCd	Ma|Pl|Ac|Aj	8	Atr	_	_	
+7	πέντε	πέντε	Nm	NmCd	Ma|Pl|Nm|Aj	8	Atr	_	_	
+8	χρονών	χρονών	No	NoCm	Ma|Pl|Ge	5	Pnom	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	3	Pred_Co	_	_	
+2	παντρεμένη	παντρεμένος	Aj	Aj	Ba|Fe|Sg|Ac	1	Pnom	_	_	
+3	κι	και	Cj	CjCo	_	0	Coord	_	_	
+4	έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+5	δυο	δύο	Nm	NmCd	Ne|Pl|Nm|Aj	6	Atr	_	_	
+6	παιδιά	παιδί	No	NoCm	Ne|Pl|Ac	4	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	καθηγήτρια	καθηγήτρια	No	NoCm	Fe|Sg|Ac	1	Pnom	_	_	
+3	γερμανικών	γερμανικός	Aj	Aj	Ba|Fe|Pl|Ge	2	Atr	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	δικό	δικός	Aj	Aj	Ba|Ne|Sg|Nm	4	Atr	_	_	
+3	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	4	Pos	_	_	
+4	φροντιστήριο	φροντιστήριο	No	NoCm	Ne|Sg|Nm	1	Sb	_	_	
+5	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	4	AuxP	_	_	
+6	Πειραιά	Πειραιάς	No	NoPr	Ma|Sg|Ac	5	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γεννήθηκα	γεννώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	4	Pred_Co	_	_	
+2	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+3	Δράμα	Δράμα	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+4	αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+5	μεγάλωσα	μεγαλώνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+6	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	5	AuxP	_	_	
+7	Γερμανία	Γερμανία	No	NoPr	Fe|Sg|Ac	6	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Οι	ο	At	AtDf	Ma|Pl|Nm	2	Det	_	_	
+2	γονείς	γονέας	No	NoCm	Ma|Pl|Nm	4	Sb	_	_	
+3	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	2	Pos	_	_	
+4	πήγαν	πηγαίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	μετανάστες	μετανάστης	No	NoCm	Ma|Pl|Ac	4	Obj	_	_	
+6	εκεί	εκεί	Ad	Ad	Ba	4	Adv	_	_	
+7	όταν	όταν	Cj	CjSb	_	4	AuxC	_	_	
+8	ήμουν	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	7	Adv	_	_	
+9	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	8	AuxP	_	_	
+10	Δημοτικό	δημοτικός	Aj	Aj	Ba|Ne|Sg|Ac	9	Obj	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

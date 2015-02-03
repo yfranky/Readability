@@ -1,0 +1,103 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1	TOK	Βγες	βγαίνω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\6	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\10	TOK	την	ο	AtDfFeSgAc
+1\14	TOK	πόρτα	πόρτα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\20	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\24	TOK	πήγαινε	πηγαίνω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\32	TOK	αριστερά	αριστερά	AdXxBa
+	SYN	/advp]
+1\40	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\42	TOK	μέχρι	μέχρι	AsPpSp
+	SYN	[np_ac
+1\48	TOK	το	ο	AtDfNeSgAc
+1\51	TOK	φανάρι	φανάρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\57	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\59	TOK	Περίμενε	περιμένω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\68	TOK	να	να	PtSj
+1\71	TOK	ανάψει	ανάβω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\78	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\81	TOK	πράσινο	πράσινος	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\88	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\90	TOK	Πέρνα	περνώ	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\96	TOK	απέναντι	απέναντι	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\104	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\106	TOK	στρίψε	στρίβω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\113	TOK	δεξιά	δεξιά	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\118	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[pp
+1\120	TOK	μετά	μετά	AsPpSp
+	SYN	[advp
+1\125	TOK	αριστερά	αριστερά	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+1\134	TOK	και	και	CjCo
+	SYN	[vg
+1\138	TOK	κοίτα	κοιτάζω	VbMnMpXx02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\144	TOK	πίσω	πίσω	AdXxBa
+	SYN	[pp
+1\149	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\153	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\156	TOK	μεγάλο	μεγάλος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\163	TOK	δέντρο	δέντρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\169	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\172	TOK	Χρήστος	Χρήστος	NoPrMaSgNm
+	SYN	/np_nm]
+	)SENT	</S>

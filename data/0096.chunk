@@ -1,0 +1,65 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Κάθε	κάθε	PnIdFe03SgNmXx
+1\6	TOK	μέρα	μέρα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\11	TOK	πηγαίνω	πηγαίνω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\19	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\23	TOK	δάσος	δάσος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\28	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\31	TOK	Βλέπω	βλέπω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\37	TOK	τα	ο	AtDfNePlAc
+1\40	TOK	ζώα	ζώο	NoCmNePlAc
+	SYN	/np_ac]
+1\43	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\45	TOK	τα	ο	AtDfNePlAc
+1\48	TOK	δέντρα	δέντρο	NoCmNePlAc
+	SYN	/np_ac]
+1\54	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\56	TOK	τα	ο	AtDfNePlAc
+1\59	TOK	λουλούδια	λουλούδι	NoCmNePlAc
+	SYN	/np_ac]
+1\69	TOK	και	και	CjCo
+	SYN	[np_ac
+1\73	TOK	τα	ο	AtDfNePlAc
+1\76	TOK	πουλιά	πουλί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\82	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\85	TOK	Κόβω	κόβω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\90	TOK	ξύλα	ξύλο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\95	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\99	TOK	γυρίζω	γυρίζω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\106	TOK	σπίτι	σπίτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\111	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

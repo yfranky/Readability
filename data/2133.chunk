@@ -1,0 +1,237 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\2	TOK	Γιαγιά	γιαγιά	NoCmFeSgNm
+	SYN	/np_nm]
+1\8	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\10	TOK	ποιος	ποιος	PnIrMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\16	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\22	TOK	αυτός	αυτός	PnDmMa03SgNmXx
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\27	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\30	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\31	TOK	Αυτός	αυτός	PnDmMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\37	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\43	TOK	ο	ο	AtDfMaSgNm
+1\45	TOK	φίλος	φίλος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\51	TOK	του	ο	AtDfMaSgGe
+1\55	TOK	παππού	παππούς	NoCmMaSgGe
+	SYN	/np_ge]
+1\61	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\63	TOK	ο	ο	AtDfMaSgNm
+1\65	TOK	Παναγιώτης	Παναγιώτης	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\75	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\78	ENUM	-	-	ENUM
+	SYN	[np_ge
+1\79	TOK	Ποιανού	ποιος	PnIrMa03SgGeXx
+	SYN	/np_ge]
+	SYN	[vg
+1\87	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\93	TOK	το	ο	AtDfNeSgNm
+1\96	TOK	αυτοκίνητο	αυτοκίνητο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\106	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\109	ENUM	-	-	ENUM
+	SYN	[vg
+1\110	TOK	Είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\116	TOK	του	ο	AtDfMaSgGe
+1\120	TOK	γιου	γιος	NoCmMaSgGe
+1\125	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ge]
+	SYN	/cl]
+1\128	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\131	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\132	TOK	Γιαγιά	γιαγιά	NoCmFeSgNm
+	SYN	/np_nm]
+1\138	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\140	TOK	τίνος	τίνος	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\146	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+1\151	PTERM_P	...	...	PTERM_P
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\156	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\157	TOK	Αλίκη	Αλίκη	NoPrFeSgAc
+	SYN	/np_ac]
+1\162	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\164	TOK	βρέχει	βρέχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\170	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\172	TOK	Τα	ο	AtDfNePlNm
+1\175	TOK	ρούχα	ρούχο	NoCmNePlNm
+	SYN	/np_nm]
+1\180	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\182	TOK	γρήγορα	γρήγορα	AdXxBa
+	SYN	/advp]
+1\189	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\192	ENUM	-	-	ENUM
+	SYN	[advp
+1\193	TOK	Τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\198	TOK	δεν	δεν	PtNg
+1\202	TOK	ξέρω	ξέρω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_ir
+	SYN	[np_ge
+1\207	TOK	ποιανού	ποιος	PnIrMa03SgGeXx
+	SYN	/np_ge]
+	SYN	[vg
+1\215	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\221	TOK	τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	/cl_ir]
+1\223	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\226	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\227	TOK	Οι	ο	AtDfFePlNm
+1\230	TOK	κάλτσες	κάλτσα	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\238	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\244	TOK	του	ο	AtDfMaSgGe
+1\248	TOK	μπαμπά	μπαμπάς	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\254	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\256	TOK	Η	ο	AtDfFeSgNm
+1\258	TOK	φούστα	φούστα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\265	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\271	TOK	της	ο	AtDfFeSgGe
+1\275	TOK	μαμάς	μαμά	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\280	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\282	TOK	Η	ο	AtDfFeSgNm
+1\284	TOK	ζακέτα	ζακέτα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\291	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\297	TOK	της	ο	AtDfFeSgGe
+1\301	TOK	Μαγδαληνής	Μαγδαληνή	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\311	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\313	TOK	Τα	ο	AtDfNePlNm
+1\316	TOK	φανελάκια	φανελάκι	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\326	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\332	TOK	του	ο	AtDfMaSgGe
+	SYN	[adjp_ge
+1\336	TOK	μωρού	μωρός	AjBaMaSgGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	/cl]
+1\341	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\343	TOK	Το	ο	AtDfNeSgNm
+1\346	TOK	πουκάμισο	πουκάμισο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\356	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\362	TOK	του	ο	AtDfMaSgGe
+1\366	TOK	Γιάννη	Γιάννης	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\372	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\374	TOK	Η	ο	AtDfFeSgNm
+1\376	TOK	γραβάτα	γραβάτα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\384	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\390	TOK	του	ο	AtDfMaSgGe
+1\394	TOK	Πέτρου	Πέτρος	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\400	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

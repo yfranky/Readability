@@ -1,0 +1,113 @@
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	χειμώνας	χειμώνας	No	NoCm	Ma|Sg|Nm	1	Pnom	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+2	κρύο	κρύο	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	βρέχει	βρέχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Θωμάς	Θωμάς	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	κάλεσε	καλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	την	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	Ιρίνα	Ιρίνα	No	NoPr	Fe|Sg|Ac	6	Adv_Co	_	_	
+6	και	και	Cj	CjCo	_	3	Coord	_	_	
+7	τον	ο	At	AtDf	Ma|Sg|Ac	8	Det	_	_	
+8	Γιάννη	Γιάννης	No	NoPr	Ma|Sg|Ac	6	Adv_Co	_	_	
+9	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+10	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	9	Adv	_	_	
+11	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	10	Pos	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	Atr	_	_	
+2	Σήμερα	σήμερα	Ad	Ad	Ba	1	Adv	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	Φασαρίας	φασαρίας	No	NoCm	Ma|Sg|Nm	5	Sb	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	πολύ	πολύ	Ad	Ad	Ba	7	Adv	_	_	
+7	χαρούμενος	χαρούμενος	Aj	Aj	Ba|Ma|Sg|Nm	5	Pnom	_	_	
+8	γιατί	γιατί	Cj	CjSb	_	5	AuxC	_	_	
+9	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	8	Adv	_	_	
+10	παρέα	παρέα	No	NoCm	Fe|Sg|Ac	9	Obj	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δεν	δεν	Pt	PtNg	_	4	AuxV	_	_	
+3	του	εγώ	Pn	PnPe	Ma|03|Sg|Ge|We	4	IObj	_	_	
+4	αρέσει	αρέσω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	εδώ	εδώ	Ad	Ad	Ba	4	Adv	_	_	
+6	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	4	AuxP	_	_	
+7	Θεσσαλονίκη	Θεσσαλονίκη	No	NoPr	Fe|Sg|Ac	6	Adv	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Όχι	όχι	Ad	Ad	Ba	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μένει	μένω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	πολλές	πολύς	Aj	Aj	Ba|Fe|Pl|Ac	3	Atr	_	_	
+3	ώρες	ώρα	No	NoCm	Fe|Pl|Ac	1	Adv	_	_	
+4	μόνος	μόνος	Aj	Aj	Ba|Ma|Sg|Nm	3	Atr	_	_	
+5	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	4	Pos	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+7	διαμέρισμα	διαμέρισμα	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εδώ	εδώ	Ad	Ad	Ba	3	Adv	_	_	
+2	δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	μπορεί	μπορώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	παίζει	παίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	IObj_Co	_	_	
+6	και	και	Cj	CjCo	_	3	Coord	_	_	
+7	να	να	Pt	PtSj	_	8	AuxV	_	_	
+8	τρέχει	τρέχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	IObj_Co	_	_	
+9	στο	στου	AsPp	AsPpPa	Ma|Sg|Ac	8	AuxP	_	_	
+10	δρόμο	δρόμος	No	NoCm	Ma|Sg|Ac	9	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Και	και	Cj	CjCo	_	4	AuxY	_	_	
+3	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	4	Sb	_	_	
+4	είχα	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	έναν	ένας	At	AtId	Ma|Sg|Ac	6	Det	_	_	
+6	σκύλο	σκύλος	No	NoCm	Ma|Sg|Ac	4	Obj	_	_	
+7	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	6	AuxP	_	_	
+8	Ρωσία	Ρωσία	No	NoPr	Fe|Sg|Ac	7	Atr	_	_	
+9	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+10	τον	ο	At	AtDf	Ma|Sg|Ac	11	Det	_	_	
+11	Μίσα	μίσης	No	NoCm	Ma|Sg|Vo	6	ExD	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	2	Obj	_	_	
+2	άφησα	αφήνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	2	AuxP	_	_	
+4	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+5	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	4	Pos	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	γιατί	γιατί	Cj	CjSb	_	2	AuxC	_	_	
+8	το	ο	At	AtDf	Ne|Sg|Nm	9	Det	_	_	
+9	σπίτι	σπίτι	No	NoCm	Ne|Sg|Nm	11	Sb	_	_	
+10	της	μου	Pn	PnPo	Fe|03|Sg|Ge|Xx	9	Pos	_	_	
+11	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Adv	_	_	
+12	μεγάλη	μεγάλος	Aj	Aj	Ba|Fe|Sg|Ac	13	Atr	_	_	
+13	αυλή	αυλή	No	NoCm	Fe|Sg|Ac	11	Obj	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αύριο	αύριο	Ad	Ad	Ba	5	Adv	_	_	
+2	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+3	σχολείο	σχολείο	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+4	θα	θα	Pt	PtFu	_	5	AuxV	_	_	
+5	φέρω	φέρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	μια	ένας	At	AtId	Fe|Sg|Ac	7	Det	_	_	
+7	φωτογραφία	φωτογραφία	No	NoCm	Fe|Sg|Ac	5	Obj	_	_	
+8	του	ο	At	AtDf	Ma|Sg|Ge	9	Det	_	_	
+9	Μίσα	μίσης	No	NoCm	Ma|Sg|Vo	7	Atr	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	πολύ	πολύ	Ad	Ad	Ba	3	Adv	_	_	
+3	ωραίος	ωραίος	Aj	Aj	Ba|Ma|Sg|Nm	1	Pnom	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

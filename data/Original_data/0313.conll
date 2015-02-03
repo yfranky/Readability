@@ -1,0 +1,127 @@
+1	ΟΛΥΜΠΙΑΚΟΙ	ολυμπιακός	Aj	Aj	Ba|Ma|Pl|Nm	2	Atr	_	_	
+2	ΑΓΩΝΕΣ	αγώνας	No	NoCm	Ma|Pl|Nm	3	Sb_Ap	_	_	
+3	—	—	PUNCT	PUNCT	_	0	Apos	_	_	
+4	ΑΘΗΝΑ	Αθηνά	No	NoPr	Fe|Sg|Nm	3	Sb_Ap	_	_	
+5	2004	2004	DIG	DIG	_	3	Atr	_	_	
+
+1	Οι	ο	At	AtDf	Ma|Pl|Nm	2	Det	_	_	
+2	στόχοι	στόχος	No	NoCm	Ma|Pl|Nm	13	Sb	_	_	
+3	της	ο	At	AtDf	Fe|Sg|Ge	5	Det	_	_	
+4	Ολυμπιακής	ολυμπιακός	Aj	Aj	Ba|Fe|Sg|Ge	5	Atr	_	_	
+5	Επιτροπής	επιτροπή	No	NoCm	Fe|Sg|Ge	2	Atr	_	_	
+6	για	για	AsPp	AsPpSp	_	2	AuxP	_	_	
+7	τους	ο	At	AtDf	Ma|Pl|Ac	8	Det	_	_	
+8	Αγώνες	αγώνας	No	NoCm	Ma|Pl|Ac	6	Atr	_	_	
+9	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	8	AuxP	_	_	
+10	Αθήνα	Αθήνα	No	NoPr	Fe|Sg|Ac	9	Atr	_	_	
+11	το	ο	At	AtDf	Ne|Sg|Ac	12	Det	_	_	
+12	2004	2004	DIG	DIG	_	8	Atr	_	_	
+13	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+14	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	οργανώσουμε	οργανώνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	άριστους	άριστος	Aj	Aj	Ba|Ma|Pl|Ac	5	Atr	_	_	
+4	Ολυμπιακούς	ολυμπιακός	Aj	Aj	Ba|Ma|Pl|Ac	5	Atr	_	_	
+5	Αγώνες	αγώνας	No	NoCm	Ma|Pl|Ac	2	Obj	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	ώστε	ώστε	Cj	CjSb	_	2	AuxC	_	_	
+8	η	ο	At	AtDf	Fe|Sg|Nm	9	Det	_	_	
+9	Αθήνα	Αθήνα	No	NoPr	Fe|Sg|Nm	11	Sb	_	_	
+10	να	να	Pt	PtSj	_	11	AuxV	_	_	
+11	αποτελεί	αποτελώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Adv	_	_	
+12	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	11	AuxP	_	_	
+13	μέλλον	μέλλων	Aj	Aj	Ba|Ne|Sg|Ac	14	Atr	_	_	
+14	σημείο	σημείο	No	NoCm	Ne|Sg|Ac	12	Adv	_	_	
+15	αναφοράς	αναφορά	No	NoCm	Fe|Sg|Ge	14	Atr	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	βρούμε	βρίσκω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πάλι	πάλι	Ad	Ad	Ba	2	Adv	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+5	ολυμπιακά	ολυμπιακός	Aj	Aj	Ba|Ne|Pl|Ac	6	Atr	_	_	
+6	ιδεώδη	ιδεώδης	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+7	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+8	συνδέοντας	συνδέω	Vb	VbMn	Pp|Xx|Xx|Xx|Xx|Xx|Av|Xx	2	Adv	_	_	
+9	την	ο	At	AtDf	Fe|Sg|Ac	10	Det	_	_	
+10	παράδοση	παράδοση	No	NoCm	Fe|Sg|Ac	8	Obj	_	_	
+11	με	με	AsPp	AsPpSp	_	8	AuxP	_	_	
+12	το	ο	At	AtDf	Ne|Sg|Ac	13	Det	_	_	
+13	μέλλον	μέλλον	No	NoCm	Ne|Sg|Ac	11	Adv	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	αναπτύξουμε	αναπτύσσω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	και	και	Cj	CjCo	_	5	AuxY	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	καθιερώσουμε	καθιερώνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+6	την	ο	At	AtDf	Fe|Sg|Ac	8	Det	_	_	
+7	Πολιτιστική	πολιτιστικός	Aj	Aj	Ba|Fe|Sg|Ac	8	Atr	_	_	
+8	Ολυμπιάδα	ολυμπιάδα	No	NoCm	Fe|Sg|Ac	5	Obj	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	διαδώσουμε	διαδίδω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	την	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+4	«	«	OPUNCT	OPUNCT	_	6	AuxG	_	_	
+5	ολυμπιακή	ολυμπιακός	Aj	Aj	Ba|Fe|Sg|Ac	6	Atr	_	_	
+6	εκεχειρία	εκεχειρία	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+7	»	»	CPUNCT	CPUNCT	_	6	AuxG	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	συμβάλουμε	συμβάλλω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	2	AuxP	_	_	
+4	προστασία	προστασία	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+5	του	ο	At	AtDf	Ne|Sg|Ge	6	Det	_	_	
+6	περιβάλλοντος	περιβάλλον	No	NoCm	Ne|Sg|Ge	4	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	συμβάλουμε	συμβάλλω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	2	AuxP	_	_	
+4	ταχύτερη	ταχύς	Aj	Aj	Cp|Fe|Sg|Ac	5	Atr_Co	_	_	
+5	και	και	Cj	CjCo	_	7	Coord	_	_	
+6	σταθερή	σταθερός	Aj	Aj	Ba|Fe|Sg|Ac	5	Atr_Co	_	_	
+7	ανάπτυξη	ανάπτυξη	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+8	της	ο	At	AtDf	Fe|Sg|Ge	9	Det	_	_	
+9	χώρας	χώρα	No	NoCm	Fe|Sg|Ge	7	Atr	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	επιτύχουμε	επιτυγχάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	καλύτερη	καλός	Aj	Aj	Cp|Fe|Sg|Ac	4	Atr	_	_	
+4	ισορροπία	ισορροπία	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+5	μεταξύ	μεταξύ	Ad	Ad	Ba	4	AuxP	_	_	
+6	των	ο	At	AtDf	Ma|Pl|Ge	7	Det	_	_	
+7	ιδανικών	ιδανικός	Aj	Aj	Ba|Ma|Pl|Ge	5	Atr	_	_	
+8	του	ο	At	AtDf	Ma|Sg|Ge	9	Det	_	_	
+9	ολυμπισμού	ολυμπισμός	No	NoCm	Ma|Sg|Ge	10	Atr_Co	_	_	
+10	και	και	Cj	CjCo	_	7	Coord	_	_	
+11	της	ο	At	AtDf	Fe|Sg|Ge	13	Det	_	_	
+12	εμπορικής	εμπορικός	Aj	Aj	Ba|Fe|Sg|Ge	13	Atr	_	_	
+13	πλευράς	πλευρά	No	NoCm	Fe|Sg|Ge	10	Atr_Co	_	_	
+14	των	ο	At	AtDf	Ma|Pl|Ge	16	Det	_	_	
+15	Ολυμπιακών	ολυμπιακός	Aj	Aj	Ba|Ma|Pl|Ge	16	Atr	_	_	
+16	Αγώνων	αγώνας	No	NoCm	Ma|Pl|Ge	13	Atr	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	προβάλουμε	προβάλλω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	την	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+4	παραδοσιακή	παραδοσιακός	Aj	Aj	Ba|Fe|Sg|Ac	6	Atr	_	_	
+5	ελληνική	ελληνικός	Aj	Aj	Ba|Fe|Sg|Ac	6	Atr	_	_	
+6	φιλοξενία	φιλοξενία	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	αφήσουμε	αφήνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	μια	ένας	At	AtId	Fe|Sg|Ac	4	Det	_	_	
+4	κληρονομιά	κληρονομιά	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+5	για	για	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	τις	ο	At	AtDf	Fe|Pl|Ac	8	Det	_	_	
+7	επόμενες	επόμενος	Aj	Aj	Ba|Fe|Pl|Ac	8	Atr	_	_	
+8	γενιές	γενιά	No	NoCm	Fe|Pl|Ac	5	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

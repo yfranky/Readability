@@ -1,0 +1,314 @@
+	(SENT	<S>
+	SYN	[advp
+1\1	TOK	Μουσικά	μουσικά	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\9	TOK	ποτήρια	ποτήριο	NoCmNePlNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\18	TOK	Τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\21	TOK	γυάλινα	γυάλινος	AjBaNePlNm
+	SYN	/adjp_nm]
+1\29	TOK	ποτήρια	ποτήριο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\37	TOK	δεν	δεν	PtNg
+1\41	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\47	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\52	TOK	για	για	AsPpSp
+1\56	TOK	να	να	PtSj
+1\59	TOK	πίνουμε	πίνω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\66	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\68	TOK	Για	για	AsPpSp
+	SYN	[np_ac
+1\72	TOK	μερικούς	μερικοί	PnIdMa03PlAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\81	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\87	TOK	πρώτης	πρώτος	NmOdFeSgGeAj
+	SYN	/adjp_ge]
+1\94	TOK	τάξεως	τάξη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[advp
+1\101	TOK	μουσικά	μουσικά	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\109	TOK	όργανα	όργανο	NoCmNePlAc
+	SYN	/np_ac]
+1\115	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\117	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\121	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\127	TOK	μάλιστα	μάλιστα	AdXxBa
+	SYN	/advp]
+1\135	TOK	και	και	CjCo
+	SYN	[np_ac
+1\139	TOK	ιστορία	ιστορία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[advp
+1\147	TOK	τουλάχιστον	τουλάχιστο	AdXxBa
+	SYN	/advp]
+	SYN	[np_ge
+1\159	DIG	300	300	DIG
+1\163	TOK	χρόνων	χρόνος	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/cl_r]
+	SYN	/cl]
+1\169	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\171	TOK	Μεταξύ	μεταξύ	AdXxBa
+	SYN	[np_ge
+1\178	TOK	εκείνων	εκείνος	PnDmMa03PlGeXx
+	SYN	/np_ge]
+	SYN	/advp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\186	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\190	TOK	έγραψαν	γράφω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\198	TOK	μουσική	μουσική	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\206	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\209	TOK	ποτήρια	ποτήριο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\217	TOK	και	και	CjCo
+	SYN	[cl_r
+	SYN	[vg
+1\221	TOK	έδωσαν	δίνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\228	TOK	συναυλίες	συναυλία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\238	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\241	TOK	αυτά	αυτός	PnDmNe03PlAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	[vg
+1\246	TOK	περιλαμβάνονται	περιλαμβάνω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+1\262	TOK	και	και	CjCo
+	SYN	[np_nm
+1\266	TOK	μερικοί	μερικοί	PnIdMa03PlNmXx
+	SYN	[adjp_nm
+1\274	TOK	διάσημοι	διάσημος	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\283	TOK	συνθέτες	συνθέτης	NoCmMaPlNm
+	SYN	/np_nm]
+1\291	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\293	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+1\298	TOK	και	και	CjCo
+	SYN	[np_ac
+1\302	TOK	ερασιτέχνες	ερασιτέχνης	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\314	TOK	μουσικοί	μουσικός	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\322	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\324	TOK	Ο	ο	AtDfMaSgNm
+1\326	TOK	Μότσαρτ	Μότσαρτ	RgFwTr
+	SYN	/np_nm]
+	SYN	[vg
+1\334	TOK	έδωσε	δίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\340	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\344	TOK	πρώτη	πρώτος	NmOdFeSgAcAj
+1\350	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/adjp_ac]
+1\354	TOK	συναυλία	συναυλία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\363	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\366	TOK	ποτήρια	ποτήριο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_t
+1\374	TOK	όταν	όταν	CjSb
+	SYN	[vg
+1\379	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\384	DIG	17	17	DIG
+1\387	TOK	χρόνων	χρόνος	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/cl_t]
+1\393	PUNCT	,	,	PUNCT
+1\395	TOK	ενώ	ενώ	CjCo
+	SYN	[cl
+	SYN	[np_ac
+1\399	TOK	μουσικές	μουσική	NoCmFePlAc
+1\408	TOK	συνθέσεις	σύνθεση	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\418	TOK	γι’	για	AsPpSp
+	SYN	[np_ac
+1\422	TOK	αυτά	αυτός	PnDmNe03PlAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\427	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+1\433	TOK	γράψει	γράφω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\440	TOK	ο	ο	AtDfMaSgNm
+1\442	TOK	Χάιντν	Χάιντν	NoPrMaSgNm
+	SYN	/np_nm]
+1\449	TOK	και	και	CjCo
+1\453	TOK	ο	ο	AtDfMaSgNm
+	SYN	[np_ac
+1\455	TOK	Σούσα	Σούσα	NoPrNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\460	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\462	TOK	Διάσημοι	διάσημος	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\471	TOK	ερασιτέχνες	ερασιτέχνης	NoCmMaPlNm
+	SYN	/np_nm]
+1\483	OPUNCT	«	«	OPUNCT
+	SYN	[np_ac
+1\484	TOK	ποτηροπαίχτες	ποτηροπαίχτες	NoCmFePlAc
+	SYN	/np_ac]
+1\497	CPUNCT	»	»	CPUNCT
+	SYN	[vg
+1\499	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\504	TOK	ο	ο	AtDfMaSgNm
+1\506	TOK	πρόεδρος	πρόεδρος	NoCmMaSgNm
+	SYN	/np_nm]
+1\515	TOK	των	ο	AtDfFePlGe
+	SYN	[np_ac
+1\519	ABBR	ΗΠΑ	ΗΠΑ	ABBR
+1\523	TOK	Βενιαμίν	Βενιαμίν	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\532	TOK	Φραγκλίνος	Φραγκλίνος	NoPrMaSgNm
+	SYN	/np_nm]
+1\543	TOK	και	και	CjCo
+	SYN	[np_nm
+1\547	TOK	η	ο	AtDfFeSgNm
+1\549	TOK	βασίλισσα	βασίλισσα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\559	TOK	της	ο	AtDfFeSgGe
+1\563	TOK	Γαλλίας	Γαλλία	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[np_nm
+1\571	TOK	Μαρία	Μαρία	NoPrFeSgNm
+1\577	TOK	Αντουανέτα	Αντουανέτα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\587	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\589	TOK	Σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+1\595	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\597	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\600	TOK	όλο	όλος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\604	TOK	τον	ο	AtDfMaSgAc
+1\608	TOK	κόσμο	κόσμος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\614	TOK	υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\623	DIG	3-4	3-4	DIG
+1\627	TOK	επαγγελματίες	επαγγελματίας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\641	OPUNCT	«	«	OPUNCT
+1\642	TOK	ποτηρίστες	ποτηρίστες	NoCmMaPlAc
+1\652	CPUNCT	»	»	CPUNCT
+	SYN	/np_ac]
+1\654	OPUNCT	(	(	OPUNCT
+	SYN	[cl_q
+	SYN	[advp
+1\655	TOK	πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\659	TOK	λέμε	λέγω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\664	TOK	κιθαριστές	κιθαριστής	NoCmMaPlAc
+	SYN	/np_ac]
+1\674	CPUNCT	)	)	CPUNCT
+1\675	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\677	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\681	TOK	δίνουν	δίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\688	TOK	τακτικά	τακτικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\696	TOK	συναυλίες	συναυλία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl_q]
+	SYN	/cl]
+1\705	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

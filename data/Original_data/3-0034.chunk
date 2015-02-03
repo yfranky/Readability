@@ -1,0 +1,36 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Ο	ο	AtDfMaSgNm
+1\3	TOK	Yanni	Yanni	RgFwOr
+1\9	TOK	Hrisomallis	Hrisomallis	RgFwOr
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\22	TOK	Γεννήθηκε	γεννώ	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\32	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ge
+1\37	DIG	14	14	DIG
+1\40	TOK	Νοεμβρίου	Νοέμβριος	NoCmMaSgGe
+1\50	DIG	1954	1954	DIG
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\55	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\60	TOK	Καλαμάτα	Καλαμάτα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\68	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\70	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\75	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\81	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

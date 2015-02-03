@@ -1,0 +1,182 @@
+1	Γνώρισα	γνωρίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	κι	και	Cj	CjCo	_	4	AuxY	_	_	
+3	ένα	ένας	At	AtId	Ne|Sg|Nm	4	Det	_	_	
+4	παιδί	παιδί	No	NoCm	Ne|Sg|Nm	8	Sb_Ap	_	_	
+5	από	από	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	νησί	νησί	No	NoCm	Ne|Sg|Ac	5	Atr	_	_	
+8	,	,	PUNCT	PUNCT	_	1	Apos	_	_	
+9	τον	ο	At	AtDf	Ma|Sg|Ac	10	Det	_	_	
+10	Μάρκο	Μάρκος	No	NoPr	Ma|Sg|Ac	8	Sb_Ap	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	2	IObj	_	_	
+2	περνάει	περνώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+3	ένα	ένας	At	AtId	Ma|Sg|Ac	4	Det	_	_	
+4	χρόνο	χρόνος	No	NoCm	Ma|Sg|Ac	2	Obj	_	_	
+5	κι	και	Cj	CjCo	_	0	Coord	_	_	
+6	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	8	Sb	_	_	
+7	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	8	Obj	_	_	
+8	περνάω	περνώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+9	πέντε	πέντε	Nm	NmCd	Ma|Pl|Nm|Aj	10	Atr	_	_	
+10	πόντους	πόντος	No	NoCm	Ma|Pl|Ac	8	Obj	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	και	και	Cj	CjCo	_	4	AuxY	_	_	
+3	μια	ένας	At	AtId	Fe|Sg|Ac	4	Det	_	_	
+4	βάρκα	βάρκα	No	NoCm	Fe|Sg|Ac	5	Obj_Ap	_	_	
+5	,	,	PUNCT	PUNCT	_	1	Apos	_	_	
+6	"	"	OPUNCT	OPUNCT	_	8	AuxG	_	_	
+7	Το	ο	At	AtDf	Ne|Sg|Nm	8	Det	_	_	
+8	τρεχαντήρι	τρεχαντήρι	No	NoCm	Ne|Sg|Nm	5	Obj_Ap	_	_	
+9	"	"	CPUNCT	CPUNCT	_	8	AuxG	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	πρωτογράψω	πρωτογράφω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τον	ο	At	AtDf	Ma|Sg|Ac	6	Det	_	_	
+6	Μάρκο	Μάρκος	No	NoPr	Ma|Sg|Ac	4	Adv	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	μάτια	μάτι	No	NoCm	Ne|Pl|Nm	4	Sb	_	_	
+3	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	2	Pos	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	γαλανά	γαλανός	Aj	Aj	Ba|Ne|Pl|Nm	4	Pnom	_	_	
+6	σαν	σαν	Ad	Ad	Ba	4	Adv	_	_	
+7	τη	ο	At	AtDf	Fe|Sg|Ac	8	Det	_	_	
+8	θάλασσα	θάλασσα	No	NoCm	Fe|Sg|Ac	9	Obj_Co	_	_	
+9	και	και	Cj	CjCo	_	6	Coord	_	_	
+10	τα	ο	At	AtDf	Ne|Pl|Ac	11	Det	_	_	
+11	μαλλιά	μαλλί	No	NoCm	Ne|Pl|Ac	13	Obj	_	_	
+12	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	11	Pos	_	_	
+13	φαίνονται	φαίνομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	9	Obj_Co	_	_	
+14	άσπρα	άσπρος	Aj	Aj	Ba|Ne|Pl|Nm	13	Pnom	_	_	
+15	από	από	AsPp	AsPpSp	_	14	AuxP	_	_	
+16	το	ο	At	AtDf	Ne|Sg|Ac	18	Det	_	_	
+17	πολύ	πολύς	Aj	Aj	Ba|Ne|Sg|Ac	18	Atr	_	_	
+18	αλάτι	αλάτι	No	NoCm	Ne|Sg|Ac	15	Adv	_	_	
+19	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κολυμπάει	κολυμπώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Obj	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	βουτάει	βουτώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Adv_Pa	_	_	
+4	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+5	ψαρεύει	ψαρεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	4	AuxY	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Nm	4	Det	_	_	
+3	πιο	πιο	Ad	Ad	Ba	4	Adv	_	_	
+4	σπουδαίο	σπουδαίος	Aj	Aj	Ba|Ne|Sg|Nm	0	ExD	_	_	
+5	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+6	"	"	OPUNCT	OPUNCT	_	8	AuxG	_	_	
+7	Το	ο	At	AtDf	Ne|Sg|Nm	8	Det	_	_	
+8	Τρεχαντήρι	τρεχαντήρι	No	NoCm	Ne|Sg|Nm	11	Sb	_	_	
+9	"	"	CPUNCT	CPUNCT	_	8	AuxG	_	_	
+10	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	11	Obj	_	_	
+11	έφτιαξε	φτιάχνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+12	με	με	AsPp	AsPpSp	_	11	AuxP	_	_	
+13	τα	ο	At	AtDf	Ne|Pl|Ac	14	Det	_	_	
+14	χέρια	χέρι	No	NoCm	Ne|Pl|Ac	12	Adv	_	_	
+15	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	14	Pos	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	2	Obj	_	_	
+2	βοήθησε	βοηθώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	και	και	Cj	CjCo	_	5	AuxY	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	πατέρας	πατέρας	No	NoCm	Ma|Sg|Nm	2	Sb	_	_	
+6	του	ο	At	AtDf	Ne|Sg|Ge	7	Det	_	_	
+7	λίγο	λίγο	Ad	Ad	Ba	5	Atr	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Μάρκος	Μάρκος	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	ξέρει	ξέρω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	κάθε	κάθε	Pn	PnId	Ne|03|Sg|Ac|Xx	5	Atr	_	_	
+5	λιμανάκι	λιμανάκι	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	ρηχά	ρηχός	Ad	Ad	Ba	0	Coord	_	_	
+3	και	και	Cj	CjCo	_	6	AuxY	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+5	βαθιά	βαθύς	Aj	Aj	Ba|Ne|Pl|Ac	6	Atr	_	_	
+6	νερά	νερό	No	NoCm	Ne|Pl|Ac	2	ExD_Co	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	ψάρια	ψάρι	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	και	και	Cj	CjCo	_	4	AuxY	_	_	
+3	τρεις	τρεις	Nm	NmCd	Fe|Pl|Ac|Aj	4	Atr	_	_	
+4	αδερφές	αδερφές	No	NoCm	Fe|Pl|Ac	1	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλες	όλος	Aj	Aj	Ba|Fe|Pl|Nm	2	Atr	_	_	
+2	μεγαλύτερες	μεγάλος	Aj	Aj	Cp|Fe|Pl|Ac	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	σπίτι	σπίτι	No	NoCm	Ne|Sg|Nm	4	Sb	_	_	
+3	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	2	Pos	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	κάτασπρο	κάτασπρος	Aj	Aj	Ba|Ne|Sg|Nm	6	Pnom_Co	_	_	
+6	και	και	Cj	CjCo	_	4	Coord	_	_	
+7	πεντακάθαρο	πεντακάθαρος	Aj	Aj	Ba|Ma|Sg|Ac	6	Pnom_Co	_	_	
+8	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+9	με	με	AsPp	AsPpSp	_	4	AuxP	_	_	
+10	μπλε	μπλε	Aj	Aj	Ba|Ne|Sg|Ac	11	Atr	_	_	
+11	παράθυρα	παράθυρο	No	NoCm	Ne|Pl|Ac	9	Adv	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	και	και	Cj	CjCo	_	4	AuxY	_	_	
+3	μια	ένας	At	AtId	Fe|Sg|Ac	4	Det	_	_	
+4	αυλή	αυλή	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+5	με	με	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	λουλούδια	λουλούδι	No	NoCm	Ne|Pl|Ac	5	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	πατέρας	πατέρας	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+3	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	2	Pos	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	6	Pred_Co	_	_	
+5	ναυτικός	ναυτικός	Aj	Aj	Ba|Ma|Sg|Nm	4	Pnom	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	λείπει	λείπω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+8	τώρα	τώρα	Ad	Ad	Ba	7	Adv	_	_	
+9	σε	σε	AsPp	AsPpSp	_	7	AuxP	_	_	
+10	ταξίδι	ταξίδι	No	NoCm	Ne|Sg|Ac	9	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πάει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	Ατλαντικό	Ατλαντικός	No	NoPr	Ma|Sg|Ac	7	Atr	_	_	
+3	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+4	Ειρηνικό	Ειρηνικός	No	NoPr	Ma|Sg|Ac	7	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+6	Ινδικό	Ινδικός	No	NoPr	Ma|Sg|Ac	7	Atr	_	_	
+7	Ωκεανό	ωκεανός	No	NoCm	Ma|Sg|Ac	1	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	μητέρα	μητέρα	No	NoCm	Fe|Sg|Nm	5	Sb	_	_	
+3	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	2	Pos	_	_	
+4	πλέκει	πλέκω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	κεντάει	κεντώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+7	μέσα	μέσα	Ad	Ad	Ba	6	Adv	_	_	
+8	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	7	AuxP	_	_	
+9	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	8	Adv	_	_	
+10	ή	ή	Cj	CjCo	_	6	AuxC	_	_	
+11	έξω	έξω	Ad	Ad	Ba	10	Adv	_	_	
+12	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	11	AuxP	_	_	
+13	αυλή	αυλή	No	NoCm	Fe|Sg|Ac	12	Adv	_	_	
+14	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

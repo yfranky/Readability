@@ -1,0 +1,398 @@
+	(SENT	<S>
+1\1	TOK	Η	ο	AtDfFeSgNm
+	SYN	[np_nm
+1\3	TOK	ΙΣΤΟΡΙΑ	ιστορία	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\11	TOK	ΤΩΝ	ο	AtDfMaPlGe
+1\15	TOK	ΠΑΙΧΝΙΔΙΩΝ	παιχνίδι	NoCmNePlGe
+	SYN	/np_ge]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\27	TOK	Τα	ο	AtDfNePlNm
+1\30	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\37	TOK	των	ο	AtDfMaPlGe
+	SYN	[adjp_ge
+1\41	TOK	αρχαίων	αρχαίος	AjBaMaPlGe
+	SYN	/adjp_ge]
+1\49	TOK	Αιγυπτίων	Αιγύπτιος	NoPrMaPlGe
+1\58	PUNCT	,	,	PUNCT
+1\60	TOK	Ελλήνων	Έλληνας	NoPrMaPlGe
+1\68	TOK	και	και	CjCo
+1\72	TOK	Ρωμαίων	Ρωμαίος	NoPrMaPlGe
+	SYN	/np_ge]
+	SYN	[vg
+1\80	TOK	έπαιζαν	παίζω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\88	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\91	TOK	ξύλινα	ξύλινος	AjBaNePlAc
+1\98	TOK	ή	ή	CjCo
+1\100	TOK	πήλινα	πήλινος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\107	TOK	ζωάκια	ζωάκι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\113	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\115	TOK	Πριν	πριν	AdXxBa
+	SYN	[pp
+1\120	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\124	TOK	τέσσερις	τέσσερις	NmCdFePlAcAj
+1\133	TOK	χιλιάδες	χιλιάδα	NmCtFePlAcNo
+	SYN	/adjp_ac]
+1\142	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[vg
+1\149	TOK	υπήρχαν	υπάρχω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\157	TOK	μηχανικά	μηχανικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\166	TOK	παιχνίδια	παιχνίδι	NoCmNePlAc
+	SYN	/np_ac]
+1\175	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\177	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\182	TOK	αμαξάκια	αμαξάκι	NoCmNePlAc
+	SYN	/np_ac]
+1\191	TOK	και	και	CjCo
+	SYN	[np_ac
+1\195	TOK	κούκλες	κούκλα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\203	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\206	TOK	κινητά	κινητός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\213	TOK	χέρια	χέρι	NoCmNePlAc
+	SYN	/np_ac]
+1\219	TOK	και	και	CjCo
+	SYN	[np_ac
+1\223	TOK	πόδια	πόδι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\228	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\230	TOK	Ένα	ένας	AtIdNeSgNm
+	SYN	[adjp_nm
+1\234	TOK	αρχαίο	αρχαίος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\241	TOK	παιχνίδι	παιχνίδι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\250	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\254	TOK	υπάρχει	υπάρχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\262	TOK	ακόμα	ακόμα	AdXxBa
+1\268	TOK	και	και	CjCo
+1\272	TOK	σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+	SYN	/cl_r]
+	SYN	[vg
+1\279	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\285	TOK	η	ο	AtDfFeSgNm
+1\287	TOK	σβούρα	σβούρα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\293	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\296	TOK	Το	ο	AtDfNeSgAc
+1\299	DIG	1700	1700	DIG
+	SYN	/np_ac]
+	SYN	[vg
+1\304	TOK	κατασκευάζονταν	κατασκευάζω	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\320	TOK	κούκλες	κούκλα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\328	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\332	TOK	κινούνταν	κινώ	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_r]
+1\342	TOK	και	και	CjCo
+	SYN	[cl_r
+	SYN	[vg
+1\346	TOK	έβγαζαν	βγάζω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\354	TOK	ήχους	ήχος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[advp
+1\360	TOK	χάρη	χάρη	AdXxBa
+	SYN	[pp
+1\365	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\368	TOK	ένα	ένας	AtIdNeSgAc
+1\372	TOK	σύστημα	σύστημα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[pp
+1\380	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\383	TOK	γρανάζια	γρανάζι	NoCmNePlAc
+	SYN	[adjp_ac
+1\392	TOK	κρυμμένα	κρυμμένος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\401	TOK	κάτω	κάτω	AdXxBa
+	SYN	[pp
+1\406	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\410	TOK	τα	ο	AtDfNePlAc
+1\413	TOK	ρούχα	ρούχο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\418	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\420	TOK	Ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\425	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\428	TOK	πρώτα	πρώτος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\434	TOK	ρομπότ	ρομπότ	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\440	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\443	TOK	Το	ο	AtDfNeSgAc
+1\446	DIG	1900	1900	DIG
+	SYN	[np_nm
+1\451	TOK	τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+	SYN	[advp
+1\454	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\458	TOK	τυχερά	τυχερός	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+1\465	TOK	παιδιά	παιδί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[vg
+1\472	TOK	έπαιζαν	παίζω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\480	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\483	TOK	τρενάκια	τρενάκι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\491	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\493	TOK	Την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\497	TOK	ίδια	ίδιος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\502	TOK	περίοδο	περίοδος	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\510	TOK	εμφανίστηκαν	εμφανίζω	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\523	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+	SYN	[advp
+1\526	TOK	πρώτα	πρώτα	AdXxBa
+	SYN	/advp]
+1\532	TOK	μεταλλικά	μεταλλικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\542	TOK	αυτοκινητάκια	αυτοκινητάκι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\555	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\557	TOK	Οι	ο	AtDfFePlNm
+1\560	TOK	κούκλες	κούκλα	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\568	TOK	είχαν	έχω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\574	TOK	μεταξωτά	μεταξωτός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\583	TOK	φορέματα	φόρεμα	NoCmNePlAc
+	SYN	/np_ac]
+1\591	PUNCT	,	,	PUNCT
+1\593	TOK	ενώ	ενώ	CjCo
+	SYN	[np_ac
+1\597	TOK	τα	ο	AtDfNePlAc
+1\600	TOK	πρόσωπά	πρόσωπο	NoCmNePlAc
+1\608	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\613	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\618	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\622	TOK	πορσελάνη	πορσελάνη	NoCmFeSgAc
+	SYN	/np_ac]
+1\632	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\636	TOK	ζωγραφισμένα	ζωγραφισμένος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\649	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\652	TOK	το	ο	AtDfNeSgAc
+1\655	TOK	χέρι	χέρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\659	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\662	TOK	Σιγά	σιγά	AdXxBa
+1\667	TOK	σιγά	σιγά	AdXxBa
+	SYN	/advp]
+1\671	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\673	TOK	η	ο	AtDfFeSgNm
+1\675	TOK	ανάπτυξη	ανάπτυξη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\684	TOK	της	ο	AtDfFeSgGe
+1\688	TOK	βιομηχανίας	βιομηχανία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\700	TOK	οδήγησε	οδηγώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+1\708	TOK	και	και	CjCo
+	SYN	[pp
+1\712	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\717	TOK	κατασκευή	κατασκευή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\727	TOK	καινούριων	καινούριος	AjBaNePlGe
+	SYN	/adjp_ge]
+1\738	TOK	παιχνιδιών	παιχνίδι	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\749	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\752	TOK	κύριο	κύριος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\758	TOK	υλικό	υλικό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\764	TOK	κατασκευής	κατασκευή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[np_ac
+1\775	TOK	το	ο	AtDfNeSgAc
+1\778	TOK	πλαστικό	πλαστικός	NoCmNeSgAc
+	SYN	/np_ac]
+1\787	TOK	και	και	CjCo
+	SYN	[np_ac
+1\791	TOK	άλλα	άλλος	PnIdNe03PlAcXx
+	SYN	[adjp_ac
+1\796	TOK	συνθετικά	συνθετικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\806	TOK	υλικά	υλικό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\811	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\813	TOK	Στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\818	TOK	μέρες	μέρα	NoCmFePlAc
+1\824	TOK	μας	μου	PnPoMa01PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\828	TOK	χρησιμοποιούνται	χρησιμοποιώ	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\845	TOK	ηλεκτρονικά	ηλεκτρονικός	AjBaNePlNm
+	SYN	/adjp_nm]
+1\857	TOK	παιχνίδια	παιχνίδι	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\867	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\871	TOK	παίζονται	παίζω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\881	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+1\887	TOK	υπολογιστές	υπολογιστής	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\898	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

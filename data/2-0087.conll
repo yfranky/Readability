@@ -1,0 +1,40 @@
+1	Κάποτε	κάποτε	Ad	Ad	Ba	0	Coord	_	_	
+2	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+3	Αυστραλία	Αυστραλία	No	NoPr	Fe|Sg|Ac	2	Adv	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ένας	ένας	At	AtId	Ma|Sg|Nm	2	Det	_	_	
+2	κροκόδειλος	κροκόδειλος	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	περπατάει	περπατώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+5	έρημο	έρημος	Aj	Aj	Ba|Ne|Sg|Ac	4	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ένας	ένας	At	AtId	Ma|Sg|Nm	2	Det	_	_	
+2	καρχαρίας	καρχαρίας	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	μιλάει	μιλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ένα	ένας	At	AtId	Ne|Sg|Nm	2	Det	_	_	
+2	κοάλα	κοάλα	Aj	Aj	Ba|Ne|Pl|Ac	3	Obj	_	_	
+3	πηδάει	πηδώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ένα	ένας	At	AtId	Ne|Sg|Nm	2	Det	_	_	
+2	καγκουρο	καγκουρό	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	τρώει	τρώω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ψάρια	ψάρι	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ένας	ένας	At	AtId	Ma|Sg|Nm	2	Det	_	_	
+2	παπαγάλος	παπαγάλος	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	κολυμπάει	κολυμπώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ένα	ένας	At	AtId	Ma|Sg|Ac	2	Det	_	_	
+2	ντίγκο	ντίγκο	No	NoCm	Ma|Sg|Ac	3	Adv	_	_	
+3	μασάει	μασώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	φύλλα	φύλλο	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

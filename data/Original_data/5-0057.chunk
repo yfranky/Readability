@@ -1,0 +1,622 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Διακοπές	διακοπή	NoPrFePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\10	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\13	TOK	κατασκήνωση	κατασκήνωση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\26	TOK	Υπάρχει	υπάρχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\34	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\39	TOK	Ευρυτανία	Ευρυτανία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\49	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\53	OPUNCT	«	«	OPUNCT
+1\54	TOK	εξωτική	εξωτικός	AjBaFeSgAc
+1\61	CPUNCT	»	»	CPUNCT
+	SYN	/adjp_ac]
+1\63	TOK	περιοχή	περιοχή	NoCmFeSgAc
+	SYN	/np_ac]
+1\70	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\72	TOK	απάτητη	απάτητος	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\80	TOK	μέχρι	μέχρι	AsPpSp
+	SYN	[advp
+1\86	TOK	πριν	πριν	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	[pp
+1\91	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\95	TOK	λίγο	λίγος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\100	TOK	καιρό	καιρός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\105	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\107	TOK	Οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\110	TOK	λίγοι	λίγος	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\116	TOK	που	που	PnReMa03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\120	TOK	έφθαναν	φτάνω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\128	TOK	εκεί	εκεί	AdXxBa
+	SYN	/advp]
+	SYN	/cl_r]
+	SYN	[vg
+1\133	TOK	απολάμβαναν	απολαμβάνω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\145	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\149	TOK	μοναδικό	μοναδικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\158	TOK	τοπίο	τοπίο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\164	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\168	TOK	αυτοί	αυτός	PnDmMa03PlNmXx
+1\174	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\177	TOK	λίγοι	λίγος	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\183	TOK	ήταν	είμαι	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\188	TOK	κάποια	κάποιος	PnIdNe03PlAcXx
+	SYN	/np_ac]
+	SYN	[np_nm
+1\195	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\201	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\203	TOK	Ξεκινούσαν	ξεκινώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\214	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\218	TOK	την	ο	AtDfFeSgAc
+1\222	TOK	κατασκήνωσή	κατασκήνωση	NoCmFeSgAc
+1\234	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\239	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\243	TOK	βουνό	βουνό	NoCmNeSgAc
+1\249	TOK	Καλιακούδα	καλιακούδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\260	TOK	για	για	AsPpSp
+1\264	TOK	να	να	PtSj
+1\267	TOK	περπατήσουν	περπατώ	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\279	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\283	TOK	φαράγγι	φαράγγι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\291	TOK	του	ο	AtDfNeSgGe
+1\295	TOK	Κρικελοπόταμου	Κρικελοπόταμου	NoPrNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_o]
+1\310	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\314	TOK	να	να	PtSj
+1\317	TOK	φθάσουν	φτάνω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\325	TOK	ως	ως	AdXxBa
+	SYN	[np_ac
+1\328	TOK	το	ο	AtDfNeSgAc
+1\331	OPUNCT	«	«	OPUNCT
+	SYN	/np_ac]
+	SYN	/advp]
+	SYN	/cl_o]
+	SYN	[advp
+1\332	TOK	Πάντα	πάντα	AdXxBa
+	SYN	/advp]
+	SYN	[cl
+	SYN	[vg
+1\338	TOK	Βρέχει	βρέχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+1\344	CPUNCT	»	»	CPUNCT
+	SYN	/cl]
+1\345	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\347	TOK	Εκεί	εκεί	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\352	TOK	το	ο	AtDfNeSgNm
+1\355	TOK	φαράγγι	φαράγγι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\363	TOK	στενεύει	στενεύω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+1\372	TOK	και	και	CjCo
+	SYN	[np_ac
+1\376	TOK	τα	ο	AtDfNePlAc
+1\379	TOK	νερά	νερό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\384	OPUNCT	«	«	OPUNCT
+1\385	TOK	γκρεμίζονται	γκρεμίζω	VbMnIdPr03PlXxIpPvXx
+1\397	CPUNCT	»	»	CPUNCT
+	SYN	/vg]
+	SYN	[pp
+1\399	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\403	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\407	TOK	κατάφυτες	κατάφυτος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\417	TOK	πλαγιές	πλαγιά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_g
+	SYN	[vg_g
+1\425	TOK	δημιουργώντας	δημιουργώ	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[np_ac
+1\439	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[advp
+1\443	TOK	σπάνια	σπάνια	AdXxBa
+	SYN	/advp]
+1\450	TOK	εικόνα	εικόνα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_g]
+	SYN	/cl]
+1\456	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\458	TOK	Και	και	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\462	TOK	αυτό	αυτός	PnDmNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\467	TOK	δεν	δεν	PtNg
+1\471	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\477	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\480	TOK	μοναδικό	μοναδικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\489	TOK	προνόμιο	προνόμιο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\498	TOK	που	που	PnReNe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\502	TOK	απολαμβάνουν	απολαμβάνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\515	TOK	τα	ο	AtDfNePlNm
+1\518	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/cl_r]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\525	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\529	TOK	συμμετέχουν	συμμετέχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\541	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\546	TOK	κατασκηνώσεις	κατασκήνωση	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\560	TOK	περιπέτειας	περιπέτεια	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\572	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\576	TOK	φύση	φύση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\580	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\583	TOK	Τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\586	TOK	τελευταία	τελευταίος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\596	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\603	TOK	τα	ο	AtDfNePlNm
+1\606	TOK	Κέντρα	κέντρο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\613	TOK	Υπαίθριων	υπαίθριος	AjBaFePlGe
+	SYN	/adjp_ge]
+1\623	TOK	Δραστηριοτήτων	δραστηριότητα	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	[vg
+1\638	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+1\644	TOK	αλλάξει	αλλάζω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\652	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\656	TOK	παραδοσιακή	παραδοσιακός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\668	TOK	ιδέα	ιδέα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\673	TOK	της	ο	AtDfFeSgGe
+1\677	TOK	κατασκήνωσης	κατασκήνωση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\689	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\691	TOK	Οι	ο	AtDfMaPlNm
+1\694	TOK	διοργανωτές	διοργανωτής	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\706	TOK	επιχειρούν	επιχειρώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\717	TOK	μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\722	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\726	TOK	έξυπνα	έξυπνος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\733	TOK	παιχνίδια	παιχνίδι	NoCmNePlAc
+	SYN	/np_ac]
+1\743	TOK	και	και	CjCo
+	SYN	[np_ac
+1\747	TOK	δραστηριότητες	δραστηριότητα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\761	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[np_nm
+1\763	TOK	οι	ο	AtDfFePlNm
+1\766	TOK	οποίες	οποίος	PnReFe03PlNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\773	TOK	συνδυάζονται	συνδυάζω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\786	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\789	TOK	σπορ	σπορ	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\794	TOK	του	ο	AtDfNeSgGe
+1\798	TOK	βουνού	βουνό	NoCmNeSgGe
+	SYN	/np_ge]
+1\805	TOK	και	και	CjCo
+	SYN	[np_ge
+1\809	TOK	του	ο	AtDfNeSgGe
+1\813	TOK	νερού	νερό	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\818	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+	SYN	[vg_s
+1\820	TOK	να	να	PtSj
+1\823	TOK	αναπτύξουν	αναπτύσσω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\834	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\838	TOK	παιδιά	παιδί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\845	TOK	αυτοπεποίθηση	αυτοπεποίθηση	NoCmFeSgNm
+	SYN	/np_nm]
+1\858	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\860	TOK	υπευθυνότητα	υπευθυνότητα	NoCmFeSgAc
+	SYN	/np_ac]
+1\872	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\874	TOK	σωστή	σωστός	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_nm
+1\880	TOK	κρίση	κρίση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\885	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\887	TOK	πρωτοβουλία	πρωτοβουλία	NoCmFeSgAc
+	SYN	/np_ac]
+1\899	TOK	και	και	CjCo
+	SYN	[np_ac
+1\903	TOK	αποφασιστικότητα	αποφασιστικότητα	NoCmFeSgAc
+	SYN	/np_ac]
+1\919	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\921	TOK	χωρίς	χωρίς	AsPpSp
+1\927	TOK	όμως	όμως	CjCo
+	SYN	[vg_s
+1\932	TOK	να	να	PtSj
+1\935	TOK	παραβλέπουν	παραβλέπω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\947	TOK	τη	ο	AtDfFeSgAc
+1\950	TOK	διασκέδαση	διασκέδαση	NoCmFeSgAc
+	SYN	/np_ac]
+1\960	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[np_nm
+1\962	TOK	η	ο	AtDfFeSgNm
+1\964	TOK	οποία	οποίος	PnReFe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\970	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\976	TOK	σημαντική	σημαντικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\986	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\990	TOK	κάθε	κάθε	PnIdFe03SgAcXx
+1\995	TOK	ηλικία	ηλικία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\1001	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1003	TOK	Αναφέρουμε	αναφέρω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\1014	TOK	ενδεικτικά	ενδεικτικά	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\1025	TOK	μερικές	μερικοί	PnIdFe03PlAcXx
+1\1033	TOK	δραστηριότητες	δραστηριότητα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1048	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1052	TOK	περιλαμβάνονται	περιλαμβάνω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\1068	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\1072	TOK	προγράμματα	πρόγραμμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1084	TOK	των	ο	AtDfFePlGe
+1\1088	TOK	κατασκηνώσεων	κατασκήνωση	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\1101	PTERM_P	:	:	PTERM_P
+	SYN	[np_ac
+1\1103	TOK	πεζοπορία	πεζοπορία	NoCmFeSgAc
+	SYN	/np_ac]
+1\1112	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1114	TOK	ορειβασία	ορειβασία	NoCmFeSgAc
+	SYN	/np_ac]
+1\1123	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1125	TOK	αναρρίχηση	αναρρίχηση	NoCmFeSgAc
+	SYN	/np_ac]
+1\1135	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1137	TOK	ορειβατικό	ορειβατικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\1148	TOK	ποδήλατο	ποδήλατο	NoCmNeSgAc
+	SYN	/np_ac]
+1\1156	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1158	TOK	καγιάκ	καγιάκ	NoCmNePlAc
+	SYN	/np_ac]
+1\1164	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1166	TOK	κατάβαση	κατάβαση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1175	TOK	φαραγγιού	φαράγγι	NoCmNeSgGe
+	SYN	/np_ge]
+1\1185	OPUNCT	(	(	OPUNCT
+1\1186	TOK	canyoning	canyoning	RgFwOr
+1\1195	CPUNCT	)	)	CPUNCT
+1\1196	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1198	TOK	τοξοβολία	τοξοβολία	NoCmFeSgAc
+	SYN	/np_ac]
+1\1207	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\1209	TOK	στίβος	στίβος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\1216	TOK	περιπέτειας	περιπέτεια	NoCmFeSgGe
+	SYN	/np_ge]
+1\1227	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1229	TOK	πεζοπορία	πεζοπορία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1239	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\1244	TOK	κοίτη	κοίτη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1250	TOK	ποταμού	ποταμός	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\1258	OPUNCT	(	(	OPUNCT
+1\1259	TOK	river	river	RgFwOr
+1\1265	TOK	trekking	trekking	RgFwOr
+1\1273	CPUNCT	)	)	CPUNCT
+1\1274	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1276	TOK	ράφτινγκ	ράφτινγκ	NoCmNeSgAc
+	SYN	/np_ac]
+1\1284	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1286	TOK	ιππασία	ιππασία	NoCmFeSgAc
+	SYN	/np_ac]
+1\1293	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1295	TOK	περιβαλλοντικά	περιβαλλοντικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1310	TOK	παιχνίδια	παιχνίδι	NoCmNePlAc
+	SYN	/np_ac]
+1\1319	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1321	TOK	περιβαλλοντική	περιβαλλοντικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\1336	TOK	εκπαίδευση	εκπαίδευση	NoCmFeSgNm
+	SYN	/np_nm]
+1\1346	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1348	TOK	εργαστήρια-κατασκευές	εργαστήρια-κατασκευές	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1370	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1373	TOK	φυσικά	φυσικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1380	TOK	υλικά	υλικό	NoCmNePlAc
+	SYN	/np_ac]
+1\1385	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1387	TOK	εναέριο	εναέριος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\1395	TOK	πέρασμα	πέρασμα	NoCmNeSgAc
+	SYN	/np_ac]
+1\1402	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1404	TOK	καταρρίχηση	καταρρίχηση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\1416	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1419	TOK	σκοινιά	σκοινί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\1427	OPUNCT	(	(	OPUNCT
+1\1428	TOK	rappel	rappel	RgFwOr
+1\1434	CPUNCT	)	)	CPUNCT
+1\1435	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1437	TOK	διαβίωση	διαβίωση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1446	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\1450	TOK	φύση	φύση	NoCmFeSgAc
+	SYN	/np_ac]
+1\1454	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1456	TOK	θεατρικό	θεατρικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\1465	TOK	παιχνίδι	παιχνίδι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\1474	ABBR	κ.ά.	κ.ά.	ABBR
+1\1478	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1480	TOK	όλα	όλος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1484	TOK	αυτά	αυτός	PnDmNe03PlAcXx
+	SYN	/np_ac]
+	SYN	[advp
+1\1489	TOK	μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\1494	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1497	TOK	παρθένο	παρθένος	AjBaNeSgAc
+1\1505	TOK	φυσικό	φυσικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\1512	TOK	περιβάλλον	περιβάλλον	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\1522	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

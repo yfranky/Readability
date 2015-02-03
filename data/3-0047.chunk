@@ -1,0 +1,26 @@
+	(SENT	<S>
+	SYN	[advp
+1\1	TOK	Καλά	καλά	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\6	TOK	Χριστούγεννα	Χριστούγεννα	NoPrNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\19	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\22	TOK	όλους	όλος	AjBaMaPlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+1\27	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[pp
+1\30	TOK	Με	με	AsPpSp
+	SYN	[np_ac
+1\33	TOK	αγάπη	αγάπη	NoCmFeSgAc
+1\39	TOK	Χριστίνα	Χριστίνα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>

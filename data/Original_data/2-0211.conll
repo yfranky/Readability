@@ -1,0 +1,65 @@
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	ΓΙΑΓΙΑ	γιαγιά	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	ΜΟΥ	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	2	Pos	_	_	
+
+1	Τη	ο	At	AtDf	Fe|Sg|Ac	2	Det	_	_	
+2	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Ac	5	Obj	_	_	
+3	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	2	Pos	_	_	
+4	τη	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	5	Obj	_	_	
+5	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	Ιωάννα	Ιωάννα	No	NoPr	Fe|Sg|Ac	5	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+3	καλύτερη	καλός	Aj	Aj	Cp|Fe|Sg|Nm	4	Atr	_	_	
+4	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Nm	1	Pnom	_	_	
+5	του	ο	At	AtDf	Ma|Sg|Ge	6	Det	_	_	
+6	κόσμου	κόσμος	No	NoCm	Ma|Sg|Ge	4	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μας	εγώ	Pn	PnPe	Ma|01|Pl|Ac|We	2	Obj	_	_	
+2	αγαπάει	αγαπώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	όλους	όλος	Aj	Aj	Ba|Ma|Pl|Ac	4	Atr_Co	_	_	
+4	και	και	Cj	CjCo	_	2	Coord	_	_	
+5	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ge|We	6	IObj	_	_	
+6	φτιάχνει	φτιάχνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Atr_Co	_	_	
+7	νόστιμα	νόστιμα	Ad	Ad	Ba	6	Adv	_	_	
+8	φαγητά	φαγητό	No	NoCm	Ne|Pl|Ac	11	Obj_Co	_	_	
+9	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+10	κουλουράκια	κουλουράκι	No	NoCm	Ne|Pl|Ac	11	Adv_Co	_	_	
+11	και	και	Cj	CjCo	_	7	Coord	_	_	
+12	πίτες	πίτα	No	NoCm	Fe|Pl|Ac	11	Obj_Co	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	3	AuxY	_	_	
+2	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ge|We	3	IObj	_	_	
+3	λέει	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	7	Det	_	_	
+5	πιο	πιο	Ad	Ad	Ba	6	Adv	_	_	
+6	όμορφα	όμορφος	Aj	Aj	Ba|Ne|Pl|Ac	7	Atr	_	_	
+7	παραμύθια	παραμύθι	No	NoCm	Ne|Pl|Ac	8	Obj_Co	_	_	
+8	και	και	Cj	CjCo	_	3	Coord	_	_	
+9	ιστοριούλες	ιστοριούλα	No	NoCm	Fe|Pl|Ac	8	Obj_Co	_	_	
+10	όταν	όταν	Cj	CjSb	_	3	AuxC	_	_	
+11	μένει	μένω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	10	Adv	_	_	
+12	μαζί	μαζί	Ad	Ad	Ba	11	Adv	_	_	
+13	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ge|We	12	Adv	_	_	
+14	τα	ο	At	AtDf	Ne|Pl|Ac	15	Det	_	_	
+15	βράδια	βράδυ	No	NoCm	Ne|Pl|Ac	11	Obj	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	2	Sb	_	_	
+2	αγαπώ	αγαπώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+3	πολύ	πολύ	Ad	Ad	Ba	2	Adv	_	_	
+4	τη	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+6	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	5	Pos	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+9	να	να	Pt	PtSj	_	10	AuxV	_	_	
+10	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	8	Obj	_	_	
+11	πάντα	πάντα	Ad	Ad	Ba	10	Adv	_	_	
+12	καλά	καλά	Ad	Ad	Ba	10	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

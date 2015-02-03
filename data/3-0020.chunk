@@ -1,0 +1,128 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	ΚΟύρος	κούρος	NoCmMaSgNm
+	SYN	/np_nm]
+1\7	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\9	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\11	TOK	ελληνοαυστραλός	Ελληνοαυστραλός	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\27	TOK	μαραθωνοδρόμος	μαραθωνοδρόμος	NoCmMaSgNm
+	SYN	/np_nm]
+1\41	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\44	TOK	Με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\47	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\52	TOK	Γιάννη	Γιάννης	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\59	TOK	Κούρο	κούρος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\64	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\68	TOK	Είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\74	TOK	ελληνικής	ελληνικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\84	TOK	καταγωγής	καταγωγή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\93	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\97	TOK	Γεννήθηκα	γεννώ	VbMnIdPa01SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\107	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\112	TOK	Τρίπολη	Τρίπολη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\119	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\121	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\126	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\132	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\136	TOK	Μένω	μένω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\141	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\146	TOK	Μελβούρνη	Μελβούρνη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\155	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\157	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\162	TOK	Αυστραλία	Αυστραλία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\171	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\175	TOK	Μιλάω	μιλώ	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\181	TOK	ελληνικά	ελληνικός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\190	TOK	και	και	CjCo
+	SYN	[np_ac
+1\194	TOK	αγγλικά	αγγλικός	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\201	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\205	TOK	Είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\211	TOK	μαραθωνοδρόμος	μαραθωνοδρόμος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\225	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\229	TOK	Είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+1\235	TOK	όμως	όμως	CjCo
+1\240	TOK	και	και	CjCo
+	SYN	[np_nm
+1\244	TOK	ποιητής	ποιητής	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\251	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

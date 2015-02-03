@@ -1,0 +1,29 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	2	AuxP	_	_	
+4	ποτάμι	ποτάμι	No	NoCm	Ne|Sg|Ac	3	Adv	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	3	Obj	_	_	
+3	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	Αγγέλα	Αγγέλα	No	NoPr	Fe|Sg|Ac	3	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εσένα	εγώ	Pn	PnPe	Ma|02|Sg|Ac|St	0	ExD	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Εμένα	εγώ	Pn	PnPe	Ma|01|Sg|Ge|St	4	Obj	_	_	
+3	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	4	Obj	_	_	
+4	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	Μελέκ	Μελέκ	No	NoPr	Ma|Sg|Nm	4	Sb	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Εμένα	εγώ	Pn	PnPe	Ma|01|Sg|Ge|St	4	Obj	_	_	
+3	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	4	Obj	_	_	
+4	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	Αχμέτ	Αχμέτ	No	NoPr	Ma|Sg|Nm	4	Sb	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

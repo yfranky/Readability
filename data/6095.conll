@@ -1,0 +1,136 @@
+1	Έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τις	ο	At	AtDf	Fe|Pl|Ac	4	Det	_	_	
+3	ιδανικές	ιδανικός	Aj	Aj	Ba|Fe|Pl|Ac	4	Atr	_	_	
+4	αναλογίες	αναλογία	No	NoCm	Fe|Pl|Ac	1	Obj	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Atr	_	_	
+3	ύψος	ύψος	No	NoCm	Ne|Sg|Ac	4	Obj	_	_	
+4	έχεις	έχω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	1,60	1,60	DIG	DIG	_	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	0	ExD	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	3	Sb	_	_	
+3	είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	1,75	1,75	DIG	DIG	_	3	Pnom	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+3	λες	λέγω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	2	Obj	_	_	
+2	περνάς	περνώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	15	15	DIG	DIG	_	4	Atr	_	_	
+4	πόντους	πόντος	No	NoCm	Ma|Pl|Ac	2	Obj	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Για	για	AsPp	AsPpSp	_	3	Adv	_	_	
+3	έλα	έλα	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	εδώ	εδώ	Ad	Ad	Ba	3	Adv	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	δούμε	βλέπω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Obj	_	_	
+7	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μα	μα	Cj	CjCo	_	3	AuxY	_	_	
+3	Βέβαια	βέβαια	Ad	Ad	Ba	0	ExD	_	_	
+4	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αν	αν	Cj	CjSb	_	0	AuxC	_	_	
+2	φοράς	φορώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+3	πέντε	πέντε	Nm	NmCd	Ne|Pl|Ac|Aj	4	Atr	_	_	
+4	πόντους	πόντος	No	NoCm	Ma|Pl|Ac	2	Obj	_	_	
+5	τακούνι	τακούνι	No	NoCm	Ne|Sg|Ac	4	Atr	_	_	
+6	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Κι	και	Cj	CjCo	_	4	AuxY	_	_	
+3	εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	4	Sb	_	_	
+4	φοράς	φορώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	τακούνια	τακούνι	No	NoCm	Ne|Pl|Nm	4	Pnom	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	Pred_Co	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	1	AuxY	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	4	Pred_Co	_	_	
+6	πιο	πιο	Ad	Ad	Ba	7	Adv	_	_	
+7	χαμηλά	χαμηλός	Aj	Aj	Ba|Ne|Pl|Nm	5	Pnom	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Atr	_	_	
+3	Βάρος	βάρος	No	NoCm	Ne|Sg|Nm	4	Sb	_	_	
+4	έχεις	έχω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	ξέρω	ξέρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	0	ExD	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Α	α	No	NoCm	Ne|Sg|Nm	5	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	5	Sb	_	_	
+5	είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	65	65	DIG	DIG	_	7	Atr	_	_	
+7	κιλά	κιλό	No	NoCm	Ne|Pl|Ac	5	Pnom	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	στήθος	στήθος	No	NoCm	Ne|Sg|Nm	1	Pnom	_	_	
+3	90	90	DIG	DIG	_	4	Atr	_	_	
+4	εκατοστά	εκατοστός	Nm	NmOd	Ne|Pl|Nm|Aj	2	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+6	μέση	μέση	No	NoCm	Fe|Sg|Ac	4	Atr	_	_	
+7	60	60	DIG	DIG	_	8	Atr	_	_	
+8	εκατοστά	εκατοστός	Nm	NmOd	Ne|Pl|Nm|Aj	9	Atr_Co	_	_	
+9	και	και	Cj	CjCo	_	6	Coord	_	_	
+10	περιφέρεια	περιφέρεια	No	NoCm	Fe|Sg|Ac	9	Atr_Co	_	_	
+11	90	90	DIG	DIG	_	12	Atr	_	_	
+12	εκατοστά	εκατοστός	Nm	NmOd	Ne|Pl|Nm|Aj	6	Atr	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ε	ε	Ij	Ij	_	1	AuxG	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	λοιπόν	λοιπόν	Ad	Ad	Ba	4	ExD_Co	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	καταλαβαίνεις	καταλαβαίνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τις	ο	At	AtDf	Fe|Pl|Ac	4	Det	_	_	
+3	ιδανικές	ιδανικός	Aj	Aj	Ba|Fe|Pl|Ac	4	Atr	_	_	
+4	αναλογίες	αναλογία	No	NoCm	Fe|Pl|Ac	1	Obj	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μπορώ	μπορώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	γίνω	γίνομαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	1	Obj	_	_	
+4	μανεκέν	μανεκέν	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	αν	αν	Cj	CjSb	_	1	AuxC	_	_	
+7	θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	6	Adv	_	_	
+8	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,307 @@
+1	Θέατρο	θέατρο	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+2	σκιών	σκιά	No	NoCm	Fe|Pl|Ge	1	Atr	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Άκου	ακούω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	Καραγκιόζη	καραγκιόζης	No	NoCm	Ma|Sg|Ac	2	Obj	_	_	
+5	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+6	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	7	IObj	_	_	
+7	βρήκα	βρίσκω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Atr	_	_	
+8	μια	ένας	At	AtId	Fe|Sg|Ac	10	Det	_	_	
+9	καλή	καλός	Aj	Aj	Ba|Fe|Sg|Ac	10	Atr	_	_	
+10	δουλειά	δουλειά	No	NoCm	Fe|Sg|Ac	7	Obj	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Atr	_	_	
+3	δουλειά	δουλειά	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Υπηρέτης	υπηρέτης	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+3	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	2	AuxP	_	_	
+4	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	3	Atr	_	_	
+5	του	ο	At	AtDf	Ma|Sg|Ge	6	Det	_	_	
+6	μπέη	μπέης	No	NoCm	Ma|Sg|Ge	4	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Α	α	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Υπηρέτης	υπηρέτης	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+2	δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	πάω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Γιατί	γιατί	Ad	Ad	Ba	1	ExD_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	παιδάκι	παιδάκι	No	NoCm	Ne|Sg|Ac	1	ExD	_	_	
+5	μου	μου	Pn	PnPo	Fe|01|Sg|Ge|Xx	4	Pos	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δε	δεν	Pt	PtNg	_	3	AuxV	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	κάνεις	κάνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τίποτα	τίποτα	Pn	PnId	Ne|03|Sg|Ac|Xx	5	Atr	_	_	
+5	δύσκολο	δύσκολος	Aj	Aj	Ba|Ne|Sg|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	ανοίγεις	ανοίγω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	την	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	πόρτα	πόρτα	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+5	στους	στου	AsPp	AsPpPa	Ma|Pl|Ac	2	AuxP	_	_	
+6	γαμπρούς	γαμπρός	No	NoCm	Ma|Pl|Ac	5	IObj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ποιους	ποιος	Pn	PnIr	Ma|03|Pl|Ac|Xx	3	Atr	_	_	
+3	γαμπρούς	γαμπρός	No	NoCm	Ma|Pl|Ac	0	ExD	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Αυτούς	αυτός	Pn	PnDm	Ma|03|Pl|Ac|Xx	0	ExD	_	_	
+3	που	που	Pn	PnRe	Ma|03|Sg|Nm|Xx	5	Sb	_	_	
+4	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	AuxV	_	_	
+5	καλέσει	καλώ	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Av|Xx	2	Atr	_	_	
+6	ο	ο	At	AtDf	Ma|Sg|Nm	7	Det	_	_	
+7	μπέης	μπέης	No	NoCm	Ma|Sg|Nm	5	Obj	_	_	
+8	για	για	AsPp	AsPpSp	_	5	AuxP	_	_	
+9	να	να	Pt	PtSj	_	10	AuxV	_	_	
+10	διαλέξει	διαλέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	8	Adv	_	_	
+11	η	ο	At	AtDf	Fe|Sg|Nm	12	Det	_	_	
+12	κόρη	κόρη	No	NoCm	Fe|Sg|Nm	10	Sb	_	_	
+13	του	ο	At	AtDf	Ne|Sg|Ge	16	Det	_	_	
+14	ποιον	ποιος	Pn	PnIr	Ma|03|Sg|Ac|Xx	16	Atr	_	_	
+15	θα	θα	Pt	PtFu	_	16	AuxV	_	_	
+16	παντρευτεί	παντρεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	12	Atr	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εκεί	εκεί	Ad	Ad	Ba	3	Adv	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	τρως	τρώω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+5	θα	θα	Pt	PtFu	_	6	AuxV	_	_	
+6	πίνεις	πίνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	3	Adv	_	_	
+7	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+8	θα	θα	Pt	PtFu	_	9	AuxV	_	_	
+9	’χεις	έχω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+10	και	και	Cj	CjCo	_	11	AuxY	_	_	
+11	μισθό	μισθός	No	NoCm	Ma|Sg|Ac	9	Obj	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Υπηρέτης	υπηρέτης	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+3	δεν	δεν	Pt	PtNg	_	4	AuxV	_	_	
+4	πάω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+6	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	7	Obj	_	_	
+7	λέω	λέγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αν	αν	Cj	CjSb	_	6	AuxC	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	1	Adv	_	_	
+3	για	για	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	δούλος	δούλος	No	NoCm	Ma|Sg|Nm	3	Pnom	_	_	
+5	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+6	πάω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μα	μα	Cj	CjCo	_	13	AuxY	_	_	
+3	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+4	βρε	βρε	Ij	Ij	_	5	Atr	_	_	
+5	Καραγκιόζη	καραγκιόζης	No	NoCm	Ma|Sg|Ac	8	Obj_Co	_	_	
+6	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+7	υπηρέτης	υπηρέτης	No	NoCm	Ma|Sg|Nm	8	Sb_Co	_	_	
+8	και	και	Cj	CjCo	_	13	Coord	_	_	
+9	δούλος	δούλος	No	NoCm	Ma|Sg|Nm	8	Sb_Co	_	_	
+10	το	ο	At	AtDf	Ne|Sg|Nm	12	Det	_	_	
+11	ίδιο	ίδιος	Aj	Aj	Ba|Ne|Sg|Nm	12	Atr	_	_	
+12	πράγμα	πράγμα	No	NoCm	Ne|Sg|Nm	9	Atr	_	_	
+13	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Όχι	όχι	Ad	Ad	Ba	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	5	IObj	_	_	
+5	λέω	λέγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	9	Adv	_	_	
+6	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+7	υπηρέτης	υπηρέτης	No	NoCm	Ma|Sg|Nm	9	Sb	_	_	
+8	δεν	δεν	Pt	PtNg	_	9	AuxV	_	_	
+9	πάω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	(	(	OPUNCT	OPUNCT	_	2	AuxG	_	_	
+2	Μπαίνει	μπαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	μπέης	μπέης	No	NoCm	Ma|Sg|Nm	2	Sb	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+6	)	)	CPUNCT	CPUNCT	_	2	Atr	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Καλημέρα	καλημέρα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	Χατζηαβάτη	Χατζηαβάτη	No	NoPr	Ma|Sg|Nm	2	ExD	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αυτός	αυτός	Pn	PnDm	Ma|03|Sg|Nm|Xx	2	Pnom	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	υπηρέτης	υπηρέτης	No	NoCm	Ma|Sg|Nm	2	Sb	_	_	
+5	που	που	Pn	PnRe	Ma|03|Sg|Nm|Xx	7	Sb	_	_	
+6	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	7	IObj	_	_	
+7	’λεγες	’λεγες	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	4	Atr	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μάλιστα	μάλιστα	Ad	Ad	Ba	1	ExD_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+4	άρχοντά	άρχων	Aj	Aj	Ba|Ma|Sg|Ac	1	ExD_Co	_	_	
+5	μου	μου	Pn	PnPo	Fe|01|Sg|Ge|Xx	4	Pos	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Λοιπόν	λοιπόν	Ad	Ad	Ba	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	14	AuxX	_	_	
+4	παιδί	παιδί	No	NoCm	Ne|Sg|Nm	14	Sb	_	_	
+5	μου	μου	Pn	PnPo	Fe|01|Sg|Ge|Xx	4	Pos	_	_	
+6	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+7	θα	θα	Pt	PtFu	_	9	AuxV	_	_	
+8	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	9	IObj	_	_	
+9	δίνω	δίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	14	Pred_Co	_	_	
+10	δύο	δύο	Nm	NmCd	Fe|Pl|Ac|Aj	11	Atr	_	_	
+11	λίρες	λίρα	No	NoCm	Fe|Pl|Ac	9	Obj	_	_	
+12	τον	ο	At	AtDf	Ma|Sg|Ac	13	Det	_	_	
+13	μήνα	μήνας	No	NoCm	Ma|Sg|Ac	14	Obj_Co	_	_	
+14	και	και	Cj	CjCo	_	0	Coord	_	_	
+15	θα	θα	Pt	PtFu	_	16	AuxV	_	_	
+16	τρως	τρώω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	14	Pred_Co	_	_	
+17	ό,τι	ό,τι	Pn	PnRi	Ne|03|Sg|Ac|Xx	18	Obj	_	_	
+18	μαγειρεύουμε	μαγειρεύω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	16	Obj	_	_	
+19	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	18	AuxP	_	_	
+20	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	19	Adv	_	_	
+21	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Και	και	Cj	CjCo	_	0	Coord	_	_	
+3	τη	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	βδομάδα	βδομάδα	No	NoCm	Fe|Sg|Ac	2	ExD_Co	_	_	
+5	πόσα	πόσος	Pn	PnIr	Ne|03|Pl|Ac|Xx	7	Obj	_	_	
+6	θα	θα	Pt	PtFu	_	7	AuxV	_	_	
+7	παίρνω	παίρνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Atr	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ποια	ποιος	Pn	PnIr	Fe|03|Sg|Nm|Xx	3	Atr	_	_	
+3	βδομάδα	βδομάδα	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αφού	αφού	Cj	CjSb	_	0	AuxC	_	_	
+2	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	3	IObj	_	_	
+3	λέω	λέγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+4	ότι	ότι	Cj	CjSb	_	12	AuxC	_	_	
+5	θα	θα	Pt	PtFu	_	6	AuxV	_	_	
+6	πληρώνεσαι	πληρώνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	4	Obj_Co	_	_	
+7	με	με	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	τον	ο	At	AtDf	Ma|Sg|Ac	9	Det	_	_	
+9	μήνα	μήνας	No	NoCm	Ma|Sg|Ac	7	Adv	_	_	
+10	,	,	PUNCT	PUNCT	_	12	AuxX	_	_	
+11	θα	θα	Pt	PtFu	_	12	AuxV	_	_	
+12	πληρώνεσαι	πληρώνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	3	Obj	_	_	
+13	και	και	Cj	CjCo	_	14	AuxY	_	_	
+14	με	με	AsPp	AsPpSp	_	12	AuxP	_	_	
+15	τη	ο	At	AtDf	Fe|Sg|Ac	16	Det	_	_	
+16	βδομάδα	βδομάδα	No	NoCm	Fe|Sg|Ac	14	Adv	_	_	
+17	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+3	λες	λέγω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	μωρέ	μωρός	Ij	Ij	_	3	ExD	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βδομάδα	βδομάδα	No	NoCm	Fe|Sg|Nm	2	Sb	_	_	
+2	μπαίνει	μπαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	βδομάδα	βδομάδα	No	NoCm	Fe|Sg|Ac	5	Obj	_	_	
+5	βγαίνει	βγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+6	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+7	δε	δε	Ad	Ad	Ba	9	Adv	_	_	
+8	θα	θα	Pt	PtFu	_	9	AuxV	_	_	
+9	παίρνω	παίρνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	5	Obj	_	_	
+10	τίποτα	τίποτα	Pn	PnId	Ne|03|Sg|Ac|Xx	9	Obj	_	_	
+11	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Οσμάν	Οσμάν	No	NoPr	Ma|Sg|Nm	2	ExD_Co	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	Coord	_	_	
+3	Ε	ε	Ij	Ij	_	5	Adv	_	_	
+4	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+5	καλά	καλά	Ad	Ad	Ba	6	Adv	_	_	
+6	τότε	τότε	Ad	Ad	Ba	2	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+2	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	3	IObj	_	_	
+3	δίνω	δίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	μισή	μισός	Aj	Aj	Ba|Fe|Sg|Ac	5	Atr	_	_	
+5	λίρα	λίρα	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+6	τη	ο	At	AtDf	Fe|Sg|Ac	7	Det	_	_	
+7	βδομάδα	βδομάδα	No	NoCm	Fe|Sg|Ac	3	ExD	_	_	
+8	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Εντάξει	εντάξει	Ad	Ad	Ba	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	δέχομαι	δέχομαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	AuxG	_	_	
+2	Άντε	άντε	Pt	PtOt	_	4	AuxV	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	πήγαινε	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	8	Pred_Co	_	_	
+5	τώρα	τώρα	Ad	Ad	Ba	4	Adv	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+7	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+8	και	και	Cj	CjCo	_	0	Coord	_	_	
+9	πες	λέγω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	8	Pred_Co	_	_	
+10	της	ο	At	AtDf	Fe|Sg|Ge	11	Det	_	_	
+11	κόρης	κόρη	No	NoCm	Fe|Sg|Ge	15	IObj	_	_	
+12	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	11	Pos	_	_	
+13	να	να	Pt	PtSj	_	15	AuxV	_	_	
+14	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	15	IObj	_	_	
+15	βάλει	βάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	9	Obj	_	_	
+16	να	να	Pt	PtSj	_	17	AuxV	_	_	
+17	φας	τρώω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	15	Obj	_	_	
+18	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	0	Coord	_	_	
+2	κοίτα	κοιτάζω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	1	Pred_Co	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	προσέχεις	προσέχω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	τους	ο	At	AtDf	Ma|Pl|Ac	6	Det	_	_	
+6	γαμπρούς	γαμπρός	No	NoCm	Ma|Pl|Ac	4	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	6	AuxG	_	_	
+2	Μωρέ	μωρός	Ij	Ij	_	6	Atr_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+4	έννοια	έννοια	No	NoCm	Fe|Sg|Ac	6	Obj_Co	_	_	
+5	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	4	Pos	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	θα	θα	Pt	PtFu	_	10	AuxV	_	_	
+8	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	10	Obj	_	_	
+9	τους	εγώ	Pn	PnPe	Ma|03|Pl|Ge|We	10	Obj	_	_	
+10	φτιάξω	φτιάχνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+11	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	10	Sb	_	_	
+12	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πάω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τώρα	τώρα	Ad	Ad	Ba	1	Adv	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

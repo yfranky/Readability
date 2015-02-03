@@ -1,0 +1,66 @@
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Πέπε	Πέπε	No	NoPr	Ma|Sg|Nm	3	Sb_Co	_	_	
+3	και	και	Cj	CjCo	_	6	Coord	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	Σοφία	Σοφία	No	NoPr	Fe|Sg|Nm	3	Sb_Co	_	_	
+6	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	επιμελητές	επιμελητής	No	NoCm	Ma|Pl|Nm	6	Pnom	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+2	διάλειμμα	διάλειμμα	No	NoCm	Ne|Sg|Ac	1	Adv	_	_	
+3	μένουν	μένω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+4	μέσα	μέσα	Ad	Ad	Ba	3	Adv	_	_	
+5	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+6	αίθουσα	αίθουσα	No	NoCm	Fe|Sg|Ac	5	Adv	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Σοφία	Σοφία	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+3	καθαρίζει	καθαρίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+4	τον	ο	At	AtDf	Ma|Sg|Ac	5	Det	_	_	
+5	πίνακα	πίνακας	No	NoCm	Ma|Sg|Ac	3	Obj	_	_	
+6	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	σφουγγάρι	σφουγγάρι	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+9	και	και	Cj	CjCo	_	0	Coord	_	_	
+
+1	ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Πέπε	Πέπε	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	ανοίγει	ανοίγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	παράθυρα	παράθυρο	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Πέπε	Πέπε	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	ποτίζει	ποτίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	φυτά	φυτό	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+
+1	η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Σοφία	Σοφία	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+3	τακτοποιεί	τακτοποιώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	βιβλία	βιβλίο	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+6	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+7	βιβλιοθήκη	βιβλιοθήκη	No	NoCm	Fe|Sg|Ac	6	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Σοφία	Σοφία	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+3	μοιράζει	μοιράζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	τετράδια	τετράδιο	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	ο	ο	At	AtDf	Ma|Sg|Nm	8	Det	_	_	
+8	Πέπε	Πέπε	No	NoPr	Ma|Sg|Nm	9	Sb	_	_	
+9	ρίχνει	ρίχνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+10	τα	ο	At	AtDf	Ne|Pl|Ac	11	Det	_	_	
+11	χαρτιά	χαρτί	No	NoCm	Ne|Pl|Ac	9	Obj	_	_	
+12	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	9	AuxP	_	_	
+13	καλάθι	καλάθι	No	NoCm	Ne|Sg|Ac	12	Adv	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

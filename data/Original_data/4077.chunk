@@ -1,0 +1,246 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Ώρα	ώρα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\5	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\9	TOK	παιχνίδι	παιχνίδι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\17	PTERM_P	...	...	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\22	TOK	Φτιάξε	φτιάχνω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\29	TOK	τη	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\32	TOK	δική	δικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\37	TOK	σου	εγώ	PnPeMa02SgGeWe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\41	TOK	ορχήστρα	ορχήστρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\50	TOK	κρουστών	κρουστός	AjBaNePlGe
+1\59	TOK	μουσικών	μουσικός	AjBaNePlGe
+	SYN	/adjp_ge]
+1\68	TOK	οργάνων	όργανο	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\75	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\78	TOK	Με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\81	TOK	απλά	απλά	AdXxBa
+	SYN	/advp]
+1\86	TOK	καθημερινά	καθημερινός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\97	TOK	υλικά	υλικό	NoCmNePlAc
+	SYN	/np_ac]
+1\103	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\107	TOK	πολλή	πολύς	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\113	TOK	φαντασία	φαντασία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\122	TOK	μπορείς	μπορώ	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\130	TOK	να	να	PtSj
+1\133	TOK	κατασκευάσεις	κατασκευάζω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\147	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\150	TOK	δικά	δικός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\155	TOK	σου	εγώ	PnPeMa02SgGeWe
+	SYN	/np_ge]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\159	TOK	κρουστά	κρουστός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\166	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\168	TOK	Να	να	PtSj
+	SYN	[np_ac
+1\171	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\175	TOK	εύκολη	εύκολος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\182	TOK	ιδέα	ιδέα	NoCmFeSgAc
+	SYN	/np_ac]
+1\186	PTERM_P	:	:	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\189	TOK	ΤΟ	ο	AtDfNeSgNm
+1\192	TOK	ΜΠΟΥΚΑΛΟΦΩΝΟ	ΜΠΟΥΚΑΛΟΦΩΝΟ	NoPrNeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\206	TOK	Θα	θα	PtFu
+1\209	TOK	χρειαστείς	χρειάζομαι	VbMnIdXx02SgXxPePvXx
+	SYN	/vg]
+1\219	PTERM_P	:	:	PTERM_P
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\221	TOK	γυάλινα	γυάλινος	AjBaNePlNm
+	SYN	/adjp_nm]
+1\229	TOK	μπουκάλια	μπουκάλι	NoCmNePlNm
+	SYN	/np_nm]
+1\238	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\240	TOK	νερό	νερό	NoCmNeSgAc
+	SYN	/np_ac]
+1\245	TOK	και	και	CjCo
+	SYN	[np_nm
+1\249	DIG	2	2	DIG
+1\251	TOK	μολύβια	μολύβι	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\259	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\263	TOK	μπαγκέτες	μπαγκέτα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\272	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\275	TOK	Βάλε	βάζω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\280	TOK	νερό	νερό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\285	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\289	TOK	μπουκάλια	μπουκάλι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\298	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\300	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\303	TOK	διαφορετικά	διαφορετικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\315	TOK	επίπεδα	επίπεδο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\323	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_nm
+1\327	TOK	καθένα	καθένας	PnIdNe03SgNmXx
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	/cl]
+1\333	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\335	TOK	Ανάλογα	ανάλογα	AdXxBa
+	SYN	[pp
+1\343	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\346	TOK	την	ο	AtDfFeSgAc
+1\350	TOK	ποσότητα	ποσότητα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\359	TOK	του	ο	AtDfNeSgGe
+1\363	TOK	νερού	νερό	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\369	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\373	TOK	περιέχει	περιέχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+1\381	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\383	TOK	κάθε	κάθε	PnIdNe03SgNmXx
+1\388	TOK	μπουκάλι	μπουκάλι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\397	TOK	βγάζει	βγάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+1\404	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\408	TOK	διαφορετικό	διαφορετικός	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\420	TOK	ήχο	ήχος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_t
+1\424	TOK	όταν	όταν	CjSb
+	SYN	[vg
+1\429	TOK	χτυπηθεί	χτυπώ	VbMnIdXx03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\438	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\441	TOK	το	ο	AtDfNeSgAc
+1\444	TOK	μολύβι	μολύβι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_t]
+1\450	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\452	TOK	Μπορείς	μπορώ	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\460	TOK	έτσι	έτσι	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\465	TOK	να	να	PtSj
+1\468	TOK	συνθέσεις	συνθέτω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\478	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\482	TOK	μελωδικό	μελωδικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\491	TOK	κομμάτι	κομμάτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\498	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

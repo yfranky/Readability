@@ -1,0 +1,35 @@
+	(SENT	<S>
+	SYN	[cl
+1\1	ENUM	-	-	ENUM
+	SYN	[vg
+1\2	TOK	Πάρε	παίρνω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\7	TOK	το	ο	AtDfNeSgAc
+1\10	TOK	βερνίκι	βερνίκι	NoCmNeSgAc
+1\18	TOK	σου	μου	PnPoMa02SgGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\22	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\26	TOK	δώσε	δίνω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\31	TOK	μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\35	TOK	το	ο	AtDfNeSgAc
+1\38	TOK	πανί	πανί	NoCmNeSgAc
+1\43	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\46	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\49	ENUM	-	-	ENUM
+	SYN	[advp
+1\50	TOK	Ορίστε	ορίζω	AdXxBa
+	SYN	/advp]
+1\56	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

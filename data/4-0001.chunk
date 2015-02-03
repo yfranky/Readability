@@ -1,0 +1,162 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Η	ο	AtDfFeSgNm
+1\3	TOK	μητέρα	μητέρα	NoCmFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\11	TOK	Λέγομαι	λέγω	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\19	TOK	Φωτεινή	Φωτεινή	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\27	TOK	Βλαστού	βλαστός	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\35	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\39	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\45	TOK	σαράντα	σαράντα	NmCdMaPlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\53	TOK	πέντε	πέντε	NmCdMaPlNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ge
+1\59	TOK	χρονών	χρονών	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\65	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\67	TOK	Είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\73	TOK	παντρεμένη	παντρεμένος	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\84	TOK	κι	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\87	TOK	έχω	έχω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\91	TOK	δυο	δύο	NmCdNePlNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+1\95	TOK	παιδιά	παιδί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\101	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\103	TOK	Είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\109	TOK	καθηγήτρια	καθηγήτρια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\120	TOK	γερμανικών	γερμανικός	AjBaFePlGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	/cl]
+1\130	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\132	TOK	Έχω	έχω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\136	TOK	δικό	δικός	AjBaNeSgNm
+1\141	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/adjp_nm]
+1\145	TOK	φροντιστήριο	φροντιστήριο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\158	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\163	TOK	Πειραιά	Πειραιάς	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\170	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\173	TOK	Γεννήθηκα	γεννώ	VbMnIdPa01SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\183	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\187	TOK	Δράμα	Δράμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\193	TOK	αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[vg
+1\198	TOK	μεγάλωσα	μεγαλώνω	VbMnIdPa01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\207	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\211	TOK	Γερμανία	Γερμανία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\219	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\221	TOK	Οι	ο	AtDfMaPlNm
+1\224	TOK	γονείς	γονέας	NoCmMaPlNm
+1\231	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\235	TOK	πήγαν	πηγαίνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\241	TOK	μετανάστες	μετανάστης	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[advp
+1\252	TOK	εκεί	εκεί	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_t
+1\257	TOK	όταν	όταν	CjSb
+	SYN	[vg
+1\262	TOK	ήμουν	είμαι	VbMnIdPa01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\268	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\272	TOK	Δημοτικό	δημοτικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_t]
+1\280	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

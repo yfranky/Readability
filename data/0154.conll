@@ -1,0 +1,205 @@
+1	Η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+2	ασημένια	ασημένιος	Aj	Aj	Ba|Fe|Sg|Nm	3	Atr	_	_	
+3	τσατσάρα	τσατσάρα	No	NoCm	Fe|Sg|Nm	4	ExD_Co	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	η	ο	At	AtDf	Fe|Sg|Nm	7	Det	_	_	
+6	χρυσή	χρυσός	Aj	Aj	Ba|Fe|Sg|Nm	7	Atr	_	_	
+7	λίρα	λίρα	No	NoCm	Fe|Sg|Nm	4	ExD_Co	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πώς	πώς	Ad	Ad	Ba	3	Adv	_	_	
+3	έλεγαν	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τη	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+6	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	5	Pos	_	_	
+7	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+8	παππού	παππούς	No	NoCm	Ma|Sg|Ge	5	Atr	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Την	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	3	Obj	_	_	
+3	έλεγαν	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	Σπυριδούλα	Σπυριδούλα	No	NoPr	Fe|Sg|Ac	3	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	άντρας	άντρας	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+3	της	ο	At	AtDf	Fe|Sg|Ge	4	Det	_	_	
+4	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	2	Atr	_	_	
+5	παραμυθάς	παραμυθάς	No	NoCm	Ma|Sg|Nm	4	Pnom	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πέθανε	πεθαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	νέος	νέος	Aj	Aj	Ba|Ma|Sg|Nm	3	Pnom_Co	_	_	
+3	και	και	Cj	CjCo	_	1	Coord	_	_	
+4	φτωχός	φτωχός	Aj	Aj	Ba|Ma|Sg|Nm	3	Pnom_Co	_	_	
+5	ο	ο	At	AtDf	Ma|Sg|Nm	6	Det	_	_	
+6	παππούς	παππούς	No	NoCm	Ma|Sg|Nm	1	Sb	_	_	
+7	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	6	Pos	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	κυρα-Σπυριδούλα	κυρα-Σπυριδούλα	No	NoCm	Fe|Sg|Nm	4	Sb	_	_	
+3	λοιπόν	λοιπόν	Ad	Ad	Ba	4	Adv	_	_	
+4	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	μια	ένας	At	AtId	Fe|Sg|Nm	7	Det	_	_	
+6	φτωχή	φτωχός	Aj	Aj	Ba|Fe|Sg|Nm	7	Atr	_	_	
+7	χήρα	χήρα	No	NoCm	Fe|Sg|Nm	4	Pnom	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μια	ένας	At	AtId	Fe|Sg|Nm	2	Det	_	_	
+2	μέρα	μέρα	No	NoCm	Fe|Sg|Nm	5	Sb	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	κυρα-Σπυριδούλα	κυρα-Σπυριδούλα	No	NoCm	Fe|Sg|Nm	2	Atr	_	_	
+5	πήγε	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+7	δάσος	δάσος	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+8	για	για	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	βατόμουρα	βατόμουρο	No	NoCm	Ne|Pl|Ac	8	Atr	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βλέπει	βλέπω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	πάνω	πάνω	Ad	Ad	Ba	1	Adv	_	_	
+3	σε	σε	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	μια	ένας	At	AtId	Fe|Sg|Ac	5	Det	_	_	
+5	πέτρα	πέτρα	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+6	μια	ένας	At	AtId	Fe|Sg|Ac	7	Det	_	_	
+7	τσατσάρα	τσατσάρα	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+8	από	από	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	ασήμι	ασήμι	No	NoCm	Ne|Sg|Ac	8	Atr	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Την	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	2	Obj	_	_	
+2	παίρνει	παίρνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	τη	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	5	Obj	_	_	
+5	βάζει	βάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+6	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	5	AuxP	_	_	
+7	τσέπη	τσέπη	No	NoCm	Fe|Sg|Ac	6	Adv	_	_	
+8	της	μου	Pn	PnPo	Fe|03|Sg|Ge|Xx	7	Pos	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	βράδυ	βράδυ	No	NoCm	Ne|Sg|Nm	8	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	8	AuxP	_	_	
+5	δωμάτιό	δωμάτιο	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+6	της	μου	Pn	PnPo	Fe|03|Sg|Ge|Xx	5	Pos	_	_	
+7	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+8	χτενίστηκε	χτενίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+9	με	με	AsPp	AsPpSp	_	8	AuxP	_	_	
+10	την	ο	At	AtDf	Fe|Sg|Ac	11	Det	_	_	
+11	τσατσάρα	τσατσάρα	No	NoCm	Fe|Sg|Ac	12	Obj_Co	_	_	
+12	και	και	Cj	CjCo	_	9	Coord	_	_	
+13	τα	ο	At	AtDf	Ne|Pl|Ac	14	Det	_	_	
+14	μαλλιά	μαλλί	No	NoCm	Ne|Pl|Ac	12	Obj_Co	_	_	
+15	της	ο	At	AtDf	Fe|Sg|Ge	16	Det	_	_	
+16	άλλαξαν	αλλάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	14	Atr	_	_	
+17	χρώμα	χρώμα	No	NoCm	Ne|Sg|Ac	16	Obj	_	_	
+18	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έγιναν	γίνομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ασημένια	ασημένιος	Aj	Aj	Ba|Fe|Sg|Ac	1	Pnom	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	κυρα-Σπυριδούλα	κυρα-Σπυριδούλα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	έπεσε	πέφτω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Obj	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+5	κρεβάτι	κρεβάτι	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+6	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+7	σκεπάστηκε	σκεπάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	12	Pred_Co	_	_	
+8	με	με	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	το	ο	At	AtDf	Ne|Sg|Ac	10	Det	_	_	
+10	πάπλωμά	πάπλωμα	No	NoCm	Ne|Sg|Ac	8	Adv	_	_	
+11	της	μου	Pn	PnPo	Fe|03|Sg|Ge|Xx	10	Pos	_	_	
+12	και	και	Cj	CjCo	_	0	Coord	_	_	
+13	κοιμήθηκε	κοιμάμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	12	Pred_Co	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ακούει	ακούω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	1	AuxP	_	_	
+3	ύπνο	ύπνος	No	NoCm	Ma|Sg|Ac	2	Adv	_	_	
+4	της	ο	At	AtDf	Fe|Sg|Ge	6	Det	_	_	
+5	μια	ένας	Pn	PnId	Fe|03|Sg|Nm|Xx	6	Atr	_	_	
+6	φωνή	φωνή	No	NoCm	Fe|Sg|Nm	3	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	φωνή	φωνή	No	NoCm	Fe|Sg|Nm	4	Sb	_	_	
+3	τής	τής	Pn	PnPo	Fe|03|Sg|Ge|Xx	2	Pos	_	_	
+4	έλεγε	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+6	αυτί	αυτί	No	NoCm	Ne|Sg|Ac	5	IObj	_	_	
+7	:	:	PTERM_P	PTERM_P	_	4	AuxG	_	_	
+8	"	"	OPUNCT	OPUNCT	_	9	AuxG	_	_	
+9	Θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Obj	_	_	
+10	την	ο	At	AtDf	Fe|Sg|Ac	11	Det	_	_	
+11	τσατσάρα	τσατσάρα	No	NoCm	Fe|Sg|Ac	9	Obj	_	_	
+12	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	11	Pos	_	_	
+13	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δική	δικός	Aj	Aj	Ba|Fe|Sg|Nm	3	Sb	_	_	
+2	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	3	IObj	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	δική	δικός	Aj	Aj	Ba|Fe|Sg|Nm	2	Pnom	_	_	
+4	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	3	Atr	_	_	
+5	!	!	PTERM_P	PTERM_P	_	4	AuxK	_	_	
+6	"	"	CPUNCT	CPUNCT	_	2	AuxG	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φοβήθηκε	φοβούμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	κυρα-Σπυριδούλα	κυρα-Σπυριδούλα	No	NoCm	Fe|Sg|Nm	1	Sb	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πρωί	πρωί	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+2	πρωί	πρωί	No	NoCm	Ne|Sg|Ac	1	Atr	_	_	
+3	πήγε	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	πάλι	πάλι	Ad	Ad	Ba	3	Adv	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+6	δάσος	δάσος	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έβαλε	βάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	την	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+3	τσατσάρα	τσατσάρα	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+4	πάλι	πάλι	Ad	Ad	Ba	1	Adv	_	_	
+5	πάνω	πάνω	Ad	Ad	Ba	1	Adv	_	_	
+6	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	5	AuxP	_	_	
+7	πέτρα	πέτρα	No	NoCm	Fe|Sg|Ac	6	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μαζί	μαζί	Ad	Ad	Ba	5	Adv	_	_	
+2	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	την	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	τσατσάρα	τσατσάρα	No	NoCm	Fe|Sg|Ac	2	Adv	_	_	
+5	έβαλε	βάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	και	και	Cj	CjCo	_	8	AuxY	_	_	
+7	δυο	δύο	Nm	NmCd	Ma|Pl|Ac|Aj	8	Atr	_	_	
+8	λουκουμάδες	λουκουμάς	No	NoCm	Ma|Pl|Ac	5	Obj	_	_	
+9	για	για	AsPp	AsPpSp	_	8	AuxP	_	_	
+10	τη	ο	At	AtDf	Fe|Sg|Ac	11	Det	_	_	
+11	νεράιδα	νεράιδα	No	NoCm	Fe|Sg|Ac	9	Atr	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+2	άλλο	άλλος	Pn	PnId	Ne|03|Sg|Nm|Xx	3	Atr	_	_	
+3	πρωί	πρωί	No	NoCm	Ne|Sg|Ac	7	Adv	_	_	
+4	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+5	η	ο	At	AtDf	Fe|Sg|Nm	6	Det	_	_	
+6	κυρα-Σπυριδούλα	κυρα-Σπυριδούλα	No	NoCm	Fe|Sg|Nm	7	Sb	_	_	
+7	βρήκε	βρίσκω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+8	μέσα	μέσα	Ad	Ad	Ba	7	Adv	_	_	
+9	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	8	AuxP	_	_	
+10	παντόφλα	παντόφλα	No	NoCm	Fe|Sg|Ac	9	Adv	_	_	
+11	της	ο	At	AtDf	Fe|Sg|Ge	14	Det	_	_	
+12	μια	ένας	Pn	PnId	Fe|03|Sg|Ac|Xx	14	Atr	_	_	
+13	χρυσή	χρυσός	Aj	Aj	Ba|Fe|Sg|Ac	14	Atr	_	_	
+14	λίρα	λίρα	No	NoCm	Fe|Sg|Ac	10	Atr	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

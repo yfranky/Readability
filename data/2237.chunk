@@ -1,0 +1,604 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\1	TOK	Από	από	AsPpSp
+	SYN	[np_ac
+1\5	TOK	την	ο	AtDfFeSgAc
+1\9	TOK	αρχή	αρχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\14	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\18	TOK	τρέχουσας	τρέχων	AjBaFeSgGe
+1\28	TOK	σχολικής	σχολικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\37	TOK	χρονιάς	χρονιά	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[np_ac
+1\45	TOK	μια	ένας	AtIdFeSgAc
+1\49	TOK	ομάδα	ομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\55	DIG	30	30	DIG
+1\58	TOK	παιδιών	παιδί	NoCmNePlGe
+	SYN	/np_ge]
+1\66	TOK	της	ο	AtDfFeSgGe
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\70	TOK	Α'	Α'	NmOdNeSgNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ge
+1\73	TOK	τάξης	τάξη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\79	TOK	του	ο	AtDfNeSgGe
+1\83	TOK	σχολείου	σχολείο	NoCmNeSgGe
+1\92	TOK	μας	μου	PnPoMa01PlGeXx
+	SYN	/np_ge]
+1\95	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\97	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\100	TOK	υπεύθυνους	υπεύθυνος	AjBaMaPlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\111	TOK	τους	ο	AtDfMaPlAc
+1\116	TOK	καθηγητές	καθηγητής	NoCmMaPlAc
+1\126	TOK	Σταύρο	Σταύρος	NoPrMaSgAc
+1\133	TOK	Κουνάδη	Κουνάδη	NoPrMaSgAc
+	SYN	/np_ac]
+1\141	TOK	και	και	CjCo
+	SYN	[np_ac
+1\145	TOK	Δήμο	Δήμος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\150	TOK	Φιωτάκη	Φιωτάκη	NoPrMaSgNm
+	SYN	/np_nm]
+1\157	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\159	TOK	ασχολούνται	ασχολούμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\171	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\174	TOK	τη	ο	AtDfFeSgAc
+1\177	TOK	δημιουργία	δημιουργία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\188	TOK	ενός	ένας	AtIdNeSgGe
+	SYN	[adjp_ge
+1\193	TOK	λεξικού	λεξικός	AjBaMaSgGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	[np_ge
+1\201	TOK	χειρονομιών	χειρονομία	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\212	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\214	TOK	Το	ο	AtDfNeSgNm
+1\217	TOK	πρόγραμμα	πρόγραμμα	NoCmNeSgNm
+1\227	TOK	αυτό	αυτός	PnDmNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\232	TOK	υλοποιείται	υλοποιώ	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\244	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\247	TOK	συνεργασία	συνεργασία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\258	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\261	TOK	ομάδα	ομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\267	TOK	παιδιών	παιδί	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\275	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\279	TOK	σχολείο	σχολείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\287	TOK	του	ο	AtDfMaSgGe
+1\291	TOK	Ισραήλ	Ισραήλ	RgFwTr
+	SYN	/np_ge]
+	SYN	/pp]
+1\297	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\299	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[np_ac
+1\303	TOK	μας	εγώ	PnPeMa01PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\307	TOK	έκανε	κάνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+1\313	TOK	και	και	CjCo
+	SYN	[np_ac
+1\317	TOK	τη	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\320	TOK	σχετική	σχετικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\328	TOK	πρόταση	πρόταση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\336	TOK	κατά	κατά	AsPpSp
+	SYN	[np_ac
+1\341	TOK	τη	ο	AtDfFeSgAc
+1\344	TOK	διάρκεια	διάρκεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\353	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\357	TOK	προηγούμενης	προηγούμενος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\370	TOK	χρονιάς	χρονιά	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\377	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\380	TOK	Σκοπός	σκοπός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\387	TOK	του	ο	AtDfNeSgGe
+1\391	TOK	προγράμματος	πρόγραμμα	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\404	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[np_nm
+1\410	TOK	οι	ο	AtDfMaPlNm
+1\413	TOK	μαθητές	μαθητής	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\421	TOK	των	ο	AtDfFePlGe
+	SYN	[adjp_ge
+1\425	TOK	δύο	δύο	NmCdFePlGeAj
+	SYN	/adjp_ge]
+1\429	TOK	χωρών	χώρα	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	[vg_s
+1\435	TOK	να	να	PtSj
+1\438	TOK	δημιουργήσουν	δημιουργώ	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\452	TOK	ένα	ένας	AtIdNeSgAc
+1\456	TOK	οπτικό	οπτικός	NoCmNeSgAc
+	SYN	[adjp_ac
+1\463	TOK	διαπολιτισμικό	διαπολιτισμικός	AjBaMaSgAc
+1\478	TOK	λεξικό	λεξικός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\485	TOK	των	ο	AtDfFePlGe
+1\489	TOK	χειρονομιών	χειρονομία	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\501	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\505	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\511	TOK	χαρακτηριστικές	χαρακτηριστικός	AjBaFePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\527	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\532	TOK	κοινωνία	κοινωνία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\541	TOK	της	ο	AtDfFeSgGe
+1\545	TOK	χώρας	χώρα	NoCmFeSgGe
+1\551	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\555	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\558	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\561	TOK	λεξικό	λεξικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ge
+1\568	TOK	χειρονομιών	χειρονομία	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	[vg
+1\580	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\586	TOK	ένας	ένας	AtIdMaSgNm
+	SYN	[adjp_nm
+1\591	TOK	συναρπαστικός	συναρπαστικός	AjBaMaSgNm
+1\605	TOK	και	και	CjCo
+1\609	TOK	ζωντανός	ζωντανός	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\618	TOK	τρόπος	τρόπος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\625	TOK	για	για	AsPpSp
+1\629	TOK	να	να	PtSj
+1\632	TOK	μελετήσουν	μελετώ	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+1\643	TOK	οι	ο	AtDfMaPlNm
+1\646	TOK	μαθητές	μαθητής	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\654	TOK	τον	ο	AtDfMaSgAc
+1\658	TOK	πολιτισμό	πολιτισμός	NoCmMaSgAc
+	SYN	/np_ac]
+1\668	TOK	και	και	CjCo
+	SYN	[np_ac
+1\672	TOK	τη	ο	AtDfFeSgAc
+1\675	TOK	συμπεριφορά	συμπεριφορά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\687	TOK	ανθρώπων	άνθρωπος	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	[pp
+1\696	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\699	TOK	διαφορετικές	διαφορετικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\712	TOK	χώρες	χώρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\717	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\720	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\723	TOK	λεξικό	λεξικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\730	TOK	θα	θα	PtFu
+1\733	TOK	Βασίζεται	βασίζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\743	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\746	TOK	φραστικές	φραστικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\756	TOK	εκφράσεις	έκφραση	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\766	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\771	OPUNCT	«	«	OPUNCT
+1\772	TOK	ένα	ένας	AtIdNeSgAc
+1\776	TOK	λεπτό	λεπτό	NoCmNeSgAc
+1\781	CPUNCT	»	»	CPUNCT
+	SYN	/np_ac]
+1\782	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\784	OPUNCT	«	«	OPUNCT
+1\785	TOK	εντάξει	εντάξει	AdXxBa
+1\792	CPUNCT	»	»	CPUNCT
+	SYN	/advp]
+1\793	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\795	OPUNCT	«	«	OPUNCT
+	SYN	[adjp_ac
+1\796	TOK	καλή	καλός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\801	TOK	επιτυχία	επιτυχία	NoCmFeSgAc
+1\809	CPUNCT	»	»	CPUNCT
+	SYN	/np_ac]
+1\810	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\812	OPUNCT	«	«	OPUNCT
+1\813	TOK	τρέλα	τρέλα	NoCmFeSgAc
+1\818	CPUNCT	»	»	CPUNCT
+1\820	ABBR	κτλ.	κτλ.	ABBR
+	SYN	/np_ac]
+	SYN	/cl]
+1\825	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\829	TOK	θα	θα	PtFu
+1\832	TOK	περιλαμβάνει	περιλαμβάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\845	TOK	εκφράσεις	έκφραση	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\855	TOK	προσώπου	πρόσωπο	NoCmNeSgGe
+	SYN	/np_ge]
+1\864	TOK	και	και	CjCo
+	SYN	[np_ge
+1\868	TOK	σώματος	σώμα	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\875	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\877	TOK	Οι	ο	AtDfMaPlNm
+1\880	TOK	μαθητές	μαθητής	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[advp
+1\888	TOK	ταυτόχρονα	ταυτόχρονα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\899	TOK	θα	θα	PtFu
+1\902	TOK	ανιχνεύσουν	ανιχνεύω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\914	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\918	TOK	θα	θα	PtFu
+1\921	TOK	γράψουν	γράφω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\929	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\933	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\937	TOK	ιστορικές	ιστορικός	AjBaFePlAc
+1\947	TOK	και	και	CjCo
+1\951	TOK	πολιτιστικές	πολιτιστικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\964	TOK	ρίζες	ρίζα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\970	TOK	των	ο	AtDfFePlGe
+1\974	TOK	χειρονομιών	χειρονομία	NoCmFePlGe
+1\986	TOK	αυτών	αυτός	PnDmFe03PlGeXx
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\991	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\994	TOK	Η	ο	AtDfFeSgNm
+1\996	TOK	ενασχόληση	ενασχόληση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\1007	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1010	TOK	το	ο	AtDfNeSgAc
+1\1013	TOK	θέμα	θέμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\1018	TOK	ενθαρρύνει	ενθαρρύνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1029	TOK	ατομικές	ατομικός	AjBaFePlAc
+1\1038	TOK	και	και	CjCo
+1\1042	TOK	ομαδικές	ομαδικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\1051	TOK	δραστηριότητες	δραστηριότητα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1065	PTERM_P	:	:	PTERM_P
+	SYN	[cl
+	SYN	[np_nm
+1\1067	TOK	Οι	ο	AtDfMaPlNm
+1\1070	TOK	μαθητές	μαθητής	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\1078	TOK	κάθε	κάθε	PnIdFe03SgGeXx
+1\1083	TOK	τάξης	τάξη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\1089	TOK	αποφασίζουν	αποφασίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\1101	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\1105	TOK	το	ο	AtDfNeSgAc
+1\1108	TOK	είδος	είδος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1114	TOK	των	ο	AtDfFePlGe
+1\1118	TOK	χειρονομιών	χειρονομία	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1130	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1134	TOK	θέλουν	θέλω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1141	TOK	να	να	PtSj
+1\1144	TOK	συμπεριλάβουν	συμπεριλαμβάνω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\1158	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1162	TOK	λεξικό	λεξικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\1168	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1170	TOK	Κάνουν	κάνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1177	TOK	τις	ο	AtDfFePlAc
+1\1181	TOK	χειρονομίες	χειρονομία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1192	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_ac
+1\1194	TOK	τις	εγώ	PnPeFe03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\1198	TOK	φωτογραφίζουν	φωτογραφίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\1211	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\1213	TOK	σκανάρουν	σκανάρουν	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1223	TOK	τις	ο	AtDfFePlAc
+1\1227	TOK	φωτογραφίες	φωτογραφία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1239	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[advp
+1\1243	TOK	μαζί	μαζί	AdXxBa
+	SYN	[pp
+1\1248	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1251	TOK	τα	ο	AtDfNePlAc
+1\1254	TOK	κείμενα	κείμενος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[np_ac
+1\1262	TOK	τις	εγώ	PnPeFe03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\1266	TOK	παρουσιάζουν	παρουσιάζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+1\1279	OPUNCT	(	(	OPUNCT
+	SYN	[np_nm
+1\1280	TOK	πολυμέσα	πολυμέσα	NoCmNePlNm
+	SYN	/np_nm]
+1\1288	CPUNCT	)	)	CPUNCT
+	SYN	/cl]
+1\1289	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1292	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\1295	TOK	τελικό	τελικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\1302	TOK	προϊόν	προϊόν	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1309	TOK	θα	θα	PtFu
+1\1312	TOK	παρουσιαστεί	παρουσιάζω	VbMnIdXx03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\1325	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\1330	TOK	ιστοσελίδα	ιστοσελίδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1341	TOK	των	ο	AtDfNePlGe
+1\1345	TOK	σχολείων	σχολείο	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\1353	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\1355	TOK	πιθανόν	πιθανώς	AdXxBa
+	SYN	/advp]
+1\1363	TOK	και	και	CjCo
+	SYN	[pp
+1\1367	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\1370	TOK	CD-ROM	CD-ROM	RgFwOr
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\1376	PUNCT	,	,	PUNCT
+1\1378	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\1382	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1389	TOK	να	να	PtSj
+1\1392	TOK	αποτελέσει	αποτελώ	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\1403	TOK	το	ο	AtDfNeSgAc
+1\1406	TOK	ερέθισμα	ερέθισμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1415	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\1419	TOK	μια	ένας	AtIdFeSgAc
+1\1423	TOK	συζήτηση	συζήτηση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\1432	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1435	TOK	θέμα	θέμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\1440	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\1444	TOK	διαφορετικές	διαφορετικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\1457	TOK	κουλτούρες	κουλτούρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1468	TOK	των	ο	AtDfMaPlGe
+	SYN	[adjp_ge
+1\1472	TOK	δύο	δύο	NmCdMaPlGeAj
+	SYN	/adjp_ge]
+1\1476	TOK	λαών	λαός	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\1480	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

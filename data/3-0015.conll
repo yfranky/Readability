@@ -1,0 +1,85 @@
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Ορέστη	Ορέστης	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	πότε	πότε	Ad	Ad	Ba	5	Adv	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	2	Pred_Co	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Nm	7	Det	_	_	
+7	ελληνικό	ελληνικός	Aj	Aj	Ba|Ne|Sg|Nm	5	Pnom	_	_	
+8	,	,	PUNCT	PUNCT	_	10	AuxX	_	_	
+9	ορθόδοξο	ορθόδοξος	Aj	Aj	Ba|Ma|Sg|Ac	10	Atr	_	_	
+10	Πάσχα	Πάσχα	No	NoPr	Ne|Sg|Ac	7	Atr	_	_	
+11	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	ξέρεις	ξέρω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φέρος	Φέρος	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	1	Pred_Co	_	_	
+4	μια	ένας	At	AtId	Fe|Sg|Nm	5	Det	_	_	
+5	βδομάδα	βδομάδα	No	NoCm	Fe|Sg|Nm	3	Pnom	_	_	
+6	μετά	μετά	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	Πάσχα	Πάσχα	No	NoPr	Ne|Sg|Ac	6	Atr	_	_	
+9	των	ο	At	AtDf	Ma|Pl|Ge	10	Det	_	_	
+10	Καθολικών	καθολικός	Aj	Aj	Ba|Ma|Pl|Ge	8	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	Pnom	_	_	
+2	Και	και	Cj	CjCo	_	1	AuxY	_	_	
+3	πότε	πότε	Ad	Ad	Ba	4	Adv	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Nm	6	Det	_	_	
+6	Πάσχα	Πάσχα	No	NoPr	Ne|Sg|Nm	4	Sb	_	_	
+7	των	ο	At	AtDf	Ma|Pl|Ge	8	Det	_	_	
+8	Καθολικών	καθολικός	Aj	Aj	Ba|Ma|Pl|Ge	6	Atr	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	Atr	_	_	
+2	Την	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+3	άλλη	άλλος	Pn	PnId	Fe|03|Sg|Ac|Xx	4	Atr	_	_	
+4	Κυριακή	Κυριακή	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Τότε	τότε	Ad	Ad	Ba	3	Adv	_	_	
+3	αρχίζουμε	αρχίζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	διακοπές	διακοπή	No	NoCm	Fe|Pl|Ac	3	Obj	_	_	
+5	την	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	Παρασκευή	Παρασκευή	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	1	AuxY	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	και	και	Cj	CjCo	_	8	Coord	_	_	
+5	την	ο	At	AtDf	Fe|Sg|Ac	7	Det	_	_	
+6	άλλη	άλλος	Pn	PnId	Fe|03|Sg|Ac|Xx	7	Atr	_	_	
+7	Κυριακή	Κυριακή	No	NoCm	Fe|Sg|Ac	4	Obj_Co	_	_	
+8	γιορτάζει	γιορτάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+9	ο	ο	At	AtDf	Ma|Sg|Nm	10	Det	_	_	
+10	παππούς	παππούς	No	NoCm	Ma|Sg|Nm	8	Sb	_	_	
+11	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	10	Pos	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	2	Obj	_	_	
+2	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	Λάμπρο	Λάμπρος	No	NoPr	Ma|Sg|Ac	2	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Καλό	καλός	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr	_	_	
+3	Πάσχα	Πάσχα	No	NoPr	Ne|Sg|Ac	0	ExD	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	Ορέστη	Ορέστης	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Καλές	καλός	Aj	Aj	Ba|Fe|Pl|Ac	3	Atr	_	_	
+3	διακοπές	διακοπή	No	NoCm	Fe|Pl|Ac	0	ExD	_	_	
+4	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+5	Σόφη	Σόφη	No	NoPr	Fe|Sg|Nm	3	ExD	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

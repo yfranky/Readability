@@ -1,0 +1,149 @@
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Γεια	γεια	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	2	Pos	_	_	
+4	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	2	Atr	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πώς	πώς	Ad	Ad	Ba	2	Adv	_	_	
+2	πάει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	σχολείο	σχολείο	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πολύ	πολύ	Ad	Ad	Ba	3	Adv	_	_	
+3	καλά	καλά	Ad	Ad	Ba	0	ExD	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μπράβο	μπράβο	Ij	Ij	_	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	2	Obj	_	_	
+2	θέλετε	θέλω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μαρκαδόρους	μαρκαδόρος	No	NoCm	Ma|Pl|Ac	0	ExD	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τετράδια	τετράδιο	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μολύβια	μολύβι	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γόμες	γόμα	No	NoCm	Fe|Pl|Nm	0	ExD	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ψάχνουμε	ψάχνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	βρούμε	βρίσκω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	ένα	ένας	At	AtId	Ne|Sg|Ac	6	Det	_	_	
+6	λεξικό	λεξικός	Aj	Aj	Ba|Ma|Sg|Ac	4	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Τα	ο	At	AtDf	Ne|Pl|Nm	3	Det	_	_	
+3	λεξικά	λεξικός	Aj	Aj	Ba|Ne|Pl|Nm	4	Sb	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	σε	σε	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	εκείνο	εκείνος	Pn	PnDm	Ne|03|Sg|Ac|Xx	8	Atr	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	ράφι	ράφι	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	5	AuxV	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Nm|Xx	5	Sb	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	λεξικό	λεξικός	Aj	Aj	Ba|Ne|Sg|Ac	5	Pnom	_	_	
+8	που	που	Pn	PnRe	Ne|03|Sg|Ac|Xx	9	Obj	_	_	
+9	ψάχνουμε	ψάχνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	7	Atr	_	_	
+10	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Nm	4	Det	_	_	
+3	πιο	πιο	Ad	Ad	Ba	4	Adv	_	_	
+4	μικρό	μικρός	Aj	Aj	Ba|Ne|Sg|Nm	1	Pnom	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Άφιξη	άφιξη	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+2	αμαξοστοιχίας	αμαξοστοιχία	No	NoCm	Fe|Sg|Ge	1	Atr	_	_	
+3	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	Θεσσαλονίκη	Θεσσαλονίκη	No	NoPr	Fe|Sg|Ac	3	Atr	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	"	"	CPUNCT	CPUNCT	_	1	AuxG	_	_	
+3	Άφιξη	άφιξη	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+4	"	"	CPUNCT	CPUNCT	_	3	AuxG	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Nm|Xx	2	Sb	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	άφιξη	άφιξη	No	NoCm	Fe|Sg|Nm	2	Pnom	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	δούμε	βλέπω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+5	λεξικό	λεξικός	Aj	Aj	Ba|Ne|Sg|Ac	4	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Άφιξη	άφιξη	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εδώ	εδώ	Ad	Ad	Ba	2	Adv	_	_	
+2	λέει	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	"	"	OPUNCT	OPUNCT	_	4	AuxG	_	_	
+4	ερχομός	ερχομός	No	NoCm	Ma|Sg|Nm	2	Sb	_	_	
+5	"	"	CPUNCT	CPUNCT	_	4	AuxG	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	AuxG	_	_	
+2	Δηλαδή	δηλαδή	Ad	Ad	Ba	4	Adv	_	_	
+3	κάποιος	κάποιος	Pn	PnId	Ma|03|Sg|Nm|Xx	4	Sb	_	_	
+4	έρχεται	έρχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ποιος	ποιος	Pn	PnIr	Ma|03|Sg|Nm|Xx	3	Sb	_	_	
+3	έρχεται	έρχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Αμαξοστοιχία	αμαξοστοιχία	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Nm	5	Det	_	_	
+5	τρένο	τρένο	No	NoCm	Ne|Sg|Nm	3	Pnom	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Α	α	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έρχεται	έρχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+3	τρένο	τρένο	No	NoCm	Ne|Sg|Nm	1	Sb	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	τρένο	τρένο	No	NoCm	Ne|Sg|Nm	4	Sb	_	_	
+3	...	...	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+4	έρχεται	έρχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	από	από	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	τη	ο	At	AtDf	Fe|Sg|Ac	7	Det	_	_	
+7	Θεσσαλονίκη	Θεσσαλονίκη	No	NoPr	Fe|Sg|Ac	5	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	γρήγορα	γρήγορα	Ad	Ad	Ba	1	Adv	_	_	
+3	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	1	AuxP	_	_	
+4	σταθμό	σταθμός	No	NoCm	Ma|Sg|Ac	3	Adv	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

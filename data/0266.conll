@@ -1,0 +1,39 @@
+1	ΞΑΝΘΗ	ξανθός	Aj	Aj	Ba|Fe|Sg|Nm	3	Atr	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	Μπρωκούμη	Μπρωκούμη	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+4	8	8	DIG	DIG	_	3	Atr	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	ΕΝΟΙΚΙΑΖΕΤΑΙ	ενοικιάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	διαμέρισμα	διαμέρισμα	No	NoCm	Ne|Sg|Nm	1	Pnom	_	_	
+3	85	85	DIG	DIG	_	4	Atr	_	_	
+4	τ.μ.	τ.μ.	ABBR	ABBR	_	2	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	3ου	3ος	Nm	NmOd	Ne|Sg|Ge|Aj	7	Atr	_	_	
+7	ορ	ορ	Rg	RgFw	_	2	Atr	_	_	
+8	.	.	PTERM_P	PTERM_P	_	1	AuxK	_	_	
+9	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+10	2	2	DIG	DIG	_	11	Atr	_	_	
+11	κρεβατοκάμαρες	κρεβατοκάμαρα	No	NoCm	Fe|Pl|Ac	1	ExD	_	_	
+12	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+13	σαλονοτραπεζαρία	σαλονοτραπεζαρία	No	NoPr	Fe|Sg|Nm	11	Atr	_	_	
+14	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+15	μεγάλη	μεγάλος	Aj	Aj	Ba|Fe|Sg|Nm	16	Atr	_	_	
+16	κουζίνα	κουζίνα	No	NoCm	Fe|Sg|Nm	13	Atr	_	_	
+17	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+18	τουαλέτα	τουαλέτα	No	NoCm	Fe|Sg|Ac	16	Atr	_	_	
+19	,	,	PUNCT	PUNCT	_	20	AuxX	_	_	
+20	βεράντα	βεράντα	No	NoCm	Fe|Sg|Ac	18	ExD	_	_	
+21	κ.ά.	κ.ά.	ABBR	ABBR	_	20	Atr	_	_	
+
+1	Τιμή	τιμή	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+2	:	:	PTERM_P	PTERM_P	_	4	AuxG	_	_	
+3	300	300	DIG	DIG	_	4	Atr	_	_	
+4	ευρώ	ευρώ	No	NoCm	Ne|Sg|Ac	1	Atr	_	_	
+5	τον	ο	At	AtDf	Ma|Sg|Ac	6	Det	_	_	
+6	μήνα	μήνας	No	NoCm	Ma|Sg|Ac	4	Atr	_	_	
+7	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+8	τηλ.	τηλ.	ABBR	ABBR	_	4	Atr	_	_	
+9	25410-21253	25410-21253	DIG	DIG	_	8	Atr	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

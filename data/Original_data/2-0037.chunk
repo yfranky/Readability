@@ -1,0 +1,239 @@
+	(SENT	<S>
+	SYN	[cl
+1\1	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\2	TOK	Μαμά	μαμά	NoCmFeSgNm
+	SYN	/np_nm]
+1\6	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\8	TOK	έχω	έχω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\12	TOK	καλά	καλά	AdXxBa
+	SYN	/advp]
+1\17	TOK	νέα	νέος	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[advp
+1\21	TOK	σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\28	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\32	TOK	το	ο	AtDfNeSgAc
+1\35	TOK	σχολείο	σχολείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\42	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\45	ENUM	-	-	ENUM
+	SYN	[advp
+1\46	TOK	Ναι	ναι	AdXxBa
+	SYN	/advp]
+1\49	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\51	TOK	Πολύ	πολύ	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\56	TOK	χαίρομαι	χαίρω	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\64	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[vg
+1\66	TOK	Άρεσε	αρέσω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\72	TOK	ο	ο	AtDfMaSgNm
+1\74	TOK	Αίσωπος	Αίσωπος	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\81	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\84	ENUM	-	-	ENUM
+	SYN	[advp
+1\85	TOK	Ναι	ναι	AdXxBa
+1\88	PUNCT	,	,	PUNCT
+1\90	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+1\94	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\97	ENUM	-	-	ENUM
+	SYN	[pp
+1\98	TOK	Για	για	AsPpSp
+	SYN	[np_nm
+1\102	TOK	ποιό	ποιό	PnIrNe03SgNmXx
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	[np_ac
+1\107	TOK	μύθο	μύθος	NoCmMaSgAc
+1\112	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	[vg
+1\117	TOK	μίλησες	μιλώ	VbMnIdPa02SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\124	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\127	ENUM	-	-	ENUM
+1\128	TOK	Για	για	AsPpSp
+1\132	OPUNCT	"	"	OPUNCT
+	SYN	[np_ac
+1\133	TOK	Το	ο	AtDfNeSgAc
+1\136	TOK	λιοντάρι	λιοντάρι	NoCmNeSgAc
+	SYN	/np_ac]
+1\145	TOK	και	και	CjCo
+	SYN	[np_nm
+1\149	TOK	το	ο	AtDfNeSgNm
+1\152	TOK	ποντίκι	ποντίκι	NoCmNeSgNm
+	SYN	/np_nm]
+1\159	PTERM_P	.	.	PTERM_P
+1\160	CPUNCT	"	"	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\162	TOK	Επιτυχία	επιτυχία	NoCmFeSgNm
+1\171	TOK	σου	μου	PnPoMa02SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\175	TOK	λέω	λέγω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\178	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\181	ENUM	-	-	ENUM
+1\182	TOK	Μπράβο	μπράβο	Ij
+1\188	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\190	TOK	Δήμητρα	Δήμητρα	NoPrFeSgNm
+	SYN	/np_nm]
+1\197	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\199	TOK	Καλά	καλά	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\204	TOK	κάναμε	κάνω	VbMnIdPa01PlXxIpAvXx
+	SYN	/vg]
+1\210	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\212	TOK	λοιπόν	λοιπόν	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\218	PUNCT	,	,	PUNCT
+1\220	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\224	TOK	αγοράσαμε	αγοράζω	VbMnIdPa01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\234	TOK	το	ο	AtDfNeSgAc
+1\237	TOK	καλοκαίρι	καλοκαίρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\247	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\251	TOK	την	ο	AtDfFeSgAc
+1\255	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\262	TOK	τους	ο	AtDfMaPlAc
+1\267	TOK	μύθους	μύθος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\274	TOK	του	ο	AtDfMaSgGe
+1\278	TOK	Αισώπου	Αίσωπος	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\285	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\288	ENUM	-	-	ENUM
+	SYN	[advp
+1\289	TOK	Ναι	ναι	AdXxBa
+	SYN	/advp]
+1\292	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\294	TOK	μαμά	μαμά	NoCmFeSgNm
+	SYN	/np_nm]
+1\298	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\300	TOK	Σκέψου	σκέφτομαι	VbMnMpXx02SgXxPePvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\307	TOK	πως	πως	CjSb
+	SYN	[np_nm
+1\311	TOK	τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+	SYN	[advp
+1\314	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\318	TOK	πολλά	πολύς	AjBaNePlNm
+	SYN	/adjp_nm]
+1\324	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\331	TOK	δεν	δεν	PtNg
+1\335	TOK	ήξεραν	ξέρω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\342	TOK	τον	ο	AtDfMaSgAc
+1\346	TOK	Αίσωπο	Αίσωπος	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\352	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\355	ENUM	-	-	ENUM
+	SYN	[cl_o
+	SYN	[vg_s
+1\356	TOK	Να	να	PtSj
+1\358	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\360	TOK	λοιπόν	λοιπόν	AdXxBa
+	SYN	/advp]
+1\366	PUNCT	,	,	PUNCT
+	SYN	[pou_np_nm
+1\368	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[np_ac
+1\372	TOK	τον	εγώ	PnPeMa03SgAcWe
+	SYN	/np_ac]
+1\376	TOK	γνώρισαν	γνωρίζω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg_s]
+1\385	TOK	κι	και	CjCo
+	SYN	[np_ac
+1\388	TOK	άλλα	άλλος	PnIdNe03PlAcXx
+	SYN	/np_ac]
+	SYN	[np_nm
+1\393	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\400	TOK	τον	ο	AtDfMaSgAc
+1\404	TOK	Αίσωπο	Αίσωπος	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\410	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

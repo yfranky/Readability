@@ -1,0 +1,46 @@
+1	Ανάσταση	ανάσταση	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Χριστός	χριστός	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	ανέστη	ανίσταμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	εκ	εκ	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	νεκρών	νεκρός	Aj	Aj	Ba|Fe|Pl|Ge	4	Atr	_	_	
+6	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Και	και	Cj	CjCo	_	4	AuxY	_	_	
+3	του	ο	At	AtDf	Ma|Sg|Ge	4	Det	_	_	
+4	χρόνου	χρόνος	No	NoCm	Ma|Sg|Ge	0	ExD	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Χριστός	χριστός	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	ανέστη	ανίσταμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Αληθώς	αληθώς	Ad	Ad	Ba	3	Adv	_	_	
+3	ανέστη	ανίσταμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μας	εγώ	Pn	PnPe	Ma|01|Pl|Ac|We	3	Obj	_	_	
+3	περιμένει	περιμένω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	μαγειρίτσα	μαγειρίτσα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Έλα	έλα	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	τσουγκρίσουμε	τσουγκρίζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+6	αυγά	αυγό	No	NoCm	Ne|Pl|Ac	4	Obj	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	σουβλίσετε	σουβλίζω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	αρνί	αρνί	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

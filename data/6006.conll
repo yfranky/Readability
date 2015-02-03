@@ -1,0 +1,180 @@
+1	Γράμμα	γράμμα	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+2	από	από	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	τη	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Ac	2	Atr	_	_	
+
+1	Χτυπάει	χτυπώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	3	Det	_	_	
+3	κουδούνι	κουδούνι	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πηγαίνω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	και	και	Cj	CjCo	_	3	AuxY	_	_	
+3	ανοίγω	ανοίγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	την	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	πόρτα	πόρτα	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	ταχυδρόμος	ταχυδρόμος	No	NoCm	Ma|Sg|Nm	1	Pnom	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ένα	ένας	At	AtId	Ne|Sg|Ac	3	Det	_	_	
+3	γράμμα	γράμμα	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	μένα	εγώ	Pn	PnPe	Ma|01|Sg|Ac|St	4	Atr	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	2	Obj	_	_	
+2	ανοίγω	ανοίγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	βιαστικά	βιαστικά	Ad	Ad	Ba	2	Adv	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	από	από	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	την	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	Αυστραλία	Αυστραλία	No	NoPr	Fe|Sg|Ac	2	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	από	από	AsPp	AsPpSp	_	1	AuxP	_	_	
+7	τη	ο	At	AtDf	Fe|Sg|Ac	8	Det	_	_	
+8	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Ac	6	Adv	_	_	
+9	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	8	Pos	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	2	Obj	_	_	
+2	διαβάζω	διαβάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αγαπημένη	αγαπημένος	Vb	VbMn	Pp|Xx|Xx|Sg|Fe|Xx|Pv|Ac	5	Atr	_	_	
+2	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	3	IObj	_	_	
+3	εγγονή	εγγονή	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+4	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+5	Μαργαρίτα	Μαργαρίτα	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+6	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+7	γεια	γεια	No	NoCm	Fe|Sg|Ac	3	Atr	_	_	
+8	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	7	Pos	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	παππούς	παππούς	No	NoCm	Ma|Sg|Nm	6	Sb_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+4	οι	ο	At	AtDf	Ma|Pl|Nm	5	Det	_	_	
+5	θείοι	θείος	Aj	Aj	Ba|Ma|Pl|Nm	6	Sb_Co	_	_	
+6	και	και	Cj	CjCo	_	10	Coord_Ap	_	_	
+7	ο	ο	At	AtDf	Ma|Sg|Nm	8	Det	_	_	
+8	ξάδερφός	ξάδερφος	No	NoCm	Ma|Sg|Nm	6	Sb_Co	_	_	
+9	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	8	Pos	_	_	
+10	,	,	PUNCT	PUNCT	_	15	Apos	_	_	
+11	ο	ο	At	AtDf	Ma|Sg|Nm	12	Det	_	_	
+12	Πέτρος	Πέτρος	No	NoPr	Ma|Sg|Nm	10	Sb_Ap	_	_	
+13	,	,	PUNCT	PUNCT	_	10	AuxX	_	_	
+14	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	15	IObj	_	_	
+15	στέλνουν	στέλνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	19	Pred_Co	_	_	
+16	την	ο	At	AtDf	Fe|Sg|Ac	17	Det	_	_	
+17	αγάπη	αγάπη	No	NoCm	Fe|Sg|Ac	15	Obj	_	_	
+18	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	17	Pos	_	_	
+19	και	και	Cj	CjCo	_	0	Coord	_	_	
+20	περιμένουν	περιμένω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	19	Pred_Co	_	_	
+21	με	με	AsPp	AsPpSp	_	20	AuxP	_	_	
+22	ανυπομονησία	ανυπομονησία	No	NoCm	Fe|Sg|Ac	21	Adv	_	_	
+23	τα	ο	At	AtDf	Ne|Pl|Ac	24	Det	_	_	
+24	νέα	νέος	Aj	Aj	Ba|Ne|Pl|Ac	20	Obj	_	_	
+25	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	24	Atr	_	_	
+26	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είσαι	είμαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	καλά	καλά	Ad	Ad	Ba	1	Adv	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πώς	πώς	Ad	Ad	Ba	3	Adv	_	_	
+2	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	3	Obj	_	_	
+3	πηγαίνεις	πηγαίνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+6	μαθήματα	μάθημα	No	NoCm	Ne|Pl|Ac	4	Adv	_	_	
+7	του	ο	At	AtDf	Ne|Sg|Ge	8	Det	_	_	
+8	σχολείου	σχολείο	No	NoCm	Ne|Sg|Ge	6	Atr	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	2	Obj	_	_	
+2	καταφέρνεις	καταφέρνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εμείς	εγώ	Pn	PnPe	Ma|01|Pl|Nm|St	2	Sb	_	_	
+2	είμαστε	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	2	Pnom	_	_	
+4	καλά	καλά	Ad	Ad	Ba	2	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	παππούς	παππούς	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	πηγαίνει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+4	κάθε	κάθε	Pn	PnId	Fe|03|Sg|Ac|Xx	5	Atr	_	_	
+5	μέρα	μέρα	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+7	ελληνικό	ελληνικός	Aj	Aj	Ba|Ne|Sg|Ac	8	Atr	_	_	
+8	καφενείο	καφενείο	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+9	και	και	Cj	CjCo	_	0	Coord	_	_	
+10	συζητάει	συζητώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+11	με	με	AsPp	AsPpSp	_	10	AuxP	_	_	
+12	τους	ο	At	AtDf	Ma|Pl|Ac	13	Det	_	_	
+13	φίλους	φίλος	No	NoCm	Ma|Pl|Ac	11	Adv	_	_	
+14	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	13	Pos	_	_	
+15	τα	ο	At	AtDf	Ne|Pl|Ac	16	Det	_	_	
+16	νέα	νέος	Aj	Aj	Ba|Ne|Pl|Ac	13	Atr	_	_	
+17	από	από	AsPp	AsPpSp	_	16	AuxP	_	_	
+18	την	ο	At	AtDf	Fe|Sg|Ac	19	Det	_	_	
+19	Ελλάδα	Ελλάδα	No	NoPr	Fe|Sg|Ac	17	Adv	_	_	
+20	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	θείος	θείος	No	NoCm	Ma|Sg|Nm	3	Sb_Co	_	_	
+3	και	και	Cj	CjCo	_	7	Coord	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	θεία	θεία	No	NoCm	Fe|Sg|Nm	3	Sb_Co	_	_	
+6	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	5	Pos	_	_	
+7	δουλεύουν	δουλεύω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	11	Pred_Co	_	_	
+8	καθημερινά	καθημερινά	Ad	Ad	Ba	7	Adv	_	_	
+9	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	7	AuxP	_	_	
+10	βιβλιοπωλείο	βιβλιοπωλείο	No	NoCm	Ne|Sg|Ac	9	Adv	_	_	
+11	και	και	Cj	CjCo	_	0	Coord	_	_	
+12	ο	ο	At	AtDf	Ma|Sg|Nm	13	Det	_	_	
+13	ξάδερφός	ξάδερφος	No	NoCm	Ma|Sg|Nm	11	ExD_Co	_	_	
+14	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	13	Pos	_	_	
+15	,	,	PUNCT	PUNCT	_	16	AuxX	_	_	
+16	διαβάζει	διαβάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	13	Atr	_	_	
+17	για	για	AsPp	AsPpSp	_	16	AuxP	_	_	
+18	τις	ο	At	AtDf	Fe|Pl|Ac	19	Det	_	_	
+19	εξετάσεις	εξέταση	No	NoCm	Fe|Pl|Ac	17	Adv	_	_	
+20	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	19	AuxP	_	_	
+21	Πανεπιστήμιο	πανεπιστήμιο	No	NoCm	Ne|Sg|Ac	20	Atr	_	_	
+22	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Περιμένουμε	περιμένω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τις	ο	At	AtDf	Fe|Pl|Ac	3	Det	_	_	
+3	διακοπές	διακοπή	No	NoCm	Fe|Pl|Ac	1	Obj	_	_	
+4	για	για	AsPp	AsPpSp	_	1	AuxC	_	_	
+5	να	να	Pt	PtSj	_	7	AuxV	_	_	
+6	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	7	Obj	_	_	
+7	δούμε	βλέπω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	4	Adv	_	_	
+8	από	από	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	κοντά	κοντά	Ad	Ad	Ba	10	AuxY	_	_	
+10	και	και	Cj	CjCo	_	8	Coord	_	_	
+11	να	να	Pt	PtSj	_	13	AuxV	_	_	
+12	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	13	Obj	_	_	
+13	σφίξουμε	σφίγγω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	10	Sb_Co	_	_	
+14	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	13	AuxP	_	_	
+15	αγκαλιά	αγκαλιά	No	NoCm	Fe|Sg|Ac	14	Adv	_	_	
+16	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	15	Pos	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Με	με	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	πολλή	πολύς	Aj	Aj	Ba|Fe|Sg|Ac	3	Atr	_	_	
+3	αγάπη	αγάπη	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	2	Pos	_	_	
+

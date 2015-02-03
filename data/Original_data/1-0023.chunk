@@ -1,0 +1,69 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Διακοπές	διακοπή	NoPrFePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\10	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\14	TOK	θάλασσα	θάλασσα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\23	TOK	Τελειώσαν	τελειώνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\33	TOK	όλες	όλος	AjBaFePlNm
+	SYN	/adjp_nm]
+1\38	TOK	οι	ο	AtDfFePlNm
+1\41	TOK	δουλειές	δουλειά	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+1\51	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\55	TOK	πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\60	TOK	αμέσως	αμέσως	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\67	TOK	διακοπές	διακοπή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\75	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\78	TOK	Κλείνει	κλείνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\86	TOK	η	ο	AtDfFeSgNm
+1\88	TOK	Αλφαβητοχώρα	Αλφαβητοχώρα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\102	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\107	TOK	αμμουδιά	αμμουδιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\116	TOK	θα	θα	PtFu
+1\119	TOK	πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\124	TOK	τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\128	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

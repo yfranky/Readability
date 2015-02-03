@@ -1,0 +1,29 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Χάλια	χάλι	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	πήγες	πηγαίνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+5	χθεσινό	χθεσινός	Aj	Aj	Ba|Ne|Sg|Ac	6	Atr	_	_	
+6	διαγώνισμα	διαγώνισμα	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+7	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+8	ε	ε	Ij	Ij	_	3	AuxG	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Άκου	ακούω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	δεις	βλέπω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	εκτός	εκτός	Ad	Ad	Ba	4	Adv	_	_	
+7	του	ο	At	AtDf	Ne|Sg|Ge	8	Det	_	_	
+8	ότι	ότι	Cj	CjSb	_	15	Coord	_	_	
+9	δεν	δεν	Pt	PtNg	_	11	AuxV	_	_	
+10	είχα	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	11	AuxV	_	_	
+11	διαβάσει	διαβάζω	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Av|Xx	8	Sb_Co	_	_	
+12	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+13	τα	ο	At	AtDf	Ne|Pl|Nm	14	Det	_	_	
+14	θέματα	θέμα	No	NoCm	Ne|Pl|Nm	11	Sb	_	_	
+15	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	6	Adv	_	_	
+16	πολύ	πολύ	Ad	Ad	Ba	17	Adv	_	_	
+17	δύσκολα	δύσκολα	Ad	Ad	Ba	15	Adv	_	_	
+18	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,50 @@
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Πόσα	πόσος	Pn	PnIr	Ne|03|Pl|Nm|Xx	3	Atr	_	_	
+3	χρόνια	χρόνος	No	NoCm	Ne|Pl|Ac	4	Obj	_	_	
+4	περνάει	περνώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	ο	ο	At	AtDf	Ma|Sg|Nm	6	Det	_	_	
+6	Γιάννης	Γιάννης	No	NoPr	Ma|Sg|Nm	4	Sb	_	_	
+7	την	ο	At	AtDf	Fe|Sg|Ac	8	Det	_	_	
+8	Τζένη	Τζένη	No	NoPr	Fe|Sg|Ac	4	Obj	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	4	AuxV	_	_	
+3	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	4	Obj	_	_	
+4	πω	λέγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Γιάννης	Γιάννης	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	μια	ένας	At	AtId	Fe|Sg|Nm	5	Det	_	_	
+5	τάξη	τάξη	No	NoCm	Fe|Sg|Nm	10	Sb_Co	_	_	
+6	μεγαλύτερος	μεγάλος	Aj	Aj	Cp|Ma|Sg|Nm	5	Atr	_	_	
+7	από	από	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	τον	ο	At	AtDf	Ma|Sg|Ac	9	Det	_	_	
+9	Δημήτρη	Δημήτρης	No	NoPr	Ma|Sg|Ac	7	Adv	_	_	
+10	και	και	Cj	CjCo	_	13	Coord	_	_	
+11	ο	ο	At	AtDf	Ma|Sg|Nm	12	Det	_	_	
+12	Δημήτρης	Δημήτρης	No	NoPr	Ma|Sg|Nm	10	Sb_Co	_	_	
+13	περνάει	περνώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Pnom	_	_	
+14	την	ο	At	AtDf	Fe|Sg|Ac	15	Det	_	_	
+15	ξαδέρφη	ξαδέρφη	No	NoCm	Fe|Sg|Ac	13	Obj	_	_	
+16	του	ο	At	AtDf	Ma|Sg|Ge	18	Det	_	_	
+17	ένα	ένας	Pn	PnId	Ma|03|Sg|Ac|Xx	18	Atr	_	_	
+18	χρόνο	χρόνος	No	NoCm	Ma|Sg|Ac	15	Atr	_	_	
+19	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Άρα	άρα	Cj	CjCo	_	0	Coord	_	_	
+2	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	Γιάννης	Γιάννης	No	NoPr	Ma|Sg|Nm	8	Sb	_	_	
+5	πρέπει	πρέπει	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Pred_Co	_	_	
+6	να	να	Pt	PtSj	_	8	AuxV	_	_	
+7	την	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	8	Obj	_	_	
+8	περνάει	περνώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Sb	_	_	
+9	δυο	δύο	Nm	NmCd	Ne|Pl|Ac|Aj	10	Atr	_	_	
+10	χρόνια	χρόνος	No	NoCm	Ne|Pl|Ac	8	Adv	_	_	
+11	πάνω	πάνω	Ad	Ad	Ba	12	Adv	_	_	
+12	κάτω	κάτω	Ad	Ad	Ba	8	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

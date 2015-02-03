@@ -1,0 +1,22 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Ευχές	ευχή	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\7	TOK	για	για	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\11	TOK	καλή	καλός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\16	TOK	χρονιά	χρονιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\22	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\25	TOK	Χασαν	χάνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	)SENT	</S>

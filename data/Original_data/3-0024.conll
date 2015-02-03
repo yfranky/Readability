@@ -1,0 +1,29 @@
+1	Ευχές	ευχή	No	NoCm	Fe|Pl|Nm	0	ExD	_	_	
+2	για	για	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	την	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+4	ονομαστική	ονομαστικός	Aj	Aj	Ba|Fe|Sg|Ac	5	Atr	_	_	
+5	γιορτή	γιορτή	No	NoCm	Fe|Sg|Ac	2	Atr	_	_	
+
+1	Για	για	AsPp	AsPpSp	_	7	AuxP	_	_	
+2	μια	ένας	At	AtId	Fe|Sg|Ac	5	Det	_	_	
+3	τόσο	τόσο	Ad	Ad	Ba	4	Adv	_	_	
+4	ξεχωριστή	ξεχωριστός	Aj	Aj	Ba|Fe|Sg|Ac	5	Atr	_	_	
+5	μέρα	μέρα	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+6	σαν	σαν	Ad	Ad	Ba	7	AuxY	_	_	
+7	κι	και	Cj	CjCo	_	0	Coord	_	_	
+8	αυτή	αυτός	Pn	PnDm	Fe|03|Sg|Ac|Xx	7	ExD_Co	_	_	
+9	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+10	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	11	Obj	_	_	
+11	στέλνω	στέλνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	8	Atr	_	_	
+12	με	με	AsPp	AsPpSp	_	11	AuxP	_	_	
+13	αγάπη	αγάπη	No	NoCm	Fe|Sg|Ac	12	Adv	_	_	
+14	τις	ο	At	AtDf	Fe|Pl|Ac	17	Det	_	_	
+15	καλύτερές	καλός	Aj	Aj	Cp|Fe|Pl|Ac	17	Atr	_	_	
+16	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	17	Pos	_	_	
+17	ευχές	ευχή	No	NoCm	Fe|Pl|Ac	11	Obj	_	_	
+18	για	για	AsPp	AsPpSp	_	17	AuxP	_	_	
+19	ό,τι	ό,τι	Pn	PnRi	Ne|03|Sg|Ac|Xx	21	Obj	_	_	
+20	περισσότερο	πολύ	Ad	Ad	Cp	21	Adv	_	_	
+21	επιθυμείς	επιθυμώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	18	Atr	_	_	
+22	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

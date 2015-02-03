@@ -1,0 +1,282 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Η	ο	AtDfFeSgNm
+1\3	TOK	κυρία	κυρία	NoCmFeSgNm
+1\9	TOK	Κλαίρη	Κλαίρη	NoPrFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\17	TOK	Στο	στου	AsPpPaNeSgAc
+	SYN	[np_nm
+1\21	TOK	ρετιρέ	ρετιρέ	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	[vg
+1\28	TOK	μένει	μένω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\34	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\39	TOK	η	ο	AtDfFeSgNm
+1\41	TOK	κυρία	κυρία	NoCmFeSgNm
+1\47	TOK	Κλαίρη	Κλαίρη	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\53	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\55	TOK	Δε	δεν	PtNg
+1\58	TOK	νιώθει	νιώθω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+1\65	TOK	όμως	όμως	CjCo
+	SYN	[np_ac
+1\70	TOK	μοναξιά	μοναξιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\77	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\79	TOK	γιατί	γιατί	CjSb
+	SYN	[vg
+1\85	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\90	TOK	συντροφιά	συντροφιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\100	TOK	τις	ο	AtDfFePlAc
+1\104	TOK	γάτες	γάτα	NoCmFePlAc
+	SYN	/np_ac]
+1\110	TOK	και	και	CjCo
+	SYN	[np_ac
+1\114	TOK	τους	ο	AtDfMaPlAc
+1\119	TOK	σκύλους	σκύλος	NoCmMaPlAc
+1\127	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\130	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\133	TOK	Ο	ο	AtDfMaSgNm
+1\135	TOK	άντρας	άντρας	NoCmMaSgNm
+	SYN	/np_nm]
+1\142	TOK	της	ο	AtDfFeSgGe
+	SYN	[vg
+1\146	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\151	TOK	στρατηγός	στρατηγός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\160	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\162	TOK	Πέθανε	πεθαίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\169	TOK	πριν	πριν	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\174	TOK	μερικά	μερικοί	PnIdNe03PlAcXx
+1\181	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\187	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\189	TOK	Παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\196	TOK	δεν	δεν	PtNg
+1\200	TOK	είχαν	έχω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\205	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\208	TOK	Στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\212	TOK	οικόπεδο	οικόπεδο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\221	TOK	που	που	PnReNe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\225	TOK	χτίστηκε	χτίζω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	[np_nm
+1\234	TOK	η	ο	AtDfFeSgNm
+1\236	TOK	πολυκατοικία	πολυκατοικία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\249	TOK	υπήρχε	υπάρχω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\256	TOK	πριν	πριν	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\261	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\264	TOK	πατρικό	πατρικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\272	TOK	σπίτι	σπίτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\278	TOK	της	ο	AtDfFeSgGe
+1\282	TOK	κυρίας	κυρία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_nm
+1\289	TOK	Κλαίρης	Κλαίρης	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\296	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\298	TOK	Το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\301	TOK	έδωσαν	δίνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\308	TOK	αντιπαροχή	αντιπαροχή	NoCmFeSgAc
+	SYN	/np_ac]
+1\319	TOK	και	και	CjCo
+	SYN	[np_ac
+1\323	TOK	αυτή	αυτός	PnDmFe03SgAcXx
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\328	TOK	κράτησε	κρατώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+1\336	TOK	το	ο	AtDfNeSgAc
+	SYN	[np_ac
+1\339	TOK	ρετιρέ	ρετιρέ	NoCmNePlAc
+	SYN	/np_ac]
+1\346	TOK	και	και	CjCo
+	SYN	[np_ac
+1\350	TOK	το	ο	AtDfNeSgAc
+1\353	TOK	διαμέρισμα	διαμέρισμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\364	TOK	του	ο	AtDfMaSgGe
+	SYN	[adjp_ge
+1\368	TOK	τέταρτου	τέταρτος	NmOdMaSgGeAj
+	SYN	/adjp_ge]
+1\377	TOK	ορόφου	όροφος	NoCmMaSgGe
+	SYN	/np_ge]
+1\383	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\385	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\389	TOK	μένει	μένω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\395	TOK	η	ο	AtDfFeSgNm
+1\397	TOK	οικογένεια	οικογένεια	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\408	TOK	Αντωνίου	Αντώνιος	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	/cl_r]
+	SYN	/cl]
+1\416	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\419	TOK	Η	ο	AtDfFeSgNm
+1\421	TOK	κυρία	κυρία	NoCmFeSgNm
+1\427	TOK	Κλαίρη	Κλαίρη	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\434	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\440	TOK	φιλική	φιλικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\447	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\450	TOK	όλους	όλος	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\456	TOK	τους	ο	AtDfMaPlAc
+1\461	TOK	ενοίκους	ένοικος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\470	TOK	της	ο	AtDfFeSgGe
+1\474	TOK	πολυκατοικίας	πολυκατοικία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\487	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\490	TOK	Τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\493	TOK	μικρά	μικρός	AjBaNePlNm
+	SYN	/adjp_nm]
+1\499	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\506	TOK	την	εγώ	PnPeFe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\510	TOK	αγαπούν	αγαπώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\518	TOK	ιδιαίτερα	ιδιαίτερα	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\527	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\529	TOK	γιατί	γιατί	CjSb
+	SYN	[vg
+1\535	TOK	παίζουν	παίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\543	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\546	TOK	τα	ο	AtDfNePlAc
+1\549	TOK	σκυλάκια	σκυλάκι	NoCmNePlAc
+1\558	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\561	PUNCT	,	,	PUNCT
+	SYN	[cl_t
+1\563	TOK	όταν	όταν	CjSb
+1\568	TOK	τα	ο	AtDfNePlNm
+	SYN	[vg
+1\571	TOK	βγάζει	βγάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\578	TOK	βόλτα	βόλτα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_t]
+1\583	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

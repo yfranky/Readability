@@ -1,0 +1,137 @@
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	Μνημειακή	μνημειακός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\11	TOK	οικοδομή	οικοδομή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\20	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\23	TOK	σχήμα	σχήμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\29	TOK	γεωμετρικής	γεωμετρικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\41	TOK	πυραμίδας	πυραμίδα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\50	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\52	TOK	Αποτελείται	αποτελώ	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\64	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\68	TOK	ογκόλιθους	ογκόλιθος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\79	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\83	TOK	το	ο	AtDfNeSgNm
+1\86	TOK	ύψος	ύψος	NoCmNeSgNm
+1\91	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\95	TOK	φτάνει	φτάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\102	TOK	τα	ο	AtDfNePlAc
+1\105	DIG	138	138	DIG
+1\109	TOK	μέτρα	μέτρο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\114	PUNCT	,	,	PUNCT
+1\116	TOK	ενώ	ενώ	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\120	TOK	η	ο	AtDfFeSgNm
+1\122	TOK	μία	ένας	PnIdFe03SgNmXx
+1\126	TOK	πλευρά	πλευρά	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\133	TOK	της	ο	AtDfFeSgGe
+1\137	TOK	βάσης	βάση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\143	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\149	DIG	227	227	DIG
+1\153	TOK	μέτρα	μέτρο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\158	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\160	TOK	Στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\164	TOK	εσωτερικό	εσωτερικό	NoCmNeSgAc
+1\174	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\178	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\183	TOK	πολλούς	πολύς	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\191	TOK	διαδρόμους	διάδρομος	NoCmMaPlAc
+	SYN	/np_ac]
+1\202	TOK	και	και	CjCo
+	SYN	[np_ac
+1\206	TOK	θαλάμους	θάλαμος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\215	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[advp
+1\219	TOK	κάπου	κάπου	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\225	TOK	κρύβεται	κρύβω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\234	TOK	η	ο	AtDfFeSgNm
+1\236	TOK	μούμια	μούμια	NoCmFeSgNm
+	SYN	/np_nm]
+1\243	TOK	του	ο	AtDfMaSgGe
+	SYN	[np_ac
+1\247	TOK	Φαραώ	Φαραώ	NoPrMaPlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\252	PTERM_P	!	!	PTERM_P
+1\253	OPUNCT	«	«	OPUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\254	TOK	Πιραμά	Πιραμά	NoPrMaSgNm
+	SYN	/np_nm]
+1\260	CPUNCT	»	»	CPUNCT
+	SYN	[pp
+1\262	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\266	TOK	αιγυπτιακά	αιγυπτιακός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\277	TOK	σημαίνει	σημαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\286	TOK	ύψος	ύψος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\290	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

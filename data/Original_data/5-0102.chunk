@@ -1,0 +1,741 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\4	TOK	σύγχρονο	σύγχρονος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\13	TOK	δουλεμπόριο	δουλεμπόριο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\25	TOK	αποτελεί	αποτελώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\34	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\38	TOK	ειδεχθή	ειδεχθής	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\46	TOK	μορφή	μορφή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\52	TOK	παραβίασης	παραβίαση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\63	TOK	θεμελιωδών	θεμελιώδης	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\74	TOK	ανθρωπίνων	ανθρώπινος	AjBaNePlGe
+	SYN	/adjp_ge]
+1\85	TOK	δικαιωμάτων	δικαίωμα	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\96	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\98	TOK	Ταυτόχρονα	ταυτόχρονα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\109	TOK	αποτελεί	αποτελώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\118	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\122	TOK	ευμετάβλητη	ευμετάβλητος	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\134	TOK	και	και	CjCo
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\138	TOK	δύσκολα	δύσκολα	AdXxBa
+	SYN	/advp]
+1\146	TOK	ελεγχόμενη	ελεγχόμενος	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\157	TOK	μορφή	μορφή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\163	TOK	διεθνούς	διεθνής	AjBaFeSgGe
+1\172	TOK	οργανωμένου	οργανωμένος	VbMnPpXxXxSgNePePvGe
+	SYN	/adjp_ge]
+1\184	TOK	εγκλήματος	έγκλημα	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\194	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\196	TOK	Η	ο	AtDfFeSgNm
+1\198	TOK	εμπορία	εμπορία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\206	TOK	ανθρώπων	άνθρωπος	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	[vg
+1\215	TOK	καταρρακώνει	καταρρακώνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\228	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\232	TOK	ανθρώπινη	ανθρώπινος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\242	TOK	αξιοπρέπεια	αξιοπρέπεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\253	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\255	TOK	ενισχύει	ενισχύω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\264	TOK	τη	ο	AtDfFeSgAc
+1\267	TOK	διαφθορά	διαφθορά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\276	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\280	TOK	αντλεί	αντλώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\287	TOK	τεράστια	τεράστιος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\296	TOK	κέρδη	κέρδος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\302	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\306	TOK	διοχετεύονται	διοχετεύω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\320	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\323	TOK	διεθνή	διεθνής	AjBaNePlAc
+	SYN	/adjp_ac]
+1\330	TOK	δίκτυα	δίκτυο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\337	TOK	οργανωμένου	οργανωμένος	VbMnPpXxXxSgNePePvGe
+	SYN	/adjp_ge]
+1\349	TOK	εγκλήματος	έγκλημα	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\359	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\361	TOK	Υπονομεύει	υπονομεύω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\372	TOK	επίσης	επίσης	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\379	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\383	TOK	ανθρώπινη	ανθρώπινος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\393	TOK	ασφάλεια	ασφάλεια	NoCmFeSgAc
+	SYN	/np_ac]
+1\402	TOK	και	και	CjCo
+	SYN	[np_ac
+1\406	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\410	TOK	αναπτυξιακή	αναπτυξιακός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\422	TOK	προοπτική	προοπτική	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\432	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\435	TOK	πολλές	πολύς	AjBaFePlAc
+	SYN	/adjp_ac]
+1\442	TOK	περιοχές	περιοχή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\451	TOK	του	ο	AtDfMaSgGe
+1\455	TOK	κόσμου	κόσμος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\461	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\464	TOK	Για	για	AsPpSp
+	SYN	[np_ac
+1\468	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\472	TOK	ευπαθείς	ευπαθής	AjBaFePlAc
+	SYN	/adjp_ac]
+1\481	TOK	ομάδες	ομάδα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\488	TOK	παιδιών	παιδί	NoCmNePlGe
+	SYN	/np_ge]
+1\495	PUNCT	,	,	PUNCT
+	SYN	[np_ge
+1\497	TOK	γυναικών	γυναίκα	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\506	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\510	TOK	διαβιούν	διαβιούν	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\519	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\522	TOK	φτωχές	φτωχός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\529	TOK	χώρες	χώρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\534	PUNCT	,	,	PUNCT
+1\536	TOK	ή	ή	CjCo
+	SYN	[vg
+1\538	TOK	εγκαταλείπονται	εγκαταλείπω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\554	TOK	μετά	μετά	AdXxBa
+	SYN	[pp
+1\559	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\563	TOK	ένοπλες	ένοπλος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\571	TOK	συγκρούσεις	σύγκρουση	NoCmFePlAc
+	SYN	/np_ac]
+1\583	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\587	TOK	φυσικές	φυσικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\595	TOK	καταστροφές	καταστροφή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\606	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\608	TOK	ο	ο	AtDfMaSgNm
+1\610	TOK	εφιάλτης	εφιάλτης	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\619	TOK	συνεχίζεται	συνεχίζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\630	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\632	TOK	Η	ο	AtDfFeSgNm
+1\634	TOK	ισοπέδωση	ισοπέδωση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\644	TOK	του	ο	AtDfMaSgGe
+	SYN	[adjp_ge
+1\648	TOK	κοινωνικο-οικογενειακού	κοινωνικο-οικογενειακού	AjBaMaSgGe
+	SYN	/adjp_ge]
+1\672	TOK	ιστού	ιστός	NoCmMaSgGe
+	SYN	/np_ge]
+1\678	TOK	και	και	CjCo
+	SYN	[np_ge
+1\682	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\686	TOK	έννομης	έννομος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\694	TOK	τάξης	τάξη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\700	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\705	TOK	ως	ως	AdXxBa
+	SYN	[np_ac
+1\708	TOK	αποτέλεσμα	αποτέλεσμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/advp]
+	SYN	[np_ac
+1\719	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\723	TOK	απότομη	απότομος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\731	TOK	εκροή	εκροή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\737	TOK	προσφύγων	πρόσφυγας	NoCmMaPlGe
+	SYN	/np_ge]
+1\747	TOK	και	και	CjCo
+	SYN	[np_ge
+1\751	TOK	μεταναστών	μετανάστης	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	[pp
+1\762	TOK	προς	προς	AsPpSp
+	SYN	[np_ac
+1\767	TOK	την	ο	AtDfFeSgAc
+1\771	TOK	Δύση	δύση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\775	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\777	TOK	Πολλοί	πολύς	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\784	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\788	TOK	αυτούς	αυτός	PnDmMa03PlAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\795	TOK	πέφτουν	πέφτω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\803	TOK	θύματα	θύμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\810	TOK	απάνθρωπης	απάνθρωπος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\821	TOK	εκμετάλλευσης	εκμετάλλευση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[pp
+1\835	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\839	TOK	εγκληματικά	εγκληματικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\851	TOK	δίκτυα	δίκτυο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\858	TOK	διακινητών	διακινητής	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\869	TOK	που	που	PnReMa03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\873	TOK	εμπορεύονται	εμπορεύομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\886	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\890	TOK	ανθρώπινη	ανθρώπινος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\900	TOK	ζωή	ζωή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+1\903	PUNCT	,	,	PUNCT
+	SYN	[cl_g
+	SYN	[vg_g
+1\905	TOK	διοχετεύοντας	διοχετεύω	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[pp
+1\919	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\924	TOK	αγορές	αγορά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\931	TOK	της	ο	AtDfFeSgGe
+1\935	TOK	Δύσης	δύση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\941	TOK	πάσης	πας	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\947	TOK	φύσεως	φύση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[np_ac
+1\954	OPUNCT	«	«	OPUNCT
+	SYN	[adjp_ac
+1\955	TOK	ανθρώπινα	ανθρώπινος	AjBaNePlAc
+1\965	TOK	καταναλωτικά	καταναλωτικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\978	TOK	προϊόντα	προϊόν	NoCmNePlAc
+1\986	CPUNCT	»	»	CPUNCT
+	SYN	/np_ac]
+	SYN	/cl_g]
+	SYN	/cl]
+1\987	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_t
+1\990	TOK	Όταν	όταν	CjSb
+	SYN	[np_nm
+1\995	TOK	το	ο	AtDfNeSgNm
+1\998	TOK	σωματεμπόριο	σωματεμπόριο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1011	TOK	παρουσίασε	παρουσιάζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1022	TOK	ύφεση	ύφεση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\1028	TOK	τη	ο	AtDfFeSgAc
+1\1031	TOK	δεκαετία	δεκαετία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1040	TOK	του	ο	AtDfNeSgGe
+1\1044	DIG	1980	1980	DIG
+	SYN	/np_ge]
+	SYN	/cl_t]
+1\1048	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+	SYN	[np_nm
+1\1050	TOK	τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\1053	TOK	ανήλικα	ανήλικος	AjBaNePlNm
+	SYN	/adjp_nm]
+1\1061	TOK	παιδιά	παιδί	NoCmNePlNm
+1\1068	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_nm]
+	SYN	[vg_s
+1\1072	TOK	ΝΑ	ΝΑ	PtSj
+	SYN	[np_ge
+1\1075	TOK	Ασίας	Ασία	NoPrFeSgGe
+	SYN	/np_ge]
+1\1081	TOK	και	και	CjCo
+	SYN	[np_ge
+1\1085	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\1089	TOK	Ανατολικής	ανατολικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\1100	TOK	Ευρώπης	Ευρώπη	NoPrFeSgGe
+	SYN	/np_ge]
+1\1108	TOK	προωθήθηκαν	προωθώ	VbMnIdPa03PlXxPePvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\1120	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\1125	TOK	αγορά	αγορά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1131	TOK	της	ο	AtDfFeSgGe
+1\1135	TOK	Δύσης	δύση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_o]
+1\1141	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg
+1\1145	TOK	εκτόξευσαν	εκτοξεύω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1156	TOK	τον	ο	AtDfMaSgAc
+1\1160	TOK	τζίρο	τζίρος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1166	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1169	TOK	πρωτοφανή	πρωτοφανής	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1179	TOK	επίπεδα	επίπεδο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\1186	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\1188	TOK	Το	ο	AtDfNeSgNm
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1191	TOK	οργανωμένο	οργανωμένος	VbMnPpXxXxSgNePePvAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_nm
+1\1202	TOK	έγκλημα	έγκλημα	NoCmNeSgNm
+	SYN	/np_nm]
+1\1210	TOK	και	και	CjCo
+	SYN	[np_nm
+1\1214	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\1216	TOK	αδυσώπητη	αδυσώπητος	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\1226	TOK	λογική	λογική	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\1233	TOK	της	ο	AtDfFeSgGe
+1\1237	TOK	αγοράς	αγορά	NoCmFeSgGe
+	SYN	/np_ge]
+1\1243	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\1245	TOK	διαστρεβλώνει	διαστρεβλώνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1259	TOK	τους	ο	AtDfMaPlAc
+1\1264	TOK	νόμους	νόμος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1271	TOK	προσφοράς	προσφορά	NoCmFeSgGe
+	SYN	/np_ge]
+1\1281	TOK	και	και	CjCo
+	SYN	[np_ge
+1\1285	TOK	ζήτησης	ζήτηση	NoCmFeSgGe
+	SYN	[adjp_ge
+1\1293	TOK	φτηνού	φτηνός	AjBaNeSgGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+1\1300	TOK	και	και	CjCo
+	SYN	[np_ge
+1\1304	TOK	ευέλικτου	ευέλικτος	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\1314	TOK	εργατικού	εργατικός	AjBaNeSgGe
+	SYN	/adjp_ge]
+1\1324	TOK	δυναμικού	δυναμικός	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\1333	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\1335	TOK	Σε	σε	AsPpSp
+	SYN	[np_ac
+1\1338	TOK	αυτό	αυτός	PnDmNe03SgAcXx
+1\1343	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\1346	TOK	ιδιότυπο	ιδιότυπος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\1355	TOK	καθεστώς	καθεστώς	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\1364	TOK	σύγχρονης	σύγχρονος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\1374	TOK	δουλείας	δουλεία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[np_ac
+1\1383	TOK	τα	ο	AtDfNePlAc
+1\1386	TOK	θύματα	θύμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\1393	TOK	σεξουαλικής	σεξουαλικός	AjBaFeSgGe
+1\1405	TOK	ή	ή	CjCo
+1\1407	TOK	εργατικής	εργατικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\1417	TOK	εκμετάλλευσης	εκμετάλλευση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\1431	TOK	δεν	δεν	PtNg
+1\1435	TOK	κοστίζουν	κοστίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1445	TOK	τίποτα	τίποτα	PnIdNe03SgAcXx
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+1\1452	TOK	καθώς	καθώς	AdXxBa
+	SYN	[np_ge
+1\1458	TOK	τους	εγώ	PnPeMa03PlGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\1463	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+1\1468	TOK	αφαιρεθεί	αφαιρώ	VbMnNfXxXxXxXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1478	TOK	το	ο	AtDfNeSgNm
+1\1481	TOK	διαβατήριο	διαβατήριο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\1491	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\1493	TOK	κακοποιούνται	κακοποιώ	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\1506	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\1508	TOK	απειλούνται	απειλώ	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\1520	TOK	τόσο	τόσο	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\1525	TOK	τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\1528	TOK	ίδια	ίδιος	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[advp
+1\1533	TOK	όσο	όσο	AdXxBa
+	SYN	/advp]
+1\1537	TOK	και	και	CjCo
+	SYN	[np_nm
+1\1541	TOK	οι	ο	AtDfFePlNm
+1\1544	TOK	οικογένειές	οικογένεια	NoCmFePlNm
+1\1556	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_nm]
+	SYN	/cl]
+1\1560	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\1562	TOK	Ολοένα	ολοένα	AdXxBa
+	SYN	/advp]
+1\1569	TOK	και	και	CjCo
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1573	TOK	μεγαλύτερος	μεγάλος	AjCpMaSgNm
+	SYN	/adjp_nm]
+1\1585	TOK	αριθμός	αριθμός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\1593	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\1597	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\1600	TOK	εργατικό	εργατικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\1609	TOK	δυναμικό	δυναμικός	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1618	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1622	TOK	καταφθάνει	καταφθάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\1633	TOK	παράνομα	παράνομα	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\1642	TOK	δια	διά	AsPpSp
+	SYN	[np_ge
+1\1646	TOK	θαλάσσης	θάλασσα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+1\1654	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\1656	TOK	καταλήγει	καταλήγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\1666	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\1669	TOK	αποθήκες	αποθήκη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\1678	TOK	καταναγκαστικής	καταναγκαστικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\1694	TOK	εργασίας	εργασία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\1703	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\1708	TOK	μητροπόλεις	μητρόπολη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1720	TOK	της	ο	AtDfFeSgGe
+1\1724	TOK	Δύσης	δύση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\1729	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1731	TOK	Είτε	είτε	CjCo
+	SYN	[cl
+	SYN	[pp
+1\1736	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1739	TOK	απαγωγές	απαγωγή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\1747	PUNCT	,	,	PUNCT
+1\1749	TOK	είτε	είτε	CjCo
+	SYN	[pp
+1\1754	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1757	TOK	απατηλά	απατηλός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1765	TOK	μέσα	μέσο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\1769	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\1771	TOK	παρασύρουν	παρασύρω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1782	TOK	απεγνωσμένους	απεγνωσμένος	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\1796	TOK	ανθρώπους	άνθρωπος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\1806	TOK	που	που	PnReMa03PlAcXx
+	SYN	/pou_np_ac]
+	SYN	[np_ac
+1\1810	TOK	το	ο	AtDfNeSgAc
+1\1813	TOK	όνειρό	όνειρο	NoCmNeSgAc
+1\1820	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	[vg_s
+1\1825	TOK	να	να	PtSj
+1\1828	TOK	απελευθερωθούν	απελευθερώνω	VbMnIdXx03PlXxPePvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\1843	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\1847	TOK	την	ο	AtDfFeSgAc
+1\1851	TOK	ανέχεια	ανέχεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\1859	TOK	μετατρέπεται	μετατρέπω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\1872	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1877	TOK	χειρότερο	κακός	AjCpMaSgAc
+	SYN	/adjp_ac]
+1\1887	TOK	εφιάλτη	εφιάλτης	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\1894	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

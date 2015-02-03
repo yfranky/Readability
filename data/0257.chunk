@@ -1,0 +1,311 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Κατασκευή	κατασκευή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\11	TOK	κούκλας	κούκλα	NoCmFeSgGe
+	SYN	/np_ge]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\20	TOK	Υλικά	υλικός	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\27	TOK	κομμάτια	κομμάτι	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\36	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\40	TOK	παλιά	παλιός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\46	TOK	ρούχα	ρούχο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\53	TOK	σπάγκος	σπάγκος	NoCmMaSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\62	TOK	κλωστή	κλωστή	NoCmFeSgNm
+	SYN	/np_nm]
+1\69	TOK	και	και	CjCo
+	SYN	[np_nm
+1\73	TOK	βελόνα	βελόνα	NoCmFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\81	TOK	κουμπιά	κουμπί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\89	TOK	μάλλινες	μάλλινος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\98	TOK	κλωστές	κλωστή	NoCmFePlAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\107	TOK	Τυλίγουμε	τυλίγω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\117	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\120	TOK	ρολό	ρολό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\125	TOK	δύο	δύο	NmCdNePlAcAj
+	SYN	/adjp_ac]
+1\129	TOK	κομμάτια	κομμάτι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\138	TOK	ύφασμα	ύφασμα	NoCmNeSgAc
+	SYN	/np_ac]
+1\144	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\146	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\150	TOK	μεγάλο	μεγάλος	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\157	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\161	TOK	το	ο	AtDfNeSgAc
+1\164	TOK	σώμα	σώμα	NoCmNeSgAc
+	SYN	/np_ac]
+1\169	TOK	και	και	CjCo
+	SYN	[np_ac
+1\173	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\177	TOK	μικρό	μικρός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\183	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\187	TOK	τα	ο	AtDfNePlAc
+1\190	TOK	χέρια	χέρι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\195	PTERM_P	.	.	PTERM_P
+1\197	OPUNCT	(	(	OPUNCT
+1\198	ABBR	εικ	εικ	ABBR
+	SYN	/cl]
+1\201	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\203	DIG	1	1	DIG
+1\204	CPUNCT	)	)	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\207	TOK	Τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\210	TOK	διπλώνουμε	διπλώνω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\221	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_ac
+1\225	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\228	TOK	δένουμε	δένω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\236	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\239	TOK	σπάγκο	σπάγκος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\245	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+	SYN	[advp
+1\247	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\252	TOK	βλέπουμε	βλέπω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\261	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\266	ABBR	εικ	εικ	ABBR
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\269	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\271	ENUM	2.	2.	ENUM
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\275	TOK	Σε	σε	AsPpSp
+	SYN	[np_ac
+1\278	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\282	TOK	χρωματιστό	χρωματιστός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\293	TOK	ύφασμα	ύφασμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\300	TOK	κάνουμε	κάνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\308	TOK	μία	ένας	AtIdFeSgAc
+1\312	TOK	τρύπα	τρύπα	NoCmFeSgAc
+	SYN	/np_ac]
+1\318	OPUNCT	(	(	OPUNCT
+1\319	ABBR	εικ	εικ	ABBR
+1\322	PTERM_P	.	.	PTERM_P
+1\324	DIG	3	3	DIG
+1\325	CPUNCT	)	)	CPUNCT
+	SYN	/cl]
+1\327	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_ac
+1\331	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\334	TOK	περνάμε	περνώ	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\342	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\346	TOK	το	ο	AtDfNeSgAc
+1\349	TOK	κεφάλι	κεφάλι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\356	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\360	TOK	ρούχο	ρούχο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\365	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\368	TOK	Το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\371	TOK	δένουμε	δένω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\379	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\383	TOK	μέση	μέση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\388	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\391	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\395	TOK	μάλλινη	μάλλινος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\403	TOK	κλωστή	κλωστή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\409	PUNCT	,	,	PUNCT
+	SYN	[cl_g
+	SYN	[vg_g
+1\411	TOK	αφήνοντας	αφήνω	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[np_ac
+1\421	TOK	τα	ο	AtDfNePlAc
+1\424	TOK	χέρια	χέρι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[advp
+1\430	TOK	έξω	έξω	AdXxBa
+	SYN	/advp]
+	SYN	/cl_g]
+	SYN	/cl]
+1\433	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\436	TOK	Στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\440	TOK	κεφάλι	κεφάλι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\447	TOK	ζωγραφίζουμε	ζωγραφίζω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\460	TOK	μάτια	μάτι	NoCmNePlAc
+	SYN	/np_ac]
+1\465	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\467	TOK	μύτη	μύτη	NoCmFeSgAc
+	SYN	/np_ac]
+1\472	TOK	και	και	CjCo
+	SYN	[np_ac
+1\476	TOK	στόμα	στόμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\482	TOK	ή	ή	CjCo
+	SYN	[cl
+	SYN	[vg
+1\484	TOK	ράβουμε	ράβω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\492	TOK	κουμπιά	κουμπί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\499	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\502	TOK	Για	για	AsPpSp
+	SYN	[np_ac
+1\506	TOK	μαλλιά	μαλλί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\513	TOK	βάζουμε	βάζω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\521	TOK	μάλλινες	μάλλινος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\530	TOK	κλωστές	κλωστή	NoCmFePlAc
+	SYN	/np_ac]
+1\538	TOK	και	και	CjCo
+	SYN	[np_ac
+1\542	TOK	ένα	ένας	AtIdNeSgAc
+1\546	TOK	κομμάτι	κομμάτι	NoCmNeSgAc
+1\554	TOK	πανί	πανί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\559	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\563	TOK	καπέλο	καπέλο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\569	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

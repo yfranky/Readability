@@ -1,0 +1,71 @@
+1	Ένα	ένας	At	AtId	Ne|Sg|Nm	5	Det	_	_	
+2	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+3	δύο	δύο	Nm	NmCd	Ne|Pl|Ac|Aj	5	Atr	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	τρία	τρεις	Nm	NmCd	Ne|Pl|Ac|Aj	0	ExD	_	_	
+6	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ένα	ένας	At	AtId	Ne|Sg|Nm	3	Det	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	δύο	δύο	Nm	NmCd	Ne|Pl|Ac|Aj	0	ExD	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	τρία	τρεις	Nm	NmCd	Ne|Pl|Ac|Aj	3	Atr	_	_	
+6	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	μη	μην	Pt	PtNg	_	3	AuxV	_	_	
+2	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	3	Obj	_	_	
+3	βλέπεις	βλέπω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	μ'	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	απορία	απορία	No	NoCm	Fe|Sg|Ac	4	Adv	_	_	
+6	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	μάθε	μαθαίνω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	μετράς	μετρώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	σωστά	σωστά	Ad	Ad	Ba	3	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τέσσερα	τέσσερις	Nm	NmCd	Ne|Pl|Ac|Aj	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+3	πέντε	πέντε	Nm	NmCd	Ne|Pl|Ac|Aj	5	Atr	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	έξι	έξι	Nm	NmCd	Ma|Pl|Ac|Aj	1	ExD	_	_	
+6	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	όποιος	όποιος	Pn	PnRi	Ma|03|Sg|Nm|Xx	4	Sb	_	_	
+2	τώρα	τώρα	Ad	Ad	Ba	1	Adv	_	_	
+3	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	2	Adv	_	_	
+4	προσέξει	προσέχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+
+1	πάει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+3	μάθημα	μάθημα	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+4	μπροστά	μπροστά	Ad	Ad	Ba	1	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εφτά	επτά	Nm	NmCd	Ne|Pl|Ge|Aj	4	Atr_Co	_	_	
+2	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+3	οκτώ	οκτώ	Nm	NmCd	Ne|Pl|Ac|Aj	4	Atr_Co	_	_	
+4	,	,	PUNCT	PUNCT	_	0	Coord	_	_	
+5	εννιά	εννέα	Nm	NmCd	Ma|Pl|Ac|Aj	4	Atr_Co	_	_	
+6	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+2	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	3	Obj	_	_	
+3	μάθει	μαθαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	γειτονιά	γειτονιά	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+6	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+
+1	όποιος	όποιος	Pn	PnRi	Ma|03|Sg|Nm|Xx	2	Sb	_	_	
+2	μάθει	μαθαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	ως	ως	Ad	Ad	Ba	2	AuxP	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	δέκα	δέκα	Nm	NmCd	Ne|Pl|Ac|Aj	3	Atr	_	_	
+6	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+
+1	θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	μετράει	μετρώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	κανονικά	κανονικά	Ad	Ad	Ba	2	Adv	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

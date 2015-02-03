@@ -1,0 +1,40 @@
+1	ΧΑΘΗΚΕ	χάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	σκύλος	σκύλος	No	NoCm	Ma|Sg|Nm	1	Sb	_	_	
+4	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	3	Pos	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Λέγεται	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	3	Pred_Co	_	_	
+2	Άρης	Άρης	No	NoPr	Ma|Sg|Nm	1	Sb	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	3	Pred_Co	_	_	
+5	άσπρος	άσπρος	Aj	Aj	Ba|Ma|Sg|Nm	4	Pnom	_	_	
+6	με	με	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	καφέ	καφές	No	NoCm	Ma|Sg|Ac	6	Adv	_	_	
+8	βούλες	βούλα	No	NoCm	Fe|Pl|Ac	7	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Παρακαλείται	παρακαλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	θερμά	θερμά	Ad	Ad	Ba	1	Adv	_	_	
+3	όποιος	όποιος	Pn	PnRi	Ma|03|Sg|Nm|Xx	4	Sb	_	_	
+4	γνωρίζει	γνωρίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Sb	_	_	
+5	κάτι	κάτι	Pn	PnId	Ne|03|Sg|Ac|Xx	4	Obj	_	_	
+6	γι'	για	AsPp	AsPpSp	_	4	AuxP	_	_	
+7	αυτόν	αυτός	Pn	PnDm	Ma|03|Sg|Ac|Xx	6	IObj	_	_	
+8	να	να	Pt	PtSj	_	10	AuxV	_	_	
+9	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ac|We	10	Obj	_	_	
+10	τηλεφωνήσει	τηλεφωνώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Obj	_	_	
+11	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	10	AuxP	_	_	
+12	1715866	1715866	DIG	DIG	_	11	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Προσφέρεται	προσφέρω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	αμοιβή	αμοιβή	No	NoCm	Fe|Sg|Nm	1	Sb	_	_	
+3	200.000	200.000	DIG	DIG	_	2	Atr	_	_	
+4	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+5	την	ο	At	AtDf	Fe|Sg|Ac	8	Det	_	_	
+6	κ.	κ.	NBABBR	NBABBR	_	8	Atr	_	_	
+7	Ζωή	Ζωή	No	NoPr	Fe|Sg|Ac	8	Atr	_	_	
+8	Αποστόλου	απόστολος	No	NoPr	Ma|Sg|Ge	4	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

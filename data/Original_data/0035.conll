@@ -1,0 +1,68 @@
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Χασάν	Χασάν	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	χασάπης	χασάπης	No	NoCm	Ma|Sg|Nm	3	Pnom	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	χασάπικο	χασάπικος	Aj	Aj	Ba|Ma|Sg|Ac	3	Atr	_	_	
+3	δικό	δικός	Aj	Aj	Ba|Ne|Sg|Ac	1	Obj	_	_	
+4	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	3	Pos	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κόβει	κόβω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+3	κρέας	κρέας	No	NoCm	Ne|Sg|Nm	1	Sb	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Ac	6	Det	_	_	
+6	μαχαίρι	μαχαίρι	No	NoCm	Ne|Sg|Ac	4	Atr	_	_	
+
+1	που	που	Pn	PnRe	Fe|03|Sg|Nm|Xx	2	Sb	_	_	
+2	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πάντα	πάντα	Ad	Ad	Ba	2	Adv	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	2	AuxP	_	_	
+5	ένα	ένας	At	AtId	Ne|Sg|Ac	6	Det	_	_	
+6	χέρι	χέρι	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Χουσεΐν	Χουσεΐν	Rg	RgFw	_	3	Sb	_	_	
+3	πουλάει	πουλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	χαλιά	χαλί	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πουλάει	πουλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	χαλιά	χαλί	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+3	χρωματιστά	χρωματιστός	Aj	Aj	Ba|Ne|Pl|Ac	2	Atr	_	_	
+4	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+
+1	χαλιά	χαλί	No	NoCm	Ne|Pl|Nm	5	Atr	_	_	
+2	φτηνά	φτηνός	Ad	Ad	Ba	4	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	χαλιά	χαλί	No	NoCm	Ne|Pl|Ac	1	Atr	_	_	
+5	ακριβά	ακριβός	Aj	Aj	Ba|Ne|Pl|Nm	0	ExD	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Αχμέτ	Αχμέτ	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+3	με	με	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	ένα	ένας	At	AtId	Ne|Sg|Ac	5	Det	_	_	
+5	χαρτί	χαρτί	No	NoCm	Ne|Sg|Ac	3	Adv	_	_	
+
+1	σήμερα	σήμερα	Ad	Ad	Ba	2	Adv	_	_	
+2	πάει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	2	AuxP	_	_	
+4	παζάρι	παζάρι	No	NoCm	Ne|Sg|Ac	3	Adv	_	_	
+
+1	να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	πάρει	παίρνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	χόρτα	χόρτο	No	NoCm	Ne|Pl|Ac	4	ExD_Co	_	_	
+4	και	και	Cj	CjCo	_	2	Coord	_	_	
+5	τυρί	τυρί	No	NoCm	Ne|Sg|Ac	4	ExD_Co	_	_	
+
+1	κι	και	Cj	CjCo	_	4	AuxY	_	_	
+2	ένα	ένας	At	AtId	Ne|Sg|Ac	4	Det	_	_	
+3	χοντρό	χοντρός	Aj	Aj	Ba|Ne|Sg|Ac	4	Atr	_	_	
+4	παντζάρι	παντζάρι	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

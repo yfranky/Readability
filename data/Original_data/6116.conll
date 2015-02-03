@@ -1,0 +1,63 @@
+1	Ξέρεις	ξέρω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	ξεχωρίζεις	ξεχωρίζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	αδέλφια	αδέρφι	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+6	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	5	Pos	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εμείς	εγώ	Pn	PnPe	Ma|01|Pl|Nm|St	2	Sb	_	_	
+2	είμαστε	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	μεγάλη	μεγάλος	Aj	Aj	Ba|Fe|Sg|Ac	4	Atr	_	_	
+4	οικογένεια	οικογένεια	No	NoCm	Fe|Sg|Ac	2	Pnom	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μας	εγώ	Pn	PnPe	Ma|01|Pl|Ac|We	2	Obj	_	_	
+2	συλλέγετε	συλλέγω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	για	για	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	ένα	ένας	At	AtId	Ma|Sg|Ac	5	Det	_	_	
+5	σωρό	σωρός	No	NoCm	Ma|Sg|Ac	3	Adv	_	_	
+6	χρήσεις	χρήση	No	NoCm	Fe|Pl|Ac	5	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τρωγόμαστε	τρώω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ωμά	ωμός	Aj	Aj	Ba|Ne|Pl|Ac	5	Atr_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	παστά	παστός	Aj	Aj	Ba|Ne|Pl|Ac	5	Atr_Co	_	_	
+5	,	,	PUNCT	PUNCT	_	1	Coord	_	_	
+6	μαγειρεμένα	μαγειρεμένος	Aj	Aj	Ba|Ne|Pl|Ac	5	Atr_Co	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φοριόμαστε	φορώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	σαν	σαν	Ad	Ad	Ba	1	Adv	_	_	
+3	κοσμήματα	κόσμημα	No	NoCm	Ne|Pl|Nm	2	Pnom	_	_	
+4	από	από	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τις	ο	At	AtDf	Fe|Pl|Ac	6	Det	_	_	
+6	γυναίκες	γυναίκα	No	NoCm	Fe|Pl|Ac	4	Atr	_	_	
+7	από	από	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	τα	ο	At	AtDf	Ne|Pl|Ac	10	Det	_	_	
+9	αρχαία	αρχαίος	Aj	Aj	Ba|Ne|Pl|Ac	10	Atr	_	_	
+10	χρόνια	χρόνος	No	NoCm	Ne|Pl|Ac	7	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κάνουμε	κάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	και	και	Cj	CjCo	_	3	AuxY	_	_	
+3	για	για	AsPp	AsPpSp	_	1	AuxP	_	_	
+4	δόλωμα	δόλωμα	No	NoCm	Ne|Sg|Ac	3	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σε	σε	AsPp	AsPpSp	_	5	AuxP	_	_	
+2	μερικά	μερικοί	Pn	PnId	Ne|03|Pl|Ac|Xx	3	Atr	_	_	
+3	νησιά	νησί	No	NoCm	Ne|Pl|Ac	1	Adv	_	_	
+4	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	3	Pos	_	_	
+5	χρησιμοποιούν	χρησιμοποιώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	και	και	Cj	CjCo	_	7	AuxY	_	_	
+7	σαν	σαν	Ad	Ad	Ba	5	Adv	_	_	
+8	φυλαχτά	φυλαχτό	No	NoCm	Ne|Pl|Ac	7	Pnom	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αντίο	αντίο	Ad	Ad	Ba	0	ExD	_	_	
+2	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ge|We	1	Adv	_	_	
+3	τώρα	τώρα	Ad	Ad	Ba	2	Adv	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

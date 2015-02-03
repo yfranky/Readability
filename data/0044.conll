@@ -1,0 +1,69 @@
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	παππούς	παππούς	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	πάει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	ψώνια	ψώνιο	No	NoCm	Ne|Pl|Ac	4	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Παίρνει	παίρνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ένα	ένας	At	AtId	Ne|Sg|Ac	3	Det	_	_	
+3	κιλό	κιλό	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	λεμόνια	λεμόνι	No	NoCm	Ne|Pl|Ac	3	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+
+1	παίρνει	παίρνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	σκόρδα	σκόρδο	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+3	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+4	μια	ένας	At	AtId	Fe|Sg|Nm	5	Det	_	_	
+5	ντομάτα	ντομάτα	No	NoCm	Fe|Sg|Nm	1	Sb	_	_	
+
+1	και	και	Cj	CjCo	_	2	AuxY	_	_	
+2	μαρούλια	μαρούλι	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+3	για	για	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	σαλάτα	σαλάτα	No	NoCm	Fe|Sg|Ac	3	Atr	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μετά	μετά	AsPp	AsPpSp	_	2	AuxP	_	_	
+2	πάει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	2	AuxP	_	_	
+4	μπακάλη	μπακάλης	No	NoCm	Ma|Sg|Ac	3	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Παίρνει	παίρνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	σαλάμι	σαλάμι	No	NoCm	Ne|Sg|Ac	3	Obj_Co	_	_	
+3	και	και	Cj	CjCo	_	1	Coord	_	_	
+4	τυρί	τυρί	No	NoCm	Ne|Sg|Ac	3	Obj_Co	_	_	
+5	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	μια	ένας	At	AtId	Fe|Sg|Ac	2	Det	_	_	
+2	σοκολάτα	σοκολάτα	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+3	μεγάλη	μεγάλος	Aj	Aj	Ba|Fe|Sg|Ac	2	Atr	_	_	
+
+1	και	και	Cj	CjCo	_	2	AuxY	_	_	
+2	κρεμμυδάκι	κρεμμυδάκι	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+3	τουρσί	τουρσί	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σταματάει	σταματώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+2	και	και	Cj	CjCo	_	0	Coord	_	_	
+3	τρώει	τρώω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+4	σουβλάκι	σουβλάκι	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+
+1	με	με	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	πατάτες	πατάτα	No	NoCm	Fe|Pl|Ac	3	Adv_Co	_	_	
+3	και	και	Cj	CjCo	_	1	Coord	_	_	
+4	ψωμί	ψωμί	No	NoCm	Ne|Sg|Ac	3	Adv_Co	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	2	Obj	_	_	
+2	κοιτάζει	κοιτάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	ένας	ένας	At	AtId	Ma|Sg|Nm	4	Det	_	_	
+4	σκύλος	σκύλος	No	NoCm	Ma|Sg|Nm	2	Sb	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πεινάει	πεινώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	και	και	Cj	CjCo	_	3	AuxY	_	_	
+3	αυτός	αυτός	Pn	PnDm	Ma|03|Sg|Nm|Xx	1	Sb	_	_	
+4	πολύ	πολύ	Ad	Ad	Ba	3	ExD	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,514 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Οι	ο	AtDfMaPlNm
+1\4	TOK	δεινόσαυροι	δεινόσαυρος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\16	TOK	ζούσαν	ζω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\23	TOK	πριν	πριν	AdXxBa
+	SYN	[pp
+1\28	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\32	TOK	εκατομμύρια	εκατομμύριο	NoCmNePlAc
+1\44	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\50	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\53	TOK	Οι	ο	AtDfMaPlNm
+1\56	TOK	επιστήμονες	επιστήμονας	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\68	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\73	TOK	ότι	ότι	CjSb
+	SYN	[vg
+1\77	TOK	υπήρχαν	υπάρχω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\85	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\93	DIG	300	300	DIG
+1\97	TOK	είδη	είδος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\102	TOK	δεινοσαύρων	δεινόσαυρος	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\113	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\116	TOK	Μερικοί	μερικοί	PnIdMa03PlNmXx
+	SYN	/np_nm]
+1\123	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\125	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\130	TOK	ο	ο	AtDfMaSgNm
+1\132	TOK	τυραννόσαυρος	τυραννόσαυρο	NoCmMaSgNm
+	SYN	/np_nm]
+1\145	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\147	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\152	TOK	σαρκοφάγοι	σαρκοφάγος	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\162	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[advp
+1\164	TOK	δηλαδή	δηλαδή	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\171	TOK	έτρωγαν	τρώω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\179	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\184	TOK	κρέας	κρέας	NoCmNeSgNm
+	SYN	/np_nm]
+1\189	PUNCT	,	,	PUNCT
+1\191	TOK	και	και	CjCo
+	SYN	[np_nm
+1\195	TOK	άλλοι	άλλος	PnIdMa03PlNmXx
+	SYN	/np_nm]
+	SYN	/cl]
+1\200	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[advp
+1\202	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\207	TOK	ο	ο	AtDfMaSgNm
+1\209	TOK	υπέρσαυρος	υπέρσαυρος	NoCmMaSgNm
+	SYN	/np_nm]
+1\219	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\221	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\226	TOK	φυτοφάγοι	φυτοφάγος	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\235	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[advp
+1\237	TOK	δηλαδή	δηλαδή	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\244	TOK	έτρωγαν	τρώω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\252	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\257	TOK	φυτά	φυτό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\261	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\264	TOK	Ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\266	TOK	ψηλότερος	ψηλός	AjCpMaSgNm
+	SYN	/adjp_nm]
+1\276	TOK	δεινόσαυρος	δεινόσαυρος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\288	TOK	είχε	έχω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\293	TOK	ύψος	ύψος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\298	DIG	12	12	DIG
+1\301	TOK	μέτρα	μέτρο	NoCmNePlAc
+	SYN	/np_ac]
+1\306	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\308	TOK	δηλαδή	δηλαδή	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\315	TOK	όσο	όσο	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\319	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\323	TOK	τετραώροφη	τετραώροφος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\334	TOK	πολυκατοικία	πολυκατοικία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\346	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\349	TOK	Ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\351	TOK	μεγαλύτερος	μεγάλος	AjCpMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\363	TOK	έτρωγε	τρώω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\370	TOK	φύλλα	φύλλο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\376	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\380	TOK	τις	ο	AtDfFePlAc
+1\384	TOK	κορυφές	κορυφή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\392	TOK	πανύψηλων	πανύψηλος	AjBaNePlGe
+	SYN	/adjp_ge]
+1\402	TOK	δέντρων	δέντρο	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\409	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\412	TOK	Το	ο	AtDfNeSgNm
+1\415	TOK	λοφίο	λοφίο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\421	TOK	των	ο	AtDfMaPlGe
+	SYN	[adjp_ge
+1\425	TOK	θηλυκών	θηλυκός	AjBaMaPlGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	[vg
+1\433	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\438	TOK	μικρότερο	μικρός	AjCpNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\448	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\452	TOK	το	ο	AtDfNeSgAc
+1\455	TOK	λοφίο	λοφίο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\461	TOK	των	ο	AtDfFePlGe
+	SYN	[adjp_ge
+1\465	TOK	αρσενικών	αρσενικός	AjBaFePlGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\474	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\477	TOK	Ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+	SYN	[advp
+1\479	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\483	TOK	παράξενος	παράξενος	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\493	TOK	είχε	έχω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\498	TOK	κέρατα	κέρατο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\505	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\509	TOK	μέτωπο	μέτωπο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\516	TOK	και	και	CjCo
+	SYN	[pp
+1\520	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\524	TOK	μύτη	μύτη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\528	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\530	TOK	Το	ο	AtDfNeSgNm
+1\533	TOK	κεφάλι	κεφάλι	NoCmNeSgNm
+	SYN	/np_nm]
+1\540	TOK	του	ο	AtDfNeSgGe
+	SYN	[advp
+1\544	TOK	μαζί	μαζί	AdXxBa
+	SYN	[pp
+1\549	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\552	TOK	τον	ο	AtDfMaSgAc
+1\556	TOK	λαιμό	λαιμός	NoCmMaSgAc
+1\562	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[vg
+1\566	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\571	TOK	όσο	όσο	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\575	TOK	ένα	ένας	AtIdNeSgNm
+1\579	TOK	αυτοκίνητο	αυτοκίνητο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\589	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\592	TOK	Ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+	SYN	[advp
+1\594	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\598	TOK	άγριος	άγριος	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\605	TOK	είχε	έχω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\610	TOK	μυτερά	μυτερός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\617	TOK	δόντια	δόντι	NoCmNePlAc
+	SYN	/np_ac]
+1\624	TOK	και	και	CjCo
+	SYN	[np_ac
+1\628	TOK	τα	ο	AtDfNePlAc
+1\631	TOK	νύχια	νύχι	NoCmNePlAc
+1\637	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\641	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\646	TOK	σαν	σαν	AdXxBa
+	SYN	[np_ac
+1\650	TOK	μαχαίρια	μαχαίρι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/advp]
+	SYN	/cl]
+1\658	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\661	TOK	Η	ο	AtDfFeSgNm
+1\663	TOK	ουρά	ουρά	NoCmFeSgNm
+1\668	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\672	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\677	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\681	TOK	σκληρή	σκληρός	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\688	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\692	TOK	ένα	ένας	AtIdNeSgAc
+1\696	TOK	σφυρί	σφυρί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\702	TOK	και	και	CjCo
+	SYN	[np_nm
+1\706	TOK	η	ο	AtDfFeSgNm
+1\708	TOK	κοιλιά	κοιλιά	NoCmFeSgNm
+	SYN	/np_nm]
+1\715	TOK	του	ο	AtDfNeSgGe
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\719	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\723	TOK	μαλακή	μαλακός	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\730	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\734	TOK	την	ο	AtDfFeSgAc
+1\738	TOK	πλάτη	πλάτη	NoCmFeSgAc
+1\744	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\747	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\750	TOK	Τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\753	TOK	μπροστινά	μπροστινός	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\763	TOK	του	ο	AtDfNeSgGe
+	SYN	[np_nm
+1\767	TOK	πόδια	πόδι	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\773	TOK	ήταν	είμαι	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\778	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\782	TOK	μικρά	μικρός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\788	TOK	από	από	AsPpSp
+1\792	TOK	τα	ο	AtDfNePlAc
+	SYN	[advp
+1\795	TOK	πίσω	πίσω	AdXxBa
+	SYN	/advp]
+1\800	TOK	του	ο	AtDfNeSgGe
+	SYN	[np_ac
+1\804	TOK	πόδια	πόδι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\809	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\812	TOK	Οι	ο	AtDfMaPlNm
+1\815	TOK	δεινόσαυροι	δεινόσαυρος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\827	TOK	εξαφανίστηκαν	εξαφανίζω	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[advp
+1\841	TOK	πριν	πριν	AdXxBa
+	SYN	[pp
+1\846	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\850	DIG	60	60	DIG
+1\853	TOK	εκατομμύρια	εκατομμύριο	NoCmNePlAc
+1\865	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\871	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\873	TOK	Για	για	AsPpSp
+	SYN	[np_nm
+1\877	TOK	κάποια	κάποιος	PnIdFe03SgNmXx
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\884	TOK	άγνωστη	άγνωστος	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_nm
+1\892	TOK	αιτία	αιτία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\898	TOK	τα	ο	AtDfNePlAc
+1\901	TOK	δάση	δάσος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[vg
+1\906	TOK	λιγόστεψαν	λιγοστεύω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\916	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\918	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\921	TOK	φυτοφάγοι	φυτοφάγος	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\931	TOK	δεινόσαυροι	δεινόσαυρος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\943	TOK	δεν	δεν	PtNg
+1\947	TOK	έβρισκαν	βρίσκω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\956	TOK	τροφή	τροφή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\962	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\966	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\969	TOK	σαρκοφάγοι	σαρκοφάγος	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\980	TOK	δεν	δεν	PtNg
+1\984	TOK	έβρισκαν	βρίσκω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\993	TOK	πια	πια	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\997	TOK	να	να	PtSj
+1\1000	TOK	τρώνε	τρώω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1006	TOK	φυτοφάγα	φυτοφάγος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1015	TOK	ζώα	ζώο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\1018	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

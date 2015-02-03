@@ -1,0 +1,179 @@
+1	-	-	ENUM	ENUM	_	4	AuxG	_	_	
+2	Άντε	άντε	Pt	PtOt	_	4	AuxY	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+6	γυμναστήριο	γυμναστήριο	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+7	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Αν	αν	Cj	CjSb	_	1	AuxC	_	_	
+3	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+4	ναι	ναι	Ad	Ad	Ba	6	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	έχουμε	έχω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Adv	_	_	
+7	γυμναστική	γυμναστικός	No	NoCm	Fe|Sg|Ac	6	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πώς	πώς	Ad	Ad	Ba	3	Adv	_	_	
+2	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	3	Obj	_	_	
+3	ξέχασα	ξεχνώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Κορίτσια	κορίτσι	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+3	γρήγορα	γρήγορα	Ad	Ad	Ba	2	Adv	_	_	
+4	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Σηκωθείτε	σηκώνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	2	Pnom	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	2	Obj	_	_	
+2	κάθεστε	κάθομαι	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Άντε	άντε	Pt	PtOt	_	5	AuxC	_	_	
+3	τώρα	τώρα	Ad	Ad	Ba	2	Adv	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	σηκωθούν	σηκώνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	αυτά	αυτός	Pn	PnDm	Ne|03|Pl|Nm|Xx	8	Atr	_	_	
+7	τα	ο	At	AtDf	Ne|Pl|Nm	8	Det	_	_	
+8	κορίτσια	κορίτσι	No	NoCm	Ne|Pl|Nm	10	Sb	_	_	
+9	να	να	Pt	PtSj	_	10	AuxV	_	_	
+10	κάνουν	κάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	5	Sb	_	_	
+11	γυμναστική	γυμναστικός	No	NoCm	Fe|Sg|Ac	10	Obj	_	_	
+12	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Για	για	AsPp	AsPpSp	_	0	ExD	_	_	
+3	κοίτα	κοιτάζω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	2	Adv	_	_	
+4	τους	ο	At	AtDf	Ma|Pl|Ac	5	Det	_	_	
+5	αθλητές	αθλητής	No	NoCm	Ma|Pl|Ac	3	Obj	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μα	μα	Cj	CjCo	_	0	Coord	_	_	
+3	εσείς	εγώ	Pn	PnPe	Ma|02|Pl|Nm|St	4	Sb	_	_	
+4	γυμνάζεστε	γυμνάζω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	2	Pred_Co	_	_	
+5	για	για	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	να	να	Pt	PtSj	_	7	AuxV	_	_	
+7	κάνετε	κάνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	5	Adv	_	_	
+8	επίδειξη	επίδειξη	No	NoCm	Fe|Sg|Ac	7	Obj	_	_	
+9	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	7	AuxP	_	_	
+10	κορίτσια	κορίτσι	No	NoCm	Ne|Pl|Ac	9	Adv	_	_	
+11	του	ο	At	AtDf	Ne|Sg|Ge	12	Det	_	_	
+12	Α2	Α2	ABBR	ABBR	_	10	Atr	_	_	
+13	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Καλύτερα	καλά	Ad	Ad	Cp	0	ExD	_	_	
+3	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	6	Det	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	βρίσκουμε	βρίσκω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Adv	_	_	
+7	συνέχεια	συνέχεια	No	NoCm	Fe|Sg|Ac	8	Atr	_	_	
+8	δικαιολογίες	δικαιολογία	No	NoCm	Fe|Pl|Ac	6	Obj	_	_	
+9	ότι	ότι	Cj	CjSb	_	8	AuxC	_	_	
+10	τάχα	τάχα	Ad	Ad	Ba	9	ExD	_	_	
+11	...	...	PTERM_P	PTERM_P	_	10	AuxG	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	μαζευτείτε	μαζεύω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+5	κέντρο	κέντρο	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ξεκινάμε	ξεκινώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Κύριε	κύριος	No	NoCm	Ma|Sg|Vo	6	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	6	Sb	_	_	
+5	δεν	δεν	Pt	PtNg	_	6	AuxV	_	_	
+6	μπορώ	μπορώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	σήμερα	σήμερα	Ad	Ad	Ba	6	Adv	_	_	
+8	να	να	Pt	PtSj	_	9	AuxV	_	_	
+9	κάνω	κάνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	6	Obj	_	_	
+10	μάθημα	μάθημα	No	NoCm	Ne|Sg|Ac	9	Obj	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πονάει	πονώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	3	Det	_	_	
+3	πόδι	πόδι	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	3	Pos	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Κι	και	Cj	CjCo	_	0	Coord	_	_	
+3	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	5	Sb	_	_	
+4	δεν	δεν	Pt	PtNg	_	5	AuxV	_	_	
+5	μπορώ	μπορώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+6	κύριε	κύριος	No	NoCm	Ma|Sg|Vo	5	Obj	_	_	
+7	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+8	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	9	Obj	_	_	
+9	πονάει	πονώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+10	τρομερά	τρομερά	Ad	Ad	Ba	9	Adv	_	_	
+11	η	ο	At	AtDf	Fe|Sg|Nm	12	Det	_	_	
+12	κοιλιά	κοιλιά	No	NoCm	Fe|Sg|Nm	9	Sb	_	_	
+13	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	12	Pos	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	5	Sb	_	_	
+3	πρέπει	πρέπει	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	απαλλαγώ	απαλλάσσω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Sb	_	_	
+6	από	από	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	τη	ο	At	AtDf	Fe|Sg|Ac	8	Det	_	_	
+8	γυμναστική	γυμναστικός	No	NoCm	Fe|Sg|Ac	6	Adv	_	_	
+9	για	για	AsPp	AsPpSp	_	8	AuxP	_	_	
+10	ένα	ένας	At	AtId	Ma|Sg|Ac	11	Det	_	_	
+11	μήνα	μήνας	No	NoCm	Ma|Sg|Ac	9	Atr	_	_	
+12	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	πρόβλημα	πρόβλημα	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+3	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	γόνατό	γόνατο	No	NoCm	Ne|Sg|Ac	3	Adv	_	_	
+6	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	5	Pos	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Έφερες	φέρω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	χαρτί	χαρτί	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+4	από	από	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	γιατρό	γιατρός	No	NoCm	Ma|Sg|Ac	4	Atr	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	AuxG	_	_	
+2	Θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+3	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	4	Obj	_	_	
+4	φέρω	φέρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	αύριο	αύριο	Ad	Ad	Ba	4	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Λοιπόν	λοιπόν	Ad	Ad	Ba	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	Σοφία	Σοφία	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+5	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+6	Έλενα	Έλενα	No	NoPr	Fe|Sg|Nm	1	ExD_Co	_	_	
+7	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+8	εμπρός	εμπρός	Ad	Ad	Ba	10	Adv	_	_	
+9	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+10	μπείτε	μπαίνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	6	Atr	_	_	
+11	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	10	AuxP	_	_	
+12	γραμμή	γραμμή	No	NoCm	Fe|Sg|Ac	11	Adv	_	_	
+13	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βιολέτα	βιολέτα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+2	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	1	AuxP	_	_	
+3	πάγκο	πάγκος	No	NoCm	Ma|Sg|Ac	2	Atr	_	_	
+4	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

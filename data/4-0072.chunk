@@ -1,0 +1,592 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Λαχανικά	λαχανικό	NoCmNePlNm
+	SYN	/np_nm]
+1\10	TOK	και	και	CjCo
+	SYN	[np_ac
+1\14	TOK	υγεία	υγεία	NoCmFeSgAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_c
+1\21	TOK	Αν	αν	CjSb
+	SYN	[vg
+1\24	TOK	θέλεις	θέλω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_c]
+	SYN	[cl_o
+	SYN	[vg_s
+1\31	TOK	να	να	PtSj
+1\34	TOK	είσαι	είμαι	VbMnIdPr02SgXxIpPvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\40	TOK	πάντα	πάντα	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\46	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\49	TOK	φόρμα	φόρμα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\55	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\59	TOK	να	να	PtSj
+1\62	TOK	παίρνεις	παίρνω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\71	TOK	βιταμίνες	βιταμίνη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\80	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+	SYN	[advp
+1\82	TOK	τότε	τότε	AdXxBa
+	SYN	/advp]
+	SYN	[vg_s
+1\87	TOK	να	να	PtSj
+1\90	TOK	βάζεις	βάζω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\97	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\101	TOK	πιάτο	πιάτο	NoCmNeSgAc
+1\107	TOK	σου	μου	PnPoMa02SgGeXx
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\111	TOK	όλων	όλος	AjBaNePlGe
+	SYN	/adjp_ge]
+1\116	TOK	των	ο	AtDfNePlGe
+1\120	TOK	ειδών	είδος	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[np_ac
+1\126	TOK	τα	ο	AtDfNePlAc
+1\129	TOK	λαχανικά	λαχανικό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\137	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\139	TOK	Εκτός	εκτός	AdXxBa
+	SYN	[pp
+1\145	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\149	TOK	νοστιμιά	νοστιμιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\157	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\159	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\165	TOK	θεραπευτικές	θεραπευτικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\178	TOK	ιδιότητες	ιδιότητα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\187	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\189	TOK	Δες	βλέπω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\193	TOK	τις	ο	AtDfFePlAc
+1\197	TOK	συνταγές	συνταγή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\206	TOK	των	ο	AtDfFePlGe
+1\210	TOK	γιαγιάδων	γιαγιά	NoCmFePlGe
+	SYN	/np_ge]
+1\219	PTERM_P	...	...	PTERM_P
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\224	TOK	Πονόδοντος	πονόδοντος	NoCmMaSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_c
+1\236	TOK	Αν	αν	CjSb
+	SYN	[vg
+1\239	TOK	πονάει	πονώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\246	TOK	το	ο	AtDfNeSgAc
+1\249	TOK	δόντι	δόντι	NoCmNeSgAc
+1\255	TOK	σου	μου	PnPoMa02SgGeXx
+	SYN	/np_ac]
+	SYN	/cl_c]
+1\258	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[advp
+1\260	TOK	πριν	πριν	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\265	TOK	πας	πηγαίνω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\269	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\274	TOK	οδοντογιατρό	οδοντογιατρός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\286	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\288	TOK	βράσε	βράζω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\294	TOK	ξερά	ξερά	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\299	TOK	φύλλα	φύλλο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\305	TOK	καρότου	καρότο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\313	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\317	TOK	κάνε	κάνω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\322	TOK	στοματικές	στοματικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\333	TOK	πλύσεις	πλύση	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\340	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\342	TOK	Θα	θα	PtFu
+1\345	TOK	ανακουφίσεις	ανακουφίζω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\358	TOK	τον	ο	AtDfMaSgAc
+1\362	TOK	πόνο	πόνος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\366	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\369	TOK	Επούλωση	επούλωση	NoCmFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_c
+1\379	TOK	Αν	αν	CjSb
+	SYN	[vg
+1\382	TOK	βάλεις	βάζω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\389	TOK	φύλλα	φύλλο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\395	TOK	λάχανου	λάχανο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	[advp
+1\403	TOK	πάνω	πάνω	AdXxBa
+	SYN	[pp
+1\408	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\411	TOK	μια	ένας	AtIdFeSgAc
+1\415	TOK	πληγή	πληγή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl_c]
+1\420	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\422	TOK	θα	θα	PtFu
+1\425	TOK	επουλωθεί	επουλώνω	VbMnIdXx03SgXxPePvXx
+	SYN	/vg]
+	SYN	[advp
+1\435	TOK	γρήγορα	γρήγορα	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\442	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\445	TOK	Πάνω	πάνω	AdXxBa
+	SYN	[pp
+1\450	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\453	TOK	ελαφρύ	ελαφρύς	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\460	TOK	έγκαυμα	έγκαυμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[np_ac
+1\468	TOK	ένα	ένας	AtIdNeSgAc
+1\472	TOK	κατάπλασμα	κατάπλασμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\483	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\487	TOK	τριμμένη	τριμμένος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\496	TOK	πατάτα	πατάτα	NoCmFeSgAc
+	SYN	/np_ac]
+1\503	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\505	TOK	πεπόνι	πεπόνι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\512	TOK	θα	θα	PtFu
+	SYN	[np_ac
+1\515	TOK	σε	εγώ	PnPeMa02SgAcWe
+	SYN	/np_ac]
+1\518	TOK	ανακουφίσει	ανακουφίζω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\529	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_c
+1\531	TOK	Αν	αν	CjSb
+	SYN	[vg
+1\534	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+1\539	TOK	σκάσει	σκάω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\546	TOK	το	ο	AtDfNeSgAc
+1\549	TOK	δέρμα	δέρμα	NoCmNeSgAc
+1\555	TOK	σου	μου	PnPoMa02SgGeXx
+	SYN	/np_ac]
+	SYN	/cl_c]
+1\558	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\560	TOK	βάλε	βάζω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\565	TOK	λαχανόφυλλα	λαχανόφυλλο	NoCmNePlAc
+	SYN	[adjp_ac
+1\577	TOK	μουσκεμένα	μουσκεμένος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\588	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\592	DIG	2	2	DIG
+1\594	TOK	ώρες	ώρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\599	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\602	TOK	νερό	νερό	NoCmNeSgAc
+	SYN	/np_ac]
+1\607	TOK	και	και	CjCo
+	SYN	[np_ac
+1\611	TOK	λεμόνι	λεμόνι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\617	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\620	TOK	Πονόλαιμος	πονόλαιμος	NoCmMaSgNm
+	SYN	/np_nm]
+1\630	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\632	TOK	βήχας	βήχας	NoCmMaSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\639	TOK	Συναχωμένος	συναχωμένος	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\650	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\652	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\655	TOK	πονόλαιμο	πονόλαιμος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\664	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\666	TOK	Τίποτα	τίποτα	PnIdNe03SgAcXx
+	SYN	[adjp_ac
+1\673	TOK	καλύτερο	καλός	AjCpMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\682	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\686	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\690	TOK	ζεστό	ζεστός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\696	TOK	ρόφημα	ρόφημα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\703	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\707	TOK	βρασμένο	βρασμένος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\716	TOK	σέλινο	σέλινο	NoCmNeSgAc
+	SYN	/np_ac]
+1\723	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\725	TOK	πράσο	πράσο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\731	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\734	TOK	μέλι	μέλι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\738	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_c
+1\740	TOK	Αν	αν	CjSb
+	SYN	[vg
+1\743	TOK	βήχεις	βήχω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_c]
+1\749	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\751	TOK	άνοιξε	ανοίγω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\758	TOK	την	ο	AtDfFeSgAc
+1\762	TOK	καρδιά	καρδιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\769	TOK	ενός	ένας	AtIdNeSgGe
+1\774	TOK	ραπανιού	ραπάνι	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\782	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\784	TOK	γέμισέ	γεμίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+1\791	TOK	την	εγώ	PnPoFe03SgGeXx
+	SYN	[pp
+1\795	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\798	TOK	μαύρη	μαύρος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\804	TOK	ζάχαρη	ζάχαρη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\811	TOK	και	και	CjCo
+1\814	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\816	TOK	αφού	αφού	CjSb
+	SYN	[np_ac
+1\821	TOK	την	εγώ	PnPeFe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\825	TOK	αφήσεις	αφήνω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\833	TOK	έτσι	έτσι	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\838	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\842	DIG	12	12	DIG
+1\845	TOK	ώρες	ώρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\849	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\851	TOK	μπορείς	μπορώ	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\859	TOK	να	να	PtSj
+	SYN	[np_ac
+1\862	TOK	τη	εγώ	PnPeFe03SgAcWe
+	SYN	/np_ac]
+1\865	TOK	φας	τρώω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\868	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\871	TOK	Αϋπνία	αϋπνία	NoCmFeSgNm
+	SYN	/np_nm]
+1\877	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\879	TOK	ανορεξία	ανορεξία	NoCmFeSgAc
+	SYN	/np_ac]
+1\887	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\889	TOK	ευαίσθητο	ευαίσθητος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\899	TOK	συκώτι	συκώτι	NoCmNeSgAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\907	TOK	Το	ο	AtDfNeSgNm
+1\910	TOK	κρεμμύδι	κρεμμύδι	NoCmNeSgNm
+	SYN	/np_nm]
+1\918	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\920	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+1\925	TOK	και	και	CjCo
+	SYN	[np_nm
+1\929	TOK	το	ο	AtDfNeSgNm
+1\932	TOK	μαρούλι	μαρούλι	NoCmNeSgNm
+	SYN	/np_nm]
+1\939	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\941	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\946	TOK	ηρεμιστικές	ηρεμιστικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\958	TOK	ιδιότητες	ιδιότητα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\968	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\972	TOK	ωφελεί	ωφελώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\979	TOK	τον	ο	AtDfMaSgAc
+1\983	TOK	ύπνο	ύπνος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\987	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\990	TOK	Τα	ο	AtDfNePlNm
+1\993	TOK	σπαράγγια	σπαράγγι	NoCmNePlNm
+	SYN	/np_nm]
+1\1002	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\1004	TOK	τα	ο	AtDfNePlNm
+1\1007	TOK	ραπανάκια	ραπανάκι	NoCmNePlNm
+	SYN	/np_nm]
+1\1017	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\1019	TOK	τα	ο	AtDfNePlAc
+1\1022	TOK	καρότα	καρότο	NoCmNePlAc
+	SYN	/np_ac]
+1\1028	PUNCT	,	,	PUNCT
+	SYN	[cl_c
+1\1030	TOK	αν	αν	CjSb
+	SYN	[np_ac
+1\1033	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\1036	TOK	φας	τρώω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\1040	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\1045	TOK	αρχή	αρχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1050	TOK	του	ο	AtDfNeSgGe
+1\1054	TOK	γεύματος	γεύμα	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_c]
+1\1062	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\1064	TOK	θα	θα	PtFu
+	SYN	[np_ge
+1\1067	TOK	σου	εγώ	PnPeMa02SgGeWe
+	SYN	/np_ge]
+1\1071	TOK	ανοίξουν	ανοίγω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1080	TOK	τον	ο	AtDfMaSgAc
+1\1084	TOK	όρεξη	όρεξη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1089	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+	SYN	[vg_s
+1\1092	TOK	Για	για	AsPpSp
+1\1096	TOK	να	να	PtSj
+1\1099	TOK	ανακουφίσεις	ανακουφίζω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\1112	TOK	το	ο	AtDfNeSgAc
+1\1115	TOK	συκώτι	συκώτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\1121	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\1123	TOK	φάει	τρώω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1128	TOK	μια	ένας	AtIdFeSgAc
+1\1132	TOK	αγκινάρα	αγκινάρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1140	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1142	TOK	Το	ο	AtDfNeSgNm
+1\1145	TOK	ραδίκι	ραδίκι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1152	TOK	ερεθίζει	ερεθίζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1161	TOK	το	ο	AtDfNeSgAc
+1\1164	TOK	συκώτι	συκώτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1170	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

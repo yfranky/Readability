@@ -1,0 +1,266 @@
+	(SENT	<S>
+1\1	ENUM	-	-	ENUM
+	SYN	[advp
+1\2	TOK	Ωραία	ωραία	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\8	TOK	η	ο	AtDfFeSgNm
+1\10	TOK	ταινία	ταινία	NoCmFeSgNm
+	SYN	/np_nm]
+1\16	PUNCT	,	,	PUNCT
+1\18	TOK	ε	ε	Ij
+1\19	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\22	ENUM	-	-	ENUM
+	SYN	[advp
+1\23	TOK	Ωραία	ωραία	AdXxBa
+	SYN	/advp]
+1\28	PUNCT	,	,	PUNCT
+1\30	TOK	αλλά	αλλά	CjCo
+	SYN	[np_ac
+1\35	TOK	όχι	όχι	PtNg
+1\39	TOK	άλλο	άλλος	PnIdNe03SgAcXx
+1\44	TOK	βίντεο	βίντεο	RgFwTr
+	SYN	/np_ac]
+1\50	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[vg
+1\52	TOK	Δε	δεν	PtNg
+	SYN	[np_ge
+1\55	TOK	μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+1\59	TOK	λες	λέγω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\62	PUNCT	,	,	PUNCT
+	SYN	[cl_q
+	SYN	[vg
+1\64	TOK	έχεις	έχω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+	SYN	[cl_o
+	SYN	[vg_s
+1\70	TOK	να	να	PtSj
+1\73	TOK	κάνεις	κάνω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\80	TOK	κάτι	κάτι	PnIdNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[advp
+1\85	TOK	τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+1\89	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\93	ENUM	-	-	ENUM
+	SYN	[advp
+1\94	TOK	Όχι	όχι	AdXxBa
+	SYN	/advp]
+1\97	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\99	TOK	Γιατί	γιατί	AdXxBa
+1\104	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\107	ENUM	-	-	ENUM
+	SYN	[vg
+1\108	TOK	Λέω	λέγω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\112	TOK	να	να	PtSj
+1\115	TOK	πάω	πηγαίνω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\119	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\123	TOK	κολυμβητήριο	κολυμβητήριο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\135	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[vg
+1\137	TOK	Θέλεις	θέλω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+	SYN	[cl_o
+	SYN	[vg_s
+1\144	TOK	να	να	PtSj
+1\147	TOK	έρθεις	έρχομαι	VbMnIdXx02SgXxPePvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\154	TOK	μαζί	μαζί	AdXxBa
+	SYN	[np_ge
+1\159	TOK	μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+	SYN	/advp]
+	SYN	/cl_o]
+1\162	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\165	ENUM	-	-	ENUM
+	SYN	[advp
+1\166	TOK	Ναι	ναι	AdXxBa
+1\169	PUNCT	,	,	PUNCT
+1\171	TOK	αμέ	αμέ	AdXxBa
+	SYN	/advp]
+1\174	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[vg
+1\176	TOK	Μπορώ	μπορώ	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+	SYN	[cl_o
+	SYN	[vg_s
+1\182	TOK	να	να	PtSj
+1\185	TOK	πω	λέγω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+1\188	TOK	και	και	CjCo
+	SYN	[pp
+1\192	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\197	TOK	Γιάννη	Γιάννης	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\203	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\206	ENUM	-	-	ENUM
+1\207	TOK	Γιατί	γιατί	AdXxBa
+1\213	TOK	όχι	όχι	PtNg
+1\216	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\218	TOK	Και	και	CjCo
+	SYN	[cl
+1\222	TOK	μετά	μετά	AsPpSp
+	SYN	[vg
+1\227	TOK	πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\232	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\236	TOK	κανένα	κανένας	PnIdNe03SgAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\243	TOK	σάντουιτς	σάντουιτς	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\252	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\255	ENUM	-	-	ENUM
+	SYN	[advp
+1\256	TOK	Καλά	καλά	AdXxBa
+	SYN	/advp]
+1\260	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\262	TOK	μέχρι	μέχρι	AsPpSp
+	SYN	[np_ac
+1\268	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\272	TOK	οχτώ	οκτώ	NmCdNePlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+1\277	TOK	όμως	όμως	CjCo
+1\281	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\283	TOK	Μετά	μετά	AsPpSp
+	SYN	[vg
+1\288	TOK	θέλω	θέλω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\293	TOK	να	να	PtSj
+1\296	TOK	δω	βλέπω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\299	TOK	τηλεόραση	τηλεόραση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\308	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\310	TOK	Έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\315	TOK	αγώνα	αγώνας	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\321	TOK	μπάσκετ	μπάσκετ	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\328	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\331	ENUM	-	-	ENUM
+	SYN	[advp
+1\332	TOK	Πάλι	πάλι	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\337	TOK	τηλεόραση	τηλεόραση	NoCmFeSgAc
+	SYN	/np_ac]
+1\346	PUNCT	,	,	PUNCT
+1\348	TOK	βρε	βρε	Ij
+	SYN	[np_ac
+1\352	TOK	Δημήτρη	Δημήτρης	NoPrMaSgAc
+	SYN	/np_ac]
+1\359	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\361	TOK	Είπαμε	λέγω	VbMnIdPa01PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\368	TOK	να	να	PtSj
+1\371	TOK	κάνουμε	κάνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\379	TOK	λίγο	λίγος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\384	TOK	αθλητισμό	αθλητισμός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\393	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\397	ENUM	-	-	ENUM
+1\398	TOK	Και	και	CjCo
+	SYN	[np_nm
+1\402	TOK	το	ο	AtDfNeSgNm
+	SYN	[np_ge
+1\405	TOK	μπάσκετ	μπάσκετ	NoCmNeSgGe
+	SYN	/np_ge]
+1\413	TOK	αθλητισμός	αθλητισμός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\424	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\429	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

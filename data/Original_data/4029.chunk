@@ -1,0 +1,204 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	TOK	Καλέ	καλός	AjBaMaSgVo
+1\5	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\7	TOK	τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\10	TOK	λέει	λέγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\15	TOK	εδώ	εδώ	AdXxBa
+	SYN	/advp]
+	SYN	/cl_q]
+1\18	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\21	TOK	Τον	ο	AtDfMaSgAc
+	SYN	[adjp_ac
+1\25	TOK	πρώτο	πρώτος	NmOdMaSgAcAj
+	SYN	/adjp_ac]
+1\31	TOK	καιρό	καιρός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\37	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[np_nm
+1\41	TOK	ο	ο	AtDfMaSgNm
+1\43	TOK	Αντόνιο	Αντόνιο	RgFwTr
+	SYN	/np_nm]
+	SYN	[vg
+1\51	TOK	ζούσε	ζω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\57	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\62	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\68	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\70	TOK	τον	εγώ	PnPeMa03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\74	TOK	φιλοξενούσε	φιλοξενώ	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\86	TOK	η	ο	AtDfFeSgNm
+1\88	TOK	οικογένεια	οικογένεια	NoCmFeSgNm
+1\99	TOK	Μακρή	Μακρή	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\105	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\110	TOK	Αθήνα	Αθήνα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\115	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\117	TOK	Μια	ένας	AtIdFeSgNm
+1\121	TOK	μέρα	μέρα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[advp
+1\126	TOK	λοιπόν	λοιπόν	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\133	TOK	ο	ο	AtDfMaSgNm
+1\135	TOK	Αντόνιο	Αντόνιο	RgFwTr
+	SYN	/np_nm]
+	SYN	[vg
+1\143	TOK	βγήκε	βγαίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\149	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\152	TOK	την	ο	AtDfFeSgAc
+1\156	TOK	κυρία	κυρία	NoCmFeSgAc
+1\162	TOK	Μακρή	Μακρή	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\168	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\172	TOK	ψώνια	ψώνιο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\177	PUNCT	,	,	PUNCT
+1\179	TOK	και	και	CjCo
+1\182	PTERM_P	...	...	PTERM_P
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\187	OPUNCT	«	«	OPUNCT
+	SYN	[vg
+1\188	TOK	ΑΠΑΓΟΡΕΥΕΤΑΙ	απαγορεύω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\201	TOK	Η	ο	AtDfFeSgNm
+1\203	TOK	ΔΙΕΛΕΥΣΙΣ	διέλευση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\213	TOK	ΟΧΗΜΑΤΩΝ	όχημα	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\223	TOK	ΕΤΑΙΡΕΙΑ	εταιρεία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\232	TOK	ΥΔΡΕΥΣΗΣ	ύδρευση	NoCmFeSgGe
+	SYN	/np_ge]
+1\241	TOK	ΚΑΙ	και	CjCo
+	SYN	[np_ge
+1\245	TOK	ΑΠΟΧΕΤΕΥΣΗΣ	αποχέτευση	NoCmFeSgGe
+	SYN	/np_ge]
+1\256	CPUNCT	»	»	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\259	ENUM	-	-	ENUM
+1\260	TOK	Καλέ	καλός	AjBaMaSgVo
+1\264	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\266	TOK	τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\269	TOK	λέει	λέγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\274	TOK	εδώ	εδώ	AdXxBa
+	SYN	/advp]
+	SYN	/cl_q]
+1\277	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\280	ENUM	-	-	ENUM
+	SYN	[vg
+1\281	TOK	Λέει	λέγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\286	TOK	ότι	ότι	CjSb
+	SYN	[vg
+1\290	TOK	απαγορεύεται	απαγορεύω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\303	TOK	να	να	PtSj
+1\306	TOK	περνάνε	περνώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\314	TOK	τα	ο	AtDfNePlAc
+1\317	TOK	αυτοκίνητα	αυτοκίνητο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+	SYN	[cl_o
+1\328	TOK	μέχρι	μέχρι	AsPpSp
+	SYN	[vg_s
+1\334	TOK	να	να	PtSj
+1\337	TOK	τελειώσουν	τελειώνω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\348	TOK	τα	ο	AtDfNePlAc
+1\351	TOK	έργα	έργο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\356	TOK	της	ο	AtDfFeSgGe
+1\360	ABBR	Ε.ΥΔ.ΑΠ.	Ε.ΥΔ.ΑΠ.	ABBR
+	SYN	/np_ge]
+	SYN	/cl_o]
+	)SENT	</S>
+	(SENT	<S>
+1\370	ENUM	-	-	ENUM
+	SYN	[advp
+1\371	TOK	Καλά	καλά	AdXxBa
+	SYN	/advp]
+1\375	PUNCT	,	,	PUNCT
+1\377	TOK	και	και	CjCo
+	SYN	[cl_o
+1\381	TOK	γιατί	γιατί	CjSb
+	SYN	[np_ac
+1\387	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\390	TOK	λέει	λέγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\395	TOK	έτσι	έτσι	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+1\399	PTERM_P	;	;	PTERM_P
+	)SENT	</S>

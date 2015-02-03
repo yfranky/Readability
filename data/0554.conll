@@ -1,0 +1,1146 @@
+1	Οι	ο	At	AtDf	Ma|Pl|Nm	4	Det	_	_	
+2	δώδεκα	δώδεκα	Nm	NmCd	Ma|Pl|Nm|Aj	4	Atr	_	_	
+3	υποψήφιοι	υποψήφιος	Aj	Aj	Ba|Ma|Pl|Nm	4	Atr	_	_	
+4	μνηστήρες	μνηστήρας	No	NoCm	Ma|Pl|Nm	0	ExD	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	πρόσωπα	πρόσωπο	No	NoCm	Ne|Pl|Nm	5	Sb	_	_	
+3	του	ο	At	AtDf	Ne|Sg|Ge	4	Det	_	_	
+4	έργου	έργο	No	NoCm	Ne|Sg|Ge	2	Atr	_	_	
+5	ζουν	ζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	σε	σε	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	μια	ένας	At	AtId	Fe|Sg|Ac	8	Det	_	_	
+8	πόλη	πόλη	No	NoCm	Fe|Sg|Ac	6	Adv	_	_	
+9	όπου	όπου	Ad	Ad	Ba	8	Adv	_	_	
+10	οι	ο	At	AtDf	Ma|Pl|Nm	11	Det	_	_	
+11	άνθρωποι	άνθρωπος	No	NoCm	Ma|Pl|Nm	13	Sb	_	_	
+12	έχουν	έχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	13	AuxV	_	_	
+13	γίνει	γίνομαι	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Pv|Xx	5	Obj	_	_	
+14	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Ac	13	Pnom	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ρομποτσίφ	Ρομποτσίφ	No	NoPr	Ma|Sg|Nm	2	ExD_Ap	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	Apos	_	_	
+3	Ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	άρχοντας	άρχοντας	No	NoCm	Ma|Sg|Nm	8	Sb_Ap	_	_	
+5	των	ο	At	AtDf	Ne|Pl|Ge	6	Det	_	_	
+6	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Ge	4	Atr	_	_	
+7	Ρομπογλύφ	Ρομπογλύφ	No	NoPr	Ne|Sg|Nm	6	Atr	_	_	
+8	:	:	PTERM_P	PTERM_P	_	2	Apos	_	_	
+9	Ο	ο	At	AtDf	Ma|Sg|Nm	10	Det	_	_	
+10	υπασπιστής	υπασπιστής	No	NoCm	Ma|Sg|Nm	8	Sb_Ap	_	_	
+11	του	ο	At	AtDf	Ne|Sg|Ge	13	Det	_	_	
+12	Ρομποτσίφ	Ρομποτσίφ	No	NoPr	Ne|Sg|Ge	13	Atr	_	_	
+13	Ρομποσπιούν	Ρομποσπιούν	No	NoPr	Ne|Sg|Ge	10	Atr	_	_	
+14	:	:	PTERM_P	PTERM_P	_	21	AuxG	_	_	
+15	Ο	ο	At	AtDf	Ma|Sg|Nm	16	Det	_	_	
+16	αρχηγός	αρχηγός	No	NoCm	Ma|Sg|Nm	21	ExD_Co	_	_	
+17	των	ο	At	AtDf	Fe|Pl|Ge	19	Det	_	_	
+18	μυστικών	μυστικός	Aj	Aj	Ba|Fe|Pl|Ge	19	Atr	_	_	
+19	υπηρεσιών	υπηρεσία	No	NoCm	Fe|Pl|Ge	16	Atr	_	_	
+20	Φλόπυ	Φλόπυ	No	NoPr	Fe|Sg|Nm	19	Atr	_	_	
+21	:	:	PTERM_P	PTERM_P	_	10	Apos	_	_	
+22	Η	ο	At	AtDf	Fe|Sg|Nm	24	Det	_	_	
+23	πρώτη	πρώτος	Nm	NmOd	Fe|Sg|Nm|Aj	24	Atr	_	_	
+24	κόρη	κόρη	No	NoCm	Fe|Sg|Nm	28	ExD_Co	_	_	
+25	του	ο	At	AtDf	Ne|Sg|Ge	27	Det	_	_	
+26	Ρομποτσίφ	Ρομποτσίφ	No	NoPr	Ne|Sg|Ge	27	Atr	_	_	
+27	Κομπρεσερίτα	Κομπρεσερίτα	No	NoPr	Ne|Sg|Ge	24	Atr	_	_	
+28	:	:	PTERM_P	PTERM_P	_	21	Coord_Ap	_	_	
+29	Η	ο	At	AtDf	Fe|Sg|Nm	31	Det	_	_	
+30	δεύτερη	δεύτερος	Nm	NmOd	Fe|Sg|Nm|Aj	31	Atr	_	_	
+31	κόρη	κόρη	No	NoCm	Fe|Sg|Nm	28	ExD_Co	_	_	
+32	του	ο	At	AtDf	Ma|Sg|Ge	34	Det	_	_	
+33	Ρομποτσίφ	Ρομποτσίφ	No	NoPr	Ne|Sg|Nm	34	Atr	_	_	
+34	Φανούρης	Φανούρης	No	NoPr	Ma|Sg|Nm	31	Atr	_	_	
+35	:	:	PTERM_P	PTERM_P	_	37	AuxG	_	_	
+36	Α'	Α'	Nm	NmOd	Ne|Sg|Nm|Aj	37	Atr	_	_	
+37	μηχανικός	μηχανικός	Aj	Aj	Ba|Ma|Sg|Nm	31	Atr_Pa	_	_	
+38	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	37	AuxP	_	_	
+39	διανυκτερεύον	διανυκτερεύων	Aj	Aj	Ba|Ne|Sg|Ac	40	Atr	_	_	
+40	συνεργείο	συνεργείο	No	NoCm	Ne|Sg|Ac	38	Atr	_	_	
+41	επισκευής	επισκευή	No	NoCm	Fe|Sg|Ge	40	Atr	_	_	
+42	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Ac	41	Atr	_	_	
+43	Πασχάλης	Πασχάλης	No	NoPr	Ma|Sg|Nm	42	Atr	_	_	
+44	:	:	PTERM_P	PTERM_P	_	37	AuxG	_	_	
+45	Β'	Β'	Nm	NmOd	Ne|Sg|Nm|Aj	46	Atr	_	_	
+46	μηχανικός	μηχανικός	Aj	Aj	Ba|Ma|Sg|Nm	37	Atr	_	_	
+47	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	46	AuxP	_	_	
+48	διανυκτερεύον	διανυκτερεύων	Aj	Aj	Ba|Ne|Sg|Ac	49	Atr	_	_	
+49	συνεργείο	συνεργείο	No	NoCm	Ne|Sg|Ac	47	Adv	_	_	
+50	επισκευής	επισκευή	No	NoCm	Fe|Sg|Ge	49	Atr	_	_	
+51	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Ac	50	Atr	_	_	
+52	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Ρομπογλύφ	Ρομπογλύφ	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	φώναξε	φωνάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Atr	_	_	
+5	τις	ο	At	AtDf	Fe|Pl|Ac	6	Det	_	_	
+6	κορούλες	κορούλα	No	NoCm	Fe|Pl|Ac	4	Obj	_	_	
+7	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	6	Pos	_	_	
+8	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	περάσουν	περνώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	Φλόπυ	Φλόπυ	No	NoPr	Fe|Sg|Nm	6	Sb_Co	_	_	
+6	και	και	Cj	CjCo	_	3	Coord	_	_	
+7	η	ο	At	AtDf	Fe|Sg|Nm	8	Det	_	_	
+8	Κομπρεσερίτα	Κομπρεσερίτα	No	NoPr	Fe|Sg|Nm	6	Sb_Co	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Καλημέρα	καλημέρα	No	NoCm	Fe|Sg|Nm	3	ExD_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	0	Coord	_	_	
+4	μπαμπά	μπαμπάς	No	NoCm	Ma|Sg|Ac	3	ExD_Co	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Καλημέρα	καλημέρα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	μπαμπακούλη	μπαμπακούλη	No	NoPr	Ma|Sg|Ge	2	Atr	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Καλημέρα	καλημέρα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+4	κορούλες	κορούλα	No	NoCm	Fe|Pl|Ac	2	Atr	_	_	
+5	μου	μου	Pn	PnPo	Fe|01|Sg|Ge|Xx	4	Pos	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	4	Obj	_	_	
+3	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ac|We	4	Obj	_	_	
+4	θέλεις	θέλω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	συζητήσουμε	συζητώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	μέλλον	μέλλον	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	5	Pos	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φαντάζομαι	φαντάζομαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ότι	ότι	Cj	CjSb	_	1	AuxC	_	_	
+3	θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+4	πρέπει	πρέπει	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	έχετε	έχω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	4	Sb	_	_	
+7	αντιληφθεί	αντιλαμβάνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	6	Obj	_	_	
+8	πως	πως	Cj	CjSb	_	7	AuxC	_	_	
+9	φτάσατε	φτάνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	8	Obj	_	_	
+10	πια	πια	Ad	Ad	Ba	9	Adv	_	_	
+11	σε	σε	AsPp	AsPpSp	_	9	AuxP	_	_	
+12	ηλικία	ηλικία	No	NoCm	Fe|Sg|Ac	11	Adv	_	_	
+13	γάμου	γάμος	No	NoCm	Ma|Sg|Ge	12	Atr	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	AuxG	_	_	
+2	Εμείς	εγώ	Pn	PnPe	Ma|01|Pl|Nm|St	4	Sb	_	_	
+3	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	4	Obj	_	_	
+4	έχουμε	έχω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	αντιληφθεί	αντιλαμβάνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	4	Obj	_	_	
+6	εδώ	εδώ	Ad	Ad	Ba	9	AuxY	_	_	
+7	και	και	Cj	CjCo	_	9	AuxY	_	_	
+8	αρκετό	αρκετός	Pn	PnId	Ma|03|Sg|Ac|Xx	9	Atr	_	_	
+9	καιρό	καιρός	No	NoCm	Ma|Sg|Ac	5	Pnom	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	2	Sb	_	_	
+2	άργησες	αργώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	5	AuxV	_	_	
+4	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	5	Obj	_	_	
+5	αντιληφθείς	αντιλαμβάνομαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	2	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Γι’	για	AsPp	AsPpSp	_	6	AuxP	_	_	
+3	αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Ac|Xx	2	Adv	_	_	
+4	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+5	λοιπόν	λοιπόν	Ad	Ad	Ba	6	Adv	_	_	
+6	κάλεσα	καλώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	δώδεκα	δώδεκα	Nm	NmCd	Ne|Pl|Nm|Aj	9	Atr	_	_	
+8	εκλεκτά	εκλεκτός	Aj	Aj	Ba|Ne|Pl|Ac	9	Atr	_	_	
+9	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Ac	6	Obj	_	_	
+10	για	για	AsPp	AsPpSp	_	6	AuxP	_	_	
+11	να	να	Pt	PtSj	_	12	AuxV	_	_	
+12	διαλέξετε	διαλέγω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	10	Adv	_	_	
+13	σύζυγο	σύζυγος	No	NoCm	Fe|Sg|Ac	12	Obj	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μα	μα	Cj	CjCo	_	0	AuxY	_	_	
+3	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	λείπουν	λείπω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+5	«	«	OPUNCT	OPUNCT	_	6	AuxG	_	_	
+6	μα	μα	Cj	CjCo	_	3	Coord	_	_	
+7	»	»	CPUNCT	CPUNCT	_	6	AuxG	_	_	
+8	και	και	Cj	CjCo	_	11	AuxY	_	_	
+9	τα	ο	At	AtDf	Ne|Pl|Ac	11	Det	_	_	
+10	«	«	OPUNCT	OPUNCT	_	11	AuxG	_	_	
+11	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	3	ExD	_	_	
+12	»	»	CPUNCT	CPUNCT	_	11	AuxG	_	_	
+13	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ρομπογλύφ	Ρομπογλύφ	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	περάσει	περνώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+4	πρώτος	πρώτος	Nm	NmOd	Ma|Sg|Nm|Aj	5	Atr	_	_	
+5	υποψήφιος	υποψήφιος	Aj	Aj	Ba|Ma|Sg|Nm	2	Sb	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	Atr	_	_	
+2	Ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+3	πρώτος	πρώτος	Nm	NmOd	Ma|Sg|Nm|Aj	4	Atr	_	_	
+4	υποψήφιος	υποψήφιος	Aj	Aj	Ba|Ma|Sg|Nm	6	Sb	_	_	
+5	δεν	δεν	Pt	PtNg	_	6	AuxV	_	_	
+6	μπορεί	μπορώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	να	να	Pt	PtSj	_	8	AuxV	_	_	
+8	περάσει	περνώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Obj	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Γιατί	γιατί	Ad	Ad	Ba	4	Adv	_	_	
+3	δεν	δεν	Pt	PtNg	_	4	AuxV	_	_	
+4	μπορεί	μπορώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	περάσει	περνώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Obj	_	_	
+7	ο	ο	At	AtDf	Ma|Sg|Nm	9	Det	_	_	
+8	πρώτος	πρώτος	Nm	NmOd	Ma|Sg|Nm|Aj	9	Atr	_	_	
+9	υποψήφιος	υποψήφιος	Aj	Aj	Ba|Ma|Sg|Nm	6	Sb	_	_	
+10	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	μπορεί	μπορώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	περάσει	περνώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+6	επειδή	επειδή	Cj	CjSb	_	5	AuxC	_	_	
+7	βραχυκυκλώθηκε	βραχυκυκλώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	6	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Καλά	καλά	Ad	Ad	Ba	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ας	ας	Pt	PtOt	_	2	AuxV	_	_	
+2	περάσει	περνώ	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+4	δεύτερος	δεύτερος	Nm	NmOd	Ma|Sg|Nm|Aj	5	Atr	_	_	
+5	υποψήφιος	υποψήφιος	Aj	Aj	Ba|Ma|Sg|Nm	2	Sb	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	Atr	_	_	
+2	Ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+3	δεύτερος	δεύτερος	Nm	NmOd	Ma|Sg|Nm|Aj	4	Atr	_	_	
+4	υποψήφιος	υποψήφιος	Aj	Aj	Ba|Ma|Sg|Nm	6	Sb	_	_	
+5	δεν	δεν	Pt	PtNg	_	6	AuxV	_	_	
+6	μπορεί	μπορώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	να	να	Pt	PtSj	_	8	AuxV	_	_	
+8	περάσει	περνώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Obj	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Γιατί	γιατί	Ad	Ad	Ba	4	Adv	_	_	
+3	δεν	δεν	Pt	PtNg	_	4	AuxV	_	_	
+4	μπορεί	μπορώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	περάσει	περνώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Obj	_	_	
+7	ο	ο	At	AtDf	Ma|Sg|Nm	9	Det	_	_	
+8	δεύτερος	δεύτερος	Nm	NmOd	Ma|Sg|Nm|Aj	9	Atr	_	_	
+9	υποψήφιος	υποψήφιος	Aj	Aj	Ba|Ma|Sg|Nm	6	Sb	_	_	
+10	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Επειδή	επειδή	Cj	CjSb	_	0	AuxC	_	_	
+3	βραχυκυκλώθηκε	βραχυκυκλώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	2	Adv	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Καλά	καλά	Ad	Ad	Ba	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ας	ας	Pt	PtOt	_	2	AuxV	_	_	
+2	περάσει	περνώ	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	τρίτος	τρίτος	Nm	NmOd	Ma|Sg|Nm|Aj	5	ExD_Co	_	_	
+5	ή	ή	Cj	CjCo	_	2	Coord	_	_	
+6	ο	ο	At	AtDf	Ma|Sg|Nm	7	Det	_	_	
+7	τέταρτος	τέταρτος	Nm	NmOd	Ma|Sg|Nm|Aj	5	ExD_Co	_	_	
+8	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τελοσπάντων	τελοσπάντων	Ad	Ad	Ba	7	Adv	_	_	
+2	κάποιος	κάποιος	Pn	PnId	Ma|03|Sg|Nm|Xx	7	Atr	_	_	
+3	που	που	Pn	PnRe	Ma|03|Sg|Nm|Xx	7	Sb	_	_	
+4	να	να	Pt	PtSj	_	7	AuxV	_	_	
+5	μην	μην	Pt	PtNg	_	7	AuxV	_	_	
+6	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	AuxV	_	_	
+7	βραχυκυκλωθεί	βραχυκυκλώνω	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Pv|Xx	0	Pred	_	_	
+8	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	4	Sb	_	_	
+3	έχουν	έχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	4	AuxV	_	_	
+4	βραχυκυκλωθεί	βραχυκυκλώνω	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Και	και	Cj	CjCo	_	4	AuxY	_	_	
+3	οι	ο	At	AtDf	Fe|Pl|Nm	4	Det	_	_	
+4	δώδεκα	δώδεκα	Nm	NmCd	Ne|Pl|Nm|Aj	0	ExD	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Και	και	Cj	CjCo	_	4	AuxY	_	_	
+3	οι	ο	At	AtDf	Fe|Pl|Nm	4	Det	_	_	
+4	δώδεκα	δώδεκα	Nm	NmCd	Ne|Pl|Nm|Aj	0	ExD	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	7	AuxG	_	_	
+2	Πώς	πώς	Ad	Ad	Ba	7	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+4	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	7	AuxP	_	_	
+5	οργή	οργή	No	NoCm	Fe|Sg|Ac	4	Adv	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	βραχυκυκλώθηκαν	βραχυκυκλώνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+8	δώδεκα	δώδεκα	Nm	NmCd	Ma|Pl|Nm|Aj	9	Atr	_	_	
+9	ολόκληροι	ολόκληρος	No	NoCm	Ma|Pl|Nm	7	Sb	_	_	
+10	υποψήφιοι	υποψήφιος	Aj	Aj	Ba|Ma|Pl|Nm	9	Atr	_	_	
+11	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Χι	χι	No	NoCm	Ne|Pl|Nm	7	ExD_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+4	χι	χι	No	NoCm	Ne|Pl|Ac	7	Atr_Co	_	_	
+5	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+6	χι	χι	No	NoCm	Ne|Pl|Ac	7	Atr_Co	_	_	
+7	,	,	PUNCT	PUNCT	_	0	Coord	_	_	
+8	χι	χι	No	NoCm	Ne|Pl|Ac	7	ExD_Co	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Χι	χι	No	NoCm	Ne|Pl|Nm	7	ExD_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+4	χι	χι	No	NoCm	Ne|Pl|Ac	7	Atr_Co	_	_	
+5	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+6	χι	χι	No	NoCm	Ne|Pl|Ac	7	Atr_Co	_	_	
+7	,	,	PUNCT	PUNCT	_	0	Coord	_	_	
+8	χι	χι	No	NoCm	Ne|Pl|Ac	7	ExD_Co	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Εσείς	εγώ	Pn	PnPe	Ma|02|Pl|Nm|St	0	ExD	_	_	
+3	γιατί	γιατί	Cj	CjSb	_	2	AuxC	_	_	
+4	κρυφογελάτε	κρυφογελώ	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	3	ExD_Co	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Εμείς	εγώ	Pn	PnPe	Ma|01|Pl|Nm|St	4	Sb	_	_	
+3	τους	εγώ	Pn	PnPe	Ma|03|Pl|Ge|We	4	Obj	_	_	
+4	βραχυκυκλώσαμε	βραχυκυκλώνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Συνδέσαμε	συνδέω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+4	μεταλλικά	μεταλλικός	Aj	Aj	Ba|Ne|Pl|Ac	5	Atr	_	_	
+5	καθίσματα	κάθισμα	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+6	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	2	AuxP	_	_	
+7	αίθουσα	αίθουσα	No	NoCm	Fe|Sg|Ac	6	Obj	_	_	
+8	αναμονής	αναμονή	No	NoCm	Fe|Sg|Ge	7	Atr	_	_	
+9	με	με	AsPp	AsPpSp	_	2	AuxP	_	_	
+10	το	ο	At	AtDf	Ne|Sg|Ac	11	Det	_	_	
+11	καλώδιο	καλώδιο	No	NoCm	Ne|Sg|Ac	9	Adv	_	_	
+12	του	ο	At	AtDf	Ne|Sg|Ge	13	Det	_	_	
+13	ηλεκτρικού	ηλεκτρικός	Aj	Aj	Ba|Ne|Sg|Ge	11	Atr	_	_	
+14	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δηλαδή	δηλαδή	Ad	Ad	Ba	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	τους	εγώ	Pn	PnPe	Ma|03|Pl|Ac|We	5	Obj	_	_	
+5	σαμποτάρατε	σαμποτάρω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μάλιστα	μάλιστα	Ad	Ad	Ba	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Γιατί	γιατί	Ad	Ad	Ba	0	ExD	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Επειδή	επειδή	Cj	CjSb	_	0	AuxC	_	_	
+3	δε	δεν	Pt	PtNg	_	4	AuxV	_	_	
+4	θέλουμε	θέλω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Adv	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	παντρευτούμε	παντρεύω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	4	Obj	_	_	
+7	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Ac	6	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δε	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	θέλετε	θέλω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	παντρευτείτε	παντρεύω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	3	Obj	_	_	
+6	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Ac	5	Obj	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είπατε	λέγω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ότι	ότι	Cj	CjSb	_	1	AuxC	_	_	
+3	δε	δεν	Pt	PtNg	_	4	AuxV	_	_	
+4	θέλετε	θέλω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	παντρευτείτε	παντρεύω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	4	Obj	_	_	
+7	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Ac	6	Obj	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Nm|Xx	3	Sb	_	_	
+3	είπαμε	λέγω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+3	θέλετε	θέλω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	παντρευτείτε	παντρεύω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	3	Obj	_	_	
+6	τότε	τότε	Ad	Ad	Ba	5	Adv	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μίξερ	μίξερ	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Άνθρωπο	άνθρωπος	No	NoCm	Ma|Sg|Ac	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Άνθρωπο	άνθρωπος	No	NoCm	Ma|Sg|Ac	0	ExD	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μουρλαθήκατε	μουρλαίνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	κόρες	κόρη	No	NoCm	Fe|Pl|Ac	1	Obj	_	_	
+4	μου	μου	Pn	PnPo	Fe|01|Sg|Ge|Xx	3	Pos	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σας	εγώ	Pn	PnPe	Ma|02|Pl|Ac|We	2	Obj	_	_	
+2	έστριψε	στρίβω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	καμιά	κανένας	Pn	PnId	Fe|03|Sg|Ac|Xx	4	Atr	_	_	
+4	βίδα	βίδα	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Οι	ο	At	AtDf	Ma|Pl|Nm	2	Det	_	_	
+2	άνθρωποι	άνθρωπος	No	NoCm	Ma|Pl|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	χαλαροί	χαλαρός	Aj	Aj	Ba|Ma|Pl|Nm	7	Pnom_Co	_	_	
+5	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+6	πλαδαροί	πλαδαρός	Aj	Aj	Ba|Ma|Pl|Nm	7	Pnom_Co	_	_	
+7	,	,	PUNCT	PUNCT	_	3	Coord	_	_	
+8	εύθραυστοι	εύθραυστος	Aj	Aj	Ba|Ma|Pl|Nm	7	Pnom_Co	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κλαίνε	κλαίω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	5	Obj	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	λιποθυμάνε	λιποθυμώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+5	ονειροπολούν	ονειροπολώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	7	Obj	_	_	
+6	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+7	φαλακραίνουν	φαλακραίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Λογικευτείτε	λογικεύομαι	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	κόρες	κόρη	No	NoCm	Fe|Pl|Ac	1	Adv	_	_	
+4	μου	μου	Pn	PnPo	Fe|01|Sg|Ge|Xx	3	Pos	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Λογικευτείτε	λογικεύομαι	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Παντρέψου	παντρεύω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	Φλόπυ	Φλόπυ	No	NoPr	Ma|Sg|Nm	1	Sb	_	_	
+4	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+5	καμάρι	καμάρι	No	NoCm	Ne|Sg|Ac	7	Obj_Ap	_	_	
+6	μου	μου	Pn	PnPo	Fe|01|Sg|Ge|Xx	5	Pos	_	_	
+7	,	,	PUNCT	PUNCT	_	3	Apos	_	_	
+8	ένα	ένας	At	AtId	Ne|Sg|Ac	10	Det	_	_	
+9	γεροδεμένο	γεροδεμένος	Aj	Aj	Ba|Ne|Sg|Nm	10	Atr	_	_	
+10	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Ac	7	Obj_Ap	_	_	
+11	με	με	AsPp	AsPpSp	_	10	AuxP	_	_	
+12	ατσάλινα	ατσάλινος	Aj	Aj	Ba|Ne|Pl|Ac	13	Atr	_	_	
+13	μπράτσα	μπράτσο	No	NoCm	Ne|Pl|Ac	14	Adv_Co	_	_	
+14	και	και	Cj	CjCo	_	11	Coord	_	_	
+15	μεταλλική	μεταλλικός	Aj	Aj	Ba|Fe|Sg|Nm	16	Atr	_	_	
+16	φωνή	φωνή	No	NoCm	Fe|Sg|Nm	14	Adv_Co	_	_	
+17	,	,	PUNCT	PUNCT	_	20	AuxX	_	_	
+18	να	να	Pt	PtSj	_	20	AuxV	_	_	
+19	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	20	Obj	_	_	
+20	προγραμματίσω	προγραμματίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	7	Atr	_	_	
+21	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	20	Sb	_	_	
+22	να	να	Pt	PtSj	_	24	AuxV	_	_	
+23	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	24	IObj	_	_	
+24	ικανοποιεί	ικανοποιώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	20	Obj	_	_	
+25	όλες	όλος	Aj	Aj	Ba|Fe|Pl|Ac	28	Atr	_	_	
+26	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	28	Atr	_	_	
+27	τις	ο	At	AtDf	Fe|Pl|Ac	28	Det	_	_	
+28	επιθυμίες	επιθυμία	No	NoCm	Fe|Pl|Ac	24	Obj	_	_	
+29	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δε	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Κι	και	Cj	CjCo	_	5	AuxY	_	_	
+3	εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	5	Sb_Co	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	Κομπρεσερίτα	Κομπρεσερίτα	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μόνο	μόνο	Ad	Ad	Ba	2	Adv	_	_	
+2	ένα	ένας	At	AtId	Ne|Sg|Ac	3	Det	_	_	
+3	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Ac	5	Obj	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	επαναλαμβάνω	επαναλαμβάνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+7	μόνο	μόνο	Ad	Ad	Ba	8	Adv	_	_	
+8	ένα	ένας	At	AtId	Ne|Sg|Ac	9	Det	_	_	
+9	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Ac	5	Obj	_	_	
+10	θα	θα	Pt	PtFu	_	12	AuxV	_	_	
+11	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	12	Obj	_	_	
+12	κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	9	Atr	_	_	
+13	ευτυχισμένη	ευτυχισμένος	Aj	Aj	Ba|Fe|Sg|Ac	12	Obj	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	μνήμη	μνήμη	No	NoCm	Fe|Sg|Nm	5	Sb	_	_	
+3	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	2	Pos	_	_	
+4	θα	θα	Pt	PtFu	_	5	AuxV	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	εκατό	εκατό	Nm	NmCd	Fe|Pl|Ge|Aj	7	Atr	_	_	
+7	φορές	φορά	No	NoCm	Fe|Pl|Ac	5	Pnom	_	_	
+8	πιο	πιο	Ad	Ad	Ba	9	Adv	_	_	
+9	ισχυρή	ισχυρός	Aj	Aj	Ba|Fe|Sg|Ac	7	Atr	_	_	
+10	από	από	AsPp	AsPpSp	_	9	AuxP	_	_	
+11	την	ο	At	AtDf	Fe|Sg|Ac	13	Det	_	_	
+12	ανθρώπινη	ανθρώπινος	Aj	Aj	Ba|Fe|Sg|Ac	13	Atr	_	_	
+13	μνήμη	μνήμη	No	NoCm	Fe|Sg|Ac	10	Adv	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ποτέ	ποτέ	Ad	Ad	Ba	4	Adv	_	_	
+2	δε	δε	Ad	Ad	Ba	4	Adv	_	_	
+3	θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+4	ξεχνάει	ξεχνώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	την	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	επέτειο	επέτειος	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+7	του	ο	At	AtDf	Ma|Sg|Ge	8	Det	_	_	
+8	γάμου	γάμος	No	NoCm	Ma|Sg|Ge	6	Atr	_	_	
+9	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	8	Pos	_	_	
+10	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Σωστά	σωστά	Ad	Ad	Ba	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Ac|Xx	4	Obj	_	_	
+2	πού	πού	Ad	Ad	Ba	4	Adv	_	_	
+3	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	4	Obj	_	_	
+4	βάζεις	βάζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Άλλωστε	άλλωστε	Ad	Ad	Ba	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+4	οι	ο	At	AtDf	Ma|Pl|Nm	5	Det	_	_	
+5	άνθρωποι	άνθρωπος	No	NoCm	Ma|Pl|Nm	6	Sb	_	_	
+6	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	ανάξιοι	ανάξιος	Aj	Aj	Ba|Ma|Pl|Nm	8	Pnom_Co	_	_	
+8	,	,	PUNCT	PUNCT	_	6	Coord	_	_	
+9	ανίκανοι	ανίκανος	Aj	Aj	Ba|Ma|Pl|Nm	8	Pnom_Co	_	_	
+10	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γι’	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+2	αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Ac|Xx	1	Adv	_	_	
+3	πήραμε	παίρνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	την	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	εξουσία	εξουσία	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+6	εμείς	εγώ	Pn	PnPe	Ma|01|Pl|Nm|St	5	Atr	_	_	
+7	τα	ο	At	AtDf	Ne|Pl|Ac	8	Det	_	_	
+8	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Ac	6	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Για	για	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	βάλουμε	βάζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	1	Adv	_	_	
+4	λίγη	λίγος	Aj	Aj	Ba|Fe|Sg|Ac	5	Atr	_	_	
+5	τάξη	τάξη	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+6	σ’	σε	AsPp	AsPpSp	_	3	AuxP	_	_	
+7	αυτό	αυτός	Pn	PnDm	Ma|03|Sg|Ac|Xx	9	Atr	_	_	
+8	τον	ο	At	AtDf	Ma|Sg|Ac	9	Det	_	_	
+9	κόσμο	κόσμος	No	NoCm	Ma|Sg|Ac	6	Adv	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τέρμα	τέρμα	No	NoCm	Ne|Sg|Nm	7	Pnom	_	_	
+2	οι	ο	At	AtDf	Fe|Pl|Nm	3	Det	_	_	
+3	εξοχές	εξοχή	No	NoCm	Fe|Pl|Nm	7	ExD_Co	_	_	
+4	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+5	τα	ο	At	AtDf	Ne|Pl|Nm	6	Det	_	_	
+6	λουλουδάκια	λουλουδάκι	No	NoCm	Ne|Pl|Nm	7	Sb_Co	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	οι	ο	At	AtDf	Ma|Pl|Nm	9	Det	_	_	
+9	σαχλαμάρες	σαχλαμάρας	No	NoCm	Ma|Pl|Nm	7	ExD_Co	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	2	Obj	_	_	
+2	κάναμε	κάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+3	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	4	Atr	_	_	
+4	σίδερο	σίδερο	No	NoCm	Ne|Sg|Ac	5	Obj_Co	_	_	
+5	και	και	Cj	CjCo	_	2	Coord	_	_	
+6	τσιμέντο	τσιμέντο	No	NoCm	Ne|Sg|Ac	5	Obj_Co	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	ησυχάσαμε	ησυχάζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	AuxG	_	_	
+2	Εμείς	εγώ	Pn	PnPe	Ma|01|Pl|Nm|St	4	Sb	_	_	
+3	πώς	πώς	Ad	Ad	Ba	4	Adv	_	_	
+4	γίναμε	γίνομαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Ac	6	ExD_Co	_	_	
+6	,	,	PUNCT	PUNCT	_	4	Coord	_	_	
+7	μπαμπά	μπαμπάς	No	NoCm	Ma|Sg|Ac	6	ExD_Co	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Οι	ο	At	AtDf	Ma|Pl|Nm	3	Det	_	_	
+3	έξυπνοι	έξυπνος	Aj	Aj	Ba|Ma|Pl|Nm	1	Sb	_	_	
+4	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+5	οι	ο	At	AtDf	Ma|Pl|Nm	6	Det	_	_	
+6	ικανοί	ικανός	Aj	Aj	Ba|Ma|Pl|Nm	3	Atr	_	_	
+7	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+8	οι	ο	At	AtDf	Ma|Pl|Nm	10	Det	_	_	
+9	προοδευτικοί	προοδευτικός	Aj	Aj	Ba|Ma|Pl|Nm	10	Atr	_	_	
+10	άνθρωποι	άνθρωπος	No	NoCm	Ma|Pl|Nm	11	Sb	_	_	
+11	εξελίσσονται	εξελίσσω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	6	Atr	_	_	
+12	σε	σε	AsPp	AsPpSp	_	11	AuxP	_	_	
+13	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Ac	12	Adv	_	_	
+14	!	!	PTERM_P	PTERM_P	_	6	AuxK	_	_	
+
+1	Μόνο	μόνο	Ad	Ad	Ba	0	ExD	_	_	
+2	οι	ο	At	AtDf	Ma|Pl|Nm	3	Det	_	_	
+3	βλάκες	βλάκας	No	NoCm	Ma|Pl|Nm	1	ExD_Co	_	_	
+4	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+5	οι	ο	At	AtDf	Ma|Pl|Nm	6	Det	_	_	
+6	συντηρητικοί	συντηρητικός	Aj	Aj	Ba|Ma|Pl|Nm	3	Atr	_	_	
+7	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+8	αυτοί	αυτός	Pn	PnDm	Ma|03|Pl|Nm|Xx	9	Sb	_	_	
+9	παραμένουν	παραμένω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	6	Atr	_	_	
+10	άνθρωποι	άνθρωπος	No	NoCm	Ma|Pl|Nm	9	Pnom	_	_	
+11	.	.	PTERM_P	PTERM_P	_	6	AuxK	_	_	
+
+1	Όπως	όπως	Ad	Ad	Ba	4	Adv	_	_	
+2	και	και	Cj	CjCo	_	4	AuxY	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	’χει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	8	Adv	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Nm	6	Det	_	_	
+6	πράγμα	πράγμα	No	NoCm	Ne|Sg|Nm	4	Sb	_	_	
+7	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+8	αποκλείεται	αποκλείω	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+9	να	να	Pt	PtSj	_	10	AuxV	_	_	
+10	παντρευτείτε	παντρεύω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	8	Sb	_	_	
+11	άνθρωπο	άνθρωπος	No	NoCm	Ma|Sg|Ac	10	Obj	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Nm	4	Sb	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	παντρευτείτε	παντρεύω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	4	Pred_Co	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	θα	θα	Pt	PtFu	_	6	AuxV	_	_	
+6	πείτε	λέγω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+7	και	και	Cj	CjCo	_	9	AuxY	_	_	
+8	ένα	ένας	At	AtId	Ne|Sg|Ac	9	Det	_	_	
+9	τραγούδι	τραγούδι	No	NoCm	Ne|Sg|Ac	6	Obj	_	_	
+10	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ποτέ	ποτέ	Ad	Ad	Ba	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ποτέ	ποτέ	Ad	Ad	Ba	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	6	Atr	_	_	
+2	Μα	μα	Cj	CjCo	_	1	AuxY	_	_	
+3	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	5	Obj	_	_	
+4	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ge|We	5	Obj	_	_	
+5	έπιασε	πιάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	θέλετε	θέλω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	8	AuxV	_	_	
+8	σώνει	σώζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+9	και	και	Cj	CjCo	_	8	AuxY	_	_	
+10	καλά	καλά	Ad	Ad	Ba	8	Adv	_	_	
+11	να	να	Pt	PtSj	_	12	AuxV	_	_	
+12	παντρευτείτε	παντρεύω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	8	Obj	_	_	
+13	άνθρωπο	άνθρωπος	No	NoCm	Ma|Sg|Ac	12	Obj	_	_	
+14	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	10	AuxV	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	χτες	χθες	Ad	Ad	Ba	10	Adv	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Nm	6	Det	_	_	
+6	βράδυ	βράδυ	No	NoCm	Ne|Sg|Nm	4	Adv	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	ταχυφόρο	ταχυφόρο	Aj	Aj	Ba|Ne|Sg|Ac	6	Atr	_	_	
+9	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ac|We	10	Obj	_	_	
+10	έπαθε	παθαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+11	βλάβη	βλάβη	No	NoCm	Fe|Sg|Nm	10	Sb	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ε	ε	Ij	Ij	_	4	ExD_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	3	Obj	_	_	
+3	πήγαμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	σ’	σε	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	ένα	ένας	At	AtId	Ne|Sg|Ac	7	Det	_	_	
+6	διανυκτερεύον	διανυκτερεύων	Aj	Aj	Ba|Ne|Sg|Ac	7	Atr	_	_	
+7	συνεργείο	συνεργείο	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+8	για	για	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Ac	8	Atr	_	_	
+10	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+11	να	να	Pt	PtSj	_	13	AuxV	_	_	
+12	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	13	Obj	_	_	
+13	επιδιορθώσουμε	επιδιορθώνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	10	Adv	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Atr	_	_	
+3	σχέση	σχέση	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+4	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Ac|Xx	4	Obj	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ε	ε	Ij	Ij	_	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+4	λοιπόν	λοιπόν	Ad	Ad	Ba	6	Adv	_	_	
+5	εκεί	εκεί	Ad	Ad	Ba	6	Adv	_	_	
+6	γνωρίσαμε	γνωρίζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+7	το	ο	At	AtDf	Ma|Sg|Ac	8	Det	_	_	
+8	Φανούρη	Φανούρης	No	NoPr	Ma|Sg|Ac	6	Obj	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	ExD_Co	_	_	
+2	Και	και	Cj	CjCo	_	0	Coord	_	_	
+3	τον	ο	At	AtDf	Ma|Sg|Ac	4	Det	_	_	
+4	Πασχάλη	Πασχάλης	No	NoPr	Ma|Sg|Ac	2	ExD_Co	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Άνθρωποι	άνθρωπος	No	NoCm	Ma|Pl|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	αυτοί	αυτός	Pn	PnDm	Ma|03|Pl|Nm|Xx	3	Pnom	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Και	και	Cj	CjCo	_	0	Coord	_	_	
+3	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	4	Atr	_	_	
+4	άνθρωποι	άνθρωπος	No	NoCm	Ma|Pl|Nm	2	ExD_Co	_	_	
+5	!	!	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	Atr	_	_	
+2	Κάτι	κάτι	Pn	PnId	Ne|03|Sg|Nm|Xx	4	Atr	_	_	
+3	γελοία	γελοίος	Aj	Aj	Ba|Ne|Pl|Ac	4	Atr	_	_	
+4	ονόματα	όνομα	No	NoCm	Ne|Pl|Ac	6	Obj	_	_	
+5	που	που	Pn	PnRe	Ne|03|Pl|Nm|Xx	6	Sb	_	_	
+6	έχουν	έχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	αυτοί	αυτός	Pn	PnDm	Ma|03|Pl|Nm|Xx	9	Atr	_	_	
+8	οι	ο	At	AtDf	Ma|Pl|Nm	9	Det	_	_	
+9	άνθρωποι	άνθρωπος	No	NoCm	Ma|Pl|Nm	6	Sb	_	_	
+10	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μόλις	μόλις	Cj	CjSb	_	0	AuxC	_	_	
+3	τους	εγώ	Pn	PnPe	Ma|03|Pl|Ge|We	4	Obj	_	_	
+4	είδαμε	βλέπω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Nm|Xx	3	Sb	_	_	
+3	ήτανε	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Με	με	AsPp	AsPpSp	_	0	ExD	_	_	
+3	μια	ένας	At	AtId	Fe|Sg|Ac	4	Det	_	_	
+4	ματιά	ματιά	No	NoCm	Fe|Sg|Ac	2	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+
+1	πρώτη	πρώτος	Nm	NmOd	Fe|Sg|Nm|Aj	2	Atr	_	_	
+2	ματιά	ματιά	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	πάθαμε	παθαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ζημιά	ζημιά	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	3	AuxY	_	_	
+2	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Atr	_	_	
+3	ζημιά	ζημιά	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	κύκλωμά	κύκλωμα	No	NoCm	Ne|Sg|Nm	4	Sb	_	_	
+3	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	2	Pos	_	_	
+4	άναψε	ανάβω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+
+1	Με	με	AsPp	AsPpSp	_	0	ExD	_	_	
+2	μια	ένας	At	AtId	Fe|Sg|Ac	3	Det	_	_	
+3	ματιά	ματιά	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+4	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+
+1	πήραν	παίρνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Ac	3	Det	_	_	
+3	καλώδια	καλώδιο	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+4	φωτιά	φωτιά	No	NoCm	Fe|Sg|Ac	3	Atr	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	εκείνη	εκείνος	Pn	PnDm	Fe|03|Sg|Nm|Xx	4	Atr	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	ματιά	ματιά	No	NoCm	Fe|Sg|Nm	1	Pnom	_	_	
+5	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+
+1	μια	ένας	At	AtId	Fe|Sg|Ac	2	Det	_	_	
+2	ματιά	ματιά	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	αχ	αχ	Ij	Ij	_	6	Atr	_	_	
+5	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	6	Atr	_	_	
+6	ματιά	ματιά	No	NoCm	Fe|Sg|Nm	2	Atr	_	_	
+7	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+
+1	αστραπή	αστραπή	No	NoCm	Fe|Sg|Nm	2	ExD_Co	_	_	
+2	και	και	Cj	CjCo	_	0	Coord	_	_	
+3	κανονιά	κανονιά	No	NoCm	Fe|Sg|Nm	2	ExD_Co	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Αχ	αχ	Ij	Ij	_	1	AuxG	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	Πασχάλη	Πασχάλης	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Αχ	αχ	Ij	Ij	_	1	AuxG	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	Φανούρη	Φανούρης	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Ποποπό	Ποποπό	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	ρεζιλίκι	ρεζιλίκι	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	μαύρο	μαύρος	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+2	χάλι	χάλι	No	NoCm	Ne|Sg|Nm	1	Atr	_	_	
+3	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	αγάπησε	αγαπώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	κόρη	κόρη	No	NoCm	Fe|Sg|Nm	1	Sb	_	_	
+4	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	3	Pos	_	_	
+
+1	έναν	ένας	At	AtId	Ma|Sg|Ac	2	Det	_	_	
+2	Πασχάλη	Πασχάλης	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Άκου	ακούω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	όνομα	όνομα	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φανούρης	Φανούρης	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πρέπει	πρέπει	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	’ναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	1	Sb	_	_	
+4	στραβομούρης	στραβομούρης	Aj	Aj	Ba|Ma|Sg|Nm	3	Pnom	_	_	
+5	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	ακαμάτης	ακαμάτης	Aj	Aj	Ba|Ma|Sg|Nm	2	Pnom_Co	_	_	
+2	και	και	Cj	CjCo	_	0	Coord	_	_	
+3	μουντζούρης	μουντζούρης	Aj	Aj	Ba|Ma|Sg|Nm	2	Pnom_Co	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Άδικα	άδικα	Ad	Ad	Ba	4	Adv	_	_	
+3	τους	εγώ	Pn	PnPe	Ma|03|Pl|Ge|We	4	IObj	_	_	
+4	βάλατε	βάζω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	μαγνήτες	μαγνήτης	No	NoCm	Ma|Pl|Ac	4	Obj	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+7	στήθος	στήθος	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+8	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+9	για	για	AsPp	AsPpSp	_	4	AuxC	_	_	
+10	να	να	Pt	PtSj	_	11	AuxV	_	_	
+11	βρουν	βρίσκω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	9	Adv	_	_	
+12	εύκολα	εύκολα	Ad	Ad	Ba	11	Adv	_	_	
+13	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Ac	11	Obj	_	_	
+14	σύζυγο	σύζυγος	No	NoCm	Fe|Sg|Ac	13	Atr	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Αρκετά	αρκετά	Ad	Ad	Ba	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ακούς	ακούω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	εκεί	εκεί	Ad	Ad	Ba	1	Adv	_	_	
+3	άνθρωπο	άνθρωπος	No	NoCm	Ma|Sg|Ac	1	Obj	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ποτέ	ποτέ	Ad	Ad	Ba	4	Adv	_	_	
+2	δε	δε	Ad	Ad	Ba	4	Adv	_	_	
+3	θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+4	δώσω	δίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	τη	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	συγκατάθεσή	συγκατάθεση	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+7	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	6	Pos	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Χίλιες	χίλιοι	Nm	NmCd	Fe|Pl|Ac|Aj	2	Atr	_	_	
+2	φορές	φορά	No	NoCm	Fe|Pl|Ac	3	Adv	_	_	
+3	καλύτερα	καλά	Ad	Ad	Cp	5	Adv	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	παντρευτείτε	παντρεύω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	κομπρεσέρ	κομπρεσέρ	No	NoCm	Ne|Pl|Ac	5	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	Atr	_	_	
+2	Μα	μα	Cj	CjCo	_	1	AuxY	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	μπαμπά	μπαμπάς	No	NoCm	Ma|Sg|Ac	0	ExD	_	_	
+5	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Σουτ	σουτ	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ή	ή	Cj	CjCo	_	0	Coord	_	_	
+2	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Nm	3	ExD_Co	_	_	
+3	ή	ή	Cj	CjCo	_	1	Coord_Co	_	_	
+4	τίποτα	τίποτα	Pn	PnId	Ne|03|Sg|Ac|Xx	3	ExD_Co	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τίποτα	τίποτα	Pn	PnId	Ne|03|Sg|Ac|Xx	0	ExD	_	_	
+3	τότε	τότε	Ad	Ad	Ba	2	Adv	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τίποτα	τίποτα	Pn	PnId	Ne|03|Sg|Ac|Xx	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Μισό	μισός	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr	_	_	
+3	λεπτό	λεπτό	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	μεγάλε	μεγάλος	Aj	Aj	Ba|Ma|Sg|Vo	6	Atr	_	_	
+6	Ρομποτσίφ	Ρομποτσίφ	No	NoPr	Ma|Sg|Nm	3	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Επιτρέπετε	επιτρέπω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	4	AuxV	_	_	
+3	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ge|We	4	IObj	_	_	
+4	ψιθυρίσω	ψιθυρίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+5	κάτι	κάτι	Pn	PnId	Ne|03|Sg|Ac|Xx	4	Obj	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+7	ρουθούνι	ρουθούνι	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+8	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	7	Pos	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Σε	σε	AsPp	AsPpSp	_	0	ExD	_	_	
+3	ακούω	ακούω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Adv	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Ρομπογλύφ	Ρομπογλύφ	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	πλησιάζει	πλησιάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+4	τον	ο	At	AtDf	Ma|Sg|Ac	5	Det	_	_	
+5	Ρομποτσίφ	Ρομποτσίφ	No	NoPr	Ma|Sg|Ac	3	Obj	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	κάτι	κάτι	Pn	PnId	Ne|03|Sg|Ac|Xx	6	Pred_Co	_	_	
+8	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Ψιψιψιψι	Ψιψιψιψι	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Λες	λέγω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Γιατί	γιατί	Ad	Ad	Ba	0	ExD	_	_	
+3	όχι	όχι	Pt	PtNg	_	2	ExD_Co	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Κόρες	κόρη	No	NoCm	Fe|Pl|Nm	6	Sb	_	_	
+3	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	2	Pos	_	_	
+4	δε	δε	Ad	Ad	Ba	6	Adv	_	_	
+5	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	6	IObj	_	_	
+6	πάει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	να	να	Pt	PtSj	_	9	AuxV	_	_	
+8	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ge|We	9	IObj	_	_	
+9	χαλάσω	χαλώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	6	Obj	_	_	
+10	το	ο	At	AtDf	Ne|Sg|Ac	11	Det	_	_	
+11	χατίρι	χατίρι	No	NoCm	Ne|Sg|Ac	9	Obj	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	παντρευτείτε	παντρεύω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	τους	ο	At	AtDf	Ma|Pl|Ac	4	Det	_	_	
+4	νέους	νέος	Aj	Aj	Ba|Ma|Pl|Ac	2	Obj	_	_	
+5	που	που	Pn	PnRe	Ma|03|Sg|Nm|Xx	6	Sb	_	_	
+6	επιθυμείτε	επιθυμώ	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	4	Atr	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τον	ο	At	AtDf	Ma|Sg|Ac	3	Det	_	_	
+3	Πασχάλη	Πασχάλης	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Το	ο	At	AtDf	Ma|Sg|Ac	3	Det	_	_	
+3	Φανούρη	Φανούρης	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ακριβώς	ακριβώς	Ad	Ad	Ba	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	0	ExD	_	_	
+3	καλός	καλός	Aj	Aj	Ba|Ma|Sg|Nm	2	ExD	_	_	
+4	που	που	Pn	PnRe	Fe|03|Sg|Nm|Xx	5	Sb	_	_	
+5	είσαι	είμαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	3	Atr	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	μπαμπά	μπαμπάς	No	NoCm	Ma|Sg|Ac	5	Pnom	_	_	
+8	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	3	Obj	_	_	
+3	πετύχατε	πετυχαίνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	3	AuxP	_	_	
+5	καλές	καλός	Aj	Aj	Ba|Fe|Pl|Ac	4	Adv	_	_	
+6	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	5	Pos	_	_	
+7	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+8	πονηρούλες	πονηρούλες	No	NoCm	Fe|Pl|Nm	3	ExD	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πηγαίνετε	πηγαίνω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τώρα	τώρα	Ad	Ad	Ba	1	Adv	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πηγαίνετε	πηγαίνω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	παίξετε	παίζω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+6	μεκανό	μεκανό	Aj	Aj	Ba|Ne|Sg|Ac	4	Adv	_	_	
+7	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	6	Pos	_	_	
+8	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	Atr	_	_	
+2	Εξαιρετική	εξαιρετικός	Aj	Aj	Ba|Fe|Sg|Nm	4	Atr	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	ιδέα	ιδέα	No	NoCm	Fe|Sg|Nm	15	Sb	_	_	
+5	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	4	Pos	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	Ρομπογλύφ	Ρομπογλύφ	No	NoPr	Ma|Sg|Nm	4	Atr	_	_	
+8	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+9	να	να	Pt	PtSj	_	11	AuxV	_	_	
+10	τους	εγώ	Pn	PnPe	Ma|03|Pl|Ac|We	11	Obj	_	_	
+11	περάσουμε	περνώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	15	Sb_Co	_	_	
+12	από	από	AsPp	AsPpSp	_	11	AuxP	_	_	
+13	το	ο	At	AtDf	Ne|Sg|Ac	14	Det	_	_	
+14	μηχάνημα	μηχάνημα	No	NoCm	Ne|Sg|Ac	12	Adv	_	_	
+15	και	και	Cj	CjCo	_	0	Coord	_	_	
+16	να	να	Pt	PtSj	_	18	AuxV	_	_	
+17	τους	εγώ	Pn	PnPe	Ma|03|Pl|Ac|We	18	Obj	_	_	
+18	κάνουμε	κάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	15	Pred_Co	_	_	
+19	και	και	Cj	CjCo	_	22	AuxY	_	_	
+20	τους	ο	At	AtDf	Ma|Pl|Ac	22	Det	_	_	
+21	δύο	δύο	Nm	NmCd	Ne|Pl|Ac|Aj	22	Atr	_	_	
+22	ρομπότ	ρομπότ	No	NoCm	Ne|Pl|Ac	18	Obj	_	_	
+23	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σε	σε	AsPp	AsPpSp	_	0	ExD	_	_	
+2	συγχαίρω	συγχαίρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+2	τους	εγώ	Pn	PnPe	Ma|03|Pl|Ge|We	3	IObj	_	_	
+3	αλλάξουμε	αλλάζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	και	και	Cj	CjCo	_	5	AuxY	_	_	
+5	ονόματα	όνομα	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τον	ο	At	AtDf	Ma|Sg|Ac	2	Det	_	_	
+2	Πασχάλη	Πασχάλης	No	NoPr	Ma|Sg|Ac	5	Obj	_	_	
+3	θα	θα	Pt	PtFu	_	5	AuxV	_	_	
+4	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	5	Obj	_	_	
+5	βγάλουμε	βγάζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	Ρομποχάλι	Ρομποχάλι	No	NoPr	Ma|Sg|Nm	5	Pnom	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Όπως	όπως	Ad	Ad	Ba	3	Adv	_	_	
+3	νομίζετε	νομίζω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ειδοποίησε	ειδοποιώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	Ρομποσπιούν	Ρομποσπιούν	No	NoPr	Ne|Sg|Ac	2	Obj	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	εντοπίσει	εντοπίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	12	Obj_Co	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	συντομότερο	σύντομος	Aj	Aj	Cp|Ma|Sg|Ac	6	Obj	_	_	
+9	τους	ο	At	AtDf	Ma|Pl|Ac	10	Det	_	_	
+10	γαμπρούς	γαμπρός	No	NoCm	Ma|Pl|Ac	8	Obj	_	_	
+11	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	10	Pos	_	_	
+12	και	και	Cj	CjCo	_	2	Coord	_	_	
+13	να	να	Pt	PtSj	_	15	AuxV	_	_	
+14	τους	εγώ	Pn	PnPe	Ma|03|Pl|Ac|We	15	Obj	_	_	
+15	καλέσει	καλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	12	Obj_Co	_	_	
+16	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	15	AuxP	_	_	
+17	κυβερνείο	κυβερνείο	No	NoCm	Ne|Sg|Ac	16	IObj	_	_	
+18	να	να	Pt	PtSj	_	19	AuxV	_	_	
+19	αλλάξουνε	αλλάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	15	Obj	_	_	
+20	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

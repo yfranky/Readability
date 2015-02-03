@@ -1,0 +1,176 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Ένα	ένας	AtIdNeSgNm
+	SYN	/np_nm]
+1\4	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\6	TOK	δύο	δύο	NmCdNePlAcAj
+1\9	PUNCT	,	,	PUNCT
+1\11	TOK	τρία	τρεις	NmCdNePlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\15	PTERM_P	...	...	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\20	TOK	Ένα	ένας	AtIdNeSgNm
+	SYN	/np_nm]
+1\23	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\25	TOK	δύο	δύο	NmCdNePlAcAj
+1\28	PUNCT	,	,	PUNCT
+1\30	TOK	τρία	τρεις	NmCdNePlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\34	PUNCT	,	,	PUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\37	TOK	μη	μην	PtNg
+	SYN	[np_ac
+1\40	TOK	με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+1\43	TOK	βλέπεις	βλέπω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\51	TOK	μ'	με	AsPpSp
+	SYN	[np_ac
+1\54	TOK	απορία	απορία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\60	PUNCT	,	,	PUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\63	TOK	μάθε	μαθαίνω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\68	TOK	να	να	PtSj
+1\71	TOK	μετράς	μετρώ	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\78	TOK	σωστά	σωστά	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+1\83	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\86	TOK	Τέσσερα	τέσσερις	NmCdNePlAcAj
+1\93	PUNCT	,	,	PUNCT
+1\95	TOK	πέντε	πέντε	NmCdNePlAcAj
+1\100	PUNCT	,	,	PUNCT
+1\102	TOK	έξι	έξι	NmCdMaPlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\105	PUNCT	,	,	PUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[cl_ri
+	SYN	[np_nm
+1\108	TOK	όποιος	όποιος	PnRiMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[advp
+1\115	TOK	τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\120	TOK	με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\123	TOK	προσέξει	προσέχω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl_ri]
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\133	TOK	πάει	πηγαίνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\138	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\142	TOK	μάθημα	μάθημα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\149	TOK	μπροστά	μπροστά	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\156	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\159	TOK	Εφτά	επτά	NmCdNePlGeAj
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+1\163	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\165	TOK	οκτώ	οκτώ	NmCdNePlAcAj
+1\169	PUNCT	,	,	PUNCT
+1\171	TOK	εννιά	εννέα	NmCdMaPlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\176	PUNCT	,	,	PUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\179	TOK	θα	θα	PtFu
+	SYN	[np_ac
+1\182	TOK	τον	εγώ	PnPeMa03SgAcWe
+	SYN	/np_ac]
+1\186	TOK	μάθει	μαθαίνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\192	TOK	η	ο	AtDfFeSgNm
+1\194	TOK	γειτονιά	γειτονιά	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\202	PUNCT	,	,	PUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[cl_ri
+	SYN	[np_nm
+1\205	TOK	όποιος	όποιος	PnRiMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\212	TOK	μάθει	μαθαίνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\218	TOK	ως	ως	AdXxBa
+	SYN	/advp]
+1\221	TOK	το	ο	AtDfNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\224	TOK	δέκα	δέκα	NmCdNePlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_ri]
+	SYN	/np_nm]
+1\228	PUNCT	,	,	PUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\231	TOK	θα	θα	PtFu
+1\234	TOK	μετράει	μετρώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\242	TOK	κανονικά	κανονικά	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\250	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

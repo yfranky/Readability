@@ -1,0 +1,236 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Η	ο	AtDfFeSgNm
+1\3	TOK	Τζένη	Τζένη	NoPrFeSgNm
+	SYN	/np_nm]
+1\9	TOK	και	και	CjCo
+	SYN	[np_nm
+1\13	TOK	ο	ο	AtDfMaSgNm
+1\15	TOK	Κρίστοφερ	Κρίστοφερ	RgFwTr
+	SYN	/np_nm]
+	SYN	[vg
+1\25	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\31	TOK	οι	ο	AtDfMaPlNm
+1\34	TOK	γονείς	γονέας	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\41	TOK	του	ο	AtDfNeSgGe
+1\45	TOK	Ράσελ	Ράσελ	NoPrNeSgGe
+	SYN	/np_ge]
+1\51	TOK	και	και	CjCo
+	SYN	[np_ge
+1\55	TOK	της	ο	AtDfFeSgGe
+1\59	TOK	Άννυ	Άννυ	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\63	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\67	TOK	Η	ο	AtDfFeSgNm
+1\69	TOK	Τζένη	Τζένη	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\75	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\81	TOK	σύζυγος	σύζυγος	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\89	TOK	του	ο	AtDfMaSgGe
+1\93	TOK	Κρίστοφερ	Κρίστοφερ	RgFwTr
+	SYN	/np_ge]
+	SYN	/cl]
+1\102	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\105	TOK	Η	ο	AtDfFeSgNm
+1\107	TOK	Τζένη	Τζένη	NoPrFeSgNm
+	SYN	/np_nm]
+1\113	TOK	και	και	CjCo
+	SYN	[np_nm
+1\117	TOK	ο	ο	AtDfMaSgNm
+1\119	TOK	Κρίστοφερ	Κρίστοφερ	RgFwTr
+	SYN	/np_nm]
+	SYN	[vg
+1\129	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\135	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\142	TOK	τον	ο	AtDfMaSgAc
+1\146	TOK	Ράσελ	Ράσελ	NoPrMaSgAc
+	SYN	/np_ac]
+1\152	TOK	και	και	CjCo
+	SYN	[np_ac
+1\156	TOK	την	ο	AtDfFeSgAc
+1\160	TOK	Άννυ	Άννυ	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\164	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\168	TOK	Ο	ο	AtDfMaSgNm
+1\170	TOK	Ράσελ	Ράσελ	NoPrMaSgNm
+	SYN	/np_nm]
+1\176	TOK	κι	και	CjCo
+	SYN	[np_nm
+1\179	TOK	η	ο	AtDfFeSgNm
+1\181	TOK	Άννυ	Άννυ	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\186	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\192	TOK	αδέρφια	αδέρφι	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\199	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\202	TOK	Η	ο	AtDfFeSgNm
+1\204	TOK	Τζένη	Τζένη	NoPrFeSgNm
+	SYN	/np_nm]
+1\209	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\211	TOK	ο	ο	AtDfMaSgNm
+1\213	TOK	Κρίστοφερ	Κρίστοφερ	RgFwTr
+	SYN	/np_nm]
+1\222	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\224	TOK	ο	ο	AtDfMaSgNm
+1\226	TOK	Ράσελ	Ράσελ	NoPrMaSgNm
+	SYN	/np_nm]
+1\232	TOK	και	και	CjCo
+	SYN	[np_nm
+1\236	TOK	η	ο	AtDfFeSgNm
+1\238	TOK	Άννυ	Άννυ	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\243	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\249	TOK	μια	ένας	AtIdFeSgNm
+1\253	TOK	οικογένεια	οικογένεια	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\263	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\266	TOK	Ο	ο	AtDfMaSgNm
+1\268	TOK	Ντομινίκ	Ντομινίκ	RgFwTr
+	SYN	/np_nm]
+	SYN	[vg
+1\277	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\283	TOK	σύζυγος	σύζυγος	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\291	TOK	της	ο	AtDfFeSgGe
+1\295	TOK	Άννυ	Άννυ	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\299	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\302	TOK	Ο	ο	AtDfMaSgNm
+1\304	TOK	Κέβιν	Κέβιν	NoPrMaSgNm
+	SYN	/np_nm]
+1\310	TOK	και	και	CjCo
+	SYN	[np_nm
+1\314	TOK	η	ο	AtDfFeSgNm
+1\316	TOK	Λίλιαν	Λίλιαν	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\323	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\329	TOK	γονείς	γονέας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\336	TOK	τον	ο	AtDfMaSgAc
+1\340	TOK	Ντομινίκ	Ντομινίκ	RgFwTr
+	SYN	/np_ac]
+1\349	TOK	και	και	CjCo
+	SYN	[np_ac
+1\353	TOK	την	ο	AtDfFeSgAc
+1\357	TOK	Άννυ	Άννυ	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\361	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\364	TOK	Οι	ο	AtDfMaPlNm
+1\367	TOK	γονείς	γονέας	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\374	TOK	της	ο	AtDfFeSgGe
+1\378	TOK	Τζούλη	Τζούλη	NoPrFeSgGe
+	SYN	/np_ge]
+1\385	TOK	και	και	CjCo
+	SYN	[np_ge
+1\389	TOK	της	ο	AtDfFeSgGe
+1\393	TOK	Μαργαρίτας	Μαργαρίτα	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\404	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\410	TOK	ο	ο	AtDfMaSgNm
+1\412	TOK	Ράσελ	Ράσελ	NoPrMaSgNm
+	SYN	/np_nm]
+1\418	TOK	και	και	CjCo
+	SYN	[np_nm
+1\422	TOK	η	ο	AtDfFeSgNm
+1\424	TOK	Βίκυ	Βίκυ	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\428	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\432	TOK	Ο	ο	AtDfMaSgNm
+1\434	TOK	Κέβιν	Κέβιν	NoPrMaSgNm
+	SYN	/np_nm]
+1\440	TOK	και	και	CjCo
+	SYN	[np_nm
+1\444	TOK	η	ο	AtDfFeSgNm
+1\446	TOK	Λίλιαν	Λίλιαν	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\453	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\459	TOK	ξαδέρφια	ξαδέρφι	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\468	TOK	της	ο	AtDfFeSgGe
+1\472	TOK	Τζούλη	Τζούλη	NoPrFeSgGe
+	SYN	/np_ge]
+1\479	TOK	και	και	CjCo
+	SYN	[np_ge
+1\483	TOK	της	ο	AtDfFeSgGe
+1\487	TOK	Μαργαρίτας	Μαργαρίτα	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\497	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,52 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\2	TOK	Άννα	Άννα	NoPrFeSgAc
+	SYN	/np_ac]
+1\6	PUNCT	,	,	PUNCT
+1\8	TOK	πού	πού	AdXxBa
+	SYN	[vg
+1\12	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\18	TOK	τα	ο	AtDfNePlNm
+1\21	TOK	γυαλιά	γυαλί	NoCmNePlNm
+1\28	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\31	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\34	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\35	TOK	Τα	ο	AtDfNePlNm
+1\38	TOK	γυαλιά	γυαλί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\45	TOK	σου	εγώ	PnPeMa02SgGeWe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\49	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\52	TOK	φοράς	φορώ	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\57	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\59	TOK	Βλέπεις	βλέπω	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[advp
+1\67	TOK	πουθενά	πουθενά	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\75	TOK	την	ο	AtDfFeSgAc
+1\79	TOK	τσάντα	τσάντα	NoCmFeSgAc
+1\86	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_ac]
+1\89	PTERM_P	;	;	PTERM_P
+	)SENT	</S>

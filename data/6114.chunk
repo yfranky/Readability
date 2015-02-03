@@ -1,0 +1,156 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Κρίση	κρίση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\7	TOK	ταυτότητας	ταυτότητα	NoCmFeSgGe
+	SYN	/np_ge]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\19	TOK	Πολλές	πολύς	AjBaFePlNm
+	SYN	/adjp_nm]
+1\26	TOK	φορές	φορά	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\32	TOK	αναρωτιέμαι	αναρωτιέμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\44	TOK	γιατί	γιατί	CjSb
+	SYN	[vg
+1\50	TOK	δε	δεν	PtNg
+1\53	TOK	μοιάζω	μοιάζω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\60	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\63	TOK	τη	ο	AtDfFeSgAc
+1\66	TOK	μαμά	μαμά	NoCmFeSgAc
+1\71	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\74	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ge
+1\76	TOK	Μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\80	TOK	φαίνεται	φαίνομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\89	TOK	παράξενο	παράξενος	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\97	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\99	TOK	Όλα	όλος	AjBaNePlNm
+	SYN	/adjp_nm]
+1\103	TOK	τα	ο	AtDfNePlNm
+1\106	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\113	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\119	TOK	σαν	σαν	AdXxBa
+	SYN	[np_ac
+1\123	TOK	τη	ο	AtDfFeSgAc
+1\126	TOK	μαμά	μαμά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/advp]
+1\131	TOK	ή	ή	CjCo
+	SYN	[advp
+1\133	TOK	σαν	σαν	AdXxBa
+	SYN	[np_ac
+1\137	TOK	τον	ο	AtDfMaSgAc
+1\141	TOK	μπαμπά	μπαμπάς	NoCmMaSgAc
+1\148	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/advp]
+	SYN	/cl]
+1\152	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\154	TOK	Ο	ο	AtDfMaSgNm
+1\156	TOK	κτηνίατρος	κτηνίατρος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\167	TOK	προσπαθεί	προσπαθώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\177	TOK	να	να	PtSj
+	SYN	[np_ge
+1\180	TOK	μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+1\184	TOK	εξηγήσει	εξηγώ	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\192	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\194	TOK	Λέει	λέγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\199	TOK	πως	πως	CjSb
+	SYN	[np_ac
+1\203	TOK	τέτοια	τέτοιος	PnDmFe03SgAcXx
+	SYN	/np_ac]
+	SYN	[np_ac
+1\210	TOK	μωρά	μωρό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[vg
+1\215	TOK	γεννιούνται	γεννώ	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_o]
+	SYN	[cl_t
+1\227	TOK	όταν	όταν	CjSb
+	SYN	[vg
+1\232	TOK	διασταυρώνεται	διασταυρώνω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\247	TOK	ζέβρα	ζέβρα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\253	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\256	TOK	πόνι	πόνι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_t]
+1\260	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\262	TOK	Κι	και	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\265	TOK	αυτό	αυτός	PnDmNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\270	TOK	συμβαίνει	συμβαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\280	TOK	πολύ	πολύ	AdXxBa
+1\285	TOK	σπάνια	σπάνια	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\291	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

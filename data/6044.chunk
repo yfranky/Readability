@@ -1,0 +1,161 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Η	ο	AtDfFeSgNm
+1\3	TOK	θέρμανση	θέρμανση	NoCmFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\13	TOK	Η	ο	AtDfFeSgNm
+1\15	TOK	φωτιά	φωτιά	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\21	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\26	TOK	μια	ένας	NmCdFeSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\30	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\34	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\38	TOK	σημαντικότερες	σημαντικός	AjCpFePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\53	TOK	ανακαλύψεις	ανακαλύπτω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\65	TOK	του	ο	AtDfMaSgGe
+1\69	TOK	ανθρώπου	άνθρωπος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\77	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\79	TOK	Μέχρι	μέχρι	AsPpSp
+	SYN	[advp
+1\85	TOK	πριν	πριν	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	[pp
+1\90	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\94	DIG	200	200	DIG
+1\98	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\105	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+1\112	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\114	TOK	οι	ο	AtDfMaPlNm
+1\117	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\126	TOK	των	ο	AtDfFePlGe
+	SYN	[adjp_ge
+1\130	TOK	ψυχρών	ψυχρός	AjBaFePlGe
+	SYN	/adjp_ge]
+1\137	TOK	περιοχών	περιοχή	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	[vg
+1\146	TOK	χρησιμοποιούσαν	χρησιμοποιώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\162	TOK	σχεδόν	σχεδόν	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\169	TOK	αποκλειστικά	αποκλειστικά	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\182	TOK	τη	ο	AtDfFeSgAc
+1\185	TOK	φωτιά	φωτιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\191	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\195	TOK	τη	ο	AtDfFeSgAc
+1\198	TOK	θέρμανσή	θέρμανση	NoCmFeSgAc
+1\207	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\211	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\213	TOK	Μετά	μετά	AsPpSp
+	SYN	[np_ac
+1\218	TOK	το	ο	AtDfNeSgAc
+1\221	DIG	1850	1850	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\226	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+1\233	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\235	TOK	το	ο	AtDfNeSgNm
+1\238	TOK	υγραέριο	υγραέριο	NoCmNeSgNm
+	SYN	/np_nm]
+1\247	TOK	και	και	CjCo
+	SYN	[np_nm
+1\251	TOK	ο	ο	AtDfMaSgNm
+1\253	TOK	ηλεκτρισμός	ηλεκτρισμός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\265	TOK	έφεραν	φέρω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\272	TOK	πραγματική	πραγματικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\283	TOK	επανάσταση	επανάσταση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\294	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\299	TOK	τρόπο	τρόπος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\305	TOK	θέρμανσης	θέρμανση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\315	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\319	TOK	οδήγησαν	οδηγώ	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\328	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\333	TOK	εφεύρεση	εφεύρεση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\342	TOK	πολλών	πολύς	AjBaNePlGe
+1\349	TOK	θερμαντικών	θερμαντικός	AjBaNePlGe
+	SYN	/adjp_ge]
+1\361	TOK	μέσων	μέσο	NoCmNePlGe
+	SYN	/np_ge]
+1\367	TOK	και	και	CjCo
+	SYN	[np_ge
+1\371	TOK	συστημάτων	σύστημα	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\381	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,79 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Εμπρός	εμπρός	Ad	Ad	Ba	0	ExD	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Γεια	γεια	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	2	Pos	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	Θωμάς	Θωμάς	No	NoPr	Ma|Sg|Nm	1	Pnom	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μπορώ	μπορώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	μιλήσω	μιλώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	3	AuxP	_	_	
+5	Αχμέτ	Αχμέτ	No	NoPr	Ma|Sg|Ac	4	Adv	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Γεια	γεια	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	2	Pos	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	Θωμά	Θωμάς	No	NoPr	Ma|Sg|Ac	2	Atr	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Αχμέτ	Αχμέτ	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+5	αυλή	αυλή	No	NoCm	Fe|Sg|Ac	4	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Περίμενε	περιμένω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	4	AuxV	_	_	
+3	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	4	Obj	_	_	
+4	φωνάξω	φωνάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Θωμά	Θωμάς	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	5	Obj	_	_	
+5	κάνεις	κάνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	καλά	καλά	Ad	Ad	Ba	2	Adv	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εσείς	εγώ	Pn	PnPe	Ma|02|Pl|Nm|St	3	Sb	_	_	
+2	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+3	κάνετε	κάνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Είμαστε	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	2	Pnom	_	_	
+4	καλά	καλά	Ad	Ad	Ba	2	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Χτες	χθες	Ad	Ad	Ba	2	Adv	_	_	
+2	πήραμε	παίρνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	γράμμα	γράμμα	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+5	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	4	Pos	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πώς	πώς	Ad	Ad	Ba	2	Adv	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Nm	4	Det	_	_	
+4	καινούριο	καινούριος	Aj	Aj	Ba|Ne|Sg|Nm	2	Pnom	_	_	
+5	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	6	Atr	_	_	
+6	σχολείο	σχολείο	No	NoCm	Ne|Sg|Nm	4	Atr	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

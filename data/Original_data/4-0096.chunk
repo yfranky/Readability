@@ -1,0 +1,149 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	ΑΘΛΗΤΕΣ	αθλητής	NoCmMaPlNm
+1\9	TOK	KAI	KAI	RgFwOr
+	SYN	/np_nm]
+	SYN	[np_ac
+1\13	TOK	ΑΘΛΗΜΑΤΑ	άθλημα	NoCmNePlAc
+	SYN	/np_ac]
+1\21	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\24	TOK	Ο	ο	AtDfMaSgNm
+1\26	TOK	ποδοσφαιριστής	ποδοσφαιριστής	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\41	TOK	Ντέιβιντ	Ντέιβιντ	NoPrMaSgAc
+1\50	TOK	Μπέκαμ	Μπέκαμ	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\57	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\63	TOK	ένας	ένας	NmCdMaSgNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\68	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\72	TOK	τους	ο	AtDfMaPlAc
+	SYN	[adjp_ac
+	SYN	[advp
+1\77	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\81	TOK	διάσημους	διάσημος	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\91	TOK	παίκτες	παίκτης	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\99	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\103	TOK	ποδόσφαιρο	ποδόσφαιρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\113	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\116	TOK	Ο	ο	AtDfMaSgNm
+1\118	TOK	Νίκος	Νίκος	NoPrMaSgNm
+1\124	TOK	Γκάλης	Γκάλης	NoPrMaSgNm
+	SYN	/np_nm]
+1\130	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\132	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\134	TOK	κορυφαίος	κορυφαίος	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\144	TOK	Έλληνας	Έλληνας	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\152	TOK	μπασκετμπολίστας	μπασκετμπολίστας	NoCmMaSgNm
+	SYN	/np_nm]
+1\168	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\170	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\175	TOK	ένας	ένας	NmCdMaSgNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\180	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\184	TOK	τους	ο	AtDfMaPlAc
+	SYN	[adjp_ac
+1\189	TOK	καλύτερους	καλός	AjCpMaPlAc
+	SYN	/adjp_ac]
+1\200	TOK	παίκτες	παίκτης	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\208	TOK	του	ο	AtDfNeSgGe
+1\212	TOK	μπάσκετ	μπάσκετ	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\220	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\225	TOK	Ευρώπη	Ευρώπη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\232	TOK	τη	ο	AtDfFeSgAc
+1\235	TOK	δεκαετία	δεκαετία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\244	TOK	του	ο	AtDfMaSgGe
+1\248	DATE	'80	'80	DATE
+	SYN	/np_ge]
+	SYN	/cl]
+1\251	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\254	TOK	Ο	ο	AtDfMaSgNm
+1\256	TOK	Πύρρος	Πύρρος	NoPrMaSgNm
+1\263	TOK	Δήμας	Δήμας	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\269	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\275	TOK	αρσιβαρίστας	αρσιβαρίστας	NoCmMaSgNm
+	SYN	/np_nm]
+1\287	PUNCT	,	,	PUNCT
+1\289	TOK	και	και	CjCo
+	SYN	[advp
+1\293	TOK	μάλιστα	μάλιστα	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\301	TOK	παγκόσμιος	παγκόσμιος	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\312	TOK	πρωταθλητής	πρωταθλητής	NoCmMaSgNm
+	SYN	/np_nm]
+1\324	TOK	και	και	CjCo
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\328	TOK	Χρυσός	χρυσός	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\335	TOK	Ολυμπιονίκης	ολυμπιονίκης	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\348	TOK	της	ο	AtDfFeSgGe
+1\352	TOK	άρσης	άρση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\358	TOK	βαρών	βάρος	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\363	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

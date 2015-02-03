@@ -1,0 +1,694 @@
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	Βιολογικό	βιολογικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\11	TOK	σούπερ	σούπερ	AjBaNePlNm
+	SYN	/adjp_nm]
+1\18	TOK	μάρκετ	μάρκετ	NoCmNePlNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\26	TOK	Στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\31	TOK	γιορτές	γιορτή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\39	TOK	βρήκα	βρίσκω	VbMnIdPa01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\45	TOK	την	ο	AtDfFeSgAc
+1\49	TOK	ευκαιρία	ευκαιρία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\58	TOK	να	να	PtSj
+1\61	TOK	επισκεφθώ	επισκέπτομαι	VbMnIdXx01SgXxPePvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\71	TOK	ένα	ένας	AtIdNeSgAc
+1\75	TOK	μέρος	μέρος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\81	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\85	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+1\90	TOK	στα	στου	AsPpPaNePlAc
+1\94	OPUNCT	«	«	OPUNCT
+	SYN	[pp
+1\95	TOK	υπ’	υπό	AsPpSp
+	SYN	[np_ac
+1\99	TOK	όψιν	όψη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\103	CPUNCT	»	»	CPUNCT
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\104	PUNCT	,	,	PUNCT
+1\106	TOK	αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[pp
+1\111	TOK	λόγω	λόγω	AsPpSp
+	SYN	[np_ge
+1\116	TOK	απόστασης	απόσταση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[vg
+1\126	TOK	δεν	δεν	PtNg
+	SYN	[np_ac
+1\130	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+1\133	TOK	είχα	έχω	VbMnIdPa01SgXxIpAvXx
+1\138	TOK	καταφέρει	καταφέρνω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\147	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\149	TOK	Ευτυχώς	ευτυχώς	AdXxBa
+	SYN	/advp]
+	SYN	[cl_r
+	SYN	[pou_advp
+1\157	TOK	που	που	AdXxBa
+	SYN	/pou_advp]
+	SYN	[np_ac
+1\161	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\164	TOK	έκανα	κάνω	VbMnIdPa01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	[cl_o
+1\170	TOK	γιατί	γιατί	CjSb
+	SYN	[pp
+1\176	TOK	για	για	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\180	TOK	πρώτη	πρώτος	NmOdFeSgAcAj
+	SYN	/adjp_ac]
+1\186	TOK	φορά	φορά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\191	TOK	αισθάνθηκα	αισθάνομαι	VbMnIdPa01SgXxPePvXx
+	SYN	/vg]
+	SYN	/cl_o]
+	SYN	[cl_o
+1\202	TOK	ότι	ότι	CjSb
+1\206	TOK	το	ο	AtDfNeSgNm
+	SYN	[vg_s
+1\209	TOK	να	να	PtSj
+1\212	TOK	ψωνίζει	ψωνίζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+1\220	TOK	κάποιος	κάποιος	PnIdMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\228	TOK	βιολογικά	βιολογικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\238	TOK	τρόφιμα	τρόφιμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+	SYN	[vg
+1\246	TOK	δεν	δεν	PtNg
+1\250	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\256	TOK	μια	ένας	AtIdFeSgNm
+	SYN	[adjp_nm
+1\260	TOK	μίζερη	μίζερος	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\267	TOK	διαδικασία	διαδικασία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\278	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[np_ge
+1\282	TOK	μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\286	TOK	επιβάλλει	επιβάλλω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\296	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\298	TOK	οικολογική	οικολογικός	AjBaFeSgNm
+1\309	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/adjp_nm]
+1\313	TOK	συνείδηση	συνείδηση	NoCmFeSgNm
+	SYN	/np_nm]
+1\322	PUNCT	,	,	PUNCT
+1\324	TOK	αλλά	αλλά	CjCo
+	SYN	[np_ac
+1\329	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\333	TOK	συνειδητή	συνειδητός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\343	TOK	επιλογή	επιλογή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\350	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_g
+	SYN	[vg_g
+1\353	TOK	Φθάνοντας	φτάνω	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[pp
+1\363	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\367	TOK	μαγαζί	μαγαζί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_g]
+	SYN	[cl
+	SYN	[vg
+1\374	TOK	βρήκα	βρίσκω	VbMnIdPa01SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\380	TOK	να	να	PtSj
+1\383	TOK	παρκάρω	παρκάρω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\391	TOK	ακριβώς	ακριβώς	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\399	TOK	απ’	από	AsPpSp
+	SYN	[advp
+1\403	TOK	έξω	έξω	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	[pp
+1\407	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\410	TOK	ειδικά	ειδικά	AdXxBa
+	SYN	/advp]
+1\417	TOK	διαμορφωμένο	διαμορφωμένος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\430	TOK	πεζοδρόμιο	πεζοδρόμιο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\440	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\442	TOK	κάτι	κάτι	PnIdNe03SgNmXx
+	SYN	[adjp_nm
+	SYN	[advp
+1\447	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+1\452	TOK	σημαντικό	σημαντικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[cl_t
+1\462	TOK	όταν	όταν	CjSb
+	SYN	[vg
+1\467	TOK	έχεις	έχω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_t]
+	SYN	[cl_o
+	SYN	[vg_s
+1\473	TOK	να	να	PtSj
+1\476	TOK	ψωνίσεις	ψωνίζω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\485	TOK	κάτι	κάτι	PnIdNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[advp
+1\490	TOK	παραπάνω	παραπάνω	AdXxBa
+	SYN	[pp
+1\499	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\503	TOK	ένα	ένας	AtIdNeSgAc
+1\507	TOK	μήλο	μήλο	NoCmNeSgAc
+	SYN	/np_ac]
+1\512	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\514	TOK	ένα	ένας	AtIdNeSgAc
+1\518	TOK	πακέτο	πακέτο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[np_ac
+1\525	TOK	μακαρόνια	μακαρόνι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\534	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\536	TOK	Εντός	εντός	AdXxBa
+	SYN	[np_ge
+1\542	TOK	του	ο	AtDfNeSgGe
+1\546	TOK	καταστήματος	κατάστημα	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/advp]
+1\558	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\560	TOK	τώρα	τώρα	AdXxBa
+	SYN	/advp]
+1\564	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\566	TOK	βρήκα	βρίσκω	VbMnIdPa01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\572	TOK	τα	ο	AtDfNePlAc
+1\575	TOK	πάντα	πάν	NoCmNePlAc
+	SYN	/np_ac]
+1\581	TOK	ή	ή	CjCo
+	SYN	[advp
+1\583	TOK	σχεδόν	σχεδόν	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\590	TOK	τα	ο	AtDfNePlAc
+1\593	TOK	πάντα	πάν	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\598	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\600	TOK	Για	για	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\604	TOK	πρώτη	πρώτος	NmOdFeSgAcAj
+	SYN	/adjp_ac]
+1\610	TOK	φορά	φορά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\615	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\620	TOK	καριέρα	καριέρα	NoCmFeSgAc
+1\628	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\632	TOK	ως	ως	AdXxBa
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\635	TOK	βιολογική	βιολογικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\645	TOK	καταναλώτρια	καταναλώτρια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/advp]
+	SYN	[vg
+1\658	TOK	μπορούσα	μπορώ	VbMnIdPa01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\667	TOK	να	να	PtSj
+1\670	TOK	διαλέξω	διαλέγω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\678	TOK	ανάμεσα	ανάμεσα	AdXxBa
+	SYN	[pp
+1\686	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\689	TOK	πέντε	πέντε	NmCdFePlAcAj
+	SYN	/adjp_ac]
+1\695	TOK	μάρκες	μάρκα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\702	TOK	ζυμαρικών	ζυμαρικό	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl_o]
+1\711	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+	SYN	[vg_s
+1\713	TOK	να	να	PtSj
+1\716	TOK	αγοράσω	αγοράζω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+1\724	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\728	TOK	λευκή	λευκός	AjBaFeSgAc
+1\734	TOK	και	και	CjCo
+1\738	TOK	μαύρη	μαύρος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\744	TOK	ζάχαρη	ζάχαρη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\750	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+	SYN	[vg_s
+1\752	TOK	να	να	PtSj
+1\755	TOK	επιλέξω	επιλέγω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\763	TOK	το	ο	AtDfNeSgAc
+1\766	TOK	είδος	είδος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\772	TOK	του	ο	AtDfNeSgGe
+1\776	TOK	αλευριού	αλεύρι	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\785	TOK	που	που	PnReNe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\789	TOK	προτιμώ	προτιμώ	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\796	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\798	TOK	Κυρίως	κυρίως	AdXxBa
+	SYN	/advp]
+1\804	PUNCT	,	,	PUNCT
+1\806	TOK	όμως	όμως	CjCo
+1\810	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\812	TOK	βρήκα	βρίσκω	VbMnIdPa01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\818	TOK	φρούτα	φρούτο	NoCmNePlNm
+	SYN	/np_nm]
+1\825	TOK	και	και	CjCo
+	SYN	[np_ac
+1\829	TOK	λαχανικά	λαχανικό	NoCmNePlAc
+	SYN	[adjp_ac
+	SYN	[advp
+1\838	TOK	πραγματικά	πραγματικά	AdXxBa
+	SYN	/advp]
+1\849	TOK	φρέσκα	φρέσκος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\856	TOK	και	και	CjCo
+	SYN	[pp
+1\860	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\863	TOK	μεγάλη	μεγάλος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\870	TOK	ποικιλία	ποικιλία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\878	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\880	TOK	Πολλά	πολύς	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[advp
+1\886	TOK	βέβαια	βέβαια	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\893	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\898	TOK	εισαγωγής	εισαγωγή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\907	PUNCT	,	,	PUNCT
+1\909	TOK	αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\914	TOK	αυτό	αυτός	PnDmNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\919	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\925	TOK	γενικότερο	γενικός	AjCpMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_nm
+1\936	TOK	πρόβλημα	πρόβλημα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\945	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\949	TOK	ελληνικής	ελληνικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\959	TOK	αγοράς	αγορά	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\965	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\967	TOK	Η	ο	AtDfFeSgNm
+1\969	TOK	ποικιλία	ποικιλία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[advp
+1\978	TOK	επίσης	επίσης	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\985	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\988	TOK	τυριά	τυρί	NoCmNePlAc
+	SYN	/np_ac]
+1\994	TOK	και	και	CjCo
+	SYN	[np_ac
+1\998	TOK	αλλαντικά	αλλαντικό	NoCmNePlAc
+	SYN	/np_ac]
+1\1007	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1009	TOK	συσκευασμένα	συσκευασμένος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+1\1022	TOK	και	και	CjCo
+	SYN	[advp
+1\1026	TOK	χύμα	χύμα	AdXxBa
+	SYN	/advp]
+1\1030	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\1032	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1038	TOK	αξιοσημείωτη	αξιοσημείωτος	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\1050	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1052	TOK	Η	ο	AtDfFeSgNm
+1\1054	TOK	έκπληξη	έκπληξη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1062	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\1068	TOK	ότι	ότι	CjSb
+	SYN	[vg
+1\1072	TOK	μπορείς	μπορώ	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1080	TOK	να	να	PtSj
+1\1083	TOK	προμηθευτείς	προμηθεύω	VbMnIdXx02SgXxPePvXx
+	SYN	/vg_s]
+1\1096	TOK	και	και	CjCo
+	SYN	[np_nm
+1\1100	TOK	κρέας	κρέας	NoCmNeSgNm
+	SYN	/np_nm]
+1\1105	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1107	TOK	μοσχάρι	μοσχάρι	NoCmNeSgAc
+	SYN	/np_ac]
+1\1114	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1116	TOK	χοιρινό	χοιρινός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\1124	TOK	και	και	CjCo
+	SYN	[np_ac
+1\1128	TOK	κοτόπουλο	κοτόπουλο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[advp
+1\1138	TOK	κυρίως	κυρίως	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+1\1144	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\1146	TOK	Στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\1150	TOK	κατάστημα	κατάστημα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\1160	TOK	επίσης	επίσης	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\1167	TOK	πωλούνται	πωλώ	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+1\1177	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1181	TOK	βιολογικά	βιολογικός	AjBaNePlAc
+1\1191	TOK	απορρυπαντικά	απορρυπαντικός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\1204	PUNCT	,	,	PUNCT
+1\1206	TOK	ενώ	ενώ	CjCo
+	SYN	[cl
+	SYN	[vg
+1\1210	TOK	υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+1\1219	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1223	TOK	βιολογικά	βιολογικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1233	TOK	αφεψήματα	αφέψημα	NoCmNePlAc
+	SYN	/np_ac]
+1\1243	TOK	και	και	CjCo
+	SYN	[np_ac
+1\1247	TOK	μπαχαρικά	μπαχαρικό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1256	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1258	TOK	Όταν	όταν	CjSb
+	SYN	[cl
+	SYN	[vg
+1\1263	TOK	πλήρωσα	πληρώνω	VbMnIdPa01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\1271	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\1275	TOK	ταμείο	ταμείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\1282	OPUNCT	(	(	OPUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\1283	TOK	οι	ο	AtDfFePlNm
+1\1286	TOK	τιμές	τιμή	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1292	TOK	ήταν	είμαι	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\1297	TOK	λίγο	λίγο	AdXxBa
+	SYN	/advp]
+1\1302	TOK	τσιμπημένες	τσιμπημένος	AjBaFePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\1313	CPUNCT	)	)	CPUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1315	TOK	δύο	δύο	NmCdFePlAcAj
+1\1319	TOK	ευγενέστατες	ευγενής	AjSuFePlAc
+	SYN	/adjp_ac]
+1\1332	TOK	κοπέλες	κοπέλα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[np_ac
+1\1340	TOK	με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\1343	TOK	βοήθησαν	βοηθώ	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1352	TOK	να	να	PtSj
+1\1355	TOK	μεταφέρω	μεταφέρω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\1364	TOK	τα	ο	AtDfNePlAc
+1\1367	TOK	πράγματα	πράγμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1376	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\1380	TOK	αυτοκίνητο	αυτοκίνητο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\1391	PUNCT	–	–	PUNCT
+	SYN	[advp
+1\1393	TOK	ευτυχώς	ευτυχώς	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+1\1400	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\1402	TOK	γιατί	γιατί	CjSb
+	SYN	[np_nm
+1\1408	TOK	οι	ο	AtDfFePlNm
+	SYN	[adjp_nm
+1\1411	TOK	ανακυκλώσιμες	ανακυκλώσιμος	AjBaFePlNm
+	SYN	/adjp_nm]
+1\1425	TOK	σακούλες	σακούλα	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\1434	TOK	που	που	PnReFe03PlAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\1438	TOK	διαθέτει	διαθέτω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1447	TOK	το	ο	AtDfNeSgNm
+1\1450	TOK	κατάστημα	κατάστημα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl_r]
+	SYN	[vg
+1\1460	TOK	δεν	δεν	PtNg
+1\1464	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1470	TOK	ό,τι	ό,τι	PnRiNe03SgAcXx
+	SYN	[adjp_ac
+	SYN	[advp
+1\1475	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\1479	TOK	γερό	γερός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\1483	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

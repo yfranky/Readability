@@ -1,0 +1,66 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	ENUM	-	-	ENUM
+	SYN	[vg
+1\2	TOK	Λέγετε	λέγω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\8	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\11	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\12	TOK	Τον	ο	AtDfMaSgAc
+	SYN	[adjp_ac
+1\16	TOK	κύριο	κύριος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\22	TOK	Δεληγιάννη	Δεληγιάννης	NoPrMaSgAc
+	SYN	/np_ac]
+1\32	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\34	TOK	παρακαλώ	παρακαλώ	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\42	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\45	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\46	TOK	Λάθος	λάθος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\52	TOK	κάνετε	κάνω	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\58	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\61	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\62	TOK	Με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\65	TOK	συγχωρείτε	συγχωρώ	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\76	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\80	TOK	την	ο	AtDfFeSgAc
+1\84	TOK	ενόχληση	ενόχληση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\92	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\95	ENUM	-	-	ENUM
+	SYN	[vg
+1\96	TOK	Παρακαλώ	παρακαλώ	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\104	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

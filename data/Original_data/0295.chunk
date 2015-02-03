@@ -1,0 +1,141 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	Μεγάλη	μεγάλος	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\8	TOK	εταιρεία	εταιρεία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\17	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\21	TOK	εδρεύει	εδρεύω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\29	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\34	TOK	Ξάνθη	Ξάνθη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	[vg
+1\40	TOK	στελεχώνει	στελεχώνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\51	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\54	TOK	νέα	νέος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\58	TOK	της	ο	AtDfFeSgGe
+	SYN	[np_ac
+1\62	TOK	γραφεία	γραφείο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\70	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\74	TOK	επιλέγει	επιλέγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\83	TOK	άτομα	άτομο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\89	TOK	από	από	AsPpSp
+	SYN	[np_ge
+1\93	DIG	18-30	18-30	DIG
+1\99	TOK	ετών	έτος	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\103	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\105	TOK	Περιλαμβάνεται	περιλαμβάνω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\120	TOK	εκπαίδευση	εκπαίδευση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\131	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\134	TOK	όλους	όλος	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\140	TOK	τους	ο	AtDfMaPlAc
+1\145	TOK	τομείς	τομέας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\151	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\153	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\156	TOK	πλήρες	πλήρης	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\163	TOK	πακέτο	πακέτο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\170	TOK	αμοιβών	αμοιβή	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\177	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\179	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\182	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\186	TOK	δυναμικό	δυναμικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\195	TOK	περιβάλλον	περιβάλλον	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\205	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\207	TOK	Η	ο	AtDfFeSgNm
+1\209	TOK	προϋπηρεσία	προϋπηρεσία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\221	TOK	δεν	δεν	PtNg
+1\225	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\231	TOK	απαραίτητη	απαραίτητος	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\241	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\243	TOK	Για	για	AsPpSp
+	SYN	[np_ac
+1\247	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\251	TOK	άμεση	άμεσος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\257	TOK	συνέντευξη	συνέντευξη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\268	TOK	καλέστε	καλώ	VbMnMpXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\276	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\280	DIG	2541022980	2541022980	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\290	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

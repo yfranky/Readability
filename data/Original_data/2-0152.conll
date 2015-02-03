@@ -1,0 +1,87 @@
+1	Κυριακή	Κυριακή	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+2	πρωί	πρωί	No	NoCm	Ne|Sg|Ac	1	Atr	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	έξω	έξω	Ad	Ad	Ba	1	Adv	_	_	
+5	από	από	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+8	της	ο	At	AtDf	Fe|Sg|Ge	9	Det	_	_	
+9	Λένας	Λένα	No	NoPr	Fe|Sg|Ge	7	Atr	_	_	
+
+1	-	-	ENUM	ENUM	_	4	AuxG	_	_	
+2	Καινούριο	καινούριος	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr	_	_	
+3	ποδήλατο	ποδήλατο	No	NoCm	Ne|Sg|Ac	4	Obj_Co	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	ζημιά	ζημιά	No	NoCm	Fe|Sg|Ac	4	ExD_Co	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Κι	και	Cj	CjCo	_	3	AuxY	_	_	
+3	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	1	Sb	_	_	
+4	που	που	Pn	PnRe	Fe|03|Sg|Nm|Xx	5	Sb	_	_	
+5	έλεγα	λέγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Atr	_	_	
+6	πως	πως	Cj	CjSb	_	5	AuxC	_	_	
+7	θα	θα	Pt	PtFu	_	8	AuxV	_	_	
+8	σκίσω	σκίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	6	Obj	_	_	
+9	σήμερα	σήμερα	Ad	Ad	Ba	8	Adv	_	_	
+10	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πού	πού	Ad	Ad	Ba	3	Adv	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	οι	ο	At	AtDf	Fe|Pl|Nm	5	Det	_	_	
+5	άλλοι	άλλος	Pn	PnId	Ma|03|Pl|Nm|Xx	3	Sb	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	ήρθαν	έρχομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	ακόμη	ακόμα	Ad	Ad	Ba	3	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ας	ας	Pt	PtOt	_	2	AuxV	_	_	
+2	περιμένουμε	περιμένω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	λίγο	λίγο	Ad	Ad	Ba	2	Adv	_	_	
+4	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μετά	μετά	Ad	Ad	Ba	0	ExD	_	_	
+2	από	από	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	αρκετή	αρκετός	Pn	PnId	Fe|03|Sg|Nm|Xx	4	Atr	_	_	
+4	ώρα	ώρα	No	NoCm	Fe|Sg|Nm	2	Adv	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+3	γίνατε	γίνομαι	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+5	βρε	βρε	Ij	Ij	_	6	Atr	_	_	
+6	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	3	ExD	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ζημιά	ζημιά	No	NoCm	Fe|Sg|Nm	2	ExD_Co	_	_	
+2	κι	και	Cj	CjCo	_	0	Coord	_	_	
+3	εσείς	εγώ	Pn	PnPe	Ma|02|Pl|Nm|St	2	ExD_Co	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Μεγάλη	μεγάλος	Aj	Aj	Ba|Fe|Sg|Nm	3	Atr	_	_	
+3	περιπέτεια	περιπέτεια	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μας	εγώ	Pn	PnPe	Ma|01|Pl|Ac|We	2	Obj	_	_	
+2	έκρυψαν	κρύβω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τα	ο	At	AtDf	Ne|Pl|Ac	4	Det	_	_	
+4	ποδήλατα	ποδήλατο	Aj	Aj	Ba|Ne|Pl|Ac	2	Obj	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	3	AuxY	_	_	
+2	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	3	Obj	_	_	
+3	λέμε	λέγω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	3	AuxP	_	_	
+5	δρόμο	δρόμος	No	NoCm	Ma|Sg|Ac	4	IObj	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

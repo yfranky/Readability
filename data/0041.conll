@@ -1,0 +1,36 @@
+1	Στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	4	AuxP	_	_	
+2	λαϊκή	λαϊκός	Aj	Aj	Ba|Fe|Sg|Ac	3	Atr	_	_	
+3	αγορά	αγορά	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+4	πουλάνε	πουλώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	φρούτα	φρούτο	No	NoCm	Ne|Pl|Nm	8	Sb_Co	_	_	
+6	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+7	λαχανικά	λαχανικό	No	NoCm	Ne|Pl|Ac	8	Adv_Co	_	_	
+8	και	και	Cj	CjCo	_	4	Coord	_	_	
+9	ρούχα	ρούχο	No	NoCm	Ne|Pl|Ac	8	Sb_Co	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	2	Sb	_	_	
+2	ψωνίζουν	ψωνίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πουλάω	πουλώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	φτηνά	φτηνός	Ad	Ad	Ba	2	Adv	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γίνεται	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	μεγάλη	μεγάλος	Aj	Aj	Ba|Fe|Sg|Nm	3	Atr	_	_	
+3	φασαρία	φασαρία	No	NoCm	Fe|Sg|Nm	1	Sb	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πατάτες	πατάτα	No	NoCm	Fe|Pl|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ότι	ότι	Cj	CjSb	_	0	AuxC	_	_	
+3	πάρεις	παίρνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	2	ExD_Co	_	_	
+4	τρία	τρεις	Nm	NmCd	Ne|Pl|Ac|Aj	5	Atr	_	_	
+5	ευρώ	ευρώ	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	!	!	PTERM_P	PTERM_P	_	2	AuxK	_	_	
+

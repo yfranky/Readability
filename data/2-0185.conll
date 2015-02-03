@@ -1,0 +1,57 @@
+1	Πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Nm	2	Atr	_	_	
+2	ελληνόπουλα	ελληνόπουλο	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	ζούσαν	ζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	8	Pred_Co	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τις	ο	At	AtDf	Fe|Pl|Ac	6	Det	_	_	
+6	οικογένειες	οικογένεια	No	NoCm	Fe|Pl|Ac	4	Adv	_	_	
+7	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	6	Pos	_	_	
+8	και	και	Cj	CjCo	_	0	Coord	_	_	
+9	τότε	τότε	Ad	Ad	Ba	8	Adv	_	_	
+10	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+11	σε	σε	AsPp	AsPpSp	_	9	AuxP	_	_	
+12	άλλες	άλλος	Pn	PnId	Fe|03|Pl|Ac|Xx	13	Atr	_	_	
+13	χώρες	χώρα	No	NoCm	Fe|Pl|Ac	11	Adv	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εκεί	εκεί	Ad	Ad	Ba	2	Adv	_	_	
+2	μάθαιναν	μαθαίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+3	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Ac	4	Atr	_	_	
+4	γράμματα	γράμμα	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+5	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+6	έβρισκαν	βρίσκω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+7	καλές	καλός	Aj	Aj	Ba|Fe|Pl|Ac	8	Atr	_	_	
+8	δουλειές	δουλειά	No	NoCm	Fe|Pl|Ac	6	Obj	_	_	
+9	και	και	Cj	CjCo	_	0	Coord	_	_	
+10	βοηθούσαν	βοηθώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+11	την	ο	At	AtDf	Fe|Sg|Ac	12	Det	_	_	
+12	πατρίδα	πατρίδα	No	NoCm	Fe|Sg|Ac	10	Obj	_	_	
+13	με	με	AsPp	AsPpSp	_	12	AuxP	_	_	
+14	όποιον	όποιος	Pn	PnRi	Ma|03|Sg|Ac|Xx	15	Atr	_	_	
+15	τρόπο	τρόπος	No	NoCm	Ma|Sg|Ac	13	Atr	_	_	
+16	μπορούσαν	μπορώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	10	IObj	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έζησα	ζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+2	κι	και	Cj	CjCo	_	3	AuxY	_	_	
+3	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	1	Sb	_	_	
+4	μικρός	μικρός	Aj	Aj	Ba|Ma|Sg|Nm	1	Pnom	_	_	
+5	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	4	AuxP	_	_	
+6	Ιταλία	Ιταλία	No	NoPr	Fe|Sg|Ac	5	Adv	_	_	
+7	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+8	σπούδασα	σπουδάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+9	εκεί	εκεί	Ad	Ad	Ba	8	Adv	_	_	
+10	και	και	Cj	CjCo	_	0	Coord	_	_	
+11	έπειτα	έπειτα	Ad	Ad	Ba	12	Adv	_	_	
+12	γύρισα	γυρίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+13	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	12	AuxP	_	_	
+14	Επτάνησα	Επτάνησα	No	NoPr	Ne|Pl|Ac	13	Adv	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έγραψα	γράφω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τον	ο	At	AtDf	Ma|Sg|Ac	3	Det	_	_	
+3	Ύμνο	ύμνος	No	NoCm	Ma|Sg|Ac	1	Obj	_	_	
+4	εις	εις	AsPp	AsPpSp	_	1	AuxP	_	_	
+5	την	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	Ελευθερία	Ελευθερία	No	NoPr	Fe|Sg|Ac	4	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

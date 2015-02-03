@@ -1,0 +1,179 @@
+	(SENT	<S>
+	SYN	[cl
+1\1	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\2	TOK	Εγώ	εγώ	PnPeMa01SgNmSt
+	SYN	/np_nm]
+1\6	TOK	και	και	CjCo
+	SYN	[np_nm
+1\10	TOK	ο	ο	AtDfMaSgNm
+1\12	TOK	Θωμάς	Θωμάς	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\18	TOK	είμαστε	είμαι	VbMnIdPr01PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\26	TOK	συμμαθητές	συμμαθητής	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\36	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\39	TOK	Καθόμαστε	κάθομαι	VbMnIdPa01PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\49	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\53	TOK	ίδιο	ίδιος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\58	TOK	θρανίο	θρανίο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\64	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\67	TOK	Ο	ο	AtDfMaSgNm
+1\69	TOK	Θωμάς	Θωμάς	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\75	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\80	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\84	TOK	κίτρινο	κίτρινος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\92	TOK	ποδήλατο	ποδήλατο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\101	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\104	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\108	TOK	θαλασσί	θαλασσής	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\116	TOK	καλάθι	καλάθι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\122	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\125	ENUM	-	-	ENUM
+	SYN	[vg
+1\126	TOK	Θέλω	θέλω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\131	TOK	να	να	PtSj
+1\134	TOK	κάνω	κάνω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\139	TOK	βόλτες	βόλτα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\146	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\150	TOK	θάλασσα	θάλασσα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\157	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\160	TOK	Θέλω	θέλω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\165	TOK	να	να	PtSj
+1\168	TOK	παίζω	παίζω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\174	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\178	TOK	γήπεδο	γήπεδο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\185	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\190	TOK	Ξάνθη	Ξάνθη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\195	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\198	TOK	Θέλω	θέλω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\203	TOK	να	να	PtSj
+1\206	TOK	διαβάζω	διαβάζω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\214	TOK	παραμύθια	παραμύθι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\223	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\226	TOK	Θέλω	θέλω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\231	TOK	να	να	PtSj
+1\234	TOK	φωνάζω	φωνάζω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\240	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\243	TOK	Θέλω	θέλω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\248	TOK	να	να	PtSj
+1\251	TOK	κάνω	κάνω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\256	TOK	θόρυβο	θόρυβος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\262	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\265	TOK	Δε	δεν	PtNg
+1\268	TOK	θέλω	θέλω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\273	TOK	να	να	PtSj
+1\276	TOK	κοιμάμαι	κοιμάμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\284	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

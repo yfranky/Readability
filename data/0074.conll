@@ -1,0 +1,92 @@
+1	Τέλειωσε	τελειώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	3	Det	_	_	
+3	καλοκαίρι	καλοκαίρι	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	φθινόπωρο	φθινόπωρο	No	NoCm	Ne|Sg|Nm	1	Pnom	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	χελιδόνια	χελιδόνι	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	φεύγουν	φεύγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	παίζουν	παίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	3	AuxP	_	_	
+5	δρόμο	δρόμος	No	NoCm	Ma|Sg|Ac	4	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Μελέκ	Μελέκ	No	NoPr	Ma|Sg|Nm	4	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	κοίτα	κοιτάζω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Αγγέλα	Αγγέλα	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+5	μπαλκόνι	μπαλκόνι	No	NoCm	Ne|Sg|Nm	4	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Φοράει	φορώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	ένα	ένας	At	AtId	Ne|Sg|Ac	5	Det	_	_	
+4	καινούριο	καινούριος	Aj	Aj	Ba|Ne|Sg|Ac	5	Atr	_	_	
+5	παντελόνι	παντελόνι	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Καλημέρα	καλημέρα	No	NoCm	Fe|Sg|Nm	3	Atr	_	_	
+3	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Αγγέλα	Αγγέλα	No	NoPr	Fe|Sg|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Atr	_	_	
+5	βόλτα	βόλτα	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+7	βουνό	βουνό	No	NoCm	Ne|Sg|Ac	6	Atr	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σήμερα	σήμερα	Ad	Ad	Ba	4	Adv	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	καιρός	καιρός	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	ωραίος	ωραίος	Aj	Aj	Ba|Ma|Sg|Nm	4	Pnom	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	πάρω	παίρνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	μαζί	μαζί	Ad	Ad	Ba	6	Adv	_	_	
+5	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	6	Atr	_	_	
+6	νερό	νερό	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	AuxG	_	_	
+2	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	4	Sb	_	_	
+3	θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+4	πάρω	παίρνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	φαγητό	φαγητό	No	NoCm	Ne|Sg|Ac	4	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	5	AuxG	_	_	
+2	Ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	Θωμάς	Θωμάς	No	NoPr	Ma|Sg|Nm	5	Sb	_	_	
+4	θα	θα	Pt	PtFu	_	5	AuxV	_	_	
+5	πάρει	παίρνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	παιχνίδια	παιχνίδι	No	NoCm	Ne|Pl|Ac	5	Obj	_	_	
+7	για	για	AsPp	AsPpSp	_	5	AuxP	_	_	
+8	να	να	Pt	PtSj	_	9	AuxV	_	_	
+9	παίξουμε	παίζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	7	Adv	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

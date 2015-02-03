@@ -1,0 +1,31 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	ΙΝΣΤΙΤΟYΤΟ	ινστιτούτο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\12	TOK	ασιατικών	ασιατικός	AjBaNePlGe
+	SYN	/adjp_ge]
+1\22	TOK	γλωσσών	γλώσσα	NoCmNePlGe
+	SYN	/np_ge]
+1\29	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\31	TOK	Ολιγομελή	ολιγομελής	AjBaNePlNm
+	SYN	/adjp_nm]
+1\41	TOK	τμήματα	τμήμα	NoCmNePlNm
+	SYN	/np_nm]
+1\49	PUNCT	–	–	PUNCT
+	SYN	[np_ac
+1\51	TOK	Χρήση	χρήση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\57	TOK	οπτικοακουστικών	οπτικοακουστικός	AjBaNePlGe
+	SYN	/adjp_ge]
+1\74	TOK	μέσων	μέσο	NoCmNePlGe
+	SYN	/np_ge]
+1\79	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,105 @@
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	ποιος	ποιος	Pn	PnIr	Ma|03|Sg|Nm|Xx	5	Sb	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	2	Atr	_	_	
+6	αυτός	αυτός	Pn	PnDm	Ma|03|Sg|Nm|Xx	5	Pnom	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Αυτός	αυτός	Pn	PnDm	Ma|03|Sg|Nm|Xx	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	10	Pred_Co	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	φίλος	φίλος	No	NoCm	Ma|Sg|Nm	3	Pnom	_	_	
+6	του	ο	At	AtDf	Ma|Sg|Ge	7	Det	_	_	
+7	παππού	παππούς	No	NoCm	Ma|Sg|Ge	5	Atr	_	_	
+8	,	,	PUNCT	PUNCT	_	10	AuxX	_	_	
+9	ο	ο	At	AtDf	Ma|Sg|Nm	10	Det	_	_	
+10	Παναγιώτης	Παναγιώτης	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ποιανού	ποιος	Pn	PnIr	Ma|03|Sg|Ge|Xx	3	Pnom	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Nm	5	Det	_	_	
+5	αυτοκίνητο	αυτοκίνητο	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	του	ο	At	AtDf	Ma|Sg|Ge	4	Det	_	_	
+4	γιου	γιος	No	NoCm	Ma|Sg|Ge	2	Pnom	_	_	
+5	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	4	Pos	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Nm	5	Sb	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	τίνος	τίνος	No	NoPr	Ma|Sg|Nm	5	Sb	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Αλίκη	Αλίκη	No	NoPr	Fe|Sg|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	βρέχει	βρέχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	ρούχα	ρούχο	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	γρήγορα	γρήγορα	Ad	Ad	Ba	2	ExD	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τώρα	τώρα	Ad	Ad	Ba	4	Adv	_	_	
+3	δεν	δεν	Pt	PtNg	_	4	AuxV	_	_	
+4	ξέρω	ξέρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	ποιανού	ποιος	Pn	PnIr	Ma|03|Sg|Ge|Xx	6	Sb	_	_	
+6	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	4	Obj	_	_	
+7	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	6	Pnom	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Οι	ο	At	AtDf	Fe|Pl|Nm	3	Det	_	_	
+3	κάλτσες	κάλτσα	No	NoCm	Fe|Pl|Nm	4	Sb	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	του	ο	At	AtDf	Ma|Sg|Ge	6	Det	_	_	
+6	μπαμπά	μπαμπάς	No	NoCm	Ma|Sg|Ge	4	Pnom	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	φούστα	φούστα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	της	ο	At	AtDf	Fe|Sg|Ge	5	Det	_	_	
+5	μαμάς	μαμά	No	NoCm	Fe|Sg|Ge	3	Pnom	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	ζακέτα	ζακέτα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	της	ο	At	AtDf	Fe|Sg|Ge	5	Det	_	_	
+5	Μαγδαληνής	Μαγδαληνή	No	NoPr	Fe|Sg|Ge	3	Pnom	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	φανελάκια	φανελάκι	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	του	ο	At	AtDf	Ma|Sg|Ge	5	Det	_	_	
+5	μωρού	μωρός	Aj	Aj	Ba|Ma|Sg|Ge	3	Pnom	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	πουκάμισο	πουκάμισο	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	του	ο	At	AtDf	Ma|Sg|Ge	5	Det	_	_	
+5	Γιάννη	Γιάννης	No	NoPr	Ma|Sg|Ge	3	Pnom	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	γραβάτα	γραβάτα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	του	ο	At	AtDf	Ma|Sg|Ge	5	Det	_	_	
+5	Πέτρου	Πέτρος	No	NoPr	Ma|Sg|Ge	3	Pnom	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

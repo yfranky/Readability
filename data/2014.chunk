@@ -1,0 +1,33 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\1	TOK	Στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\6	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\12	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\14	TOK	η	ο	AtDfFeSgNm
+1\16	TOK	Ελένη	Ελένη	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\22	TOK	κάνει	κάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\28	TOK	πάντα	πάντα	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\34	TOK	διακοπές	διακοπή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\43	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\46	TOK	τη	ο	AtDfFeSgAc
+1\49	TOK	θεία	θεία	NoCmFeSgAc
+1\54	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\57	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

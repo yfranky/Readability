@@ -1,0 +1,439 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Ένα	ένας	AtIdNeSgNm
+	SYN	[adjp_nm
+1\5	TOK	μοναδικό	μοναδικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+1\14	TOK	κλαμπ	κλαμπ	NoCmNePlAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\21	TOK	Το	ο	AtDfNeSgNm
+1\24	TOK	Ντίσνεϊ	Ντίσνεϊ	NoPrNeSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\32	TOK	Κλαμπ	κλαμπ	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\38	TOK	ήταν	είμαι	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\43	TOK	μια	ένας	AtIdFeSgNm
+	SYN	[adjp_nm
+1\47	TOK	παιδική	παιδικός	AjBaFeSgNm
+1\55	TOK	τηλεοπτική	τηλεοπτικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\66	TOK	σειρά	σειρά	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\72	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\76	TOK	παιζόταν	παίζω	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\85	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\89	TOK	ΜEGA	ΜEGA	RgFwOr
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\94	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\98	TOK	το	ο	AtDfNeSgAc
+1\101	DIG	1993	1993	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\106	TOK	μέχρι	μέχρι	AsPpSp
+	SYN	[np_ac
+1\112	TOK	το	ο	AtDfNeSgAc
+1\115	DIG	2002	2002	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\119	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\121	TOK	Κάθε	κάθε	PnIdNe03SgNmXx
+1\126	TOK	Σάββατο	Σάββατο	NoCmNeSgNm
+	SYN	/np_nm]
+1\134	TOK	και	και	CjCo
+	SYN	[np_ac
+1\138	TOK	Κυριακή	Κυριακή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\146	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\151	DIG	9.00	9.00	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\156	TOK	το	ο	AtDfNeSgAc
+1\159	TOK	πρωί	πρωί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\164	TOK	ο	ο	AtDfMaSgNm
+1\166	TOK	Λυκούργος	Λυκούργος	NoPrMaSgNm
+	SYN	/np_nm]
+1\175	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\177	TOK	η	ο	AtDfFeSgNm
+1\179	TOK	Καρολίνα	Καρολίνα	RgFwTr
+	SYN	/np_nm]
+1\188	TOK	και	και	CjCo
+	SYN	[np_nm
+1\192	TOK	η	ο	AtDfFeSgNm
+1\194	TOK	παρέα	παρέα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\200	TOK	των	ο	AtDfNePlGe
+1\204	TOK	παιδιών	παιδί	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\212	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\216	TOK	φιλοξενούσαν	φιλοξενώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	[np_ge
+1\229	TOK	μας	εγώ	PnPeMa01PlGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\233	TOK	κρατούσαν	κρατώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\243	TOK	συντροφιά	συντροφιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\253	TOK	για	για	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\257	TOK	μιάμιση	ενάμισης	NmCdFeSgAcAj
+	SYN	/adjp_ac]
+1\265	TOK	ώρα	ώρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\269	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\272	TOK	κινούμενα	κινούμενος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\282	TOK	σχέδια	σχέδιο	NoCmNePlAc
+	SYN	/np_ac]
+1\288	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\290	TOK	παιχνίδια	παιχνίδι	NoCmNePlAc
+	SYN	/np_ac]
+1\299	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\301	TOK	μουσική	μουσική	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\308	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\310	TOK	Η	ο	AtDfFeSgNm
+1\312	TOK	ομάδα	ομάδα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\318	TOK	του	ο	AtDfNeSgGe
+1\322	TOK	Ντίσνεϊ	Ντίσνεϊ	NoPrNeSgGe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\330	TOK	Κλαμπ	κλαμπ	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[vg
+1\336	TOK	έδινε	δίνω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\342	TOK	πολλά	πολύς	AjBaNePlAc
+	SYN	/adjp_ac]
+1\348	TOK	δώρα	δώρο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\353	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\357	TOK	παιδιά	παιδί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\363	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\366	TOK	Μουσική	μουσική	NoCmFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\375	TOK	Οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\378	TOK	καλεσμένοι	καλεσμένος	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\389	TOK	που	που	PnReMa03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\393	TOK	έρχονταν	έρχομαι	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\402	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_nm
+1\406	TOK	στούντιο	στούντιο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	[vg
+1\415	TOK	έβαζαν	βάζω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\422	TOK	τη	ο	AtDfFeSgAc
+1\425	TOK	μουσική	μουσική	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\433	TOK	που	που	PnReFe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[np_ge
+1\437	TOK	τους	εγώ	PnPeMa03PlGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\442	TOK	άρεσε	αρέσω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl]
+1\447	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\449	TOK	Επίσης	επίσης	AdXxBa
+	SYN	/advp]
+1\455	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\457	TOK	μάθαιναν	μαθαίνω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_ir
+	SYN	[np_nm
+1\466	TOK	ποια	ποιος	PnIrFe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\471	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\476	TOK	τα	ο	AtDfNePlAc
+1\479	DIG	10	10	DIG
+	SYN	[adjp_ac
+	SYN	[advp
+1\482	TOK	καλύτερα	καλά	AdXxCp
+	SYN	/advp]
+1\491	TOK	ευρωπαϊκά	ευρωπαϊκός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\501	TOK	τραγούδια	τραγούδι	NoCmNePlAc
+	SYN	/np_ac]
+1\511	OPUNCT	(	(	OPUNCT
+1\512	TOK	TOP	TOP	RgFwOr
+1\516	DIG	10	10	DIG
+1\518	CPUNCT	)	)	CPUNCT
+	SYN	/cl_ir]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\521	TOK	Διαγωνισμοί	διαγωνισμός	NoCmMaPlNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\534	TOK	Γίνονταν	γίνομαι	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\543	TOK	πολλοί	πολύς	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\550	TOK	διαγωνισμοί	διαγωνισμός	NoCmMaPlNm
+	SYN	/np_nm]
+1\561	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\563	TOK	ακόμα	ακόμα	AdXxBa
+	SYN	/advp]
+1\569	TOK	και	και	CjCo
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\573	TOK	τηλεφωνικοί	τηλεφωνικός	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\584	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\587	TOK	Οι	ο	AtDfMaPlNm
+1\590	TOK	παρουσιαστές	παρουσιαστής	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\603	TOK	χάριζαν	χαρίζω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\611	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+1\617	TOK	φίλους	φίλος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\624	TOK	της	ο	AtDfFeSgGe
+1\628	TOK	εκπομπής	εκπομπή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[np_ac
+1\637	TOK	βιβλία	βιβλίο	NoCmNePlAc
+	SYN	/np_ac]
+1\643	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\645	TOK	βιντεοκασέτες	βιντεοκασέτα	NoCmFePlAc
+	SYN	/np_ac]
+1\658	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\660	TOK	ταξίδια	ταξίδι	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\668	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\673	TOK	Ντίσνεϊλαντ	Ντίσνεϊλαντ	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\685	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\689	TOK	Παρίσι	Παρίσι	NoPrNeSgAc
+	SYN	/np_ac]
+1\696	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\700	TOK	πολλά	πολύς	AjBaNePlAc
+	SYN	/adjp_ac]
+1\706	TOK	άλλα	άλλος	PnIdNe03PlAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\710	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\713	TOK	Αλληλογραφία	αλληλογραφία	NoCmFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\727	TOK	Διάβαζαν	διαβάζω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\736	TOK	τα	ο	AtDfNePlAc
+1\739	TOK	γράμματα	γράμμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\748	TOK	που	που	PnReNe03PlAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\752	TOK	έστελναν	στέλνω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\761	TOK	οι	ο	AtDfMaPlNm
+1\764	TOK	φίλοι	φίλος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\770	TOK	της	ο	AtDfFeSgGe
+1\774	TOK	εκπομπής	εκπομπή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[pp
+1\783	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\787	TOK	όλη	όλος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\791	TOK	την	ο	AtDfFeSgAc
+1\795	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\802	TOK	και	και	CjCo
+	SYN	[cl_r
+	SYN	[vg
+1\806	TOK	παρουσίαζαν	παρουσιάζω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\818	TOK	πολλά	πολύς	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\824	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\828	TOK	αυτά	αυτός	PnDmNe03PlAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\833	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\837	TOK	ζητούσαν	ζητώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl]
+1\845	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\848	TOK	Βίντεο	βίντεο	NoCmNeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\856	TOK	Η	ο	AtDfFeSgNm
+1\858	TOK	εκπομπή	εκπομπή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\866	TOK	παρουσίαζε	παρουσιάζω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\877	TOK	παλιά	παλιός	AjBaNePlAc
+1\883	TOK	και	και	CjCo
+1\887	TOK	καινούρια	καινούριος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\897	TOK	βιντεοπαιχνίδια	βιντεοπαιχνίδι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\913	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+1\919	TOK	τηλεθεατές	τηλεθεατής	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\929	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

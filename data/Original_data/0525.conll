@@ -1,0 +1,50 @@
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	από	από	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	τη	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	Σάμο	Σάμος	No	NoPr	Fe|Sg|Ac	2	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πριν	πριν	Ad	Ad	Ba	5	AuxP	_	_	
+2	από	από	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	μένα	εγώ	Pn	PnPe	Ma|01|Sg|Ac|St	2	Adv	_	_	
+4	όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	5	Sb	_	_	
+5	πίστευαν	πιστεύω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	ότι	ότι	Cj	CjSb	_	5	AuxC	_	_	
+7	η	ο	At	AtDf	Fe|Sg|Nm	8	Det	_	_	
+8	Γη	γη	No	NoCm	Fe|Sg|Nm	9	Sb	_	_	
+9	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	6	Obj	_	_	
+10	το	ο	At	AtDf	Ne|Sg|Nm	11	Det	_	_	
+11	κέντρο	κέντρο	No	NoCm	Ne|Sg|Nm	9	Pnom	_	_	
+12	του	ο	At	AtDf	Ne|Sg|Ge	13	Det	_	_	
+13	Σύμπαντος	σύμπαν	No	NoCm	Ne|Sg|Ge	11	Atr	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	2	Sb_Co	_	_	
+2	όμως	όμως	Cj	CjCo	_	0	Coord	_	_	
+3	κατάλαβα	καταλαβαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+4	ότι	ότι	Cj	CjSb	_	12	AuxC	_	_	
+5	ο	ο	At	AtDf	Ma|Sg|Nm	6	Det	_	_	
+6	Ήλιος	ήλιος	No	NoCm	Ma|Sg|Nm	7	Sb	_	_	
+7	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	4	Obj_Co	_	_	
+8	το	ο	At	AtDf	Ne|Sg|Nm	9	Det	_	_	
+9	κέντρο	κέντρο	No	NoCm	Ne|Sg|Nm	7	Pnom	_	_	
+10	του	ο	At	AtDf	Ne|Sg|Ge	11	Det	_	_	
+11	Σύμπαντος	σύμπαν	No	NoCm	Ne|Sg|Ge	9	Atr	_	_	
+12	και	και	Cj	CjCo	_	3	Coord	_	_	
+13	ότι	ότι	Cj	CjSb	_	12	AuxC	_	_	
+14	η	ο	At	AtDf	Fe|Sg|Nm	15	Det	_	_	
+15	Γη	γη	No	NoCm	Fe|Sg|Nm	17	Sb_Co	_	_	
+16	όπως	όπως	Ad	Ad	Ba	15	ExD	_	_	
+17	και	και	Cj	CjCo	_	21	Coord	_	_	
+18	οι	ο	At	AtDf	Ma|Pl|Nm	20	Det	_	_	
+19	άλλοι	άλλος	Pn	PnId	Ma|03|Pl|Nm|Xx	20	Atr	_	_	
+20	πλανήτες	πλανήτης	No	NoCm	Ma|Pl|Nm	17	Sb_Co	_	_	
+21	γυρνάνε	γυρίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	13	Obj_Co	_	_	
+22	γύρω	γύρω	Ad	Ad	Ba	21	Adv	_	_	
+23	του	εγώ	Pn	PnPe	Ma|03|Sg|Ge|We	22	Adv	_	_	
+24	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ποιος	ποιος	Pn	PnIr	Ma|03|Sg|Nm|Xx	2	Sb	_	_	
+2	είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

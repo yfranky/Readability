@@ -1,0 +1,480 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\3	TOK	αρχαϊκή	αρχαϊκός	AjBaFeSgNm
+1\11	TOK	και	και	CjCo
+1\15	TOK	κλασική	κλασικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\23	TOK	περίοδος	περίοδος	NoCmFeSgNm
+	SYN	/np_nm]
+1\31	PTERM_P	:	:	PTERM_P
+	SYN	[np_ac
+1\33	TOK	Αθήνα	Αθήνα	NoPrFeSgAc
+	SYN	/np_ac]
+1\39	TOK	και	και	CjCo
+	SYN	[np_ac
+1\43	TOK	Σπάρτη	Σπάρτη	NoPrFeSgAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\51	TOK	Από	από	AsPpSp
+	SYN	[np_ac
+1\55	TOK	τα	ο	AtDfNePlAc
+1\58	TOK	μέσα	μέσο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\63	TOK	του	ο	AtDfNeSgGe
+	SYN	[adjp_ge
+1\67	TOK	8ου	8ος	NmOdMaSgGeAj
+	SYN	/adjp_ge]
+1\71	ABBR	αι.	αι.	ABBR
+	SYN	/np_ge]
+	SYN	/pp]
+1\75	ABBR	π.Χ.	π.Χ.	ABBR
+	SYN	[np_nm
+1\80	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\82	TOK	ελληνικός	ελληνικός	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\92	TOK	πολιτισμός	πολιτισμός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\103	TOK	άρχισε	αρχίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\110	TOK	να	να	PtSj
+1\113	TOK	αναπτύσσεται	αναπτύσσω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\126	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\129	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+1\134	TOK	γρήγορους	γρήγορος	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\144	TOK	ρυθμούς	ρυθμός	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\151	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\153	TOK	Ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\155	TOK	κυριότερος	κύριος	AjCpMaSgNm
+	SYN	/adjp_nm]
+1\166	TOK	θεσμός	θεσμός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pp
+1\173	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\178	TOK	οποίο	οποίος	PnReMa03SgAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\184	TOK	βασίστηκε	βασίζω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\194	TOK	η	ο	AtDfFeSgNm
+1\196	TOK	ανάπτυξη	ανάπτυξη	NoCmFeSgNm
+1\205	TOK	αυτή	αυτός	PnDmFe03SgNmXx
+	SYN	/np_nm]
+	SYN	/cl_r]
+	SYN	[vg
+1\210	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\215	TOK	η	ο	AtDfFeSgNm
+1\217	TOK	πόλη-κράτος	πόλη-κράτος	NoCmNeSgNm
+	SYN	/np_nm]
+1\228	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\230	TOK	θεσμός	θεσμός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\237	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\241	TOK	χρονολογείται	χρονολογώ	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\255	TOK	ήδη	ήδη	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\259	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\263	TOK	την	ο	AtDfFeSgAc
+1\267	TOK	εποχή	εποχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\273	TOK	του	ο	AtDfMaSgGe
+	SYN	[adjp_ge
+1\277	TOK	χαλκού	χαλκός	AjBaMaSgGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\283	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\285	TOK	Από	από	AsPpSp
+1\289	TOK	τις	ο	AtDfFePlAc
+	SYN	[np_ge
+1\293	TOK	πόλεις-κράτη	πόλεις-κράτη	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\306	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\310	TOK	διαμορφώθηκαν	διαμορφώνω	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\324	TOK	εκείνη	εκείνος	PnDmFe03SgAcXx
+1\331	TOK	την	ο	AtDfFeSgAc
+1\335	TOK	εποχή	εποχή	NoCmFeSgAc
+	SYN	/np_ac]
+1\340	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\342	TOK	δύο	δύο	NmCdFePlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	[vg
+1\346	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\352	TOK	ξεχωριστή	ξεχωριστός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\362	TOK	θέση	θέση	NoCmFeSgAc
+	SYN	/np_ac]
+1\366	PTERM_P	:	:	PTERM_P
+	SYN	[np_nm
+1\368	TOK	η	ο	AtDfFeSgNm
+1\370	TOK	Αθήνα	Αθήνα	NoPrFeSgNm
+	SYN	/np_nm]
+1\376	TOK	και	και	CjCo
+	SYN	[np_nm
+1\380	TOK	η	ο	AtDfFeSgNm
+1\382	TOK	Σπάρτη	Σπάρτη	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\388	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\390	TOK	H	H	RgFwOr
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\392	TOK	πρώτη	πρώτος	NmOdFeSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[vg
+1\398	TOK	υπήρξε	υπάρχω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\405	TOK	πρότυπο	πρότυπο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\413	TOK	δημοκρατικής	δημοκρατικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\426	TOK	ανάπτυξης	ανάπτυξη	NoCmFeSgGe
+	SYN	/np_ge]
+1\436	TOK	και	και	CjCo
+	SYN	[np_ac
+1\440	TOK	κέντρο	κέντρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\447	TOK	κάθε	κάθε	PnIdFe03SgAcXx
+	SYN	[adjp_ge
+1\452	TOK	πολιτιστικής	πολιτιστικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\465	TOK	δραστηριότητας	δραστηριότητα	NoCmFeSgGe
+	SYN	/np_ge]
+1\480	OPUNCT	(	(	OPUNCT
+	SYN	[np_nm
+1\481	TOK	γλυπτική	γλυπτική	NoCmFeSgNm
+	SYN	/np_nm]
+1\489	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\491	TOK	αρχιτεκτονική	αρχιτεκτονική	NoCmFeSgAc
+	SYN	/np_ac]
+1\504	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\506	TOK	φιλοσοφία	φιλοσοφία	NoCmFeSgAc
+	SYN	/np_ac]
+1\515	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\517	TOK	ρητορική	ρητορικός	NoCmFeSgAc
+	SYN	/np_ac]
+1\525	CPUNCT	)	)	CPUNCT
+	SYN	/cl]
+1\526	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\528	TOK	Η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\530	TOK	δεύτερη	δεύτερος	NmOdFeSgNmAj
+1\537	PUNCT	,	,	PUNCT
+1\539	TOK	συντηρητική	συντηρητικός	AjBaFeSgNm
+1\551	TOK	και	και	CjCo
+1\555	TOK	εσωστρεφής	εσωστρεφής	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\565	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\567	TOK	διατήρησε	διατηρώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\577	TOK	το	ο	AtDfNeSgAc
+1\580	TOK	καθεστώς	καθεστώς	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\589	TOK	της	ο	AtDfFeSgGe
+1\593	TOK	ολιγαρχίας	ολιγαρχία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\604	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\608	TOK	έγινε	γίνομαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\614	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\616	TOK	ισχυρότερη	ισχυρός	AjCpFeSgNm
+1\627	TOK	στρατιωτική	στρατιωτικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\639	TOK	δύναμη	δύναμη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\646	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\651	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\658	TOK	μέσω	μέσω	AsPpSp
+	SYN	[np_ge
+1\663	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\667	TOK	σκληρής	σκληρός	AjBaFeSgGe
+1\675	TOK	και	και	CjCo
+1\679	TOK	εντατικής	εντατικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\689	TOK	εκπαίδευσης	εκπαίδευση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\701	TOK	των	ο	AtDfMaPlGe
+1\705	TOK	πολιτών	πολίτης	NoCmMaPlGe
+1\713	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\716	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\718	TOK	Τους	εγώ	PnPeMa03PlAcWe
+	SYN	/np_ac]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\723	TOK	επόμενους	επόμενος	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\733	TOK	αιώνες	αιώνας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\740	TOK	οι	ο	AtDfFePlNm
+	SYN	[adjp_nm
+1\743	TOK	δύο	δύο	NmCdFePlNmAj
+	SYN	/adjp_nm]
+1\747	TOK	πόλεις	πόλη	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\754	TOK	δημιούργησαν	δημιουργώ	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\767	TOK	συμμαχίες	συμμαχία	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\777	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\780	TOK	άλλες	άλλος	PnIdFe03PlAcXx
+	SYN	/np_ac]
+	SYN	[np_ge
+1\786	TOK	πόλεις-κράτη	πόλεις-κράτη	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\798	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\800	TOK	Μερικές	μερικοί	PnIdFe03PlNmXx
+	SYN	/np_nm]
+	SYN	[np_ac
+1\808	TOK	φορές	φορά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[vg
+1\814	TOK	βρέθηκαν	βρίσκω	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\823	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\828	TOK	ίδια	ίδιος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\833	TOK	πλευρά	πλευρά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\839	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\841	TOK	όπως	όπως	AdXxBa
+	SYN	[pp
+1\846	TOK	κατά	κατά	AsPpSp
+	SYN	[np_ac
+1\851	TOK	τους	ο	AtDfMaPlAc
+	SYN	[adjp_ac
+1\856	TOK	Περσικούς	περσικός	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\866	TOK	πολέμους	πόλεμος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\874	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\876	TOK	Τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\880	TOK	περισσότερες	πολύς	AjCpFePlAc
+	SYN	/adjp_ac]
+1\893	TOK	φορές	φορά	NoCmFePlAc
+	SYN	/np_ac]
+1\899	TOK	όμως	όμως	CjCo
+	SYN	[vg
+1\904	TOK	βρίσκονταν	βρίσκω	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\915	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\918	TOK	ανταγωνισμό	ανταγωνισμός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\929	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\931	TOK	Αποτέλεσμα	αποτέλεσμα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\942	TOK	αυτού	αυτός	PnDmMa03SgGeXx
+1\948	TOK	του	ο	AtDfMaSgGe
+1\952	TOK	ανταγωνισμού	ανταγωνισμός	NoCmMaSgGe
+	SYN	/np_ge]
+1\964	PUNCT	,	,	PUNCT
+1\966	TOK	και	και	CjCo
+	SYN	[advp
+1\970	TOK	κυρίως	κυρίως	AdXxBa
+	SYN	/advp]
+	SYN	[np_ge
+1\977	TOK	του	ο	AtDfMaSgGe
+1\981	TOK	φόβου	φόβος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\987	TOK	της	ο	AtDfFeSgGe
+1\991	TOK	Σπάρτης	Σπάρτη	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[pp
+1\999	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\1003	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\1007	TOK	επεκτατική	επεκτατικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\1018	TOK	πολιτική	πολιτική	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1027	TOK	της	ο	AtDfFeSgGe
+1\1031	TOK	Αθήνας	Αθήνα	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\1037	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\1039	TOK	σύμφωνα	σύμφωνα	AdXxBa
+	SYN	[pp
+1\1047	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1050	TOK	τον	ο	AtDfMaSgAc
+1\1054	TOK	Θουκυδίδη	Θουκυδίδης	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\1063	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\1065	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1070	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\1072	TOK	Πελοποννησιακός	πελοποννησιακός	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\1088	TOK	πόλεμος	πόλεμος	NoCmMaSgNm
+	SYN	/np_nm]
+1\1095	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1097	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1101	TOK	οδήγησε	οδηγώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\1109	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\1114	TOK	ήττα	ήττα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1119	TOK	της	ο	AtDfFeSgGe
+1\1123	TOK	Αθήνας	Αθήνα	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\1130	TOK	και	και	CjCo
+	SYN	[pp
+1\1134	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\1138	TOK	νίκη	νίκη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1143	TOK	της	ο	AtDfFeSgGe
+1\1147	TOK	Σπάρτης	Σπάρτη	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\1154	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

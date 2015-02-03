@@ -1,0 +1,355 @@
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	σελίδα	σελίδα	No	NoCm	Fe|Sg|Nm	4	Sb	_	_	
+3	55	55	DIG	DIG	_	2	Atr	_	_	
+4	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	φίσκα	φίσκα	Ad	Ad	Ba	4	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Λες	λέγω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	κι	και	Cj	CjCo	_	5	AuxY	_	_	
+3	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	5	Atr	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	φαγώσιμα	φαγώσιμος	Aj	Aj	Ba|Ne|Pl|Ac	1	Obj	_	_	
+6	του	ο	At	AtDf	Ma|Sg|Ge	7	Det	_	_	
+7	τσελεμεντέ	τσελεμεντές	No	NoCm	Ma|Sg|Ge	5	Atr	_	_	
+8	είχαν	έχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	9	AuxV	_	_	
+9	μαζευτεί	μαζεύω	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Pv|Xx	1	Adv	_	_	
+10	εκεί	εκεί	Ad	Ad	Ba	9	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έβλεπες	βλέπω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+2	...	...	PTERM_P	PTERM_P	_	1	AuxG	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	6	Obj	_	_	
+5	δεν	δεν	Pt	PtNg	_	6	AuxV	_	_	
+6	έβλεπες	βλέπω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μπριζόλες	μπριζόλα	No	NoCm	Fe|Pl|Nm	23	ExD_Co	_	_	
+2	,	,	PUNCT	PUNCT	_	23	AuxX	_	_	
+3	αγκινάρες	αγκινάρα	No	NoCm	Fe|Pl|Nm	23	ExD_Co	_	_	
+4	,	,	PUNCT	PUNCT	_	23	AuxX	_	_	
+5	μπάμιες	μπάμια	No	NoCm	Ma|Pl|Ac	23	Obj_Co	_	_	
+6	,	,	PUNCT	PUNCT	_	23	AuxX	_	_	
+7	κοτόπιτες	κοτόπιτα	No	NoCm	Fe|Pl|Ac	23	Obj_Co	_	_	
+8	,	,	PUNCT	PUNCT	_	23	AuxX	_	_	
+9	μπουρεκάκια	μπουρεκάκι	No	NoCm	Ne|Pl|Ac	23	Adv_Co	_	_	
+10	,	,	PUNCT	PUNCT	_	23	AuxX	_	_	
+11	αντσούγιες	αντσούγια	No	NoCm	Fe|Pl|Ac	23	Obj_Co	_	_	
+12	,	,	PUNCT	PUNCT	_	23	AuxX	_	_	
+13	μπακαλιάρους	μπακαλιάρος	No	NoCm	Ma|Pl|Ac	23	Obj_Co	_	_	
+14	,	,	PUNCT	PUNCT	_	23	AuxX	_	_	
+15	τουρσιά	τουρσί	No	NoCm	Ne|Pl|Ac	23	Adv_Co	_	_	
+16	,	,	PUNCT	PUNCT	_	23	AuxX	_	_	
+17	ζελέδες	ζελές	No	NoCm	Ma|Pl|Ac	23	Obj_Co	_	_	
+18	,	,	PUNCT	PUNCT	_	23	AuxX	_	_	
+19	μπουγάτσες	μπουγάτσα	No	NoCm	Fe|Pl|Ac	23	Obj_Co	_	_	
+20	,	,	PUNCT	PUNCT	_	23	AuxX	_	_	
+21	χαλβάδες	χαλβάς	No	NoCm	Ma|Pl|Ac	23	Obj_Co	_	_	
+22	,	,	PUNCT	PUNCT	_	23	AuxX	_	_	
+23	και	και	Cj	CjCo	_	0	Coord	_	_	
+24	γρανίτες	γρανίτης	No	NoCm	Ma|Pl|Ac	23	ExD_Co	_	_	
+25	βερίκοκο	βερίκοκο	No	NoCm	Ne|Sg|Ac	24	Atr	_	_	
+26	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όταν	όταν	Cj	CjSb	_	0	AuxC	_	_	
+2	την	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+3	παίρνουν	παίρνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	1	ExD	_	_	
+4	είδηση	είδηση	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+5	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+6	φαγητά	φαγητό	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+7	του	ο	At	AtDf	Ma|Sg|Ge	8	Det	_	_	
+8	τσελεμεντέ	τσελεμεντές	No	NoCm	Ma|Sg|Ge	6	Atr	_	_	
+9	,	,	PUNCT	PUNCT	_	13	AuxX	_	_	
+10	η	ο	At	AtDf	Fe|Sg|Nm	11	Det	_	_	
+11	Χριστίνα	Χριστίνα	No	NoPr	Fe|Sg|Nm	13	Sb	_	_	
+12	τους	εγώ	Pn	PnPe	Ma|03|Pl|Ac|We	13	Obj	_	_	
+13	ζητάει	ζητώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Atr	_	_	
+14	να	να	Pt	PtSj	_	15	AuxV	_	_	
+15	μείνει	μένω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	13	Obj	_	_	
+16	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	15	AuxP	_	_	
+17	βιβλίο	βιβλίο	No	NoCm	Ne|Sg|Ac	16	Adv	_	_	
+18	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Μπορώ	μπορώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	μείνω	μένω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+6	βιβλίο	βιβλίο	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+7	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	6	Pos	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ρώτησε	ρωτώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	Χριστίνα	Χριστίνα	No	NoPr	Fe|Sg|Nm	1	Sb	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Και	και	Cj	CjCo	_	0	Coord	_	_	
+3	βέβαια	βέβαια	Ad	Ad	Ba	4	Adv	_	_	
+4	μπορείς	μπορώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τη	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	2	Obj	_	_	
+2	διαβεβαίωσε	διαβεβαιώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	Μπουμπού	μπουμπού	No	NoCm	Fe|Sg|Nm	2	Sb	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Ac	6	Det	_	_	
+6	μπουρέκι	μπουρέκι	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Φτάνει	φτάνω	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	5	AuxV	_	_	
+4	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ge|We	5	IObj	_	_	
+5	πεις	λέγω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	2	Sb	_	_	
+6	πώς	πώς	Ad	Ad	Ba	7	Adv	_	_	
+7	τρώγεσαι	τρώω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	5	Obj	_	_	
+8	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Συμπλήρωσε	συμπληρώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	Φωφώ	Φωφώ	No	NoPr	Fe|Sg|Nm	1	Sb	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	φραντζόλα	φραντζόλα	No	NoCm	Fe|Sg|Nm	3	Atr	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	4	Obj	_	_	
+3	θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+4	πει	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	«	«	OPUNCT	OPUNCT	_	7	AuxG	_	_	
+6	πώς	πώς	Ad	Ad	Ba	7	Adv	_	_	
+7	τρώγομαι	τρώω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	4	Sb	_	_	
+8	»	»	CPUNCT	CPUNCT	_	7	AuxG	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πώς	πώς	Ad	Ad	Ba	3	Adv	_	_	
+3	τρώγεσαι	τρώω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	παιδί	παιδί	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+6	μου	μου	Pn	PnPo	Fe|01|Sg|Ge|Xx	5	Pos	_	_	
+7	.	.	PTERM_P	PTERM_P	_	5	AuxK	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τηγανητή	τηγανητός	Aj	Aj	Ba|Fe|Sg|Nm	0	ExD	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ψητή	ψητός	Aj	Aj	Ba|Fe|Sg|Nm	0	ExD	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	0	AuxP	_	_	
+2	σχάρα	σχάρα	No	NoCm	Fe|Sg|Ac	1	ExD	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	0	AuxP	_	_	
+2	σούβλα	σούβλα	No	NoCm	Fe|Sg|Ac	1	ExD	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γιαχνί	γιαχνί	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πλακί	πλακί	Aj	Aj	Ba|Ma|Pl|Ac	0	ExD	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Με	με	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	πατατάκια	πατατάκια	No	NoCm	Ne|Pl|Ac	1	Adv	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Με	με	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	μαγιονέζα	μαγιονέζα	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Με	με	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	μπεσαμέλ	μπεσαμέλ	Rg	RgFw	_	1	Adv	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	τρώγομαι	τρώω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εξήγησε	εξηγώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	Χριστίνα	Χριστίνα	No	NoPr	Fe|Sg|Nm	1	Sb	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	Atr	_	_	
+2	Μια	ένας	At	AtId	Fe|Sg|Nm	4	Det	_	_	
+3	μεγάλη	μεγάλος	Aj	Aj	Ba|Fe|Sg|Nm	4	Atr	_	_	
+4	απογοήτευση	απογοήτευση	No	NoCm	Fe|Sg|Nm	5	Sb	_	_	
+5	ζωγραφίστηκε	ζωγραφίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	5	AuxP	_	_	
+7	πρόσωπα	πρόσωπο	No	NoCm	Ne|Pl|Ac	6	Adv	_	_	
+8	όλων	όλος	Aj	Aj	Ba|Ne|Pl|Ge	10	Atr	_	_	
+9	των	ο	At	AtDf	Ne|Pl|Ge	10	Det	_	_	
+10	φαγητών	φαγητό	No	NoCm	Ne|Pl|Ge	7	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Με	με	AsPp	AsPpSp	_	0	ExD	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	τίποτα	τίποτα	Pn	PnId	Ne|03|Sg|Ac|Xx	2	Adv	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ρώτησε	ρωτώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	Φωφώ	Φωφώ	No	NoPr	Fe|Sg|Nm	1	Sb	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	φραντζόλα	φραντζόλα	No	NoCm	Fe|Sg|Nm	3	Atr	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Με	με	AsPp	AsPpSp	_	0	ExD	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	τίποτα	τίποτα	Pn	PnId	Ne|03|Sg|Ac|Xx	2	Adv	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	Atr	_	_	
+2	Ούτε	ούτε	Cj	CjCo	_	1	AuxY	_	_	
+3	καν	καν	Ad	Ad	Ba	4	Atr	_	_	
+4	ορντέβρ	ορντέβρ	No	NoCm	Ne|Pl|Ac	6	Obj	_	_	
+5	δεν	δεν	Pt	PtNg	_	6	AuxV	_	_	
+6	είσαι	είμαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ρώτησε	ρωτώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	διατηρώντας	διατηρώ	Vb	VbMn	Pp|Xx|Xx|Xx|Xx|Xx|Av|Xx	1	Adv	_	_	
+3	μια	ένας	At	AtId	Fe|Sg|Ac	5	Det	_	_	
+4	μικρή	μικρός	Aj	Aj	Ba|Fe|Sg|Ac	5	Atr	_	_	
+5	ελπίδα	ελπίδα	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	λουκάνικο	λουκάνικο	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ούτε	ούτε	Cj	CjCo	_	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Παραδέχτηκε	παραδέχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	Χριστίνα	Χριστίνα	No	NoPr	Fe|Sg|Nm	1	Sb	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Ούτε	ούτε	Cj	CjCo	_	0	Coord	_	_	
+3	καν	καν	Ad	Ad	Ba	4	Adv	_	_	
+4	νηστίσιμο	νηστίσιμος	Aj	Aj	Ba|Ma|Sg|Ac	2	Pred_Co	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ούτε	ούτε	Cj	CjCo	_	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Ε	ε	Ij	Ij	_	0	Coord	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	άμα	άμα	Cj	CjSb	_	2	AuxC	_	_	
+5	δεν	δεν	Pt	PtNg	_	6	AuxV	_	_	
+6	τρώγεσαι	τρώω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	4	Adv	_	_	
+7	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+8	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	11	Obj	_	_	
+9	να	να	Pt	PtSj	_	11	AuxV	_	_	
+10	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	11	Obj	_	_	
+11	κάνουμε	κάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	6	Adv	_	_	
+12	εδώ	εδώ	Ad	Ad	Ba	11	Adv	_	_	
+13	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είπε	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	Αυγουστίνος	Αυγουστίνος	No	NoPr	Ma|Sg|Nm	1	Sb	_	_	
+4	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Nm	6	Det	_	_	
+6	αβγό	αβγό	No	NoCm	Ne|Sg|Nm	3	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εδώ	εδώ	Ad	Ad	Ba	3	Adv	_	_	
+2	μόνο	μόνο	Ad	Ad	Ba	3	Adv	_	_	
+3	φαγώσιμα	φαγώσιμος	Aj	Aj	Ba|Ne|Pl|Ac	4	Obj	_	_	
+4	ζούνε	ζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	για	για	AsPp	AsPpSp	_	10	AuxP	_	_	
+4	να	να	Pt	PtSj	_	6	AuxV	_	_	
+5	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	6	IObj	_	_	
+6	δώσω	δίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Adv	_	_	
+7	να	να	Pt	PtSj	_	8	AuxV	_	_	
+8	καταλάβεις	καταλαβαίνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	6	Obj	_	_	
+9	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+10	είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	1	Atr	_	_	
+11	αβγό	αβγό	No	NoCm	Ne|Sg|Nm	10	Pnom	_	_	
+12	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μπορείς	μπορώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	4	AuxV	_	_	
+3	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	4	Obj	_	_	
+4	κάνεις	κάνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+5	αβγολέμονο	αβγολέμονο	No	NoCm	Ne|Sg|Ac	6	Obj_Co	_	_	
+6	ή	ή	Cj	CjCo	_	4	Coord	_	_	
+7	ομελέτα	ομελέτα	No	NoCm	Fe|Sg|Ac	6	Obj_Co	_	_	
+8	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μπορείς	μπορώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	επίσης	επίσης	Ad	Ad	Ba	1	Adv	_	_	
+3	να	να	Pt	PtSj	_	5	AuxV	_	_	
+4	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	5	Obj	_	_	
+5	τηγανίσεις	τηγανίζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	10	Obj_Co	_	_	
+6	,	,	PUNCT	PUNCT	_	10	AuxX	_	_	
+7	να	να	Pt	PtSj	_	9	AuxV	_	_	
+8	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	9	Obj	_	_	
+9	βράσεις	βράζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	10	Obj_Co	_	_	
+10	ή	ή	Cj	CjCo	_	1	Coord	_	_	
+11	να	να	Pt	PtSj	_	13	AuxV	_	_	
+12	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	13	Obj	_	_	
+13	βάψεις	βάφω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	10	Obj_Co	_	_	
+14	κόκκινο	κόκκινος	Aj	Aj	Ba|Ne|Sg|Ac	13	Pnom	_	_	
+15	το	ο	At	AtDf	Ne|Sg|Ac	16	Det	_	_	
+16	Πάσχα	Πάσχα	No	NoPr	Ne|Sg|Ac	13	Obj	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ακόμα	ακόμα	Ad	Ad	Ba	3	Adv	_	_	
+2	και	και	Cj	CjCo	_	3	AuxY	_	_	
+3	χτυπητό	χτυπητός	Aj	Aj	Ba|Ma|Sg|Ac	4	Pnom	_	_	
+4	μπορείς	μπορώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	να	να	Pt	PtSj	_	7	AuxV	_	_	
+6	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	7	Obj	_	_	
+7	κάνεις	κάνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	4	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μ'	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	2	Obj	_	_	
+2	αρέσει	αρέσω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	5	AuxV	_	_	
+4	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	5	Obj	_	_	
+5	χτυπάνε	χτυπώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	2	Sb	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τρελαίνομαι	τρελαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Κατάλαβα	καταλαβαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+4	είπε	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+5	η	ο	At	AtDf	Fe|Sg|Nm	6	Det	_	_	
+6	Χριστίνα	Χριστίνα	No	NoPr	Fe|Sg|Nm	4	Sb	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	σηκώθηκε	σηκώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	7	Pred_Co	_	_	
+9	από	από	AsPp	AsPpSp	_	8	AuxP	_	_	
+10	το	ο	At	AtDf	Ne|Sg|Ac	11	Det	_	_	
+11	καναπεδάκι	καναπεδάκι	No	NoCm	Ne|Sg|Ac	9	Adv	_	_	
+12	με	με	AsPp	AsPpSp	_	11	AuxP	_	_	
+13	το	ο	At	AtDf	Ne|Sg|Ac	14	Det	_	_	
+14	φουά	φουά	Rg	RgFw	_	12	Atr	_	_	
+15	γκρα	γκρα	Rg	RgFw	_	14	Atr	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σε	σε	AsPp	AsPpSp	_	4	AuxP	_	_	
+2	λάθος	λάθος	No	NoCm	Ne|Sg|Ac	1	Adv	_	_	
+3	βιβλίο	βιβλίο	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+4	μπήκα	μπαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

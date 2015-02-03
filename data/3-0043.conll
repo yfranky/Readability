@@ -1,0 +1,37 @@
+1	Γεια	γεια	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+2	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	1	Pos	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	2	Obj	_	_	
+2	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	Μαίρη	Μαίρη	No	NoPr	Fe|Sg|Nm	4	Atr	_	_	
+4	Κωστακίδου	Κωστακίδου	No	NoPr	Fe|Sg|Nm	2	Sb	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γεννήθηκα	γεννώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	2	Pred_Co	_	_	
+2	και	και	Cj	CjCo	_	0	Coord	_	_	
+3	μένω	μένω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+5	Σίδνεϊ	Σίδνεϊ	No	NoPr	Ne|Sg|Ac	4	Adv	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+8	Αυστραλία	Αυστραλία	No	NoPr	Fe|Sg|Ac	7	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ελληνικής	ελληνικός	Aj	Aj	Ba|Fe|Sg|Ge	3	Atr	_	_	
+3	καταγωγής	καταγωγή	No	NoCm	Fe|Sg|Ge	1	Pnom	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μιλάω	μιλώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	Ελληνικά	ελληνικός	Aj	Aj	Ba|Ne|Pl|Nm	5	Atr_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	Αγγλικά	Αγγλικά	No	NoPr	Ne|Pl|Ac	5	Atr_Co	_	_	
+5	και	και	Cj	CjCo	_	1	Coord	_	_	
+6	Γαλλικά	Γαλλικά	No	NoPr	Ne|Pl|Ac	5	Atr_Co	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	τηλεπαρουσιάστρια	τηλεπαρουσιάστρια	No	NoCm	Fe|Sg|Ac	1	Pnom	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

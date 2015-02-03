@@ -1,0 +1,174 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\2	TOK	Ποια	ποιος	PnIrFe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\7	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\13	TOK	αυτή	αυτός	PnDmFe03SgNmXx
+	SYN	/np_nm]
+	SYN	[pp
+1\18	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\21	TOK	τον	ο	AtDfMaSgAc
+1\25	TOK	Δημήτρη	Δημήτρης	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_q]
+1\32	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\35	ENUM	-	-	ENUM
+	SYN	[vg
+1\36	TOK	Δεν	δεν	PtNg
+1\40	TOK	ξέρεις	ξέρω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\46	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\48	TOK	Η	ο	AtDfFeSgNm
+1\50	TOK	ξαδέρφη	ξαδέρφη	NoCmFeSgNm
+1\58	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_nm]
+	SYN	[pp
+1\62	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\66	TOK	τον	ο	AtDfMaSgAc
+1\70	TOK	Καναδά	Καναδάς	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\76	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\79	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\80	TOK	Τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\83	TOK	κάνει	κάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\89	TOK	εδώ	εδώ	AdXxBa
+	SYN	/advp]
+	SYN	/cl_q]
+1\92	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\95	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\96	TOK	Διακοπές	διακοπή	NoPrFePlNm
+	SYN	/np_nm]
+1\104	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\107	ENUM	-	-	ENUM
+	SYN	[advp
+1\108	TOK	Πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\112	TOK	τη	εγώ	PnPeFe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\115	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\119	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\122	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\123	TOK	Ελένη	Ελένη	NoPrFeSgNm
+	SYN	/np_nm]
+1\128	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\131	ENUM	-	-	ENUM
+1\132	TOK	Και	και	CjCo
+	SYN	[cl_q
+1\136	TOK	πού	πού	AdXxBa
+	SYN	[vg
+1\140	TOK	μένει	μένω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\146	TOK	τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	/cl_q]
+1\150	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\153	ENUM	-	-	ENUM
+	SYN	[pp
+1\154	TOK	Με	με	AsPpSp
+	SYN	[np_ac
+1\157	TOK	τον	ο	AtDfMaSgAc
+1\161	TOK	Δημήτρη	Δημήτρης	NoPrMaSgAc
+	SYN	/np_ac]
+1\169	TOK	και	και	CjCo
+	SYN	[np_ac
+1\173	TOK	τη	ο	AtDfFeSgAc
+1\176	TOK	Χριστίνα	Χριστίνα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\184	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\187	ENUM	-	-	ENUM
+	SYN	[vg
+1\188	TOK	Ξέρεις	ξέρω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\195	TOK	το	ο	AtDfNeSgAc
+1\198	TOK	τηλέφωνό	τηλέφωνο	NoCmNeSgAc
+1\207	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\211	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\215	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\216	TOK	Το	ο	AtDfNeSgNm
+1\219	TOK	τηλέφωνό	τηλέφωνο	NoCmNeSgNm
+1\228	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_nm]
+1\232	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\234	TOK	Γιατί	γιατί	AdXxBa
+1\239	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\242	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\243	TOK	Εεε	Εεε	NoPrMaSgNm
+	SYN	/np_nm]
+1\246	PTERM_P	...	...	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\251	ENUM	-	-	ENUM
+	SYN	[vg
+1\252	TOK	Πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\257	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\261	TOK	τραπέζι	τραπέζι	NoCmNeSgAc
+1\269	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\274	TOK	τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\278	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

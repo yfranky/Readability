@@ -1,0 +1,82 @@
+1	"	"	OPUNCT	OPUNCT	_	3	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	ζήσεις	ζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+5	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	6	ExD_Co	_	_	
+6	και	και	Cj	CjCo	_	3	Coord	_	_	
+7	χρόνια	χρόνος	No	NoCm	Ne|Pl|Ac	8	Atr	_	_	
+8	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Ac	6	Atr_Co	_	_	
+9	"	"	CPUNCT	CPUNCT	_	3	AuxG	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	μάθημα	μάθημα	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+3	τελείωσε	τελειώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+6	παιδιά	παιδί	No	NoCm	Ne|Pl|Ac	7	Adv	_	_	
+7	ετοιμάζονται	ετοιμάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	4	Pred_Co	_	_	
+8	να	να	Pt	PtSj	_	9	AuxV	_	_	
+9	βγουν	βγαίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	7	Obj	_	_	
+10	για	για	AsPp	AsPpSp	_	9	AuxP	_	_	
+11	διάλειμμα	διάλειμμα	No	NoCm	Ne|Sg|Ac	10	Adv	_	_	
+12	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ένα	ένας	At	AtId	Ne|Sg|Nm	3	Det	_	_	
+3	λεπτό	λεπτό	No	NoCm	Ne|Sg|Nm	8	Adv	_	_	
+4	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+5	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	8	Sb	_	_	
+6	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+7	μη	μην	Pt	PtNg	_	8	AuxV	_	_	
+8	φεύγετε	φεύγω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	4	AuxV	_	_	
+3	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ge|We	4	IObj	_	_	
+4	δώσω	δίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+5	την	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	πρόσκληση	πρόσκληση	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+7	για	για	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	το	ο	At	AtDf	Ne|Sg|Ac	9	Det	_	_	
+9	πάρτι	πάρτι	No	NoCm	Ne|Pl|Ac	7	Atr	_	_	
+10	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	9	Pos	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+3	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ge|We	4	IObj	_	_	
+4	κάνεις	κάνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	πάρτι	πάρτι	No	NoCm	Ne|Pl|Ac	4	Obj	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	2	Obj	_	_	
+2	γιορτάζεις	γιορτάζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Τα	ο	At	AtDf	Ne|Pl|Nm	3	Det	_	_	
+3	γενέθλιά	γενέθλιος	Aj	Aj	Ba|Ne|Pl|Nm	5	Sb	_	_	
+4	της	μου	Pn	PnPo	Fe|03|Sg|Ge|Xx	3	Pos	_	_	
+5	γιορτάζει	γιορτάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	θυμάμαι	θυμάμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	που	που	Pn	PnRe	Fe|03|Sg|Nm|Xx	4	Sb	_	_	
+4	είχαμε	έχω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	πάει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Obj	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+7	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+8	της	ο	At	AtDf	Fe|Sg|Ge	7	Det	_	_	
+9	πέρυσι	πέρυσι	Ad	Ad	Ba	5	Adv	_	_	
+10	τέτοιον	τέτοιος	Pn	PnDm	Ma|03|Sg|Ac|Xx	11	Atr	_	_	
+11	καιρό	καιρός	No	NoCm	Ma|Sg|Ac	9	Adv	_	_	
+12	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πόσο	πόσο	Ad	Ad	Ba	3	Adv	_	_	
+3	χρονών	χρονών	No	NoCm	Ma|Pl|Ge	4	Atr	_	_	
+4	γίνεσαι	γίνομαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

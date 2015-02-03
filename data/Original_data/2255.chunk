@@ -1,0 +1,575 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\1	TOK	Την	ο	AtDfFeSgAc
+1\5	TOK	εποχή	εποχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\11	TOK	του	ο	AtDfMaSgGe
+	SYN	[adjp_ge
+1\15	TOK	χαλκού	χαλκός	AjBaMaSgGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	[np_nm
+1\22	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\24	TOK	πολεμική	πολεμικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\33	TOK	τέχνη	τέχνη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\39	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\45	TOK	ήδη	ήδη	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\49	TOK	αρκετά	αρκετά	AdXxBa
+	SYN	/advp]
+1\56	TOK	αναπτυγμένη	αναπτυγμένος	VbMnPpXxXxSgFePePvNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\67	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\70	TOK	Οι	ο	AtDfMaPlNm
+1\73	TOK	στρατιώτες	στρατιώτης	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\84	TOK	παρατάσσονται	παρατάσσω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\98	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\102	TOK	μάχη	μάχη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\107	TOK	κατά	κατά	AsPpSp
+	SYN	[np_ac
+1\112	TOK	φυλές	φυλή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\117	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\119	TOK	Η	ο	AtDfFeSgNm
+1\121	TOK	μάχη	μάχη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[advp
+1\126	TOK	συνήθως	συνήθως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\134	TOK	αρχίζει	αρχίζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\142	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\145	TOK	βροχή	βροχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\151	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\155	TOK	βέλη	βέλος	NoCmNePlAc
+	SYN	/np_ac]
+1\160	TOK	και	και	CjCo
+	SYN	[np_ac
+1\164	TOK	πέτρες	πέτρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\170	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\172	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\176	TOK	εκτοξεύονται	εκτοξεύω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_r]
+1\189	TOK	και	και	CjCo
+	SYN	[cl_r
+	SYN	[vg
+1\193	TOK	εκσφενδονίζονται	εκσφενδονίζω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\210	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\214	TOK	τις	ο	AtDfFePlAc
+1\218	TOK	ομάδες	ομάδα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\225	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\229	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\235	TOK	εκπαιδευμένες	εκπαιδευμένος	AjBaFePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\249	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\254	TOK	τοξοβολία	τοξοβολία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\264	TOK	και	και	CjCo
+	SYN	[pp
+1\268	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\273	TOK	τέχνη	τέχνη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\279	TOK	της	ο	AtDfFeSgGe
+1\283	TOK	σφενδόνης	σφενδόνη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\292	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\295	TOK	Ύστερα	ύστερα	AdXxBa
+	SYN	/advp]
+1\301	PUNCT	,	,	PUNCT
+	SYN	[cl_g
+	SYN	[vg_g
+1\303	TOK	σηκώνοντας	σηκώνω	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[np_ac
+1\314	TOK	σύννεφα	σύννεφο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\322	TOK	σκόνης	σκόνη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl_g]
+1\328	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\330	TOK	επιτίθενται	επιτίθεμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\342	TOK	οι	ο	AtDfMaPlNm
+1\345	TOK	αρχηγοί	αρχηγός	NoCmMaPlNm
+	SYN	/np_nm]
+1\353	TOK	και	και	CjCo
+	SYN	[np_nm
+1\357	TOK	οι	ο	AtDfFePlNm
+1\360	TOK	αξιωματικοί	αξιωματικός	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\372	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\375	TOK	τα	ο	AtDfNePlAc
+1\378	TOK	άρματα	άρμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\384	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\386	TOK	Το	ο	AtDfNeSgNm
+1\389	TOK	άρμα	άρμα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\394	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\400	TOK	μια	ένας	AtIdFeSgNm
+	SYN	[advp
+1\404	TOK	ελαφριά	ελαφρός	AdXxBa
+	SYN	/advp]
+1\412	TOK	άμαξα	άμαξα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\418	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\422	TOK	σύρεται	σύρω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\430	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\434	TOK	δύο	δύο	NmCdNePlAcAj
+	SYN	/adjp_ac]
+1\438	TOK	άλογα	άλογο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\444	TOK	και	και	CjCo
+	SYN	[cl_r
+	SYN	[vg
+1\448	TOK	παίρνει	παίρνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\456	TOK	μέσα	μέσα	AdXxBa
+	SYN	/advp]
+1\461	TOK	δύο	δύο	NmCdMaPlNmAj
+	SYN	/adjp_nm]
+1\465	TOK	πολεμιστές	πολεμιστής	NoCmMaPlNm
+	SYN	/np_nm]
+1\475	PTERM_P	:	:	PTERM_P
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[np_nm
+1\477	TOK	ο	ο	AtDfMaSgNm
+1\479	TOK	ένας	ένας	PnIdMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\484	TOK	οδηγεί	οδηγώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\491	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\495	TOK	ο	ο	AtDfMaSgNm
+1\497	TOK	άλλος	άλλος	PnIdMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\503	TOK	πολεμάει	πολεμώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[cl_g
+	SYN	[vg_g
+1\512	TOK	έχοντας	έχω	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+1\520	TOK	και	και	CjCo
+	SYN	[np_ac
+1\524	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\527	TOK	δυο	δύο	NmCdNePlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\531	TOK	του	ο	AtDfNeSgGe
+	SYN	[np_ac
+1\535	TOK	χέρια	χέρι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[advp
+1\541	TOK	ελεύθερα	ελεύθερα	AdXxBa
+	SYN	/advp]
+	SYN	/cl_g]
+	SYN	/cl]
+1\549	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\551	TOK	Οι	ο	AtDfMaPlNm
+1\554	TOK	τοξότες	τοξότης	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\562	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\568	TOK	ως	ως	AdXxBa
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\571	TOK	κύριο	κύριος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\577	TOK	στόχο	στόχος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\583	TOK	να	να	PtSj
+1\586	TOK	αιφνιδιάσουν	αιφνιδιάζω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\599	TOK	τον	ο	AtDfMaSgAc
+1\603	TOK	εχθρό	εχθρός	NoCmMaSgAc
+	SYN	/np_ac]
+1\608	PUNCT	,	,	PUNCT
+1\610	TOK	ενώ	ενώ	CjCo
+	SYN	[np_ac
+1\614	TOK	τα	ο	AtDfNePlAc
+1\617	TOK	άρματα	άρμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\624	TOK	να	να	PtSj
+	SYN	[np_ac
+1\627	TOK	τον	εγώ	PnPeMa03SgAcWe
+	SYN	/np_ac]
+1\631	TOK	εντυπωσιάσουν	εντυπωσιάζω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\645	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\649	TOK	να	να	PtSj
+1\652	TOK	ρίξουν	ρίχνω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\659	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\662	TOK	ηθικό	ηθικός	AjBaNeSgAc
+1\668	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\671	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+1\674	TOK	Εάν	αν	CjSb
+1\678	TOK	παρ’	παρά	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\683	TOK	όλα	όλος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\687	TOK	αυτά	αυτός	PnDmNe03PlAcXx
+	SYN	/np_ac]
+	SYN	[np_nm
+1\692	TOK	οι	ο	AtDfMaPlNm
+1\695	TOK	εχθροί	εχθρός	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\702	TOK	δε	δεν	PtNg
+1\705	TOK	σκορπίζονται	σκορπίζω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_o]
+1\717	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[pp
+1\719	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\723	TOK	πεδίο	πεδίο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\729	TOK	της	ο	AtDfFeSgGe
+1\733	TOK	μάχης	μάχη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[vg
+1\739	TOK	βγαίνουν	βγαίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\748	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\751	TOK	πεζοί	πεζός	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\757	TOK	στρατιώτες	στρατιώτης	NoCmMaPlNm
+	SYN	/np_nm]
+1\767	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\769	TOK	που	που	PnReMa03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\773	TOK	προχωρούν	προχωρώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\783	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\787	TOK	μάχη	μάχη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\792	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\795	TOK	γρήγορο	γρήγορος	AjBaNeSgAc
+1\802	PUNCT	,	,	PUNCT
+1\804	TOK	συντονισμένο	συντονισμένος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\817	TOK	βήμα	βήμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\822	TOK	και	και	CjCo
+	SYN	[pp
+1\826	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\829	TOK	τις	ο	AtDfFePlAc
+1\833	TOK	ασπίδες	ασπίδα	NoCmFePlAc
+1\841	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\846	TOK	αποτελούν	αποτελώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\856	TOK	ένα	ένας	AtIdNeSgAc
+1\860	TOK	είδος	είδος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\866	TOK	τείχους	τείχος	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\874	TOK	αδιαπέραστο	αδιαπέραστος	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\886	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\890	TOK	τον	ο	AtDfMaSgAc
+1\894	TOK	εχθρό	εχθρός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\899	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\902	TOK	Οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\905	TOK	απλοί	απλός	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\911	TOK	μαχητές	μαχητής	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\919	TOK	αγωνίζονται	αγωνίζομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\931	TOK	πεζοί	πεζός	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\937	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\940	TOK	δόρατα	δόρυ	NoCmNePlAc
+	SYN	/np_ac]
+1\947	TOK	και	και	CjCo
+	SYN	[np_ac
+1\951	TOK	τόξα	τόξο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\955	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\957	TOK	Συνήθως	συνήθως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\965	TOK	φορούν	φορώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\972	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\977	TOK	τα	ο	AtDfNePlNm
+1\980	TOK	ρούχα	ρούχο	NoCmNePlNm
+1\986	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_nm]
+	SYN	/cl]
+1\991	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\995	TOK	προστατεύουν	προστατεύω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1008	TOK	το	ο	AtDfNeSgAc
+1\1011	TOK	σώμα	σώμα	NoCmNeSgAc
+1\1016	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	[pp
+1\1021	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\1025	TOK	τα	ο	AtDfNePlAc
+1\1028	TOK	χτυπήματα	χτύπημα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\1038	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1041	TOK	μια	ένας	AtIdFeSgAc
+1\1045	TOK	ασπίδα	ασπίδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\1051	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1053	TOK	Οι	ο	AtDfMaPlNm
+1\1056	TOK	αρχηγοί	αρχηγός	NoCmMaPlNm
+	SYN	/np_nm]
+1\1064	TOK	και	και	CjCo
+	SYN	[np_nm
+1\1068	TOK	οι	ο	AtDfFePlNm
+1\1071	TOK	αξιωματικοί	αξιωματικός	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1083	TOK	φορούν	φορώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1090	TOK	κράνη	κράνος	NoCmNePlAc
+	SYN	/np_ac]
+1\1095	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1097	TOK	θώρακες	θώρακας	NoCmMaPlAc
+	SYN	/np_ac]
+1\1105	TOK	και	και	CjCo
+	SYN	[np_ac
+1\1109	TOK	περικνημίδες	περικνημίδα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1122	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\1126	TOK	χαλκό	χαλκός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\1131	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1133	TOK	Πολεμούν	πολεμώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\1142	TOK	συνήθως	συνήθως	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\1150	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1153	TOK	μακριά	μακρύς	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1160	TOK	δόρατα	δόρυ	NoCmNePlAc
+	SYN	/np_ac]
+1\1166	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1168	TOK	ξίφη	ξίφος	NoCmNePlAc
+	SYN	/np_ac]
+1\1173	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1177	TOK	μικρά	μικρός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1183	TOK	εγχειρίδια	εγχειρίδιο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\1193	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

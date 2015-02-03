@@ -1,0 +1,81 @@
+1	Στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	0	AuxP	_	_	
+2	ταξιδιωτικό	ταξιδιωτικός	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr	_	_	
+3	γραφείο	γραφείο	No	NoCm	Ne|Sg|Ac	1	ExD	_	_	
+4	TRAVEL	TRAVEL	Rg	RgFw	_	1	ExD	_	_	
+5	DREAM	DREAM	Rg	RgFw	_	1	ExD	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Οι	ο	At	AtDf	Ma|Pl|Nm	3	Det	_	_	
+3	φίλοι	φίλος	No	NoCm	Ma|Pl|Nm	5	Sb	_	_	
+4	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	3	Pos	_	_	
+5	θέλουν	θέλω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	να	να	Pt	PtSj	_	7	AuxV	_	_	
+7	κάνουν	κάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	5	Obj	_	_	
+8	διακοπές	διακοπή	No	NoCm	Fe|Pl|Ac	7	Obj	_	_	
+9	σε	σε	AsPp	AsPpSp	_	7	AuxP	_	_	
+10	κάποιο	κάποιος	Pn	PnId	Ne|03|Sg|Ac|Xx	12	Atr	_	_	
+11	ελληνικό	ελληνικός	Aj	Aj	Ba|Ne|Sg|Ac	12	Atr	_	_	
+12	νησί	νησί	No	NoCm	Ne|Sg|Ac	9	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Θέλουμε	θέλω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	στους	στου	AsPp	AsPpPa	Ma|Pl|Ac	4	AuxP	_	_	
+6	φίλους	φίλος	No	NoCm	Ma|Pl|Ac	5	IObj	_	_	
+7	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	6	Pos	_	_	
+8	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	10	AuxP	_	_	
+9	Εύβοια	Εύβοια	No	NoPr	Fe|Sg|Ac	8	Atr_Co	_	_	
+10	και	και	Cj	CjCo	_	6	Coord	_	_	
+11	μετά	μετά	AsPp	AsPpSp	_	10	AuxP	_	_	
+12	να	να	Pt	PtSj	_	13	AuxV	_	_	
+13	πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	11	Adv	_	_	
+14	σε	σε	AsPp	AsPpSp	_	13	AuxP	_	_	
+15	κάποιο	κάποιος	Pn	PnId	Ne|03|Sg|Ac|Xx	16	Atr	_	_	
+16	άλλο	άλλος	Pn	PnId	Ne|03|Sg|Ac|Xx	17	Atr	_	_	
+17	μέρος	μέρος	No	NoCm	Ne|Sg|Ac	14	Adv	_	_	
+18	της	ο	At	AtDf	Fe|Sg|Ge	19	Det	_	_	
+19	Ελλάδας	Ελλάδα	No	NoPr	Fe|Sg|Ge	17	Atr	_	_	
+20	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Α	α	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	2	Atr	_	_	
+2	ωραία	ωραίος	Aj	Aj	Ba|Fe|Sg|Ac	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	2	AuxP	_	_	
+4	Εύβοια	Εύβοια	No	NoPr	Fe|Sg|Ac	3	Adv	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Θέλουμε	θέλω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	δούμε	βλέπω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+6	όσο	όσο	Ad	Ad	Ba	7	Adv	_	_	
+7	γίνεται	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	4	Obj	_	_	
+8	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+9	περισσότερα	πολύς	Aj	Aj	Cp|Ne|Pl|Ac	10	Atr	_	_	
+10	μέρη	μέρος	No	NoCm	Ne|Pl|Ac	7	Obj	_	_	
+11	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	10	AuxP	_	_	
+12	Ελλάδα	Ελλάδα	No	NoPr	Fe|Sg|Ac	11	Atr	_	_	
+13	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Οι	ο	At	AtDf	Ma|Pl|Nm	3	Det	_	_	
+3	φίλοι	φίλος	No	NoCm	Ma|Pl|Nm	8	Sb	_	_	
+4	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	3	Pos	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	ξέρετε	ξέρω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	3	Atr	_	_	
+7	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+8	έχουν	έχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+9	και	και	Cj	CjCo	_	10	AuxY	_	_	
+10	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	8	ExD	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

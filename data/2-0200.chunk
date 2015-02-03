@@ -1,0 +1,571 @@
+	(SENT	<S>
+	SYN	[pp
+1\1	TOK	Από	από	AsPpSp
+	SYN	[np_ac
+1\5	TOK	τη	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\8	TOK	Μεγάλη	μεγάλος	AjBaFeSgAc
+1\15	TOK	Πέμπτη	Πέμπτη	NmOdFeSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\22	TOK	ως	ως	AdXxBa
+	SYN	[np_ac
+1\25	TOK	την	ο	AtDfFeSgAc
+1\29	TOK	Ανάσταση	ανάσταση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/advp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\39	TOK	Τη	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\42	TOK	Μεγάλη	μεγάλος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\49	TOK	Εβδομάδα	εβδομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\58	TOK	νηστεύουμε	νηστεύω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\69	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\73	TOK	κοινωνούμε	κοινωνώ	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\83	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\86	TOK	Το	ο	AtDfNeSgNm
+1\89	TOK	βράδυ	βράδυ	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\95	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\99	TOK	Μεγάλης	μεγάλος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\107	TOK	Πέμπτης	Πέμπτη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\115	TOK	διαβάζουν	διαβάζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+1\125	TOK	τα	ο	AtDfNePlAc
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\128	TOK	Δώδεκα	δώδεκα	NmCdNePlNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+1\135	TOK	Ευαγγέλια	ευαγγέλιο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\145	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\149	TOK	γυρίζουν	γυρίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\158	TOK	τον	ο	AtDfMaSgAc
+1\162	TOK	Σταυρό	σταυρός	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\169	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\172	TOK	τον	ο	AtDfMaSgAc
+1\176	TOK	Χριστό	χριστός	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\182	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\184	TOK	γύρω-γύρω	γύρω-γύρω	AdXxBa
+1\194	TOK	μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\199	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\204	TOK	εκκλησία	εκκλησία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\212	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\215	TOK	Την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\219	TOK	Μεγάλη	μεγάλος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\226	TOK	Παρασκευή	Παρασκευή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\236	TOK	το	ο	AtDfNeSgAc
+1\239	TOK	πρωί	πρωί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\244	TOK	τα	ο	AtDfNePlNm
+1\247	TOK	κορίτσια	κορίτσι	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\256	TOK	πηγαίνουν	πηγαίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\266	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\271	TOK	εκκλησία	εκκλησία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\280	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\284	TOK	στολίζουν	στολίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\294	TOK	τον	ο	AtDfMaSgAc
+	SYN	[adjp_ac
+1\298	TOK	Επιτάφιο	επιτάφιος	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\307	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\310	TOK	ανοιξιάτικα	ανοιξιάτικος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\322	TOK	λουλούδια	λουλούδι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\331	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\334	TOK	Το	ο	AtDfNeSgNm
+1\337	TOK	βράδυ	βράδυ	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\343	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\347	TOK	Μεγάλης	μεγάλος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\355	TOK	Παρασκευής	Παρασκευή	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\366	TOK	ψάλλουν	ψέλνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\374	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\379	TOK	εκκλησία	εκκλησία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\388	TOK	την	ο	AtDfFeSgAc
+1\392	TOK	ακολουθία	ακολουθία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\402	TOK	του	ο	AtDfMaSgGe
+	SYN	[adjp_ge
+1\406	TOK	Επιτάφιου	επιτάφιος	AjBaMaSgGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+1\416	TOK	και	και	CjCo
+	SYN	[np_ac
+1\420	TOK	τα	ο	AtDfNePlAc
+1\423	TOK	Εγκώμια	εγκώμιο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\430	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\432	TOK	Ύστερα	ύστερα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\439	TOK	γυρίζουν	γυρίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\448	TOK	τον	ο	AtDfMaSgAc
+	SYN	[adjp_ac
+1\452	TOK	Επιτάφιο	επιτάφιος	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\461	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\466	TOK	γειτονιές	γειτονιά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\476	TOK	των	ο	AtDfNePlGe
+1\480	TOK	χωριών	χωριό	NoCmNePlGe
+	SYN	/np_ge]
+1\487	TOK	και	και	CjCo
+	SYN	[np_ge
+1\491	TOK	των	ο	AtDfFePlGe
+1\495	TOK	πόλεων	πόλη	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\501	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\503	TOK	Ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\505	TOK	Επιτάφιος	επιτάφιος	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\515	TOK	σταματά	σταματώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\523	TOK	για	για	AsPpSp
+	SYN	[advp
+1\527	TOK	λίγο	λίγο	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	[pp
+1\532	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\537	TOK	πλατείες	πλατεία	NoCmFePlAc
+	SYN	/np_ac]
+1\546	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\548	TOK	τα	ο	AtDfNePlAc
+1\551	TOK	σταυροδρόμια	σταυροδρόμι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\564	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\568	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\571	TOK	πιστοί	πιστός	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\578	TOK	περνούν	περνώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\586	TOK	από	από	AsPpSp
+	SYN	[advp
+1\590	TOK	κάτω	κάτω	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\595	TOK	για	για	AsPpSp
+1\599	TOK	να	να	PtSj
+1\602	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\608	TOK	καλά	καλά	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+1\613	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\617	TOK	να	να	PtSj
+1\620	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\626	TOK	την	ο	AtDfFeSgAc
+1\630	TOK	ευλογία	ευλογία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\638	TOK	του	ο	AtDfMaSgGe
+1\642	TOK	Χριστού	χριστός	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\649	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\652	TOK	Το	ο	AtDfNeSgNm
+1\655	TOK	βράδυ	βράδυ	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\661	TOK	της	ο	AtDfFeSgGe
+1\665	TOK	Ανάστασης	ανάσταση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\675	TOK	γίνεται	γίνομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\683	TOK	λειτουργία	λειτουργία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\693	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\695	TOK	Ο	ο	AtDfMaSgNm
+1\697	TOK	παπάς	παπάς	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\703	TOK	ψάλλει	ψέλνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+1\710	TOK	το	ο	AtDfNeSgAc
+1\712	PTERM_P	:	:	PTERM_P
+1\714	OPUNCT	"	"	OPUNCT
+	SYN	[np_nm
+1\715	TOK	Δεύτε	δεύτε	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\720	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\722	TOK	λάβετε	λαμβάνω	VbMnMpXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\729	TOK	φως	φως	NoCmNeSgAc
+	SYN	/np_ac]
+1\732	PTERM_P	!	!	PTERM_P
+1\733	CPUNCT	"	"	CPUNCT
+	SYN	/cl]
+1\734	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\736	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\739	TOK	πιστοί	πιστός	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\746	TOK	παίρνουν	παίρνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\755	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\758	TOK	Άγιο	άγιος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\763	TOK	Φως	φως	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\767	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\771	TOK	ακούνε	ακούω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+1\778	TOK	το	ο	AtDfMaSgAc
+1\781	OPUNCT	"	"	OPUNCT
+	SYN	[np_nm
+1\782	TOK	Χριστός	χριστός	NoPrMaSgNm
+1\790	TOK	Ανέστη¨	Ανέστη¨	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\797	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_t
+1\799	TOK	Όταν	όταν	CjSb
+	SYN	[vg
+1\804	TOK	γυρίσουν	γυρίζω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\813	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\817	TOK	σπίτια	σπίτι	NoCmNePlAc
+1\824	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_t]
+	SYN	[cl
+	SYN	[vg
+1\829	TOK	κρατούν	κρατώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\837	TOK	τις	ο	AtDfFePlAc
+1\841	TOK	λαμπάδες	λαμπάδα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\850	TOK	αναμμένες	αναμμένος	AjBaFePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\859	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\861	TOK	Παντού	παντού	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\868	TOK	ακούγονται	ακούω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\879	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\882	TOK	πασχαλιάτικοι	πασχαλιάτικος	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\896	TOK	χαιρετισμοί	χαιρετισμός	NoCmMaPlNm
+	SYN	/np_nm]
+1\907	PTERM_P	:	:	PTERM_P
+1\909	OPUNCT	"	"	OPUNCT
+	SYN	[np_nm
+1\910	TOK	Χριστός	χριστός	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\918	TOK	Ανέστη	Ανέστης	NoPrMaSgAc
+	SYN	/np_ac]
+1\924	PTERM_P	!	!	PTERM_P
+1\925	CPUNCT	"	"	CPUNCT
+1\926	PUNCT	,	,	PUNCT
+1\928	OPUNCT	"	"	OPUNCT
+	SYN	[advp
+1\929	TOK	Αληθώς	αληθώς	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\936	TOK	Ανέστη	Ανέστης	NoPrMaSgAc
+	SYN	/np_ac]
+1\942	PTERM_P	!	!	PTERM_P
+1\943	CPUNCT	"	"	CPUNCT
+	SYN	/cl]
+1\944	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\946	TOK	Όλοι	όλος	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\951	TOK	οι	ο	AtDfMaPlNm
+1\954	TOK	Χριστιανοί	χριστιανός	NoPrMaPlNm
+	SYN	/np_nm]
+	SYN	[advp
+1\965	TOK	πριν	πριν	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\970	TOK	μπούνε	μπαίνω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\977	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\981	TOK	σπίτια	σπίτι	NoCmNePlAc
+1\988	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\992	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\994	TOK	κάνουν	κάνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1001	TOK	ένα	ένας	AtIdMaSgAc
+1\1005	TOK	σταυρό	σταυρός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[advp
+1\1012	TOK	ψηλά	ψηλά	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\1017	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\1022	TOK	πόρτα	πόρτα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\1028	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1031	TOK	τον	ο	AtDfMaSgAc
+1\1035	TOK	καπνό	καπνός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1041	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\1045	TOK	αναμμένης	αναμμένος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\1055	TOK	λαμπάδας	λαμπάδα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\1063	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1066	TOK	Όλες	όλος	AjBaFePlNm
+	SYN	/adjp_nm]
+1\1071	TOK	οι	ο	AtDfFePlNm
+1\1074	TOK	οικογένειες	οικογένεια	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1086	TOK	στρώνουν	στρώνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1095	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\1098	TOK	πασχαλιάτικο	πασχαλιάτικος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\1111	TOK	τραπέζι	τραπέζι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1118	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\1120	TOK	τσουγγρίζουν	τσουγγρίζουν	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1133	TOK	τα	ο	AtDfNePlAc
+1\1136	TOK	αυγά	αυγό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1141	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\1145	TOK	τρώνε	τρώω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1151	TOK	τη	ο	AtDfFeSgAc
+1\1154	TOK	μαγειρίτσα	μαγειρίτσα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1164	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\1167	TOK	Την	ο	AtDfFeSgAc
+1\1171	TOK	ημέρα	ημέρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1177	TOK	της	ο	AtDfFeSgGe
+1\1181	TOK	Κυριακής	Κυριακή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\1190	TOK	σουβλίζουν	σουβλίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1201	TOK	το	ο	AtDfNeSgAc
+1\1204	TOK	αρνί	αρνί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1208	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\1210	TOK	χορεύουν	χορεύω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\1219	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\1223	TOK	διασκεδάζουν	διασκεδάζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\1235	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

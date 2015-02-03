@@ -1,0 +1,514 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\1	TOK	Αυτές	αυτός	PnDmFe03PlAcXx
+1\7	TOK	τις	ο	AtDfFePlAc
+1\11	TOK	μέρες	μέρα	NoCmFePlAc
+	SYN	/np_ac]
+1\16	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\18	TOK	λόγω	λόγω	AsPpSp
+	SYN	[np_ge
+1\23	TOK	των	ο	AtDfFePlGe
+1\27	TOK	διακοπών	διακοπή	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\36	TOK	των	ο	AtDfNePlGe
+1\40	TOK	Χριστουγέννων	Χριστούγεννα	NoPrNePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\53	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\55	TOK	η	ο	AtDfFeSgNm
+1\57	TOK	Αλεξάνδρα	Αλεξάνδρα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\67	TOK	Ασημάκη	Ασημάκης	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\75	TOK	βρίσκεται	βρίσκω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\85	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\90	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\97	TOK	για	για	AsPpSp
+1\101	TOK	να	να	PtSj
+1\104	TOK	περάσει	περνώ	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\112	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\115	TOK	τους	ο	AtDfMaPlAc
+	SYN	[adjp_ac
+1\120	TOK	δικούς	δικός	AjBaMaPlAc
+1\127	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/adjp_ac]
+1\131	TOK	ανθρώπους	άνθρωπος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\141	TOK	τις	ο	AtDfFePlAc
+1\145	TOK	γιορτές	γιορτή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\152	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\154	TOK	Η	ο	AtDfFeSgNm
+1\156	TOK	Ελληνίδα	Ελληνίδα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\165	TOK	διεθνής	διεθνής	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\173	TOK	πολίστρια	πολίστρια	NoCmFeSgNm
+	SYN	/np_nm]
+1\182	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\184	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\188	TOK	άφησε	αφήνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\194	TOK	το	ο	AtDfNeSgAc
+1\197	TOK	καλοκαίρι	καλοκαίρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\207	TOK	τη	ο	AtDfFeSgAc
+1\210	TOK	σιγουριά	σιγουριά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\219	TOK	του	ο	AtDfNeSgGe
+1\223	TOK	σπιτιού	σπίτι	NoCmNeSgGe
+1\231	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_ge]
+	SYN	/cl_r]
+	SYN	[cl_o
+	SYN	[vg_s
+1\235	TOK	για	για	AsPpSp
+1\239	TOK	να	να	PtSj
+1\242	TOK	μεταγραφεί	μεταγράφω	VbMnIdXx03SgXxPePvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\253	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\258	TOK	Ισπανία	Ισπανία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\266	TOK	και	και	CjCo
+	SYN	[pp
+1\270	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\275	TOK	πρωταθλήτρια	πρωταθλήτρια	NoCmFeSgAc
+1\288	TOK	ομάδα	ομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\294	TOK	της	ο	AtDfFeSgGe
+1\298	TOK	χώρας	χώρα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_o]
+1\303	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\305	TOK	εντυπωσιάζει	εντυπωσιάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\318	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\321	TOK	τις	ο	AtDfFePlAc
+1\325	TOK	εμφανίσεις	εμφάνιση	NoCmFePlAc
+1\336	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\340	TOK	και	και	CjCo
+	SYN	[vg
+1\344	TOK	πήρε	παίρνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\349	TOK	ήδη	ήδη	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\353	TOK	τον	ο	AtDfMaSgAc
+	SYN	[adjp_ac
+1\357	TOK	πρώτο	πρώτος	NmOdMaSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\363	TOK	της	ο	AtDfFeSgGe
+	SYN	[np_ac
+1\367	TOK	τίτλο	τίτλος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\372	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\374	TOK	Η	ο	AtDfFeSgNm
+1\376	TOK	ομάδα	ομάδα	NoCmFeSgNm
+1\382	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\386	TOK	κατέκτησε	κατακτώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\396	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\400	TOK	πρώτη	πρώτος	NmOdFeSgAcAj
+	SYN	/adjp_ac]
+1\406	TOK	θέση	θέση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\411	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\415	TOK	ισπανικό	ισπανικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\424	TOK	πρωτάθλημα	πρωτάθλημα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\435	TOK	μεταξύ	μεταξύ	AdXxBa
+	SYN	/advp]
+1\442	TOK	των	ο	AtDfFePlGe
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\446	TOK	οκτώ	οκτώ	NmCdFePlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\451	TOK	καλύτερων	καλός	AjCpMaPlGe
+	SYN	/adjp_ge]
+1\461	TOK	ομάδων	ομάδα	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\468	TOK	του	ο	AtDfNeSgGe
+1\472	TOK	πρωταθλήματος	πρωτάθλημα	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\485	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\487	TOK	Η	ο	AtDfFeSgNm
+	SYN	[np_ac
+1\489	TOK	Ασημάκη	Ασημάκης	NoPrMaSgAc
+	SYN	/np_ac]
+1\496	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\498	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\501	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\504	TOK	9ο	9ος	NmOdNeSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\507	TOK	γκολ	γκολ	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\512	TOK	που	που	PnReNe03PlAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\516	TOK	πέτυχε	πετυχαίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\523	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\527	TOK	τελευταίο	τελευταίος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\537	TOK	ημίχρονο	ημίχρονο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\545	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\547	TOK	αναδείχτηκε	αναδεικνύω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\559	TOK	πρώτη	πρώτος	NmOdFeSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ac
+1\565	TOK	σκόρερ	σκόρερ	NoCmMaPlAc
+	SYN	/np_ac]
+1\572	TOK	του	ο	AtDfNeSgGe
+	SYN	[np_ac
+1\576	TOK	τουρνουά	τουρνουά	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[cl_g
+	SYN	[vg_g
+1\585	TOK	παίρνοντας	παίρνω	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[np_ac
+1\596	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\599	TOK	αντίστοιχο	αντίστοιχος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\610	TOK	βραβείο	βραβείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_g]
+	SYN	/cl]
+1\617	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\620	TOK	Η	ο	AtDfFeSgNm
+1\622	TOK	Ελληνίδα	Ελληνίδα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\631	TOK	πρωταθλήτρια	πρωταθλήτρια	NoCmFeSgNm
+	SYN	/np_nm]
+1\643	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\645	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\649	TOK	επιστρέφει	επιστρέφω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\660	TOK	τη	ο	AtDfFeSgAc
+1\663	TOK	Δευτέρα	Δευτέρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\671	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\676	TOK	Ισπανία	Ισπανία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\684	TOK	και	και	CjCo
+1\688	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[vg
+1\693	TOK	προπονήσεις	προπονώ	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\704	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\706	TOK	μίλησε	μιλώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\713	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\716	TOK	μεγάλη	μεγάλος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\723	TOK	αυτοπεποίθηση	αυτοπεποίθηση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\737	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\741	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\745	TOK	επόμενη	επόμενος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\753	TOK	χρονιά	χρονιά	NoCmFeSgAc
+	SYN	/np_ac]
+1\760	TOK	και	και	CjCo
+	SYN	[np_ac
+1\764	TOK	αυτά	αυτός	PnDmNe03PlAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\769	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\773	TOK	περιμένει	περιμένω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl]
+1\782	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\784	OPUNCT	«	«	OPUNCT
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\785	TOK	Όλα	όλος	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\789	TOK	πάνε	πηγαίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\794	TOK	μια	ένας	AtIdFeSgAc
+1\798	TOK	χαρά	χαρά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\803	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\808	TOK	Ισπανία	Ισπανία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\815	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\817	TOK	Στις	στου	AsPpPaFePlAc
+	SYN	[np_ge
+1\822	DIG	3	3	DIG
+1\824	TOK	Φεβρουαρίου	Φεβρουάριος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[vg
+1\836	TOK	θα	θα	PtFu
+1\839	TOK	γυρίσω	γυρίζω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\846	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\851	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\858	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\862	TOK	θα	θα	PtFu
+1\865	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\871	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\875	TOK	διάθεση	διάθεση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\883	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\887	TOK	Εθνικής	εθνικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\895	TOK	ομάδας	ομάδα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\901	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\903	TOK	Φέτος	φέτος	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\909	TOK	προβλέπω	προβλέπω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\918	TOK	ότι	ότι	CjSb
+	SYN	[vg
+1\922	TOK	θα	θα	PtFu
+1\925	TOK	πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\930	TOK	καλύτερα	καλά	AdXxCp
+	SYN	/advp]
+	SYN	/cl_o]
+1\939	TOK	και	και	CjCo
+	SYN	[cl
+1\942	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\944	TOK	μαζί	μαζί	AdXxBa
+	SYN	[pp
+1\949	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\952	TOK	τις	ο	AtDfFePlAc
+1\956	TOK	συναθλήτριές	συναθλήτρια	NoCmFePlAc
+1\969	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\972	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\974	TOK	θα	θα	PtFu
+1\977	TOK	αντιμετωπίσουμε	αντιμετωπίζω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\993	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\997	TOK	αντίπαλες	αντίπαλος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\1007	TOK	ομάδες	ομάδα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1013	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1015	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\1018	TOK	παγκόσμιο	παγκόσμιος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\1028	TOK	πρωτάθλημα	πρωτάθλημα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1039	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1045	TOK	δύσκολο	δύσκολος	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\1052	PUNCT	,	,	PUNCT
+1\1054	TOK	αλλά	αλλά	CjCo
+	SYN	[cl_o
+1\1059	TOK	επειδή	επειδή	CjSb
+	SYN	[np_nm
+1\1066	TOK	η	ο	AtDfFeSgNm
+1\1068	TOK	ομάδα	ομάδα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1074	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1080	TOK	πανέτοιμη	πανέτοιμος	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl_o]
+	SYN	[cl
+	SYN	[vg
+1\1090	TOK	ελπίζω	ελπίζω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\1097	TOK	ότι	ότι	CjSb
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1101	TOK	όλα	όλος	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\1105	TOK	θα	θα	PtFu
+1\1108	TOK	πάνε	πηγαίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\1113	TOK	καλά	καλά	AdXxBa
+	SYN	/advp]
+1\1117	CPUNCT	»	»	CPUNCT
+	SYN	/cl_o]
+1\1118	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

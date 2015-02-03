@@ -1,0 +1,99 @@
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Κώστα	Κώστας	No	NoPr	Ma|Sg|Ge	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	μήπως	μήπως	Ad	Ad	Ba	5	Adv	_	_	
+5	ξέρεις	ξέρω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	2	Adv_Pa	_	_	
+6	ποια	ποιος	Pn	PnIr	Fe|03|Sg|Nm|Xx	7	Sb	_	_	
+7	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	5	Obj	_	_	
+8	αυτή	αυτός	Pn	PnDm	Fe|03|Sg|Nm|Xx	7	Pnom	_	_	
+9	η	ο	At	AtDf	Fe|Sg|Nm	10	Det	_	_	
+10	χοντρούλα	χοντρούλης	Aj	Aj	Ba|Fe|Sg|Nm	8	Atr	_	_	
+11	που	που	Pn	PnRe	Fe|03|Sg|Nm|Xx	12	Sb	_	_	
+12	μιλάει	μιλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	10	Atr	_	_	
+13	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	12	AuxP	_	_	
+14	Ιφιγένεια	Ιφιγένεια	No	NoPr	Fe|Sg|Ac	13	Adv	_	_	
+15	;	;	PTERM_P	PTERM_P	_	5	AuxG	_	_	
+16	-	-	PUNCT	PUNCT	_	5	AuxX	_	_	
+17	Ποια	ποιος	Pn	PnIr	Fe|03|Sg|Nm|Xx	2	ExD	_	_	
+18	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αυτή	αυτός	Pn	PnDm	Fe|03|Sg|Nm|Xx	0	ExD	_	_	
+2	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+4	τζην	τζην	Aj	Aj	Ba|Ne|Pl|Ge	5	Atr	_	_	
+5	φόρεμα	φόρεμα	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	Τζένη	Τζένη	No	NoPr	Fe|Sg|Nm	1	Pnom	_	_	
+4	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+5	η	ο	At	AtDf	Fe|Sg|Nm	6	Det	_	_	
+6	ξαδέρφη	ξαδέρφη	No	NoCm	Fe|Sg|Nm	3	Atr	_	_	
+7	του	ο	At	AtDf	Ma|Sg|Ge	8	Det	_	_	
+8	Δημήτρη	Δημήτρης	No	NoPr	Ma|Sg|Ge	6	Atr	_	_	
+9	από	από	AsPp	AsPpSp	_	6	AuxP	_	_	
+10	την	ο	At	AtDf	Fe|Sg|Ac	11	Det	_	_	
+11	Αυστραλία	Αυστραλία	No	NoPr	Fe|Sg|Ac	9	Atr	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Σοβαρά	σοβαρά	Ad	Ad	Ba	0	ExD	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	πολύ	πολύ	Ad	Ad	Ba	3	Adv	_	_	
+3	ωραία	ωραίος	Aj	Aj	Ba|Ne|Pl|Ac	4	Atr	_	_	
+4	μάτια	μάτι	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γιατί	γιατί	Ad	Ad	Ba	3	Adv	_	_	
+2	δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	πας	πηγαίνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	6	AuxV	_	_	
+5	της	εγώ	Pn	PnPe	Fe|03|Sg|Ge|We	6	Obj	_	_	
+6	μιλήσεις	μιλώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σε	σε	AsPp	AsPpSp	_	2	AuxP	_	_	
+2	κοιτάζει	κοιτάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	ώρα	ώρα	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ξέρω	ξέρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	2	Sb	_	_	
+4	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	αγγλικά	αγγλικός	No	NoCm	Ne|Pl|Nm	5	Sb	_	_	
+3	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	2	Pos	_	_	
+4	δεν	δεν	Pt	PtNg	_	5	AuxV	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	πολύ	πολύ	Ad	Ad	Ba	7	Adv	_	_	
+7	καλά	καλά	Ad	Ad	Ba	5	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ελληνικά	ελληνικός	Aj	Aj	Ba|Ne|Pl|Nm	2	Sb	_	_	
+2	μιλάει	μιλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Ακου	ακούω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	4	Obj	_	_	
+4	λέει	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	3	AuxY	_	_	
+2	βέβαια	βέβαια	Ad	Ad	Ba	3	Adv	_	_	
+3	μιλάει	μιλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ελληνικά	ελληνικός	Aj	Aj	Ba|Ne|Pl|Ac	3	Obj	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Από	από	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	εσένα	εγώ	Pn	PnPe	Ma|02|Sg|Ac|St	1	Adv	_	_	
+3	πάντως	πάντως	Ad	Ad	Ba	0	ExD	_	_	
+4	καλύτερα	καλά	Ad	Ad	Cp	3	Adv	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

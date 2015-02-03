@@ -1,0 +1,362 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Το	ο	AtDfNeSgNm
+1\4	TOK	Σύνταγμα	σύνταγμα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\13	TOK	του	ο	AtDfNeSgGe
+1\17	DIG	1975	1975	DIG
+	SYN	/np_ge]
+	SYN	[vg
+1\22	TOK	εγγυάται	εγγυώμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\31	TOK	τις	ο	AtDfFePlAc
+1\35	TOK	ελευθερίες	ελευθερία	NoCmFePlAc
+	SYN	/np_ac]
+1\46	TOK	και	και	CjCo
+	SYN	[np_ac
+1\50	TOK	τα	ο	AtDfNePlAc
+1\53	TOK	δικαιώματα	δικαίωμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ge
+1\65	TOK	του	ο	AtDfMaSgGe
+1\69	TOK	πολίτη	πολίτης	NoCmMaSgGe
+	SYN	/np_ge]
+1\76	TOK	και	και	CjCo
+	SYN	[vg
+1\80	TOK	ορίζει	ορίζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\87	TOK	ως	ως	AdXxBa
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\90	TOK	επικεφαλής	επικεφαλής	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ge
+1\101	TOK	του	ο	AtDfNeSgGe
+1\105	TOK	κράτους	κράτος	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/advp]
+	SYN	[np_ac
+1\113	TOK	έναν	ένας	AtIdMaSgAc
+	SYN	[adjp_ac
+	SYN	[advp
+1\118	TOK	έμμεσα	έμμεσα	AdXxBa
+	SYN	/advp]
+1\125	TOK	εκλεγμένο	εκλεγμένος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\135	TOK	Πρόεδρο	πρόεδρος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\143	TOK	της	ο	AtDfFeSgGe
+1\147	TOK	Δημοκρατίας	δημοκρατία	NoCmFeSgGe
+	SYN	/np_ge]
+1\158	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\160	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\164	TOK	διορίζεται	διορίζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\175	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\179	TOK	τη	ο	AtDfFeSgAc
+1\182	TOK	Βουλή	βουλή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\188	TOK	των	ο	AtDfMaPlGe
+1\192	TOK	Ελλήνων	Έλληνας	NoPrMaPlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\199	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\201	TOK	Ο	ο	AtDfMaSgNm
+1\203	TOK	πρωθυπουργός	πρωθυπουργός	NoCmMaSgNm
+	SYN	/np_nm]
+1\216	TOK	και	και	CjCo
+	SYN	[np_nm
+1\220	TOK	η	ο	AtDfFeSgNm
+1\222	TOK	Βουλή	βουλή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\228	TOK	παίζουν	παίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\236	TOK	κεντρικό	κεντρικός	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\245	TOK	ρόλο	ρόλος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\250	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\255	TOK	κυβερνητική	κυβερνητικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\267	TOK	διαδικασία	διαδικασία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\277	PUNCT	,	,	PUNCT
+1\279	TOK	ενώ	ενώ	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\283	TOK	ο	ο	AtDfMaSgNm
+1\285	TOK	Πρόεδρος	πρόεδρος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\294	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\299	TOK	κάποιες	κάποιος	PnIdFe03PlAcXx
+	SYN	[adjp_ac
+1\307	TOK	μειωμένες	μειωμένος	VbMnPpXxXxPlFePePvAc
+	SYN	/adjp_ac]
+1\317	TOK	δικαιοδοσίες	δικαιοδοσία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\329	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\331	TOK	Ο	ο	AtDfMaSgNm
+1\333	TOK	Πρόεδρος	πρόεδρος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\342	TOK	εκλέγεται	εκλέγω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\352	TOK	κάθε	κάθε	PnIdNe03SgNmXx
+1\357	DIG	5	5	DIG
+1\359	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\366	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\370	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\377	TOK	να	να	PtSj
+1\380	TOK	επανεκλεγεί	επανεκλέγω	VbMnIdXx03SgXxPePvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\392	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\397	TOK	μία	ένας	AtIdFeSgAc
+1\401	TOK	φορά	φορά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\405	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\408	TOK	Τα	ο	AtDfNePlNm
+1\411	TOK	μέλη	μέλος	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\416	TOK	της	ο	AtDfFeSgGe
+1\420	TOK	Βουλής	βουλή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\427	TOK	εκλέγονται	εκλέγω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\438	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\441	TOK	καθολική	καθολικός	AjBaFeSgAc
+1\450	TOK	μυστική	μυστικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\458	TOK	ψηφοφορία	ψηφοφορία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\468	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\472	DIG	4	4	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\474	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\477	TOK	πολύ	πολύς	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ac
+1\482	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+1\488	PUNCT	,	,	PUNCT
+1\490	TOK	ενώ	ενώ	CjCo
+	SYN	[np_ac
+1\494	TOK	εκλογές	εκλογή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\502	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\509	TOK	να	να	PtSj
+1\512	TOK	κηρυχθούν	κηρύχνω	VbMnIdXx03PlXxPePvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\522	TOK	νωρίτερα	νωρίς	AdXxCp
+	SYN	/advp]
+	SYN	[pp
+1\531	TOK	για	για	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\535	TOK	έκτακτους	έκτακτος	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\545	TOK	λόγους	λόγος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\551	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\553	TOK	Η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\555	TOK	Ελληνική	ελληνικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\564	TOK	Δημοκρατία	δημοκρατία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\575	TOK	εφαρμόζει	εφαρμόζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\585	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\589	TOK	εκλογικό	εκλογικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\598	TOK	σύστημα	σύστημα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\606	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\610	TOK	επιτρέπει	επιτρέπω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\620	TOK	ισχυρή	ισχυρός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\627	TOK	κυβέρνηση	κυβέρνηση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\637	TOK	πλειοψηφίας	πλειοψηφία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[advp
+1\649	TOK	ακόμα	ακόμα	AdXxBa
+	SYN	/advp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\655	TOK	και	και	CjCo
+	SYN	[cl_c
+1\659	TOK	αν	αν	CjSb
+	SYN	[np_nm
+1\662	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\665	TOK	πρώτο	πρώτος	NmOdNeSgNmAj
+	SYN	/adjp_nm]
+1\671	TOK	κόμμα	κόμμα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\677	TOK	δεν	δεν	PtNg
+1\681	TOK	συγκεντρώνει	συγκεντρώνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\694	TOK	την	ο	AtDfFeSgAc
+1\698	TOK	πλειοψηφία	πλειοψηφία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_c]
+1\708	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+	SYN	[vg_s
+1\710	TOK	Για	για	AsPpSp
+1\714	TOK	να	να	PtSj
+1\717	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\724	TOK	να	να	PtSj
+1\727	TOK	καταλάβει	καταλαβαίνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\737	TOK	μία	ένας	NmCdFeSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\741	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\745	TOK	τις	ο	AtDfFePlAc
+1\749	DIG	300	300	DIG
+	SYN	[adjp_ac
+1\753	TOK	βουλευτικές	βουλευτικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\765	TOK	έδρες	έδρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+	SYN	[cl
+	SYN	[np_nm
+1\771	TOK	ένα	ένας	AtIdNeSgNm
+1\775	TOK	κόμμα	κόμμα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\781	TOK	πρέπει	πρέπει	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\788	TOK	να	να	PtSj
+1\791	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+1\796	TOK	λάβει	λαμβάνω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\802	TOK	τουλάχιστον	τουλάχιστο	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\814	TOK	το	ο	AtDfNeSgAc
+1\817	DIG	3%	3%	DIG
+	SYN	/np_ac]
+	SYN	[np_ge
+1\820	TOK	του	ο	AtDfNeSgGe
+1\824	TOK	συνόλου	σύνολο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\832	TOK	των	ο	AtDfFePlGe
+1\836	TOK	ψήφων	ψήφος	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\841	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

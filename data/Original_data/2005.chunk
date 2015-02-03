@@ -1,0 +1,100 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	ENUM	-	-	ENUM
+	SYN	[advp
+1\2	TOK	Πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\6	TOK	σε	εγώ	PnPeMa02SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\9	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\13	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\16	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\17	TOK	Με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\20	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\25	TOK	Χριστίνα	Χριστίνα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\35	ENUM	-	-	ENUM
+	SYN	[advp
+1\36	TOK	Πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\40	TOK	σε	εγώ	PnPeMa02SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\43	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\47	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\50	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\51	TOK	Με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\54	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\59	TOK	Φίλιππο	Φίλιππος	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\68	ENUM	-	-	ENUM
+	SYN	[advp
+1\69	TOK	Πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\73	TOK	τη	εγώ	PnPeFe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\76	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\80	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\83	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\84	TOK	Χριστίνα	Χριστίνα	NoPrFeSgAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\94	ENUM	-	-	ENUM
+	SYN	[advp
+1\95	TOK	Πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\99	TOK	τον	εγώ	PnPeMa03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\103	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\107	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\110	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\111	TOK	Φίλιππο	Φίλιππος	NoPrMaSgAc
+	SYN	/np_ac]
+	)SENT	</S>

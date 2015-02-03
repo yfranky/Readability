@@ -1,0 +1,54 @@
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	λαγός	λαγός	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	πουλάει	πουλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+4	καρότα	καρότο	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+5	κι	και	Cj	CjCo	_	0	Coord	_	_	
+6	ο	ο	At	AtDf	Ma|Sg|Nm	7	Det	_	_	
+7	αρκούδος	αρκούδος	No	NoCm	Ma|Sg|Nm	8	Sb	_	_	
+8	χτίζει	χτίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+9	...	...	PTERM_P	PTERM_P	_	8	AuxG	_	_	
+10	σπίτια	σπίτι	No	NoCm	Ne|Pl|Ac	8	Obj	_	_	
+11	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Εμ	Εμ	No	NoPr	Ma|Sg|Nm	3	Atr	_	_	
+3	κυρίες	κυρία	No	NoCm	Fe|Pl|Nm	9	Atr	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	πάρτε	παίρνω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	3	Adv_Pa	_	_	
+6	φρούτα	φρούτο	No	NoCm	Ne|Pl|Nm	8	ExD_Co	_	_	
+7	ντοματούλες	ντοματούλες	No	NoCm	Fe|Pl|Nm	8	ExD_Co	_	_	
+8	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+9	πιπεριές	πιπεριά	No	NoCm	Fe|Pl|Nm	0	ExD	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλα	όλος	Aj	Aj	Ba|Ne|Pl|Nm	5	Sb	_	_	
+2	δροσερά	δροσερός	Aj	Aj	Ba|Ne|Pl|Ac	3	Atr_Co	_	_	
+3	και	και	Cj	CjCo	_	1	Coord	_	_	
+4	φρέσκα	φρέσκος	Aj	Aj	Ba|Ne|Pl|Ac	3	Atr_Co	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	5	AuxP	_	_	
+7	πιο	πιο	Ad	Ad	Ba	8	Adv	_	_	
+8	καλές	καλός	Aj	Aj	Ba|Fe|Pl|Nm	9	Atr	_	_	
+9	τιμές	τιμή	No	NoCm	Fe|Pl|Nm	6	ExD_Co	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τώρα	τώρα	Ad	Ad	Ba	3	Adv	_	_	
+3	έγινα	γίνομαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	6	Pred_Co	_	_	
+4	και	και	Cj	CjCo	_	5	AuxY	_	_	
+5	χτίστης	χτίστης	No	NoCm	Ma|Sg|Nm	3	Pnom	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	δουλεύω	δουλεύω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+8	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	7	AuxP	_	_	
+9	γιαπί	γιαπί	No	NoCm	Ne|Sg|Ac	8	Adv	_	_	
+10	τούβλα	τούβλο	No	NoCm	Ne|Pl|Ac	13	Atr_Co	_	_	
+11	,	,	PUNCT	PUNCT	_	13	AuxX	_	_	
+12	λάσπη	λάσπη	No	NoCm	Fe|Sg|Ac	13	Atr_Co	_	_	
+13	και	και	Cj	CjCo	_	9	Coord	_	_	
+14	ασβέστη	ασβέστης	No	NoCm	Ma|Sg|Ge	13	Atr_Co	_	_	
+15	,	,	PUNCT	PUNCT	_	17	AuxX	_	_	
+16	πηλοφόρι	πηλοφόρι	No	NoCm	Ne|Sg|Ac	17	Adv_Co	_	_	
+17	και	και	Cj	CjCo	_	7	Coord	_	_	
+18	μυστρί	μυστρί	No	NoCm	Ne|Sg|Ac	17	Atr_Co	_	_	
+19	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,36 @@
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Ααα	Ααα	No	NoPr	Ma|Sg|Nm	4	ExD_Ap	_	_	
+3	...	...	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+4	,	,	PUNCT	PUNCT	_	0	Apos	_	_	
+5	ένα	ένας	At	AtId	Ne|Sg|Ac	6	Det	_	_	
+6	βιβλίο	βιβλίο	No	NoCm	Ne|Sg|Ac	4	ExD_Ap	_	_	
+7	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	6	AuxP	_	_	
+8	ελληνικά	ελληνικός	Aj	Aj	Ba|Ne|Pl|Ac	7	Atr	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πο	Πο	No	NoPr	Ma|Sg|Nm	2	ExD_Co	_	_	
+2	,	,	PUNCT	PUNCT	_	0	Coord	_	_	
+3	πο	πο	No	NoCm	Ma|Sg|Ac	2	ExD_Co	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δύσκολο	δύσκολος	Aj	Aj	Ba|Ne|Sg|Nm	0	ExD	_	_	
+2	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Έλα	έλα	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Pv|Xx	4	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	διαβάζουμε	διαβάζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	μαζί	μαζί	Ad	Ad	Ba	4	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	2	AuxK	_	_	
+
+1	Σχολείο	σχολείο	No	NoCm	Ne|Sg|Nm	4	ExD_Co	_	_	
+2	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+3	θέατρο	θέατρο	No	NoCm	Ne|Sg|Ac	4	ExD_Co	_	_	
+4	,	,	PUNCT	PUNCT	_	0	Coord	_	_	
+5	μουσείο	μουσείο	No	NoCm	Ne|Sg|Ac	4	ExD_Co	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

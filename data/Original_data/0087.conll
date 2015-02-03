@@ -1,0 +1,122 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ελάτε	ελάτε	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	βάλουμε	βάζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	σκουπίδια	σκουπίδι	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+6	σε	σε	AsPp	AsPpSp	_	3	AuxP	_	_	
+7	μια	ένας	At	AtId	Fe|Sg|Ac	8	Det	_	_	
+8	τσάντα	τσάντα	No	NoCm	Fe|Sg|Ac	6	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	αφήσουμε	αφήνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	δάσος	δάσος	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	καθαρό	καθαρός	Aj	Aj	Ba|Ne|Sg|Ac	3	Pnom	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Εμείς	εγώ	Pn	PnPe	Ma|01|Pl|Nm|St	3	Sb	_	_	
+3	θέλουμε	θέλω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	παίξουμε	παίζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Obj	_	_	
+6	μπάλα	μπάλα	No	NoCm	Fe|Sg|Ac	5	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+3	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	4	Obj	_	_	
+4	μαζέψουμε	μαζεύω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	σε	σε	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	λίγο	λίγο	Ad	Ad	Ba	5	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Γιοντζά	Γιοντζά	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+3	ρίχνει	ρίχνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	την	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	μπάλα	μπάλα	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+6	πολύ	πολύ	Ad	Ad	Ba	7	Adv	_	_	
+7	μακριά	μακριά	Ad	Ad	Ba	3	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Φασαρίας	φασαρίας	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	τρέχει	τρέχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	πίσω	πίσω	Ad	Ad	Ba	3	Adv	_	_	
+5	από	από	AsPp	AsPpSp	_	3	AuxP	_	_	
+6	την	ο	At	AtDf	Fe|Sg|Ac	7	Det	_	_	
+7	μπάλα	μπάλα	No	NoCm	Fe|Sg|Ac	5	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	4	Sb	_	_	
+3	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	4	Obj	_	_	
+4	φωνάζουν	φωνάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+7	ο	ο	At	AtDf	Ma|Sg|Nm	8	Det	_	_	
+8	Φασαρίας	φασαρίας	No	NoCm	Ma|Sg|Nm	10	Sb	_	_	
+9	δεν	δεν	Pt	PtNg	_	10	AuxV	_	_	
+10	ακούει	ακούω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	3	Sb	_	_	
+2	μαζί	μαζί	Ad	Ad	Ba	3	Adv	_	_	
+3	ψάχνουν	ψάχνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	6	AuxV	_	_	
+5	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	6	Obj	_	_	
+6	βρουν	βρίσκω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	3	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	5	AuxG	_	_	
+2	Γιατί	γιατί	Ad	Ad	Ba	1	Adv	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	Φασαρίας	φασαρίας	No	NoCm	Ma|Sg|Nm	5	Sb	_	_	
+5	μυρίζει	μυρίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	χώμα	χώμα	No	NoCm	Ne|Sg|Ac	5	Obj	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Βρήκε	βρίσκω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πατημασιές	πατημασιά	No	NoCm	Fe|Pl|Ac	2	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πατημασιές	πατημασιά	No	NoCm	Fe|Pl|Nm	0	ExD	_	_	
+3	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	ζώο	ζώο	No	NoCm	Ne|Sg|Ac	3	Atr	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Λύκος	λύκος	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Αλεπού	αλεπού	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Αρκούδα	αρκούδα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	αρκούδα	αρκούδα	No	NoCm	Fe|Sg|Nm	3	Pnom	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	αρκούδα	αρκούδα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	πολύ	πολύ	Ad	Ad	Ba	5	Adv	_	_	
+5	μεγάλα	μεγάλος	Aj	Aj	Ba|Ne|Pl|Ac	6	Atr	_	_	
+6	πόδια	πόδι	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,137 @@
+1	Μπαμπά	μπαμπάς	No	NoCm	Ma|Sg|Ac	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	γεια	γεια	No	NoCm	Fe|Sg|Ac	1	ExD	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είσαι	είμαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	καλά	καλά	Ad	Ad	Ba	1	Adv	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	2	Obj	_	_	
+2	γράφω	γράφω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	για	για	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	να	να	Pt	PtSj	_	6	AuxV	_	_	
+5	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	6	IObj	_	_	
+6	πω	λέγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Adv	_	_	
+7	ότι	ότι	Cj	CjSb	_	6	AuxC	_	_	
+8	ο	ο	At	AtDf	Ma|Sg|Nm	9	Det	_	_	
+9	υπολογιστής	υπολογιστής	No	NoCm	Ma|Sg|Nm	12	Sb	_	_	
+10	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	9	Pos	_	_	
+11	δεν	δεν	Pt	PtNg	_	12	AuxV	_	_	
+12	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	7	Obj	_	_	
+13	και	και	Cj	CjCo	_	14	AuxY	_	_	
+14	πολύ	πολύ	Ad	Ad	Ba	15	Adv	_	_	
+15	καλά	καλά	Ad	Ad	Ba	12	Adv	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Χτες	χθες	Ad	Ad	Ba	3	Adv	_	_	
+2	που	που	Ad	Ad	Ba	3	Adv	_	_	
+3	είχα	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	14	Adv	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	γράψω	γράφω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+6	μια	ένας	At	AtId	Fe|Sg|Ac	7	Det	_	_	
+7	εργασία	εργασία	No	NoCm	Fe|Sg|Ac	5	Obj	_	_	
+8	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	7	AuxP	_	_	
+9	ιστορία	ιστορία	No	NoCm	Fe|Sg|Ac	8	Atr	_	_	
+10	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+11	ο	ο	At	AtDf	Ma|Sg|Nm	12	Det	_	_	
+12	υπολογιστής	υπολογιστής	No	NoCm	Ma|Sg|Nm	14	Sb	_	_	
+13	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	14	Obj	_	_	
+14	τίναξε	τινάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Άκου	ακούω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	δεις	βλέπω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	5	Obj	_	_	
+5	έγινε	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πάω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	βάλω	βάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	μπροστά	μπροστά	Ad	Ad	Ba	3	Adv	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Ac	6	Det	_	_	
+6	κομπιούτερ	κομπιούτερ	Rg	RgFw	_	3	Obj	_	_	
+7	για	για	AsPp	AsPpSp	_	10	AuxP	_	_	
+8	να	να	Pt	PtSj	_	9	AuxV	_	_	
+9	γράψω	γράφω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	10	Obj_Co	_	_	
+10	και	και	Cj	CjCo	_	6	Coord	_	_	
+11	ακούω	ακούω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	10	Adv_Co	_	_	
+12	κάτι	κάτι	Pn	PnId	Ne|03|Sg|Ac|Xx	14	Atr	_	_	
+13	μυστήριους	μυστήριος	Aj	Aj	Ba|Ma|Pl|Ac	14	Atr	_	_	
+14	θορύβους	θόρυβος	No	NoCm	Ma|Pl|Ac	11	Obj	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μάους	Μάους	Rg	RgFw	_	0	ExD	_	_	
+2	και	και	Cj	CjCo	_	1	AuxY	_	_	
+3	πληκτρολόγιο	πληκτρολόγιο	No	NoCm	Ne|Sg|Ac	1	ExD	_	_	
+4	νεκρά	νεκρός	Aj	Aj	Ba|Ne|Pl|Nm	3	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	οπότε	οπότε	Cj	CjCo	_	1	Coord	_	_	
+7	βγάλω	βγάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+8	την	ο	At	AtDf	Fe|Sg|Ac	9	Det	_	_	
+9	υπολογιστή	υπολογιστής	No	NoCm	Ma|Sg|Ac	7	Obj	_	_	
+10	από	από	AsPp	AsPpSp	_	7	AuxP	_	_	
+11	την	ο	At	AtDf	Fe|Sg|Ac	12	Det	_	_	
+12	πρίζα	πρίζα	No	NoCm	Fe|Sg|Ac	10	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Περιμένω	περιμένω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+2	λίγο	λίγο	Ad	Ad	Ba	1	Adv	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	5	Obj	_	_	
+5	ξαναβάζω	ξαναβάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	8	Pred_Co	_	_	
+6	μπροστά	μπροστά	Ad	Ad	Ba	5	Adv	_	_	
+7	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+8	αλλά	αλλά	Cj	CjCo	_	3	Coord_Co	_	_	
+9	τίποτα	τίποτα	Pn	PnId	Ne|03|Sg|Nm|Xx	8	ExD_Co	_	_	
+10	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ελπίζω	ελπίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	4	AuxV	_	_	
+3	μην	μην	Pt	PtNg	_	4	AuxV	_	_	
+4	έχεις	έχω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+5	χάσει	χάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Obj	_	_	
+6	την	ο	At	AtDf	Fe|Sg|Ac	7	Det	_	_	
+7	εγγύηση	εγγύηση	No	NoCm	Fe|Sg|Ac	5	Obj	_	_	
+8	γιατί	γιατί	Cj	CjSb	_	5	AuxC	_	_	
+9	έγραψα	γράφω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	14	Pred_Co	_	_	
+10	ένα	ένας	At	AtId	Ne|Sg|Ac	11	Det	_	_	
+11	γράμμα	γράμμα	No	NoCm	Ne|Sg|Ac	9	Obj	_	_	
+12	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	11	AuxP	_	_	
+13	εταιρεία	εταιρεία	No	NoCm	Fe|Sg|Ac	12	Atr	_	_	
+14	και	και	Cj	CjCo	_	8	Coord	_	_	
+15	τους	εγώ	Pn	PnPe	Ma|03|Pl|Ge|We	16	IObj	_	_	
+16	είπα	λέγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	14	Pred_Co	_	_	
+17	ότι	ότι	Cj	CjSb	_	16	AuxC	_	_	
+18	έχουμε	έχω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	17	Obj	_	_	
+19	ακόμα	ακόμα	Ad	Ad	Ba	20	Adv	_	_	
+20	εγγύηση	εγγύηση	No	NoCm	Fe|Sg|Ac	18	Obj	_	_	
+21	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	ΣΕ	σε	AsPp	AsPpSp	_	4	AuxP	_	_	
+2	ΠΑΡΑΚΑΛΩ	παρακαλώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	πάρε	παίρνω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	κι	και	Cj	CjCo	_	6	AuxY	_	_	
+6	εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	4	Sb	_	_	
+7	την	ο	At	AtDf	Fe|Sg|Ac	8	Det	_	_	
+8	εταιρεία	εταιρεία	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+9	για	για	AsPp	AsPpSp	_	4	AuxP	_	_	
+10	να	να	Pt	PtSj	_	11	AuxV	_	_	
+11	ξεμπερδέψουμε	ξεμπερδεύω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	9	Adv	_	_	
+12	μια	ένας	At	AtId	Fe|Sg|Ac	13	Det	_	_	
+13	ώρα	ώρα	No	NoCm	Fe|Sg|Ac	11	Obj	_	_	
+14	αρχύτερα	αρχύτερα	Ad	Ad	Cp	11	Adv	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αυτά	αυτός	Pn	PnDm	Ne|03|Pl|Nm|Xx	2	Pred_Co	_	_	
+2	και	και	Cj	CjCo	_	0	Coord	_	_	
+3	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	4	Obj	_	_	
+4	φιλώ	φιλώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+
+1	ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Χαρούλης	Χαρούλης	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+3	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	2	Atr	_	_	
+

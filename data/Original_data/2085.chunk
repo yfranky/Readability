@@ -1,0 +1,649 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Ο	ο	AtDfMaSgNm
+1\3	TOK	Δημήτρης	Δημήτρης	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\12	TOK	μιλάει	μιλώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\19	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\23	TOK	τηλέφωνο	τηλέφωνο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\32	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\35	TOK	τη	ο	AtDfFeSgAc
+1\38	TOK	φίλη	φίλη	NoCmFeSgAc
+1\43	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+1\46	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\48	TOK	τη	ο	AtDfFeSgAc
+1\51	TOK	Μαρία	Μαρία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\56	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\58	TOK	που	που	PnReFe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[np_ge
+1\62	TOK	του	εγώ	PnPeMa03SgGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\66	TOK	προτείνει	προτείνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\76	TOK	να	να	PtSj
+1\79	TOK	πάνε	πηγαίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\84	TOK	κάπου	κάπου	AdXxBa
+1\90	TOK	έξω	έξω	AdXxBa
+1\94	TOK	μαζί	μαζί	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+1\98	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\100	TOK	Ο	ο	AtDfMaSgNm
+1\102	TOK	Δημήτρης	Δημήτρης	NoPrMaSgNm
+	SYN	/np_nm]
+1\111	TOK	όμως	όμως	CjCo
+	SYN	[vg
+1\116	TOK	δεν	δεν	PtNg
+1\120	TOK	ενθουσιάζεται	ενθουσιάζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\134	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\137	TOK	την	ο	AtDfFeSgAc
+1\141	TOK	ιδέα	ιδέα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+1\146	TOK	γιατί	γιατί	CjSb
+	SYN	[vg
+1\152	TOK	προτιμάει	προτιμώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\162	TOK	να	να	PtSj
+1\165	TOK	κάνει	κάνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\171	TOK	κάτι	κάτι	PnIdNe03SgAcXx
+	SYN	[adjp_ac
+1\176	TOK	καλύτερο	καλός	AjCpMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\184	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\187	ENUM	-	-	ENUM
+	SYN	[advp
+1\188	TOK	Λοιπόν	λοιπόν	AdXxBa
+	SYN	/advp]
+1\194	PUNCT	,	,	PUNCT
+	SYN	[cl_q
+	SYN	[np_ac
+1\196	TOK	τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\199	TOK	λες	λέγω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+1\202	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\204	TOK	Δημήτρη	Δημήτρης	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\211	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\213	TOK	πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\218	TOK	σινεμά	σινεμά	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\224	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\227	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\228	TOK	Μπα	μπα	NoPrMaSgNm
+	SYN	/np_nm]
+1\231	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\233	TOK	δεν	δεν	PtNg
+1\237	TOK	έρχομαι	έρχομαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\244	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\246	TOK	βαριέμαι	βαριέμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\254	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\256	TOK	Προτιμώ	προτιμώ	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\264	TOK	να	να	PtSj
+1\267	TOK	μείνω	μένω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\273	TOK	σπίτι	σπίτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\279	TOK	να	να	PtSj
+1\282	TOK	δω	βλέπω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\285	TOK	τηλεόραση	τηλεόραση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\294	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\297	ENUM	-	-	ENUM
+	SYN	[advp
+1\298	TOK	Πάλι	πάλι	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\303	TOK	θα	θα	PtFu
+1\306	TOK	δεις	βλέπω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\311	TOK	τηλεόραση	τηλεόραση	NoCmFeSgAc
+	SYN	/np_ac]
+1\320	PUNCT	,	,	PUNCT
+1\322	TOK	βρε	βρε	Ij
+	SYN	[np_ac
+1\326	TOK	Δημήτρη	Δημήτρης	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\333	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[vg
+1\335	TOK	Δε	δεν	PtNg
+	SYN	[np_ge
+1\338	TOK	μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+1\342	TOK	λες	λέγω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\345	PUNCT	,	,	PUNCT
+	SYN	[cl_q
+	SYN	[vg
+1\347	TOK	θα	θα	PtFu
+1\350	TOK	μπορούσες	μπορώ	VbMnIdPa02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+	SYN	[cl_o
+	SYN	[vg_s
+1\360	TOK	να	να	PtSj
+1\363	TOK	ζήσεις	ζω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\370	TOK	μια	ένας	AtIdFeSgAc
+1\374	TOK	εβδομάδα	εβδομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\383	TOK	χωρίς	χωρίς	AsPpSp
+	SYN	[np_ac
+1\389	TOK	τηλεόραση	τηλεόραση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\398	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\400	TOK	Τελικά	τελικά	AdXxBa
+1\406	PUNCT	,	,	PUNCT
+1\408	TOK	καλά	καλά	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\413	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\416	TOK	έλεγε	λέγω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\422	TOK	η	ο	AtDfFeSgNm
+1\424	TOK	έρευνα	έρευνα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\431	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\436	TOK	εφημερίδα	εφημερίδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\445	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_ac
+1\448	TOK	Τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\451	TOK	διάβασε	διαβάζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\459	TOK	η	ο	AtDfFeSgNm
+1\461	TOK	Μαρία	Μαρία	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\467	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\472	TOK	εφημερίδα	εφημερίδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_q]
+1\481	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\484	TOK	Μια	ένας	AtIdFeSgNm
+1\488	TOK	έρευνα	έρευνα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\495	TOK	έδειξε	δείχνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\502	TOK	ότι	ότι	CjSb
+	SYN	[pp
+1\506	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\511	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\518	DIG	4	4	DIG
+	SYN	[pp
+1\520	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\524	DIG	10	10	DIG
+1\527	TOK	σπίτια	σπίτι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\534	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\540	TOK	τουλάχιστον	τουλάχιστο	AdXxBa
+	SYN	/advp]
+1\552	TOK	δύο	δύο	NmCdFePlNmAj
+	SYN	/adjp_nm]
+1\556	TOK	τηλεοράσεις	τηλεόραση	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\567	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\569	TOK	Το	ο	AtDfNeSgNm
+1\572	DIG	99,3%	99,3%	DIG
+	SYN	[np_ge
+1\578	TOK	των	ο	AtDfMaPlGe
+1\582	TOK	Ελλήνων	Έλληνας	NoPrMaPlGe
+	SYN	/np_ge]
+	SYN	[vg
+1\590	TOK	περνάει	περνώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\598	TOK	τον	ο	AtDfMaSgAc
+	SYN	[adjp_ac
+1\602	TOK	ελεύθερο	ελεύθερος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\611	TOK	χρόνο	χρόνος	NoCmMaSgAc
+	SYN	/np_ac]
+1\617	TOK	του	ο	AtDfNeSgGe
+	SYN	[advp
+1\621	TOK	μπροστά	μπροστά	AdXxBa
+	SYN	[pp
+1\629	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\634	TOK	τηλεόραση	τηλεόραση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\643	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\645	TOK	Οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\648	TOK	μισοί	μισός	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\654	TOK	Έλληνες	Έλληνας	NoPrMaPlNm
+	SYN	/np_nm]
+1\661	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\663	TOK	μάλιστα	μάλιστα	AdXxBa
+	SYN	/advp]
+1\670	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\672	TOK	δηλώνουν	δηλώνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\681	TOK	ότι	ότι	CjSb
+	SYN	[advp
+1\685	TOK	δε	δε	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\688	TOK	θα	θα	PtFu
+1\691	TOK	μπορούσαν	μπορώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\701	TOK	να	να	PtSj
+1\704	TOK	ζήσουν	ζω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\711	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\715	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\719	TOK	ολόκληρη	ολόκληρος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\728	TOK	εβδομάδα	εβδομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\737	TOK	χωρίς	χωρίς	AsPpSp
+	SYN	[np_ac
+1\743	TOK	τηλεόραση	τηλεόραση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\752	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\754	TOK	αφού	αφού	CjSb
+	SYN	[vg
+1\759	TOK	συνηθίζουν	συνηθίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\770	TOK	να	να	PtSj
+1\773	TOK	βλέπουν	βλέπω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\781	TOK	κατά	κατά	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\786	TOK	μέσο	μέσος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\791	TOK	όρο	όρος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\795	DIG	4	4	DIG
+1\797	TOK	ώρες	ώρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\802	TOK	τηλεόραση	τηλεόραση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\812	TOK	τη	ο	AtDfFeSgAc
+1\815	TOK	μέρα	μέρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\819	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\821	TOK	Τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\824	TOK	τρία	τρεις	NmCdNePlAcAj
+1\829	TOK	τελευταία	τελευταίος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\839	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+1\845	PUNCT	,	,	PUNCT
+1\847	TOK	το	ο	AtDfNeSgAc
+1\850	DIG	44%	44%	DIG
+	SYN	[np_ge
+1\854	TOK	των	ο	AtDfMaPlGe
+1\858	TOK	Ελλήνων	Έλληνας	NoPrMaPlGe
+	SYN	/np_ge]
+	SYN	[vg
+1\866	TOK	δηλώνει	δηλώνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\874	TOK	ότι	ότι	CjSb
+	SYN	[vg
+1\878	TOK	κουράστηκε	κουράζω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\889	TOK	να	να	PtSj
+1\892	TOK	παρακολουθεί	παρακολουθώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\905	TOK	τηλεοπτικές	τηλεοπτικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\917	TOK	εκπομπές	εκπομπή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\926	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\930	TOK	αντιγράφουν	αντιγράφω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+1\942	TOK	η	ο	AtDfFeSgNm
+	SYN	[np_nm
+1\944	TOK	μία	ένας	PnIdFe03SgNmXx
+	SYN	/np_nm]
+	SYN	[np_ac
+1\948	TOK	την	ο	AtDfFeSgAc
+1\952	TOK	άλλη	άλλος	PnIdFe03SgAcXx
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\956	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\958	TOK	Ωστόσο	ωστόσο	CjCo
+	SYN	[cl
+1\964	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\966	TOK	δε	δεν	PtNg
+1\969	TOK	σταματούν	σταματώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\979	TOK	να	να	PtSj
+1\982	TOK	βλέπουν	βλέπω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\990	TOK	τηλεόραση	τηλεόραση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\999	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\1001	TOK	απλά	απλά	AdXxBa
+	SYN	/advp]
+	SYN	[cl
+	SYN	[np_ac
+1\1006	TOK	την	εγώ	PnPeFe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\1010	TOK	προτιμούν	προτιμώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1020	TOK	καλύτερη	καλός	AjCpFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\1028	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1030	TOK	Η	ο	AtDfFeSgNm
+1\1032	TOK	τηλεθέαση	τηλεθέαση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1042	TOK	άρχισε	αρχίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\1049	TOK	ξανά	ξανά	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1054	TOK	να	να	PtSj
+1\1057	TOK	αυξάνεται	αυξάνω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\1067	TOK	το	ο	AtDfMaSgAc
+1\1070	TOK	Σεπτέμβριο	Σεπτέμβριος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1081	TOK	του	ο	AtDfNeSgGe
+1\1085	DIG	2001	2001	DIG
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\1089	PUNCT	,	,	PUNCT
+	SYN	[cl_t
+1\1091	TOK	όταν	όταν	CjSb
+	SYN	[vg
+1\1096	TOK	ξεκίνησαν	ξεκινώ	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl_t]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1106	TOK	να	να	PtSj
+1\1109	TOK	προβάλλονται	προβάλλω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg_s]
+1\1122	TOK	τα	ο	AtDfNePlNm
+	SYN	[np_da
+1\1125	TOK	ριάλιτι	ριάλιτι	NoCmNeSgDa
+	SYN	/np_da]
+	SYN	/cl_o]
+1\1132	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[advp
+1\1134	TOK	Βέβαια	βέβαια	AdXxBa
+	SYN	/advp]
+1\1140	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\1142	TOK	το	ο	AtDfNeSgNm
+1\1145	TOK	ερώτημα	ερώτημα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1153	TOK	παραμένει	παραμένω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\1162	PTERM_P	:	:	PTERM_P
+	SYN	[cl_o
+1\1164	TOK	αφού	αφού	CjSb
+	SYN	[vg
+1\1169	TOK	δεν	δεν	PtNg
+1\1173	TOK	αρέσει	αρέσω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\1180	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_nm
+1\1186	TOK	Έλληνες	Έλληνας	NoPrMaPlNm
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1194	TOK	να	να	PtSj
+1\1197	TOK	παρακολουθούν	παρακολουθώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\1211	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\1214	TOK	περισσότερα	πολύς	AjCpNePlAc
+1\1226	TOK	τηλεοπτικά	τηλεοπτικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1237	TOK	προγράμματα	πρόγραμμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\1248	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\1250	TOK	γιατί	γιατί	CjSb
+1\1256	TOK	άραγε	άραγε	PtOt
+	SYN	[vg
+1\1262	TOK	συνεχίζουν	συνεχίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1273	TOK	να	να	PtSj
+1\1276	TOK	κάθονται	κάθομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\1285	TOK	μπροστά	μπροστά	AdXxBa
+	SYN	[pp
+1\1293	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\1298	TOK	τηλεόραση	τηλεόραση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[pp
+1\1308	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\1312	DIG	236	236	DIG
+	SYN	[adjp_ac
+1\1316	TOK	ολόκληρα	ολόκληρος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1325	TOK	λεπτά	λεπτό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\1331	TOK	τη	ο	AtDfFeSgAc
+1\1334	TOK	μέρα	μέρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\1338	PTERM_P	;	;	PTERM_P
+	)SENT	</S>

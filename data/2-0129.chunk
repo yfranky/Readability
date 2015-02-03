@@ -1,0 +1,212 @@
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_nm
+1\1	TOK	Ποιό	Ποιό	PnIrNe03SgNmXx
+1\6	TOK	μάθημα	μάθημα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\13	TOK	μ'	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\16	TOK	αρέσει	αρέσω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\22	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\25	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\26	TOK	Γεια	γεια	NoCmFeSgNm
+1\31	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_nm]
+1\34	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\36	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+1\42	TOK	η	ο	AtDfFeSgNm
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\44	TOK	Ειρήνη	Ειρήνη	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\51	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\55	TOK	την	ο	AtDfFeSgAc
+1\59	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\65	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\67	TOK	Το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\70	TOK	αγαπημένο	αγαπημένος	VbMnPpXxXxSgNePePvNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ge
+1\80	TOK	μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+	SYN	[np_nm
+1\84	TOK	μάθημα	μάθημα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\91	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+1\97	TOK	τα	ο	AtDfNePlNm
+	SYN	[np_ac
+1\100	TOK	Γαλλικά	Γαλλικά	NoPrNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\107	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\111	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\112	TOK	Γεια	γεια	NoCmFeSgNm
+1\117	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_nm]
+1\120	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\122	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\128	TOK	ο	ο	AtDfMaSgNm
+1\130	TOK	Γιάννης	Γιάννης	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\138	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\142	TOK	το	ο	AtDfNeSgAc
+1\145	TOK	Μπουένος	Μπουένος	NoPrNeSgAc
+1\154	TOK	Άιρες	Άιρες	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\159	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\161	TOK	Το	ο	AtDfNeSgNm
+1\164	TOK	μάθημα	μάθημα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\171	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[np_ac
+1\175	TOK	μ'	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\178	TOK	αρέσει	αρέσω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	[vg
+1\185	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\191	TOK	η	ο	AtDfFeSgNm
+1\193	TOK	γυμναστική	γυμναστικός	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\203	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\206	ENUM	-	-	ENUM
+	SYN	[vg
+1\207	TOK	Είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\213	TOK	η	ο	AtDfFeSgNm
+1\215	TOK	Φρόσω	Φρόσω	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\221	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\225	TOK	την	ο	AtDfFeSgAc
+1\229	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\235	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ge
+1\237	TOK	Εμένα	εγώ	PnPeMa01SgGeSt
+	SYN	/np_ge]
+	SYN	[np_ge
+1\243	TOK	μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\247	TOK	αρέσει	αρέσω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\254	TOK	το	ο	AtDfNeSgAc
+1\257	TOK	διάλειμμα	διάλειμμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\266	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\268	TOK	Καλό	καλός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\273	TOK	ε	ε	Ij
+1\274	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\277	ENUM	-	-	ENUM
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\278	TOK	Όλο	όλος	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\282	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\286	TOK	μαθήματα	μάθημα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\295	TOK	μιλάτε	μιλώ	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\301	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\303	TOK	Φρίκη	φρίκη	NoCmFeSgNm
+	SYN	/np_nm]
+1\308	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\310	TOK	Εγώ	εγώ	PnPeMa01SgNmSt
+	SYN	/np_nm]
+	SYN	[vg
+1\314	TOK	θα	θα	PtFu
+1\317	TOK	ήθελα	θέλω	VbMnIdPa01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\323	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\328	TOK	εκδρομές	εκδρομή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\336	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

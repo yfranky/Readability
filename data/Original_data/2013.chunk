@@ -1,0 +1,24 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Ο	ο	AtDfMaSgNm
+1\3	TOK	Γιώργος	Γιώργος	NoPrMaSgNm
+	SYN	/np_nm]
+1\11	TOK	και	και	CjCo
+	SYN	[np_nm
+1\15	TOK	η	ο	AtDfFeSgNm
+1\17	TOK	Άννα	Άννα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\22	TOK	κάνουν	κάνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\29	TOK	βόλτα	βόλτα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\35	TOK	κάθε	κάθε	PnIdFe03SgAcXx
+1\40	TOK	μέρα	μέρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\44	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

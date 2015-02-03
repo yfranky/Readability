@@ -1,0 +1,103 @@
+1	ΣΥΝΤΑΓΜΑ	σύνταγμα	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+2	ΤΗΣ	ο	At	AtDf	Fe|Sg|Ge	3	Det	_	_	
+3	ΕΛΛΑΔΑΣ	Ελλάδα	No	NoPr	Fe|Sg|Ge	1	Atr	_	_	
+
+1	Μία	ένας	Nm	NmCd	Fe|Sg|Nm|Aj	9	Pnom	_	_	
+2	από	από	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	τις	ο	At	AtDf	Fe|Pl|Ac	5	Det	_	_	
+4	θεμελιακές	θεμελιακός	Aj	Aj	Ba|Fe|Pl|Ac	5	Atr	_	_	
+5	αρχές	αρχή	No	NoCm	Fe|Pl|Ac	2	Atr	_	_	
+6	του	ο	At	AtDf	Ne|Sg|Ge	7	Det	_	_	
+7	πολιτεύματος	πολίτευμα	No	NoCm	Ne|Sg|Ge	5	Atr	_	_	
+8	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	7	Pos	_	_	
+9	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+10	η	ο	At	AtDf	Fe|Sg|Nm	11	Det	_	_	
+11	διάκριση	διάκριση	No	NoCm	Fe|Sg|Nm	9	Sb	_	_	
+12	των	ο	At	AtDf	Fe|Pl|Ge	13	Det	_	_	
+13	λειτουργιών	λειτουργία	No	NoCm	Fe|Pl|Ge	11	Atr	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	Σύνταγμα	σύνταγμα	No	NoCm	Ne|Sg|Nm	11	Sb	_	_	
+3	της	ο	At	AtDf	Fe|Sg|Ge	4	Det	_	_	
+4	Ελλάδας	Ελλάδα	No	NoPr	Fe|Sg|Ge	2	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	με	με	AsPp	AsPpSp	_	2	AuxP	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	άρθρο	άρθρο	No	NoCm	Ne|Sg|Ac	6	Atr	_	_	
+9	26	26	DIG	DIG	_	8	Atr	_	_	
+10	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+11	καθιερώνει	καθιερώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+12	τη	ο	At	AtDf	Fe|Sg|Ac	13	Det	_	_	
+13	διάκριση	διάκριση	No	NoCm	Fe|Sg|Ac	11	Obj	_	_	
+14	των	ο	At	AtDf	Fe|Pl|Ge	15	Det	_	_	
+15	λειτουργιών	λειτουργία	No	NoCm	Fe|Pl|Ge	13	Atr	_	_	
+16	ακολουθώντας	ακολουθώ	Vb	VbMn	Pp|Xx|Xx|Xx|Xx|Xx|Av|Xx	11	Adv	_	_	
+17	τον	ο	At	AtDf	Ma|Sg|Ac	19	Det	_	_	
+18	κλασικό	κλασικός	Aj	Aj	Ba|Ma|Sg|Ac	19	Atr	_	_	
+19	χωρισμό	χωρισμός	No	NoCm	Ma|Sg|Ac	16	Obj	_	_	
+20	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	α.	α.	ENUM	ENUM	_	3	Atr	_	_	
+2	Νομοθετική	νομοθετικός	Aj	Aj	Ba|Fe|Sg|Nm	3	Atr	_	_	
+3	λειτουργία	λειτουργία	No	NoCm	Fe|Sg|Nm	6	Sb	_	_	
+4	(	(	OPUNCT	OPUNCT	_	6	AuxG	_	_	
+5	που	που	Pn	PnRe	Fe|03|Sg|Nm|Xx	6	Sb	_	_	
+6	θέτει	θέτω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	τους	ο	At	AtDf	Ma|Pl|Ac	8	Det	_	_	
+8	νόμους	νόμος	No	NoCm	Ma|Pl|Ac	6	Obj	_	_	
+9	)	)	CPUNCT	CPUNCT	_	6	AuxG	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ασκείται	ασκώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	από	από	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	τον	ο	At	AtDf	Ma|Sg|Ac	4	Det	_	_	
+4	Πρόεδρο	πρόεδρος	No	NoCm	Ma|Sg|Ac	7	Adv_Co	_	_	
+5	της	ο	At	AtDf	Fe|Sg|Ge	6	Det	_	_	
+6	Δημοκρατίας	δημοκρατία	No	NoCm	Fe|Sg|Ge	4	Atr	_	_	
+7	και	και	Cj	CjCo	_	2	Coord	_	_	
+8	τη	ο	At	AtDf	Fe|Sg|Ac	9	Det	_	_	
+9	Βουλή	βουλή	No	NoCm	Fe|Sg|Ac	7	Adv_Co	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	β.	β.	ENUM	ENUM	_	3	Atr	_	_	
+2	Εκτελεστική	εκτελεστικός	Aj	Aj	Ba|Fe|Sg|Nm	3	Atr	_	_	
+3	λειτουργία	λειτουργία	No	NoCm	Fe|Sg|Nm	6	Sb	_	_	
+4	(	(	OPUNCT	OPUNCT	_	6	AuxG	_	_	
+5	που	που	Pn	PnRe	Fe|03|Sg|Nm|Xx	6	Sb	_	_	
+6	εκτελεί	εκτελώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	τους	ο	At	AtDf	Ma|Pl|Ac	8	Det	_	_	
+8	νόμους	νόμος	No	NoCm	Ma|Pl|Ac	6	Obj	_	_	
+9	)	)	CPUNCT	CPUNCT	_	6	AuxG	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ασκείται	ασκώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	από	από	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	τον	ο	At	AtDf	Ma|Sg|Ac	4	Det	_	_	
+4	Πρόεδρο	πρόεδρος	No	NoCm	Ma|Sg|Ac	7	Obj_Co	_	_	
+5	της	ο	At	AtDf	Fe|Sg|Ge	6	Det	_	_	
+6	Δημοκρατίας	δημοκρατία	No	NoCm	Fe|Sg|Ge	4	Atr	_	_	
+7	και	και	Cj	CjCo	_	2	Coord	_	_	
+8	την	ο	At	AtDf	Fe|Sg|Ac	9	Det	_	_	
+9	Κυβέρνηση	κυβέρνηση	No	NoCm	Fe|Sg|Ac	7	Obj_Co	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	γ.	γ.	ENUM	ENUM	_	3	Atr	_	_	
+2	Δικαστική	δικαστικός	Aj	Aj	Ba|Fe|Sg|Nm	3	Atr	_	_	
+3	λειτουργία	λειτουργία	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+4	(	(	OPUNCT	OPUNCT	_	6	AuxG	_	_	
+5	που	που	Pn	PnRe	Fe|03|Sg|Nm|Xx	6	Sb	_	_	
+6	ελέγχει	ελέγχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Atr	_	_	
+7	την	ο	At	AtDf	Fe|Sg|Ac	8	Det	_	_	
+8	εφαρμογή	εφαρμογή	No	NoCm	Fe|Sg|Ac	6	Obj	_	_	
+9	των	ο	At	AtDf	Ma|Pl|Ge	10	Det	_	_	
+10	νόμων	νόμος	No	NoCm	Ma|Pl|Ge	8	Atr	_	_	
+11	)	)	CPUNCT	CPUNCT	_	6	AuxG	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ασκείται	ασκώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	από	από	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	τα	ο	At	AtDf	Ne|Pl|Ac	4	Det	_	_	
+4	δικαστήρια	δικαστήριο	No	NoCm	Ne|Pl|Ac	2	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

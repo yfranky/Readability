@@ -1,0 +1,38 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Ο	ο	AtDfMaSgNm
+1\3	TOK	Pete	Pete	RgFwOr
+1\8	TOK	Sampras	Sampras	RgFwOr
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\17	TOK	Γεννήθηκε	γεννώ	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\27	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ge
+1\32	DIG	12	12	DIG
+1\35	TOK	Αυγούστου	Αύγουστος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\45	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\50	TOK	Νέα	νέος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\54	TOK	Υόρκη	Υόρκη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\59	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\61	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\66	TOK	Αμερική	Αμερική	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\73	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,140 @@
+1	Αυτός	αυτός	Pn	PnDm	Ma|03|Sg|Nm|Xx	2	Pnom	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	πατέρας	πατέρας	No	NoCm	Ma|Sg|Nm	6	Sb_Ap	_	_	
+5	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	4	Pos	_	_	
+6	,	,	PUNCT	PUNCT	_	2	Apos	_	_	
+7	ο	ο	At	AtDf	Ma|Sg|Nm	8	Det	_	_	
+8	Oμάν	Oμάν	No	NoPr	Ne|Sg|Ac	6	Sb_Ap	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ψηλός	ψηλός	Aj	Aj	Ba|Ma|Sg|Nm	3	Pnom_Co	_	_	
+3	και	και	Cj	CjCo	_	1	Coord	_	_	
+4	λεπτός	λεπτός	Aj	Aj	Ba|Ma|Sg|Nm	3	Pnom_Co	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+2	μακρόστενο	μακρόστενος	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr	_	_	
+3	πρόσωπο	πρόσωπο	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+5	μυτερή	μυτερός	Aj	Aj	Ba|Fe|Sg|Nm	6	Atr	_	_	
+6	μύτη	μύτη	No	NoCm	Fe|Sg|Nm	7	ExD_Co	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	μεγάλα	μεγάλος	Aj	Aj	Ba|Ne|Pl|Ac	9	Atr	_	_	
+9	αυτιά	αυτί	No	NoCm	Ne|Pl|Ac	7	ExD_Co	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	απλός	απλός	Aj	Aj	Ba|Ma|Sg|Nm	3	Pnom_Co	_	_	
+3	και	και	Cj	CjCo	_	1	Coord	_	_	
+4	ήρεμος	ήρεμος	Aj	Aj	Ba|Ma|Sg|Nm	3	Pnom_Co	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αυτός	αυτός	Pn	PnDm	Ma|03|Sg|Nm|Xx	2	Pnom	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	θείος	θείος	No	NoCm	Ma|Sg|Nm	6	Sb_Ap	_	_	
+5	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	4	Pos	_	_	
+6	,	,	PUNCT	PUNCT	_	2	Apos	_	_	
+7	ο	ο	At	AtDf	Ma|Sg|Nm	8	Det	_	_	
+8	Χασάν	Χασάν	No	NoPr	Ma|Sg|Nm	6	Sb_Ap	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ψηλός	ψηλός	Aj	Aj	Ba|Ma|Sg|Nm	3	Pnom_Co	_	_	
+3	και	και	Cj	CjCo	_	1	Coord	_	_	
+4	χοντρός	χοντρός	Aj	Aj	Ba|Ma|Sg|Nm	3	Pnom_Co	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+2	στρογγυλό	στρογγυλός	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr	_	_	
+3	πρόσωπο	πρόσωπο	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+5	μυτερή	μυτερός	Aj	Aj	Ba|Fe|Sg|Nm	6	Atr	_	_	
+6	μύτη	μύτη	No	NoCm	Fe|Sg|Nm	7	ExD_Co	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	μεγάλα	μεγάλος	Aj	Aj	Ba|Ne|Pl|Ac	9	Atr	_	_	
+9	αυτιά	αυτί	No	NoCm	Ne|Pl|Ac	7	ExD_Co	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	5	Pred_Co	_	_	
+2	λίγο	λίγο	Ad	Ad	Ba	3	Adv	_	_	
+3	πονηρός	πονηρός	Aj	Aj	Ba|Ma|Sg|Nm	1	Pnom	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+6	δεν	δεν	Pt	PtNg	_	7	AuxV	_	_	
+7	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	5	Pred_Co	_	_	
+8	κακός	κακός	Aj	Aj	Ba|Ma|Sg|Nm	7	Pnom	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	2	Obj	_	_	
+2	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	Φιλίππα	Φιλίππα	No	NoPr	Fe|Sg|Ac	2	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	κοντή	κοντός	Aj	Aj	Ba|Fe|Sg|Ac	3	Pnom_Co	_	_	
+3	και	και	Cj	CjCo	_	1	Coord	_	_	
+4	αδύνατη	αδύνατος	Aj	Aj	Ba|Fe|Sg|Ac	3	Pnom_Co	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ξανθιά	ξανθός	Aj	Aj	Ba|Fe|Sg|Ac	1	Pnom	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	στρογγυλό	στρογγυλός	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr_Co	_	_	
+3	και	και	Cj	CjCo	_	5	Coord	_	_	
+4	χλωμό	χλωμός	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr_Co	_	_	
+5	πρόσωπο	πρόσωπο	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Tα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	μάτια	μάτι	No	NoCm	Ne|Pl|Nm	4	Sb	_	_	
+3	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	2	Pos	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	μεγάλα	μεγάλος	Aj	Aj	Ba|Ne|Pl|Nm	6	Pnom_Co	_	_	
+6	και	και	Cj	CjCo	_	4	Coord	_	_	
+7	πράσινα	πράσινος	Aj	Aj	Ba|Ne|Pl|Ac	6	Pnom_Co	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	χαμογελαστή	χαμογελαστός	Aj	Aj	Ba|Fe|Sg|Ac	3	Pnom_Co	_	_	
+3	και	και	Cj	CjCo	_	1	Coord	_	_	
+4	καλόκαρδη	καλόκαρδος	Aj	Aj	Ba|Fe|Sg|Ac	3	Pnom_Co	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	2	Obj	_	_	
+2	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	Φωτεινή	Φωτεινή	No	NoPr	Fe|Sg|Nm	2	Sb	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	κοντή	κοντός	Aj	Aj	Ba|Fe|Sg|Ac	3	Pnom_Co	_	_	
+3	και	και	Cj	CjCo	_	1	Coord	_	_	
+4	παχουλή	παχουλός	Aj	Aj	Ba|Fe|Sg|Ac	3	Pnom_Co	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	στρογγυλό	στρογγυλός	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr_Co	_	_	
+3	και	και	Cj	CjCo	_	5	Coord	_	_	
+4	ροδοκόκκινο	ροδοκόκκινος	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr_Co	_	_	
+5	πρόσωπο	πρόσωπο	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Tα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	μάτια	μάτι	No	NoCm	Ne|Pl|Nm	4	Sb	_	_	
+3	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	2	Pos	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	μεγάλα	μεγάλος	Aj	Aj	Ba|Ne|Pl|Nm	6	Pnom_Co	_	_	
+6	και	και	Cj	CjCo	_	4	Coord	_	_	
+7	καστανά	καστανάς	No	NoCm	Ma|Sg|Ac	6	Pnom_Co	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ήρεμη	ήρεμος	Aj	Aj	Ba|Fe|Sg|Nm	3	Pnom_Co	_	_	
+3	και	και	Cj	CjCo	_	1	Coord	_	_	
+4	φιλική	φιλικός	Aj	Aj	Ba|Fe|Sg|Nm	3	Pnom_Co	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

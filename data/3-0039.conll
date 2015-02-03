@@ -1,0 +1,134 @@
+1	O	O	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+2	Ανδρέας	Ανδρέας	No	NoPr	Ma|Sg|Nm	1	Atr	_	_	
+3	κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	επίσκεψη	επίσκεψη	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+6	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+7	του	ο	At	AtDf	Ma|Sg|Ge	8	Det	_	_	
+8	Ορέστη	Ορέστης	No	NoPr	Ma|Sg|Ge	6	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Ορέστης	Ορέστης	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	δείχνει	δείχνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	λεύκωμα	λεύκωμα	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	της	ο	At	AtDf	Fe|Sg|Ge	7	Det	_	_	
+7	οικογένειας	οικογένεια	No	NoCm	Fe|Sg|Ge	5	Atr	_	_	
+8	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	7	Pos	_	_	
+9	στο	στου	AsPp	AsPpPa	Ma|Sg|Ac	3	AuxP	_	_	
+10	φίλο	φίλος	No	NoCm	Ma|Sg|Ac	9	Adv	_	_	
+11	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	10	Pos	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	0	ExD	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	λεύκωμα	λεύκωμα	No	NoCm	Ne|Sg|Ac	2	ExD	_	_	
+5	της	ο	At	AtDf	Fe|Sg|Ge	6	Det	_	_	
+6	οικογένειας	οικογένεια	No	NoCm	Fe|Sg|Ge	4	Atr	_	_	
+7	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	6	Pos	_	_	
+8	!	!	PTERM_P	PTERM_P	_	2	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	13	Sb_Co	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	μπαμπάς	μπαμπάς	No	NoCm	Ma|Sg|Nm	5	Sb_Co	_	_	
+4	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	3	Atr	_	_	
+5	και	και	Cj	CjCo	_	1	Coord	_	_	
+6	η	ο	At	AtDf	Fe|Sg|Nm	7	Det	_	_	
+7	μαμά	μαμά	No	NoCm	Fe|Sg|Nm	5	Sb_Co	_	_	
+8	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	7	Pos	_	_	
+9	,	,	PUNCT	PUNCT	_	13	AuxX	_	_	
+10	η	ο	At	AtDf	Fe|Sg|Nm	11	Det	_	_	
+11	αδερφή	αδερφή	No	NoCm	Fe|Sg|Nm	13	Sb_Co	_	_	
+12	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	11	Pos	_	_	
+13	και	και	Cj	CjCo	_	0	Coord	_	_	
+14	ο	ο	At	AtDf	Ma|Sg|Nm	15	Det	_	_	
+15	αδερφός	αδερφός	No	NoCm	Ma|Sg|Nm	13	Sb_Co	_	_	
+16	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	15	Pos	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχουμε	έχω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+2	και	και	Cj	CjCo	_	4	AuxY	_	_	
+3	έναν	ένας	At	AtId	Ma|Sg|Ac	4	Det	_	_	
+4	σκύλο	σκύλος	No	NoCm	Ma|Sg|Ac	1	Obj	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+7	δεν	δεν	Pt	PtNg	_	8	AuxV	_	_	
+8	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	6	Pred_Co	_	_	
+9	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	8	AuxP	_	_	
+10	φωτογραφία	φωτογραφία	No	NoCm	Fe|Sg|Ac	9	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	0	Coord	_	_	
+2	εδώ	εδώ	Ad	Ad	Ba	3	Adv	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	1	Pred_Co	_	_	
+4	μια	ένας	At	AtId	Fe|Sg|Nm	5	Det	_	_	
+5	φωτογραφία	φωτογραφία	No	NoCm	Fe|Sg|Nm	3	Pnom	_	_	
+6	από	από	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	τις	ο	At	AtDf	Fe|Pl|Ac	8	Det	_	_	
+8	διακοπές	διακοπή	No	NoCm	Fe|Pl|Ac	6	Atr	_	_	
+9	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	8	AuxP	_	_	
+10	Ελλάδα	Ελλάδα	No	NoPr	Fe|Sg|Ac	9	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	0	ExD	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	παππούς	παππούς	No	NoCm	Ma|Sg|Nm	5	Sb_Co	_	_	
+4	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	3	Atr	_	_	
+5	και	και	Cj	CjCo	_	1	Coord	_	_	
+6	η	ο	At	AtDf	Fe|Sg|Nm	7	Det	_	_	
+7	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Nm	5	Sb_Co	_	_	
+8	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	7	Pos	_	_	
+9	,	,	PUNCT	PUNCT	_	10	AuxX	_	_	
+10	από	από	AsPp	AsPpSp	_	5	AuxP	_	_	
+11	την	ο	At	AtDf	Fe|Sg|Ac	12	Det	_	_	
+12	μεριά	μεριά	No	NoCm	Fe|Sg|Ac	10	Adv	_	_	
+13	του	ο	At	AtDf	Ma|Sg|Ge	14	Det	_	_	
+14	πατέρα	πατέρας	No	NoCm	Ma|Sg|Ge	12	Atr	_	_	
+15	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	14	Pos	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μένουν	μένω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+3	Σπάρτη	Σπάρτη	No	NoPr	Fe|Sg|Ac	2	Adv	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μιλάνε	μιλώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μόνο	μόνο	Ad	Ad	Ba	3	Adv	_	_	
+3	ελληνικά	ελληνικός	Aj	Aj	Ba|Ne|Pl|Ac	1	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Της	ο	At	AtDf	Fe|Sg|Ge	2	Det	_	_	
+2	γιαγιάς	γιαγιά	No	NoCm	Fe|Sg|Ge	5	Sb	_	_	
+3	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	2	Pos	_	_	
+4	της	εγώ	Pn	PnPe	Fe|03|Sg|Ge|We	5	IObj	_	_	
+5	αρέσει	αρέσω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	να	να	Pt	PtSj	_	7	AuxV	_	_	
+7	ταξιδεύει	ταξιδεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έρχεται	έρχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+3	Αυστραλία	Αυστραλία	No	NoPr	Fe|Sg|Ac	2	Adv	_	_	
+4	συχνά	συχνά	Ad	Ad	Ba	1	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	παππούς	παππούς	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+3	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	2	Pos	_	_	
+4	προτιμά	προτιμώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	μένει	μένω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Obj	_	_	
+7	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	6	AuxP	_	_	
+8	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	7	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	αγόρι	αγόρι	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	ξάδερφός	ξάδερφος	No	NoCm	Ma|Sg|Nm	3	Pnom	_	_	
+6	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	5	Pos	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

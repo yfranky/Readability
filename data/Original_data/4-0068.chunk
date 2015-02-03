@@ -1,0 +1,684 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Τα	ο	AtDfNePlNm
+1\4	TOK	παιδιά	παιδί	NoCmNePlNm
+1\11	TOK	μας	μου	PnPoMa01PlGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\15	TOK	τρώνε	τρώω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+1\21	PTERM_P	...	...	PTERM_P
+	SYN	[np_ac
+1\25	TOK	σκουπίδια	σκουπίδι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\36	TOK	Πολύ	πολύ	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\41	TOK	απέχει	απέχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\48	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\50	TOK	σημερινή	σημερινός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\59	TOK	διατροφή	διατροφή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\68	TOK	των	ο	AtDfNePlGe
+1\72	TOK	Ελληνόπουλων	ελληνόπουλο	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	[pp
+1\85	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\89	TOK	τα	ο	AtDfNePlAc
+1\92	TOK	πρότυπα	πρότυπο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\100	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\104	TOK	μεσογειακής	μεσογειακός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\116	TOK	δίαιτας	δίαιτα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\123	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\125	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\129	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	[advp
+1\134	TOK	πλέον	πλέον	AdXxBa
+	SYN	/advp]
+1\140	TOK	αναγνωριστεί	αναγνωρίζω	VbMnNfXxXxXxXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\153	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\157	TOK	τους	ο	AtDfMaPlAc
+	SYN	[adjp_ac
+1\162	TOK	ειδικούς	ειδικός	AjBaMaPlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\171	TOK	ως	ως	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\174	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\179	TOK	υγιεινή	υγιεινός	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\186	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+	SYN	[advp
+1\189	TOK	Όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\194	TOK	αναφέρθηκε	αναφέρω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\205	TOK	κατά	κατά	AsPpSp
+	SYN	[np_ac
+1\210	TOK	τη	ο	AtDfFeSgAc
+1\213	TOK	διάρκεια	διάρκεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\222	TOK	των	ο	AtDfFePlGe
+1\226	TOK	εργασιών	εργασία	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\235	TOK	του	ο	AtDfNeSgGe
+	SYN	[adjp_ge
+1\239	TOK	3ου	3ος	NmOdNeSgGeAj
+1\243	TOK	Πανελλήνιου	πανελλήνιος	AjBaNeSgGe
+	SYN	/adjp_ge]
+1\255	TOK	Συνεδρίου	συνέδριο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\265	TOK	Προαγωγής	προαγωγή	NoCmFeSgGe
+	SYN	/np_ge]
+1\275	TOK	και	και	CjCo
+	SYN	[np_ge
+1\279	TOK	Αγωγής	αγωγή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\286	TOK	Υγείας	υγεία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_o]
+1\292	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\294	TOK	η	ο	AtDfFeSgNm
+1\296	TOK	διατροφή	διατροφή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\305	TOK	των	ο	AtDfNePlGe
+1\309	TOK	παιδιών	παιδί	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\317	TOK	σχολικής	σχολικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\326	TOK	ηλικίας	ηλικία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\334	TOK	παρουσιάζει	παρουσιάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\346	TOK	σημαντικά	σημαντικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\356	TOK	προβλήματα	πρόβλημα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\366	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\369	TOK	Σύμφωνα	σύμφωνα	AdXxBa
+	SYN	[pp
+1\377	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\380	TOK	έρευνα	έρευνα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\387	TOK	του	ο	AtDfNeSgGe
+1\391	TOK	Κέντρου	κέντρο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\399	TOK	Υγείας	υγεία	NoCmFeSgGe
+1\406	TOK	Περάματος	πέραμα	NoPrNeSgGe
+1\416	TOK	Ρεθύμνου	Ρέθυμνο	NoPrNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[pp
+1\425	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\428	TOK	μαθητές	μαθητής	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\436	TOK	Λυκείου	λύκειο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\443	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\445	TOK	η	ο	AtDfFeSgNm
+1\447	TOK	κατανάλωση	κατανάλωση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\458	TOK	κρέατος	κρέας	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\466	TOK	ξεπερνά	ξεπερνώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\474	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\478	TOK	τρεις	τρεις	NmCdFePlAcAj
+	SYN	/adjp_ac]
+1\484	TOK	φορές	φορά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\490	TOK	την	ο	AtDfFeSgAc
+1\494	TOK	εβδομάδα	εβδομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\502	PUNCT	,	,	PUNCT
+1\504	TOK	ενώ	ενώ	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\508	TOK	η	ο	AtDfFeSgNm
+1\510	TOK	κατανάλωση	κατανάλωση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\521	TOK	ψαριού	ψάρι	AjBaMaSgGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	[vg
+1\528	TOK	περιορίζεται	περιορίζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\541	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\544	TOK	μια	ένας	AtIdFeSgAc
+1\548	TOK	φορά	φορά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\553	TOK	την	ο	AtDfFeSgAc
+1\557	TOK	εβδομάδα	εβδομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\565	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\568	TOK	Η	ο	AtDfFeSgNm
+1\570	TOK	κατανάλωση	κατανάλωση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\581	TOK	φρούτων	φρούτο	NoCmNePlGe
+	SYN	/np_ge]
+1\589	TOK	και	και	CjCo
+	SYN	[np_ge
+1\593	TOK	λαχανικών	λαχανικό	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	[cl_t
+1\603	TOK	μόλις	μόλις	AdXxBa
+	SYN	[cl_r
+	SYN	[pou_advp
+1\609	TOK	που	που	AdXxBa
+	SYN	/pou_advp]
+	SYN	[vg
+1\613	TOK	φτάνει	φτάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\620	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\624	TOK	δύο	δύο	NmCdFePlAcAj
+	SYN	/adjp_ac]
+1\628	TOK	φορές	φορά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\634	TOK	την	ο	AtDfFeSgAc
+1\638	TOK	εβδομάδα	εβδομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+1\646	PUNCT	,	,	PUNCT
+1\648	TOK	ενώ	ενώ	CjCo
+	SYN	[np_ac
+1\652	TOK	τα	ο	AtDfNePlAc
+1\655	TOK	όσπρια	όσπριο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+1\661	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\663	TOK	κατεξοχήν	κατεξοχήν	AdXxBa
+	SYN	/advp]
+1\673	TOK	συστατικό	συστατικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\683	TOK	στοιχείο	στοιχείο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\692	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\696	TOK	κρητικής	κρητικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\705	TOK	διατροφής	διατροφή	NoCmFeSgGe
+	SYN	/np_ge]
+1\714	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\716	TOK	δεν	δεν	PtNg
+1\720	TOK	καταναλώνονται	καταναλώνω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+1\734	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\736	TOK	πλέον	πλέον	AdXxBa
+	SYN	/advp]
+1\741	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\743	TOK	πάνω	πάνω	AdXxBa
+	SYN	[pp
+1\748	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\752	TOK	μια	ένας	PnIdFe03SgAcXx
+	SYN	/np_ac]
+1\756	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\760	TOK	σπάνια	σπάνια	AdXxBa
+	SYN	/advp]
+1\767	TOK	δύο	δύο	NmCdFePlAcAj
+	SYN	/adjp_ac]
+1\771	TOK	φορές	φορά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[np_ac
+1\777	TOK	την	ο	AtDfFeSgAc
+1\781	TOK	εβδομάδα	εβδομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_t]
+1\789	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\792	TOK	Αντίθετα	αντίθετα	AdXxBa
+	SYN	/advp]
+1\800	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\802	TOK	σημαντική	σημαντικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\812	TOK	αύξηση	αύξηση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\819	TOK	παρουσιάζει	παρουσιάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\831	TOK	η	ο	AtDfFeSgNm
+1\833	TOK	κατανάλωση	κατανάλωση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\844	TOK	γλυκών	γλυκός	AjBaMaPlGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+1\851	OPUNCT	(	(	OPUNCT
+	SYN	[advp
+1\852	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\860	TOK	τρεις	τρεις	NmCdFePlAcAj
+	SYN	/adjp_ac]
+1\866	TOK	φορές	φορά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\872	TOK	την	ο	AtDfFeSgAc
+1\876	TOK	εβδομάδα	εβδομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+1\884	CPUNCT	)	)	CPUNCT
+1\885	PUNCT	,	,	PUNCT
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\887	TOK	συντηρημένων	συντηρημένος	AjBaNePlGe
+	SYN	/adjp_ge]
+1\900	TOK	τροφίμων	τρόφιμα	NoCmNePlGe
+	SYN	/np_ge]
+1\909	OPUNCT	(	(	OPUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\910	TOK	δύο	δύο	NmCdFePlAcAj
+	SYN	/adjp_ac]
+1\914	TOK	φορές	φορά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\920	TOK	την	ο	AtDfFeSgAc
+1\924	TOK	εβδομάδα	εβδομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+1\932	CPUNCT	)	)	CPUNCT
+1\934	TOK	και	και	CjCo
+	SYN	[np_ge
+1\938	TOK	αναψυκτικών	αναψυκτικό	NoCmNePlGe
+	SYN	/np_ge]
+1\950	OPUNCT	(	(	OPUNCT
+	SYN	[advp
+1\951	TOK	πάνω	πάνω	AdXxBa
+	SYN	[pp
+1\956	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\960	TOK	τέσσερις	τέσσερις	NmCdFePlAcAj
+	SYN	/adjp_ac]
+1\969	TOK	φορές	φορά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[np_ac
+1\975	TOK	την	ο	AtDfFeSgAc
+1\979	TOK	εβδομάδα	εβδομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+1\987	CPUNCT	)	)	CPUNCT
+	SYN	/cl]
+1\988	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\991	TOK	Το	ο	AtDfNeSgNm
+1\994	TOK	ένα	ένας	PnIdNe03SgNmXx
+	SYN	[adjp_nm
+1\998	TOK	τρίτο	τρίτος	NmOdNeSgNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\1004	OPUNCT	(	(	OPUNCT
+1\1005	DIG	1	1	DIG
+1\1006	PUNCT	/	/	PUNCT
+1\1007	DIG	3	3	DIG
+1\1008	CPUNCT	)	)	CPUNCT
+	SYN	[np_ge
+1\1010	TOK	των	ο	AtDfMaPlGe
+1\1014	TOK	μαθητών	μαθητής	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	[vg
+1\1022	TOK	καταναλώνει	καταναλώνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1034	TOK	τροφές	τροφή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1041	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1045	TOK	περιέχουν	περιέχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1055	TOK	κρυμμένη	κρυμμένος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\1064	TOK	ζάχαρη	ζάχαρη	NoCmFeSgAc
+	SYN	/np_ac]
+1\1071	OPUNCT	(	(	OPUNCT
+	SYN	[np_nm
+1\1072	TOK	αναψυκτικά	αναψυκτικό	NoCmNePlNm
+	SYN	/np_nm]
+1\1083	ABBR	κ.ά.	κ.ά.	ABBR
+1\1087	CPUNCT	)	)	CPUNCT
+	SYN	[advp
+1\1089	TOK	τουλάχιστον	τουλάχιστο	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\1101	TOK	μια	ένας	AtIdFeSgAc
+1\1105	TOK	φορά	φορά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\1110	TOK	την	ο	AtDfFeSgAc
+1\1114	TOK	ημέρα	ημέρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\1119	PUNCT	,	,	PUNCT
+1\1121	TOK	ενώ	ενώ	CjCo
+	SYN	[cl
+1\1125	DIG	70%	70%	DIG
+	SYN	[vg
+1\1129	TOK	δηλώνουν	δηλώνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\1138	TOK	πως	πως	CjSb
+	SYN	[vg
+1\1142	TOK	τρώνε	τρώω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\1148	TOK	ανάμεσα	ανάμεσα	AdXxBa
+	SYN	[pp
+1\1156	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\1160	TOK	γεύματα	γεύμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl_o]
+1\1167	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_t
+1\1170	TOK	Όταν	όταν	CjSb
+	SYN	[np_nm
+1\1175	TOK	οι	ο	AtDfMaPlNm
+1\1178	TOK	μαθητές	μαθητής	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1186	TOK	φέρνουν	φέρω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1194	TOK	φαγητό	φαγητό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1201	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\1205	TOK	το	ο	AtDfNeSgAc
+1\1208	TOK	σπίτι	σπίτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_t]
+1\1213	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[advp
+1\1215	TOK	συνήθως	συνήθως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\1223	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1229	TOK	σάντουιτς	σάντουιτς	NoCmNePlNm
+	SYN	/np_nm]
+1\1239	OPUNCT	(	(	OPUNCT
+1\1240	DIG	70%	70%	DIG
+1\1243	CPUNCT	)	)	CPUNCT
+1\1244	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\1246	TOK	γλυκά	γλυκά	AdXxBa
+	SYN	/advp]
+1\1252	OPUNCT	(	(	OPUNCT
+1\1253	DIG	37,5%	37,5%	DIG
+1\1258	CPUNCT	)	)	CPUNCT
+1\1260	TOK	και	και	CjCo
+	SYN	[np_nm
+1\1264	TOK	φρούτα	φρούτο	NoCmNePlNm
+	SYN	/np_nm]
+1\1271	OPUNCT	(	(	OPUNCT
+1\1272	DIG	23%	23%	DIG
+1\1275	CPUNCT	)	)	CPUNCT
+	SYN	/cl]
+1\1276	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\1278	TOK	Παράλληλα	παράλληλα	AdXxBa
+	SYN	/advp]
+1\1287	PUNCT	,	,	PUNCT
+1\1289	DIG	9	9	DIG
+	SYN	[pp
+1\1291	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+1\1297	DIG	10	10	DIG
+1\1300	TOK	μαθητές	μαθητής	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\1308	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\1314	TOK	ως	ως	AdXxBa
+	SYN	/advp]
+1\1317	TOK	αγαπημένο	αγαπημένος	VbMnPpXxXxSgNePePvNm
+	SYN	/adjp_nm]
+1\1327	TOK	φαγητό	φαγητό	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\1334	TOK	το	ο	AtDfNeSgNm
+1\1337	TOK	κρέας	κρέας	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\1342	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1345	TOK	Ιδιαίτερο	ιδιαίτερος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\1355	TOK	πρόβλημα	πρόβλημα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1364	TOK	διατροφής	διατροφή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\1374	TOK	αποτελεί	αποτελώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+1\1383	TOK	και	και	CjCo
+	SYN	[np_nm
+1\1387	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\1389	TOK	αυξημένη	αυξημένος	VbMnPpXxXxSgFePePvNm
+	SYN	/adjp_nm]
+1\1398	TOK	κατανάλωση	κατανάλωση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\1409	TOK	τηγανητής	τηγανητός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\1419	TOK	πατάτας	πατάτα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\1426	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\1428	TOK	Σύμφωνα	σύμφωνα	AdXxBa
+	SYN	[pp
+1\1436	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1439	TOK	έρευνα	έρευνα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1446	TOK	του	ο	AtDfNeSgGe
+1\1450	TOK	Χαροκόπειου	Χαροκόπειου	NoPrNeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\1462	TOK	Πανεπιστημίου	πανεπιστήμιο	NoCmNeSgGe
+1\1476	TOK	Αθηνών	Αθήνα	NoPrFePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[pp
+1\1483	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\1486	DIG	2.083	2.083	DIG
+1\1492	TOK	μαθητές	μαθητής	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1500	TOK	Γυμνασίου	γυμνάσιο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\1510	TOK	απ'	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1514	TOK	όλη	όλος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\1518	TOK	την	ο	AtDfFeSgAc
+1\1522	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\1528	PUNCT	,	,	PUNCT
+1\1530	TOK	το	ο	AtDfNeSgAc
+1\1533	DIG	62%	62%	DIG
+	SYN	[np_ge
+1\1537	TOK	των	ο	AtDfMaPlGe
+1\1541	TOK	μαθητών	μαθητής	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	[vg
+1\1549	TOK	τρώει	τρώω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1555	TOK	τηγανιτές	τηγανιτές	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\1565	TOK	πατάτες	πατάτα	NoCmFePlAc
+	SYN	[adjp_ac
+1\1573	TOK	δύο	δύο	NmCdFePlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\1577	TOK	έως	έως	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1581	TOK	τρεις	τρεις	NmCdFePlAcAj
+	SYN	/adjp_ac]
+1\1587	TOK	φορές	φορά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\1593	TOK	την	ο	AtDfFeSgAc
+1\1597	TOK	εβδομάδα	εβδομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+1\1605	PUNCT	,	,	PUNCT
+1\1607	TOK	ενώ	ενώ	CjCo
+	SYN	[np_ac
+1\1611	TOK	το	ο	AtDfNeSgAc
+1\1614	DIG	16%	16%	DIG
+1\1618	TOK	κάθε	κάθε	PnIdFe03SgAcXx
+1\1623	TOK	μέρα	μέρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1627	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

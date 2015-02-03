@@ -1,0 +1,164 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1	TOK	ΑΝΑΖΗΤΕΙΤΑΙ	αναζητώ	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\14	TOK	Άντρας	άντρας	NoCmMaSgNm
+	SYN	[adjp_nm
+1\21	TOK	ψηλός	ψηλός	AjBaMaSgNm
+1\27	TOK	και	και	CjCo
+1\31	TOK	λεπτός	λεπτός	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\38	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\41	TOK	στρογγυλό	στρογγυλός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\51	TOK	πρόσωπο	πρόσωπο	NoCmNeSgAc
+	SYN	/np_ac]
+1\59	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\63	TOK	χλωμά	χλωμός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\69	TOK	μάγουλα	μάγουλο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\76	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\79	TOK	Εχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\84	TOK	μυτερή	μυτερός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\91	TOK	μύτη	μύτη	NoCmFeSgAc
+	SYN	/np_ac]
+1\96	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\100	TOK	μικρό	μικρός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\106	TOK	στόμα	στόμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\111	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ge
+1\114	TOK	Του	εγώ	PnPeMa03SgGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\118	TOK	λείπουν	λείπω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\126	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\129	TOK	δύο	δύο	NmCdNePlAcAj
+1\133	TOK	μπροστινά	μπροστινός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\143	TOK	δόντια	δόντι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\149	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\152	TOK	Τα	ο	AtDfNePlNm
+1\155	TOK	μάτια	μάτι	NoCmNePlNm
+1\161	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\165	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\171	TOK	πράσινα	πράσινος	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\178	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\181	TOK	Τα	ο	AtDfNePlNm
+1\184	TOK	μαλλιά	μαλλί	NoCmNePlNm
+	SYN	/np_nm]
+1\191	TOK	του	ο	AtDfNeSgGe
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\195	TOK	κοντά	κοντός	AjBaNePlAc
+1\201	TOK	και	και	CjCo
+1\205	TOK	μαύρα	μαύρος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\210	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\213	TOK	Φοράει	φορώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\220	TOK	μαύρο	μαύρος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\226	TOK	παντελόνι	παντελόνι	NoCmNeSgAc
+	SYN	/np_ac]
+1\235	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\237	TOK	πράσινη	πράσινος	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\245	TOK	μπλούζα	μπλούζα	NoCmFeSgNm
+	SYN	/np_nm]
+1\253	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\257	TOK	μαύρα	μαύρος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\263	TOK	παπούτσια	παπούτσι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\272	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[cl_ri
+	SYN	[np_nm
+1\275	TOK	Όποιος	όποιος	PnRiMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\282	TOK	γνωρίζει	γνωρίζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\291	TOK	κάτι	κάτι	PnIdNe03SgAcXx
+	SYN	/np_ac]
+	SYN	/cl_ri]
+	SYN	/np_nm]
+1\295	PUNCT	,	,	PUNCT
+1\297	TOK	ας	ας	PtOt
+	SYN	[vg
+1\300	TOK	τηλεφωνήσει	τηλεφωνώ	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\312	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\316	DIG	2310	2310	DIG
+1\321	DIG	544363	544363	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	)SENT	</S>

@@ -1,0 +1,78 @@
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Α	α	No	NoCm	Ne|Sg|Nm	5	Sb	_	_	
+3	!	!	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+4	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	5	IObj	_	_	
+5	ήρθε	έρχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	μια	ένας	At	AtId	Fe|Sg|Nm	7	Det	_	_	
+7	σταγόνα	σταγόνα	No	NoCm	Fe|Sg|Nm	5	Sb	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Κι	και	Cj	CjCo	_	3	AuxY	_	_	
+3	εμένα	εγώ	Pn	PnPe	Ma|01|Sg|Ac|St	0	ExD	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	ουρανός	ουρανός	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+4	γέμισε	γεμίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	μαύρα	μαύρος	Aj	Aj	Ba|Ne|Pl|Ac	6	Atr	_	_	
+6	σύννεφα	σύννεφο	No	NoCm	Ne|Pl|Ac	4	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μια	ένας	At	AtId	Fe|Sg|Nm	3	Det	_	_	
+3	αστραπή	αστραπή	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έρχεται	έρχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	μπόρα	μπόρα	No	NoCm	Fe|Sg|Nm	1	Sb	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βρέχει	βρέχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	πολύ	πολύ	Ad	Ad	Ba	1	Adv	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ακούγονται	ακούω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	μπουμπουνητά	μπουμπουνητό	No	NoCm	Ne|Pl|Nm	1	Sb	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	τρέχουν	τρέχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	κρυφτούν	κρύβω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βλέπουν	βλέπω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μακριά	μακριά	Ad	Ad	Ba	3	Adv	_	_	
+3	μια	ένας	At	AtId	Fe|Sg|Ac	4	Det	_	_	
+4	καλύβα	καλύβα	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Φοβάμαι	φοβούμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	AuxG	_	_	
+2	Ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	Αχμέτ	Αχμέτ	No	NoPr	Ma|Sg|Nm	4	Sb	_	_	
+4	φοβάται	φοβούμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+6	μπουμπουνητά	μπουμπουνητό	No	NoCm	Ne|Pl|Ac	4	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	μόνος	μόνος	Aj	Aj	Ba|Ma|Sg|Nm	3	Sb	_	_	
+5	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	4	Pos	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	γρήγορα	γρήγορα	Ad	Ad	Ba	2	Adv	_	_	
+4	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	2	AuxP	_	_	
+5	καλύβα	καλύβα	No	NoCm	Fe|Sg|Ac	4	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

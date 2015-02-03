@@ -1,0 +1,99 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	ENUM	-	-	ENUM
+1\2	TOK	Πού	πού	AdXxBa
+	SYN	[vg
+1\6	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\12	TOK	τα	ο	AtDfNePlNm
+1\15	TOK	χελιδόνια	χελιδόνι	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\24	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+1\26	TOK	Γιατί	γιατί	AdXxBa
+	SYN	[vg
+1\32	TOK	ήρθαν	έρχομαι	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[advp
+1\38	TOK	τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+1\42	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\45	ENUM	-	-	ENUM
+	SYN	[advp
+1\46	TOK	Τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\51	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\57	TOK	άνοιξη	άνοιξη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\64	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\68	TOK	κάνει	κάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\74	TOK	ζέστη	ζέστη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\79	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\82	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\83	TOK	Τα	ο	AtDfNePlNm
+1\86	TOK	χελιδόνια	χελιδόνι	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\96	TOK	έρχονται	έρχομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\105	TOK	την	ο	AtDfFeSgAc
+1\109	TOK	άνοιξη	άνοιξη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\115	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_t
+1\117	TOK	Όταν	όταν	CjSb
+	SYN	[vg
+1\122	TOK	κάνει	κάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\128	TOK	κρύο	κρύο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_t]
+1\132	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\134	TOK	φεύγουν	φεύγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\141	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\144	ENUM	-	-	ENUM
+1\145	TOK	Πού	πού	AdXxBa
+	SYN	[vg
+1\149	TOK	πάνε	πηγαίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\154	TOK	τα	ο	AtDfNePlAc
+1\157	TOK	χελιδόνια	χελιδόνι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\166	PTERM_P	;	;	PTERM_P
+	)SENT	</S>

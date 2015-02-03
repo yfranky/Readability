@@ -1,0 +1,279 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Η	ο	AtDfFeSgNm
+1\3	TOK	Σελήνη	σελήνη	NoCmFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+1\11	TOK	Ούτε	ούτε	CjCo
+	SYN	[cl
+	SYN	[pp
+1\16	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\20	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\24	TOK	τρελά	τρελός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\30	TOK	όνειρα	όνειρο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\37	TOK	μπορούσε	μπορώ	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[np_nm
+1\46	TOK	κάποιος	κάποιος	PnIdMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg_s
+1\54	TOK	να	να	PtSj
+1\57	TOK	φανταστεί	φαντάζομαι	VbMnIdXx03SgXxPePvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\67	TOK	πριν	πριν	AdXxBa
+	SYN	[pp
+1\72	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\76	TOK	λίγα	λίγος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\81	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl_o]
+	SYN	[cl_o
+1\88	TOK	ότι	ότι	CjSb
+	SYN	[advp
+1\92	TOK	κάποτε	κάποτε	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\99	TOK	ο	ο	AtDfMaSgNm
+1\101	TOK	άνθρωπος	άνθρωπος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\110	TOK	θα	θα	PtFu
+1\112	PTERM_P	...	...	PTERM_P
+1\116	TOK	ζούσε	ζω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\122	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\126	TOK	φεγγάρι	φεγγάρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\133	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\135	TOK	Τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\140	TOK	αρχιτέκτονες	αρχιτέκτονας	NoCmMaPlAc
+	SYN	/np_ac]
+1\153	TOK	και	και	CjCo
+	SYN	[np_nm
+1\157	TOK	μηχανικοί	μηχανικός	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\167	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\170	TOK	υπόσχονται	υπόσχομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\180	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\182	TOK	Εδώ	εδώ	AdXxBa
+	SYN	/advp]
+1\186	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\190	TOK	μισό	μισός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\195	TOK	αιώνα	αιώνας	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	[advp
+1\201	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\209	TOK	οι	ο	AtDfMaPlNm
+1\212	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\221	TOK	ονειρεύονται	ονειρεύομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\234	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\238	TOK	σχεδιάζουν	σχεδιάζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\249	TOK	τη	ο	AtDfFeSgAc
+1\252	TOK	δημιουργία	δημιουργία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\263	TOK	αποικίας	αποικία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[pp
+1\272	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\276	TOK	φεγγάρι	φεγγάρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\283	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\285	TOK	Αρχιτέκτονες	αρχιτέκτονας	NoCmMaPlAc
+	SYN	/np_ac]
+1\298	TOK	και	και	CjCo
+	SYN	[np_nm
+1\302	TOK	μηχανικοί	μηχανικός	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\312	TOK	παρουσίασαν	παρουσιάζω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\324	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\328	TOK	άρτια	άρτιος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\334	TOK	πρόταση	πρόταση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\342	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\346	TOK	δημιουργία	δημιουργία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\357	TOK	αποικίας	αποικία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\366	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\370	TOK	Σελήνη	σελήνη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\376	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\378	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\382	TOK	θα	θα	PtFu
+1\385	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+1\390	TOK	ολοκληρωθεί	ολοκληρώνω	VbMnNfXxXxXxXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\402	TOK	έως	έως	AsPpSp
+	SYN	[np_ac
+1\406	TOK	το	ο	AtDfNeSgAc
+1\409	DIG	2069	2069	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\413	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\415	TOK	Το	ο	AtDfNeSgNm
+1\418	TOK	σχέδιό	σχέδιο	NoCmNeSgNm
+1\425	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\430	TOK	προβλέπει	προβλέπω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\440	TOK	τη	ο	AtDfFeSgAc
+1\443	TOK	δημιουργία	δημιουργία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\454	TOK	βάσης	βάση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[pp
+1\460	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\464	TOK	φεγγάρι	φεγγάρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\471	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[np_nm
+1\473	TOK	η	ο	AtDfFeSgNm
+1\475	TOK	οποία	οποίος	PnReFe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\481	TOK	θα	θα	PtFu
+1\484	TOK	περιβάλλεται	περιβάλλω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\497	TOK	από	από	AsPpSp
+	SYN	[np_nm
+1\501	TOK	ένα	ένας	AtIdNeSgNm
+	SYN	[adjp_nm
+1\505	TOK	τεράστιο	τεράστιος	AjBaNeSgNm
+1\514	TOK	δορυφορικό	δορυφορικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\525	OPUNCT	«	«	OPUNCT
+1\526	TOK	πιάτο	πιάτο	NoCmNeSgNm
+1\531	CPUNCT	»	»	CPUNCT
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\533	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\537	TOK	θα	θα	PtFu
+1\540	TOK	συλλέγει	συλλέγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\549	TOK	ηλιακή	ηλιακός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\556	TOK	ενέργεια	ενέργεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+1\564	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[np_ac
+1\566	TOK	την	ο	AtDfFeSgAc
+1\570	TOK	οποία	οποίος	PnReFe03SgAcXx
+	SYN	/np_ac]
+	SYN	[pp
+1\576	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\580	TOK	συνέχεια	συνέχεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\589	TOK	θα	θα	PtFu
+1\592	TOK	διοχετεύει	διοχετεύω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\603	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\607	TOK	Γη	γη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\609	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

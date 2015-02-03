@@ -1,0 +1,62 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	ENUM	-	-	ENUM
+1\2	TOK	Πού	πού	AdXxBa
+	SYN	[vg
+1\6	TOK	είσαι	είμαι	VbMnIdPr02SgXxIpPvXx
+	SYN	/vg]
+1\11	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\13	TOK	Αγγέλα	Αγγέλα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\19	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\22	ENUM	-	-	ENUM
+	SYN	[vg
+1\23	TOK	Είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\29	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\33	TOK	σπίτι	σπίτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\38	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\41	ENUM	-	-	ENUM
+1\42	TOK	Πού	πού	AdXxBa
+	SYN	[vg
+1\46	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\52	TOK	ο	ο	AtDfMaSgNm
+1\54	TOK	Αχμέτ	Αχμέτ	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\59	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\62	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\63	TOK	Ο	ο	AtDfMaSgNm
+1\65	TOK	Αχμέτ	Αχμέτ	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\71	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\77	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\82	TOK	αυλή	αυλή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\86	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

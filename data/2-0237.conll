@@ -1,0 +1,80 @@
+1	Ξέρετε	ξέρω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	2	ExD_Co	_	_	
+2	ότι	ότι	Cj	CjSb	_	0	AuxC	_	_	
+3	...	...	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+
+1	...	...	PTERM_P	PTERM_P	_	3	AuxG	_	_	
+2	αγιασμό	αγιασμός	No	NoCm	Ma|Sg|Ac	3	Obj	_	_	
+3	κάνουμε	κάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	και	και	Cj	CjCo	_	3	AuxY	_	_	
+5	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+2	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+3	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+4	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	3	Pos	_	_	
+
+1	...	...	PTERM_P	PTERM_P	_	3	AuxG	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Ac	3	Det	_	_	
+3	Φώτα	φως	No	NoPr	Ne|Pl|Ac	0	ExD	_	_	
+
+1	...	...	PTERM_P	PTERM_P	_	0	AuxG	_	_	
+2	όταν	όταν	Cj	CjSb	_	1	AuxC	_	_	
+3	ανοίγει	ανοίγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Adv	_	_	
+4	ένα	ένας	At	AtId	Ne|Sg|Ac	5	Det	_	_	
+5	μαγαζί	μαγαζί	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	για	για	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	πρώτη	πρώτος	Nm	NmOd	Fe|Sg|Ac|Aj	8	Atr	_	_	
+8	φορά	φορά	No	NoCm	Fe|Sg|Ac	6	Atr	_	_	
+9	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	...	...	PTERM_P	PTERM_P	_	5	AuxG	_	_	
+2	όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	5	Sb	_	_	
+3	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	5	AuxP	_	_	
+4	Ελλάδα	Ελλάδα	No	NoPr	Fe|Sg|Ac	3	Adv	_	_	
+5	αγαπούν	αγαπώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	πολύ	πολύ	Ad	Ad	Ba	5	Adv	_	_	
+7	τον	ο	At	AtDf	Ma|Sg|Ac	8	Det	_	_	
+8	βασιλικό	βασιλικός	Aj	Aj	Ba|Ma|Sg|Ac	5	Obj	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πιστεύουν	πιστεύω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ότι	ότι	Cj	CjSb	_	1	AuxC	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	2	Obj	_	_	
+4	ένα	ένας	At	AtId	Ne|Sg|Nm	7	Det	_	_	
+5	πολύ	πολύ	Ad	Ad	Ba	6	Adv	_	_	
+6	όμορφο	όμορφος	Aj	Aj	Ba|Ne|Sg|Nm	7	Atr	_	_	
+7	φυτό	φυτό	No	NoCm	Ne|Sg|Nm	3	Pnom	_	_	
+8	και	και	Cj	CjCo	_	3	Coord	_	_	
+9	σε	σε	AsPp	AsPpSp	_	8	AuxP	_	_	
+10	όλους	όλος	Aj	Aj	Ba|Ma|Pl|Ac	11	Atv	_	_	
+11	αρέσουν	αρέσω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	9	Adv	_	_	
+12	τα	ο	At	AtDf	Ne|Pl|Ac	13	Det	_	_	
+13	λεπτά	λεπτό	No	NoCm	Ne|Pl|Ac	18	Obj_Co	_	_	
+14	,	,	PUNCT	PUNCT	_	18	AuxX	_	_	
+15	πράσινα	πράσινος	Aj	Aj	Ba|Ne|Pl|Ac	16	Atr	_	_	
+16	φύλλα	φύλλο	No	NoCm	Ne|Pl|Ac	18	Obj_Co	_	_	
+17	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	16	Pos	_	_	
+18	και	και	Cj	CjCo	_	11	Coord	_	_	
+19	το	ο	At	AtDf	Ne|Sg|Nm	20	Det	_	_	
+20	άρωμά	άρωμα	Ad	Ad	Ba	18	Obj_Co	_	_	
+21	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	20	Pos	_	_	
+22	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γι'	για	AsPp	AsPpSp	_	5	AuxP	_	_	
+2	αυτόν	αυτός	Pn	PnDm	Ma|03|Sg|Ac|Xx	4	Atr	_	_	
+3	τον	ο	At	AtDf	Ma|Sg|Ac	4	Det	_	_	
+4	λόγο	λόγος	No	NoCm	Ma|Sg|Ac	1	Adv	_	_	
+5	υπάρχουν	υπάρχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Nm	7	Atr	_	_	
+7	επίθετα	επίθετο	No	NoCm	Ne|Pl|Nm	5	Sb	_	_	
+8	γι'	για	AsPp	AsPpSp	_	5	AuxP	_	_	
+9	αυτόν	αυτός	Pn	PnDm	Ma|03|Sg|Ac|Xx	8	Atr	_	_	
+10	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+11	όπως	όπως	Ad	Ad	Ba	5	AuxC	_	_	
+12	σγουρός	σγουρός	Aj	Aj	Ba|Ma|Sg|Nm	15	Atr_Co	_	_	
+13	,	,	PUNCT	PUNCT	_	15	AuxX	_	_	
+14	πλατύφυλλος	πλατύφυλλος	Aj	Aj	Ba|Ma|Sg|Nm	15	Pnom_Co	_	_	
+15	,	,	PUNCT	PUNCT	_	11	Coord	_	_	
+16	δροσερός	δροσερός	Aj	Aj	Ba|Ma|Sg|Nm	15	Atr_Co	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

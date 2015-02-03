@@ -1,0 +1,16 @@
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	George	George	Rg	RgFw	_	0	ExD	_	_	
+3	Michael	Michael	Rg	RgFw	_	2	AuxK	_	_	
+
+1	Γεννήθηκε	γεννώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	1	AuxP	_	_	
+3	25	25	DIG	DIG	_	2	Adv	_	_	
+4	Ιουνίου	Ιούνιος	No	NoCm	Ma|Sg|Ge	3	Atr	_	_	
+5	1963	1963	DIG	DIG	_	4	Atr	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+7	Bushey	Bushey	Rg	RgFw	_	6	Adv_Co	_	_	
+8	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+9	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	6	AuxP	_	_	
+10	Αγγλία	Αγγλία	No	NoPr	Fe|Sg|Ac	9	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

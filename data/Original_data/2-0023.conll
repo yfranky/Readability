@@ -1,0 +1,66 @@
+1	Την	ο	At	AtDf	Fe|Sg|Ac	2	Det	_	_	
+2	ώρα	ώρα	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+3	του	ο	At	AtDf	Ne|Sg|Ge	4	Det	_	_	
+4	φαγητού	φαγητό	No	NoCm	Ne|Sg|Ge	2	Atr	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μμμ	Μμμ	Ij	Ij	_	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μαμά	μαμά	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+3	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	5	Atr	_	_	
+4	νόστιμο	νόστιμος	Aj	Aj	Ba|Ne|Sg|Ac	5	Atr	_	_	
+5	φαγητό	φαγητό	No	NoCm	Ne|Sg|Ac	1	ExD	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πολύ	πολύ	Ad	Ad	Ba	2	Adv	_	_	
+2	ωραίος	ωραίος	Aj	Aj	Ba|Ma|Sg|Nm	3	Atr	_	_	
+3	μουσακάς	μουσακάς	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μπράβο	μπράβο	Ij	Ij	_	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αυτός	αυτός	Pn	PnDm	Ma|03|Sg|Nm|Xx	3	Atr	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	φούρνος	φούρνος	No	NoCm	Ma|Sg|Nm	5	Sb	_	_	
+4	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	5	Obj	_	_	
+5	κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	υπέροχο	υπέροχος	Aj	Aj	Ba|Ne|Sg|Ac	5	Obj	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Σιγά	σιγά	Ad	Ad	Ba	0	ExD	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Nm	4	Det	_	_	
+4	φαγητό	φαγητό	No	NoCm	Ne|Sg|Nm	2	ExD_Co	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πάλι	πάλι	Ad	Ad	Ba	0	ExD	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	3	Det	_	_	
+3	ίδιο	ίδιος	Aj	Aj	Ba|Ne|Sg|Ac	1	ExD	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Προχθές	προχθές	Ad	Ad	Ba	4	Adv	_	_	
+2	δεν	δεν	Pt	PtNg	_	4	AuxV	_	_	
+3	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	4	Obj	_	_	
+4	φάγαμε	τρώω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ε	ε	Ij	Ij	_	5	Adv_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	όχι	όχι	Pt	PtNg	_	5	ExD_Co	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	προχθές	προχθές	Ad	Ad	Ba	5	Adv_Co	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	4	AuxV	_	_	
+3	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	4	Obj	_	_	
+4	φτιάξω	φτιάχνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+5	καιρό	καιρός	No	NoCm	Ma|Sg|Ac	4	Obj	_	_	
+6	τώρα	τώρα	Ad	Ad	Ba	4	Adv	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

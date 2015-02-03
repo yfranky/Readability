@@ -1,0 +1,52 @@
+	(SENT	<S>
+1\1	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\2	TOK	Ο	ο	AtDfMaSgNm
+1\4	TOK	κύριος	κύριος	NoCmMaSgNm
+1\11	TOK	Πετρίδης	Πετρίδης	NoPrMaSgNm
+	SYN	/np_nm]
+1\19	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\21	TOK	η	ο	AtDfFeSgNm
+1\23	TOK	κυρία	κυρία	NoCmFeSgNm
+1\29	TOK	Μακρή	Μακρή	NoPrFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\36	ENUM	-	-	ENUM
+	SYN	[vg
+1\37	TOK	Χαίρομαι	χαίρω	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\45	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\49	ENUM	-	-	ENUM
+	SYN	[vg
+1\50	TOK	Χάρηκα	χαίρω	VbMnIdPa01SgXxPePvXx
+	SYN	/vg]
+	SYN	/cl]
+1\56	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\60	ENUM	-	-	ENUM
+	SYN	[vg
+1\61	TOK	Χαίρω	χαίρω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\67	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\71	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\74	ENUM	-	-	ENUM
+1\75	TOK	Κι	και	CjCo
+	SYN	[np_nm
+1\78	TOK	εγώ	εγώ	PnPeMa01SgNmSt
+	SYN	/np_nm]
+1\81	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

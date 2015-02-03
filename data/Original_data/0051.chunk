@@ -1,0 +1,87 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	ENUM	-	-	ENUM
+	SYN	[advp
+1\2	TOK	Πόσο	πόσο	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\7	TOK	κάνουν	κάνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\14	TOK	τα	ο	AtDfNePlAc
+1\17	TOK	μπαλόνια	μπαλόνι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\25	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\28	DIG	-1	-1	DIG
+1\31	TOK	ευρώ	ευρώ	NoCmNeSgAc
+	SYN	/np_ac]
+1\36	TOK	το	ο	AtDfNeSgAc
+	SYN	[np_nm
+1\39	TOK	ένα	ένας	PnIdNe03SgNmXx
+	SYN	/np_nm]
+1\42	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\45	ENUM	-	-	ENUM
+	SYN	[vg
+1\46	TOK	Πάρε	παίρνω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\51	TOK	τα	ο	AtDfNePlAc
+1\54	TOK	λεφτά	λεφτά	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\59	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\61	TOK	Έχω	έχω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\65	TOK	δέκα	δέκα	NmCdNePlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ac
+1\70	TOK	ευρώ	ευρώ	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\74	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\78	ENUM	-	-	ENUM
+	SYN	[vg
+1\79	TOK	Πάρε	παίρνω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\84	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\87	TOK	ρέστα	ρέστος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\92	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\94	TOK	Είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\100	TOK	εννιά	εννέα	NmCdMaPlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ac
+1\106	TOK	ευρώ	ευρώ	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\110	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

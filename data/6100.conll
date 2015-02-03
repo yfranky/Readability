@@ -1,0 +1,57 @@
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	πάρετε	παίρνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	5	Obj	_	_	
+4	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+5	παρακαλώ	παρακαλώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	6	AuxG	_	_	
+2	Λοιπόν	λοιπόν	Ad	Ad	Ba	6	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+4	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	6	Obj	_	_	
+5	θα	θα	Pt	PtFu	_	6	AuxV	_	_	
+6	πάρετε	παίρνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αποφασίστε	αποφασίζω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	γρήγορα	γρήγορα	Ad	Ad	Ba	1	Adv	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	3	Sb	_	_	
+3	ξέρω	ξέρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	6	Obj	_	_	
+5	θα	θα	Pt	PtFu	_	6	AuxV	_	_	
+6	πάρω	παίρνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	5	AuxG	_	_	
+2	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	5	Sb	_	_	
+3	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	5	Obj	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	πάρω	παίρνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλα	όλος	Aj	Aj	Ba|Ne|Pl|Nm	2	Atr	_	_	
+2	ωραία	ωραίος	Aj	Aj	Ba|Fe|Sg|Ac	0	ExD	_	_	
+3	φαίνονται	φαίνομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	2	Atr	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	4	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	θέλετε	θέλω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	πάρουμε	παίρνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	4	Obj	_	_	
+7	και	και	Cj	CjCo	_	9	AuxY	_	_	
+8	μια	ένας	At	AtId	Fe|Sg|Ac	9	Det	_	_	
+9	σαλάτα	σαλάτα	No	NoCm	Fe|Sg|Ac	6	Obj	_	_	
+10	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	3	AuxV	_	_	
+2	τη	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	3	Obj	_	_	
+3	φάμε	τρώω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	3	Sb	_	_	
+5	μαζί	μαζί	Ad	Ad	Ba	4	Adv	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

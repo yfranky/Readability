@@ -1,0 +1,222 @@
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	2	Obj	_	_	
+2	λέει	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	Σοφία	Σοφία	No	NoPr	Fe|Sg|Nm	2	Sb	_	_	
+5	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	2	AuxP	_	_	
+6	Βιολέτα	βιολέτα	No	NoCm	Fe|Sg|Ac	5	Adv	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Την	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+3	Κυριακή	Κυριακή	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	λοιπόν	λοιπόν	Ad	Ad	Ba	7	Adv	_	_	
+6	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+7	πήγαμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Atr	_	_	
+8	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	7	AuxP	_	_	
+9	Κέντρο	κέντρο	No	NoCm	Ne|Sg|Ac	8	Adv	_	_	
+10	Νεότητας	νεότητα	No	NoCm	Fe|Sg|Ge	9	Atr	_	_	
+11	για	για	AsPp	AsPpSp	_	7	AuxP	_	_	
+12	την	ο	At	AtDf	Fe|Sg|Ac	13	Det	_	_	
+13	έκθεση	έκθεση	No	NoCm	Fe|Sg|Ac	11	Adv	_	_	
+14	με	με	AsPp	AsPpSp	_	13	AuxP	_	_	
+15	τα	ο	At	AtDf	Ne|Pl|Ac	16	Det	_	_	
+16	κόμικς	κόμικς	Rg	RgFw	_	14	Atr	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μέχρι	μέχρι	AsPp	AsPpSp	_	6	AuxP	_	_	
+2	εκεί	εκεί	Ad	Ad	Ba	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	όμως	όμως	Cj	CjCo	_	0	Coord	_	_	
+5	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+6	περάσαμε	περνώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+7	από	από	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	χίλια	χίλιοι	Nm	NmCd	Ne|Pl|Ac|Aj	9	Atr	_	_	
+9	κύματα	κύμα	No	NoCm	Ne|Pl|Ac	7	Adv	_	_	
+10	!	!	PTERM_P	PTERM_P	_	6	AuxK	_	_	
+11	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	κέντρο	κέντρο	No	NoCm	Ne|Sg|Nm	4	Sb	_	_	
+3	δεν	δεν	Pt	PtNg	_	4	AuxV	_	_	
+4	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	6	Pred_Co	_	_	
+5	μακριά	μακριά	Ad	Ad	Ba	4	Adv	_	_	
+6	αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+7	εμείς	εγώ	Pn	PnPe	Ma|01|Pl|Nm|St	9	Sb	_	_	
+8	δεν	δεν	Pt	PtNg	_	9	AuxV	_	_	
+9	ξέραμε	ξέρω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+10	ακριβώς	ακριβώς	Ad	Ad	Ba	9	Adv	_	_	
+11	το	ο	At	AtDf	Ma|Sg|Ac	12	Det	_	_	
+12	δρόμο	δρόμος	No	NoCm	Ma|Sg|Ac	9	Obj	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Κώστας	Κώστας	No	NoPr	Ma|Sg|Nm	11	Sb	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	που	που	Pn	PnRe	Ma|03|Sg|Nm|Xx	5	Sb	_	_	
+5	νομίζει	νομίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	11	Pred_Co	_	_	
+6	πάντα	πάντα	Ad	Ad	Ba	5	Adv	_	_	
+7	ότι	ότι	Cj	CjSb	_	5	AuxC	_	_	
+8	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	9	Obj	_	_	
+9	ξέρει	ξέρω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Obj	_	_	
+10	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	9	Pnom	_	_	
+11	,	,	PUNCT	PUNCT	_	0	Coord	_	_	
+12	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ac|We	13	Obj	_	_	
+13	είπε	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	11	Pred_Co	_	_	
+14	ότι	ότι	Cj	CjSb	_	13	AuxC	_	_	
+15	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	14	Obj	_	_	
+16	κοντά	κοντά	Ad	Ad	Ba	15	Adv	_	_	
+17	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	16	AuxP	_	_	
+18	πάρκο	πάρκο	No	NoCm	Ne|Sg|Ac	17	Adv	_	_	
+19	Ελευθερίας	Ελευθερία	No	NoPr	Fe|Sg|Ge	18	Atr	_	_	
+20	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δυστυχώς	δυστυχώς	Ad	Ad	Ba	6	Adv	_	_	
+2	όμως	όμως	Cj	CjCo	_	0	Coord	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	δεν	δεν	Pt	PtNg	_	6	AuxV	_	_	
+5	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	6	Obj	_	_	
+6	ήξερε	ξέρω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+7	καλά	καλά	Ad	Ad	Ba	6	Adv	_	_	
+8	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Γιατί	γιατί	Ad	Ad	Ba	0	ExD	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	2	Obj	_	_	
+2	έγινε	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ήμασταν	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	λοιπόν	λοιπόν	Ad	Ad	Ba	2	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+6	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	2	AuxP	_	_	
+7	κινηματογράφο	κινηματογράφος	No	NoCm	Ma|Sg|Ac	6	Adv	_	_	
+8	Rex	Rex	Rg	RgFw	_	7	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ξέρεις	ξέρω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	0	AuxP	_	_	
+2	κέντρο	κέντρο	No	NoCm	Ne|Sg|Ac	1	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Προχωρήσαμε	προχωρώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+2	ευθεία	ευθύς	Aj	Aj	Ba|Fe|Sg|Ac	1	Obj	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	βγήκαμε	βγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+6	εμπορικό	εμπορικός	Aj	Aj	Ba|Ne|Sg|Ac	7	Atr	_	_	
+7	κέντρο	κέντρο	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+8	Αστέρια	αστέρι	No	NoCm	Ne|Pl|Ac	7	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Κώστας	Κώστας	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	σίγουρος	σίγουρος	Aj	Aj	Ba|Ma|Sg|Nm	3	Pnom	_	_	
+5	ότι	ότι	Cj	CjSb	_	3	AuxC	_	_	
+6	ήμασταν	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	5	Sb	_	_	
+7	στο	στου	AsPp	AsPpPa	Ma|Sg|Ac	6	AuxP	_	_	
+8	σωστό	σωστός	Aj	Aj	Ba|Ma|Sg|Ac	9	Atr	_	_	
+9	δρόμο	δρόμος	No	NoCm	Ma|Sg|Ac	7	Adv	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μετά	μετά	AsPp	AsPpSp	_	4	Sb	_	_	
+2	στρίψαμε	στρίβω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+3	αριστερά	αριστερά	Ad	Ad	Ba	2	Adv	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	βγήκαμε	βγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+6	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	5	AuxP	_	_	
+7	οδό	οδός	No	NoCm	Fe|Sg|Ac	6	Adv	_	_	
+8	Πάρου	Πάρος	No	NoPr	Fe|Sg|Ge	7	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Προχωρήσαμε	προχωρώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+2	λίγο	λίγο	Ad	Ad	Ba	1	Adv	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	7	AuxP	_	_	
+5	δεύτερο	δεύτερος	Nm	NmOd	Ne|Sg|Ac|Aj	6	Atr	_	_	
+6	στενό	στενός	Aj	Aj	Ba|Ma|Sg|Ac	4	ExD	_	_	
+7	στρίψαμε	στρίβω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+8	αριστερά	αριστερά	Ad	Ad	Ba	7	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εκεί	εκεί	Ad	Ad	Ba	2	Adv	_	_	
+2	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	μια	ένας	At	AtId	Fe|Sg|Nm	5	Det	_	_	
+4	υπόγεια	υπόγειος	Ad	Ad	Ba	5	Adv	_	_	
+5	διάβαση	διάβαση	No	NoCm	Fe|Sg|Nm	2	Pnom	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Κώστας	Κώστας	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	είπε	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ότι	ότι	Cj	CjSb	_	3	AuxC	_	_	
+5	περνάμε	περνώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	4	Obj	_	_	
+6	από	από	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	κάτω	κάτω	Ad	Ad	Ba	6	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Περάσαμε	περνώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+2	και	και	Cj	CjCo	_	0	Coord	_	_	
+3	ήμασταν	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	28	Pred_Co	_	_	
+4	πια	πια	Ad	Ad	Ba	3	Adv	_	_	
+5	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	3	AuxP	_	_	
+6	απέναντι	απέναντι	Ad	Ad	Ba	7	Adv	_	_	
+7	δρόμο	δρόμος	No	NoCm	Ma|Sg|Ac	5	Adv	_	_	
+8	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+9	σε	σε	AsPp	AsPpSp	_	3	AuxP	_	_	
+10	μια	ένας	At	AtId	Fe|Sg|Ac	11	Det	_	_	
+11	ερημιά	ερημιά	No	NoCm	Fe|Sg|Ac	9	Adv	_	_	
+12	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+13	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ge|We	3	Pnom	_	_	
+14	κυνήγησαν	κυνηγώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	28	Pred_Co	_	_	
+15	σκυλιά	σκυλί	No	NoCm	Ne|Pl|Ac	14	Obj	_	_	
+16	,	,	PUNCT	PUNCT	_	17	AuxX	_	_	
+17	μπήκαμε	μπαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	14	Adv	_	_	
+18	σε	σε	AsPp	AsPpSp	_	17	AuxP	_	_	
+19	μια	ένας	At	AtId	Fe|Sg|Ac	20	Det	_	_	
+20	πολυκατοικία	πολυκατοικία	No	NoCm	Fe|Sg|Ac	18	Adv	_	_	
+21	,	,	PUNCT	PUNCT	_	17	AuxX	_	_	
+22	ήρθε	έρχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	28	Pred_Co	_	_	
+23	ένας	ένας	At	AtId	Ma|Sg|Nm	24	Det	_	_	
+24	κύριος	κύριος	No	NoCm	Ma|Sg|Nm	28	Sb	_	_	
+25	που	που	Pn	PnRe	Ma|03|Sg|Nm|Xx	27	Sb	_	_	
+26	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ac|We	27	Obj	_	_	
+27	άκουσε	ακούω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	28	Pred_Co	_	_	
+28	και	και	Cj	CjCo	_	2	Coord_Co	_	_	
+29	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ac|We	30	Obj	_	_	
+30	είπε	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	28	Pred_Co	_	_	
+31	πού	πού	Ad	Ad	Ba	32	Adv	_	_	
+32	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	30	Obj	_	_	
+33	το	ο	At	AtDf	Ne|Sg|Nm	34	Det	_	_	
+34	Κέντρο	κέντρο	No	NoCm	Ne|Sg|Nm	32	Pnom	_	_	
+35	Νεότητας	νεότητα	No	NoCm	Fe|Sg|Ge	34	Atr	_	_	
+36	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τελικά	τελικά	Ad	Ad	Ba	3	Adv	_	_	
+3	είδατε	βλέπω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	την	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	έκθεση	έκθεση	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	Coord_Co	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	1	AuxY	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+5	ήμασταν	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	4	Pred_Co	_	_	
+6	όλο	όλο	Ad	Ad	Ba	7	Adv	_	_	
+7	νεύρα	νεύρο	No	NoCm	Ne|Pl|Ac	5	Pnom	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ξέρεις	ξέρω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	ποιον	ποιος	Pn	PnIr	Ma|03|Sg|Ac|Xx	2	ExD	_	_	
+4	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

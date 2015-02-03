@@ -1,0 +1,28 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	σοβαρό	σοβαρός	Aj	Aj	Ba|Ne|Sg|Nm	2	Pnom	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Μπα	μπα	No	NoPr	Ma|Sg|Nm	6	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	μια	ένας	At	AtId	Fe|Sg|Nm	5	Det	_	_	
+5	ίωση	ίωση	No	NoCm	Fe|Sg|Nm	6	Sb	_	_	
+6	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δώστε	δίνω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	του	εγώ	Pn	PnPe	Ma|03|Sg|Ge|We	1	IObj	_	_	
+3	την	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	αντιβίωση	αντιβίωση	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+5	που	που	Pn	PnRe	Fe|03|Sg|Ac|Xx	8	Sb	_	_	
+6	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ac|We	7	Obj	_	_	
+7	έγραψα	γράφω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	8	Atr_Co	_	_	
+8	και	και	Cj	CjCo	_	4	Coord	_	_	
+9	καμιά	κανένας	Pn	PnId	Fe|03|Sg|Ac|Xx	10	Atr	_	_	
+10	ασπιρίνη	ασπιρίνη	No	NoCm	Fe|Sg|Ac	8	Atr_Co	_	_	
+11	για	για	AsPp	AsPpSp	_	10	AuxP	_	_	
+12	τον	ο	At	AtDf	Ma|Sg|Ac	13	Det	_	_	
+13	πυρετό	πυρετός	No	NoCm	Ma|Sg|Ac	11	Atr	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

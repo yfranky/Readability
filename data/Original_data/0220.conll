@@ -1,0 +1,76 @@
+1	Σαρδέλες	σαρδέλα	No	NoCm	Fe|Pl|Nm	0	ExD	_	_	
+2	Καλλονής	καλλονή	No	NoPr	Fe|Sg|Ge	1	Atr	_	_	
+
+1	Στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	5	AuxP	_	_	
+2	κόλπο	κόλπος	No	NoCm	Ma|Sg|Ac	1	Adv	_	_	
+3	της	ο	At	AtDf	Fe|Sg|Ge	4	Det	_	_	
+4	Καλλονής	καλλονή	No	NoPr	Fe|Sg|Ge	2	Atr	_	_	
+5	ψαρεύονται	ψαρεύω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	οι	ο	At	AtDf	Fe|Pl|Nm	8	Det	_	_	
+7	περίφημες	περίφημος	Aj	Aj	Ba|Fe|Pl|Nm	8	Atr	_	_	
+8	σαρδέλες	σαρδέλα	No	NoCm	Fe|Pl|Nm	5	Sb	_	_	
+9	Καλλονής	καλλονή	No	NoPr	Fe|Sg|Ge	8	Atr	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	μικρά	μικρός	Aj	Aj	Ba|Ne|Pl|Ac	3	Atr	_	_	
+3	ψαράκια	ψαράκι	No	NoCm	Ne|Pl|Ac	1	Pnom	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	ασημί	ασημής	Aj	Aj	Ba|Ne|Pl|Ac	6	Atr	_	_	
+6	χρώμα	χρώμα	No	NoCm	Ne|Sg|Ac	4	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	πως	πως	Cj	CjSb	_	1	AuxC	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	2	Obj	_	_	
+4	οι	ο	At	AtDf	Fe|Pl|Nm	6	Det	_	_	
+5	πιο	πιο	Ad	Ad	Ba	6	Adv	_	_	
+6	νόστιμες	νόστιμος	Aj	Aj	Ba|Fe|Pl|Nm	3	Pnom	_	_	
+7	και	και	Cj	CjCo	_	6	AuxY	_	_	
+8	οι	ο	At	AtDf	Fe|Pl|Nm	11	Det	_	_	
+9	πιο	πιο	Ad	Ad	Ba	10	Adv	_	_	
+10	παχιές	παχύς	Aj	Aj	Ba|Fe|Pl|Nm	11	Atr	_	_	
+11	σαρδέλες	σαρδέλα	No	NoCm	Fe|Pl|Nm	6	Atr	_	_	
+12	του	ο	At	AtDf	Ma|Sg|Ge	13	Det	_	_	
+13	κόσμου	κόσμος	No	NoCm	Ma|Sg|Ge	11	Atr	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	πρωί	πρωί	No	NoCm	Ne|Sg|Ac	10	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	αμέσως	αμέσως	Ad	Ad	Ba	2	Adv	_	_	
+5	μετά	μετά	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	ψάρεμα	ψάρεμα	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+8	,	,	PUNCT	PUNCT	_	10	AuxX	_	_	
+9	τις	εγώ	Pn	PnPe	Fe|03|Pl|Ac|We	10	Obj	_	_	
+10	βάζουν	βάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	15	Pred_Co	_	_	
+11	ανάμεσα	ανάμεσα	Ad	Ad	Ba	10	Adv	_	_	
+12	σε	σε	AsPp	AsPpSp	_	10	AuxP	_	_	
+13	φύλλα	φύλλο	No	NoCm	Ne|Pl|Ac	12	Adv	_	_	
+14	εφημερίδων	εφημερίδα	No	NoCm	Fe|Pl|Ge	13	Atr	_	_	
+15	και	και	Cj	CjCo	_	0	Coord	_	_	
+16	τις	εγώ	Pn	PnPe	Fe|03|Pl|Ac|We	17	Obj	_	_	
+17	παστώνουν	παστώνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	15	Pred_Co	_	_	
+18	με	με	AsPp	AsPpSp	_	17	AuxP	_	_	
+19	χοντρό	χοντρός	Aj	Aj	Ba|Ne|Sg|Ac	20	Atr	_	_	
+20	αλάτι	αλάτι	No	NoCm	Ne|Sg|Ac	18	Adv	_	_	
+21	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	βράδυ	βράδυ	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	κιόλας	κιόλας	Ad	Ad	Ba	3	Adv	_	_	
+5	έτοιμες	έτοιμος	Aj	Aj	Ba|Fe|Pl|Nm	3	Pnom	_	_	
+6	για	για	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	φάγωμα	φάγωμα	No	NoCm	Ne|Sg|Ac	6	Atr	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κι	και	Cj	CjCo	_	2	AuxY	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	στ’	στ’	Nm	NmOd	Ne|Sg|Nm|Aj	4	Atr	_	_	
+4	αλήθεια	αλήθεια	No	NoCm	Fe|Sg|Nm	2	Sb	_	_	
+5	πολύ	πολύ	Ad	Ad	Ba	6	Adv	_	_	
+6	νόστιμες	νόστιμος	Aj	Aj	Ba|Fe|Pl|Ac	4	Atr	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

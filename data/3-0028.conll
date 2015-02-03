@@ -1,0 +1,45 @@
+1	Αγαπημένε	αγαπημένος	Aj	Aj	Ba|Ma|Sg|Vo	3	Atr	_	_	
+2	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	3	Pos	_	_	
+3	φίλε	φίλος	No	NoCm	Ma|Sg|Vo	0	ExD	_	_	
+4	/	/	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	Αγαπημένη	αγαπημένος	Vb	VbMn	Pp|Xx|Xx|Sg|Fe|Xx|Pv|Ac	7	Atr	_	_	
+6	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	7	Atr	_	_	
+7	φίλη	φίλη	No	NoCm	Fe|Sg|Ac	3	Atr	_	_	
+8	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	2	Obj	_	_	
+2	προσκαλώ	προσκαλώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	2	AuxP	_	_	
+4	γενέθλιά	γενέθλιος	Aj	Aj	Ba|Fe|Sg|Ac	3	Atr	_	_	
+5	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	4	Atr	_	_	
+6	που	που	Pn	PnRe	Ne|03|Sg|Nm|Xx	9	Sb	_	_	
+7	θα	θα	Pt	PtFu	_	9	AuxV	_	_	
+8	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	9	Obj	_	_	
+9	γιορτάσω	γιορτάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	5	Atr	_	_	
+10	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	9	AuxP	_	_	
+11	20	20	DIG	DIG	_	10	Adv	_	_	
+12	Μαρτίου	Μάρτιος	No	NoCm	Ma|Sg|Ge	11	Atr	_	_	
+13	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+14	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	2	AuxP	_	_	
+15	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	14	Adv	_	_	
+16	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	15	Pos	_	_	
+17	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	15	AuxP	_	_	
+18	οδό	οδός	No	NoCm	Fe|Sg|Ac	17	Atr	_	_	
+19	Lonsdale	Lonsdale	Rg	RgFw	_	2	Adv	_	_	
+20	,	,	PUNCT	PUNCT	_	21	AuxX	_	_	
+21	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	19	AuxP	_	_	
+22	Mitcham	Mitcham	Rg	RgFw	_	21	Adv	_	_	
+23	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	χαρώ	χαίρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	πολύ	πολύ	Ad	Ad	Ba	2	Adv	_	_	
+4	αν	αν	Cj	CjSb	_	2	AuxC	_	_	
+5	μπορέσεις	μπορώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	4	Adv	_	_	
+6	να	να	Pt	PtSj	_	7	AuxV	_	_	
+7	έρθεις	έρχομαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	5	Obj	_	_	
+8	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φιλικά	φιλικά	Ad	Ad	Ba	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+

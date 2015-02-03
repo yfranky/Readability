@@ -1,0 +1,35 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	Γιουθιγίντι	Γιουθιγίντι	No	NoPr	Ma|Sg|Nm	2	Pnom	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πώς	πώς	Ad	Ad	Ba	3	Adv	_	_	
+2	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	3	Obj	_	_	
+3	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Χριστίνα	Χριστίνα	No	NoPr	Fe|Sg|Ac	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Atr	_	_	
+3	τάξη	τάξη	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+4	πηγαίνεις	πηγαίνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δευτέρα	Δευτέρα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Atr	_	_	
+3	καταγωγής	καταγωγή	No	NoCm	Fe|Sg|Ge	4	Atr	_	_	
+4	είσαι	είμαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ελληνικής	ελληνικός	Aj	Aj	Ba|Fe|Sg|Ge	1	Pred_Co	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

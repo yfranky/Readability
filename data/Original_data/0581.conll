@@ -1,0 +1,43 @@
+1	Η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+2	Χαμένη	χαμένος	Vb	VbMn	Pp|Xx|Xx|Sg|Fe|Xx|Pv|Nm	3	Atr	_	_	
+3	Ατλαντίδα	Ατλαντίδα	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Ac	2	Det	_	_	
+2	1914	1914	DIG	DIG	_	11	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	χαρτογράφος	χαρτογράφος	No	NoCm	Ma|Sg|Nm	11	Sb	_	_	
+6	Μάιλο	Μάιλο	No	NoPr	Ma|Sg|Nm	5	Atr	_	_	
+7	με	με	AsPp	AsPpSp	_	5	AuxP	_	_	
+8	την	ο	At	AtDf	Fe|Sg|Ac	9	Det	_	_	
+9	ομάδα	ομάδα	No	NoCm	Fe|Sg|Ac	7	Atr	_	_	
+10	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	9	Pos	_	_	
+11	ανακαλύπτουν	ανακαλύπτω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+12	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	11	AuxP	_	_	
+13	βάθη	βάθος	No	NoCm	Ne|Pl|Ac	12	Adv	_	_	
+14	της	ο	At	AtDf	Fe|Sg|Ge	15	Det	_	_	
+15	θάλασσας	θάλασσα	No	NoCm	Fe|Sg|Ge	13	Atr	_	_	
+16	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	18	Obj	_	_	
+17	χαμένο	χαμένος	Vb	VbMn	Pp|Xx|Xx|Sg|Ne|Xx|Pv|Nm	18	Atr	_	_	
+18	βασίλειο	βασίλειο	No	NoCm	Ne|Sg|Nm	11	Sb	_	_	
+19	της	ο	At	AtDf	Fe|Sg|Ge	20	Det	_	_	
+20	Ατλαντίδας	Ατλαντίδα	No	NoPr	Fe|Sg|Ge	18	Atr	_	_	
+21	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όμως	όμως	Ad	Ad	Ba	0	Coord	_	_	
+2	κάποιοι	κάποιος	Pn	PnId	Ma|03|Pl|Nm|Xx	6	Sb	_	_	
+3	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	τους	ο	At	AtDf	Ma|Pl|Ac	5	Det	_	_	
+5	εξερευνητές	εξερευνητής	No	NoCm	Ma|Pl|Ac	3	Atr	_	_	
+6	θέλουν	θέλω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	1	Pred_Co	_	_	
+7	ν’	να	Pt	PtSj	_	8	AuxV	_	_	
+8	αρπάξουν	αρπάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	6	Obj	_	_	
+9	την	ο	At	AtDf	Fe|Sg|Ac	10	Det	_	_	
+10	πηγή	πηγή	No	NoCm	Fe|Sg|Ac	8	Obj	_	_	
+11	της	ο	At	AtDf	Fe|Sg|Ge	12	Det	_	_	
+12	ενέργειας	ενέργεια	No	NoCm	Fe|Sg|Ge	10	Atr	_	_	
+13	της	ο	At	AtDf	Fe|Sg|Ge	15	Det	_	_	
+14	μυθικής	μυθικός	Aj	Aj	Ba|Fe|Sg|Ge	15	Atr	_	_	
+15	πόλης	πόλη	No	NoCm	Fe|Sg|Ge	12	Atr	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

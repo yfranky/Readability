@@ -1,0 +1,133 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1	TOK	Πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\6	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\10	TOK	ψώνια	ψώνιο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\17	TOK	Η	ο	AtDfFeSgNm
+1\19	TOK	Πέπη	Πέπη	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\24	TOK	η	ο	AtDfFeSgNm
+1\26	TOK	πάπια	πάπια	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\32	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\35	TOK	καμάρι	καμάρι	NoCmNeSgAc
+1\42	TOK	ζακέτα	ζακέτα	NoCmFeSgAc
+	SYN	/np_ac]
+1\49	TOK	και	και	CjCo
+	SYN	[np_ac
+1\53	TOK	γάντια	γάντι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\60	TOK	πάει	πηγαίνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\65	TOK	να	να	PtSj
+1\68	TOK	πάρει	παίρνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\73	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\76	TOK	Το	ο	AtDfMaSgAc
+1\79	TOK	χειμώνα	χειμώνας	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\87	TOK	δεν	δεν	PtNg
+1\91	TOK	αντέχει	αντέχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\99	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\103	TOK	ψώνια	ψώνιο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[np_nm
+1\109	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\111	TOK	καημένη	καημένος	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\119	TOK	τρέχει	τρέχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\125	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\128	TOK	Θ'	θα	PtFu
+1\131	TOK	αγοράσει	αγοράζω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+1\140	TOK	και	και	CjCo
+	SYN	[np_ac
+1\144	TOK	μια	ένας	AtIdFeSgAc
+1\148	TOK	ομπρέλα	ομπρέλα	NoCmFeSgAc
+	SYN	/np_ac]
+1\155	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\157	TOK	κασκόλ	κασκόλ	NoCmNePlAc
+	SYN	/np_ac]
+1\164	TOK	κι	και	CjCo
+	SYN	[np_ac
+1\167	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\171	TOK	μικρό	μικρός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\177	TOK	καπέλο	καπέλο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\183	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\186	TOK	Το	ο	AtDfNeSgNm
+1\189	TOK	κρύο	κρύο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\194	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\200	TOK	δυνατό	δυνατός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\206	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\208	TOK	η	ο	AtDfFeSgNm
+1\210	TOK	Πέπη	Πέπη	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\215	TOK	θέλει	θέλω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+1\221	TOK	και	και	CjCo
+	SYN	[np_ac
+1\225	TOK	παλτό	παλτό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\230	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

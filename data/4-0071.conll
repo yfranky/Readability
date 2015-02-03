@@ -1,0 +1,132 @@
+1	Μεσογειακή	μεσογειακός	Aj	Aj	Ba|Fe|Sg|Nm	2	Atr	_	_	
+2	διατροφή	διατροφή	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	:	:	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+4	μια	ένας	At	AtId	Fe|Sg|Ac	6	Det	_	_	
+5	άλλη	άλλος	Pn	PnId	Fe|03|Sg|Ac|Xx	6	Atr	_	_	
+6	πρόταση	πρόταση	No	NoCm	Fe|Sg|Ac	2	Atr	_	_	
+7	για	για	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	ισορροπημένη	ισορροπημένος	Vb	VbMn	Pp|Xx|Xx|Sg|Fe|Xx|Pv|Nm	9	Atr	_	_	
+9	διατροφή	διατροφή	No	NoCm	Fe|Sg|Ac	7	Atr	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+2	μεσογειακή	μεσογειακός	Aj	Aj	Ba|Fe|Sg|Nm	3	Atr	_	_	
+3	διατροφή	διατροφή	No	NoCm	Fe|Sg|Nm	4	Sb	_	_	
+4	θεωρείται	θεωρώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	ως	ως	Ad	Ad	Ba	4	AuxP	_	_	
+6	ένα	ένας	Nm	NmCd	Ne|Sg|Ac|Aj	5	Pnom	_	_	
+7	από	από	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	τα	ο	At	AtDf	Ne|Pl|Ac	9	Det	_	_	
+9	πρότυπα	πρότυπο	No	NoCm	Ne|Pl|Ac	7	Atr	_	_	
+10	ισορροπημένης	ισορροπημένος	Aj	Aj	Ba|Fe|Sg|Ge	11	Atr	_	_	
+11	διατροφής	διατροφή	No	NoCm	Fe|Sg|Ge	9	Atr	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στηρίζεται	στηρίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	κυρίως	κυρίως	Ad	Ad	Ba	3	Adv	_	_	
+3	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	9	AuxP	_	_	
+4	λαχανικά	λαχανικό	No	NoCm	Ne|Pl|Ac	3	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+6	τα	ο	At	AtDf	Ne|Pl|Nm	8	Det	_	_	
+7	γαλακτοκομικά	γαλακτοκομικός	Aj	Aj	Ba|Ne|Pl|Nm	8	Atr	_	_	
+8	προϊόντα	προϊόν	No	NoCm	Ne|Pl|Nm	9	Atr_Co	_	_	
+9	και	και	Cj	CjCo	_	1	Coord	_	_	
+10	τα	ο	At	AtDf	Ne|Pl|Ac	11	Det	_	_	
+11	όσπρια	όσπριο	No	NoCm	Ne|Pl|Ac	9	Obj_Co	_	_	
+12	,	,	PUNCT	PUNCT	_	13	AuxX	_	_	
+13	λιγότερο	λίγο	Ad	Ad	Cp	16	Adv_Co	_	_	
+14	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	13	AuxP	_	_	
+15	κρέας	κρέας	No	NoCm	Ne|Sg|Ac	14	Adv	_	_	
+16	και	και	Cj	CjCo	_	1	Coord	_	_	
+17	ακόμη	ακόμα	Ad	Ad	Ba	18	Adv	_	_	
+18	λιγότερο	λίγο	Ad	Ad	Cp	19	Adv	_	_	
+19	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	16	AuxP	_	_	
+20	λιπαρά	λιπαρός	Aj	Aj	Ba|Ne|Pl|Ac	19	Atr_Co	_	_	
+21	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κύριο	κύριος	Aj	Aj	Ba|Ma|Sg|Ac	2	Atr	_	_	
+2	συστατικό	συστατικός	Aj	Aj	Ba|Ne|Sg|Nm	6	Pnom	_	_	
+3	της	ο	At	AtDf	Fe|Sg|Ge	5	Det	_	_	
+4	μεσογειακής	μεσογειακός	Aj	Aj	Ba|Fe|Sg|Ge	5	Atr	_	_	
+5	διατροφής	διατροφή	No	NoCm	Fe|Sg|Ge	2	Atr	_	_	
+6	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Nm	8	Det	_	_	
+8	ελαιόλαδο	ελαιόλαδο	No	NoCm	Ne|Sg|Nm	6	Sb	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλα	όλος	Aj	Aj	Ba|Ne|Pl|Nm	3	Atr	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Nm	3	Det	_	_	
+3	φαγητά	φαγητό	No	NoCm	Ne|Pl|Nm	4	Sb	_	_	
+4	μαγειρεύονται	μαγειρεύω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	με	με	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	ελαιόλαδο	ελαιόλαδο	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Παρακάτω	παρακάτω	Ad	Ad	Ba	2	Adv	_	_	
+2	υπάρχουν	υπάρχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	προτάσεις	πρόταση	No	NoCm	Fe|Pl|Nm	2	Sb	_	_	
+4	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Ac	6	Det	_	_	
+6	φαγητό	φαγητό	No	NoCm	Ne|Sg|Ac	4	Atr	_	_	
+7	της	ο	At	AtDf	Fe|Sg|Ge	8	Det	_	_	
+8	εβδομάδας	εβδομάδα	No	NoCm	Fe|Sg|Ge	6	Atr	_	_	
+9	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	2	2	DIG	DIG	_	2	Atr	_	_	
+2	φορές	φορά	No	NoCm	Fe|Pl|Ac	0	ExD	_	_	
+3	την	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	εβδομάδα	εβδομάδα	No	NoCm	Fe|Sg|Ac	2	Atr	_	_	
+5	όσπρια	όσπριο	No	NoCm	Ne|Pl|Ac	4	Atr	_	_	
+6	για	για	AsPp	AsPpSp	_	2	AuxP	_	_	
+7	μεσημεριανό	μεσημεριανός	Aj	Aj	Ba|Ma|Sg|Ac	6	Atr	_	_	
+
+1	1-2	1-2	DIG	DIG	_	2	Atr	_	_	
+2	φορές	φορά	No	NoCm	Fe|Pl|Ac	6	ExD_Co	_	_	
+3	την	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	εβδομάδα	εβδομάδα	No	NoCm	Fe|Sg|Ac	6	ExD_Co	_	_	
+5	ψάρι	ψάρι	No	NoCm	Ne|Sg|Ac	6	ExD_Co	_	_	
+6	ή	ή	Cj	CjCo	_	0	Coord	_	_	
+7	κρέας	κρέας	No	NoCm	Ne|Sg|Nm	6	ExD_Co	_	_	
+
+1	3-4	3-4	DIG	DIG	_	2	Atr	_	_	
+2	φορές	φορά	No	NoCm	Fe|Pl|Ac	0	ExD	_	_	
+3	την	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	εβδομάδα	εβδομάδα	No	NoCm	Fe|Sg|Ac	2	Atr	_	_	
+5	λαδερό	λαδερός	Aj	Aj	Ba|Ne|Sg|Ac	6	Atr_Co	_	_	
+6	ή	ή	Cj	CjCo	_	8	Coord_Co	_	_	
+7	ρύζι	ρύζι	No	NoCm	Ne|Sg|Ac	6	Atr_Co	_	_	
+8	ή	ή	Cj	CjCo	_	4	Coord	_	_	
+9	ζυμαρικά	ζυμαρικό	No	NoCm	Ne|Pl|Ac	8	Atr_Co	_	_	
+10	(	(	OPUNCT	OPUNCT	_	11	AuxG	_	_	
+11	μεσημεριανό-βραδινό	μεσημεριανό-βραδινό	Aj	Aj	Ba|Ne|Sg|Ac	9	Atr	_	_	
+12	)	)	CPUNCT	CPUNCT	_	11	AuxG	_	_	
+
+1	καθημερινά	καθημερινά	Ad	Ad	Ba	0	Coord	_	_	
+2	1-2	1-2	DIG	DIG	_	4	Atr	_	_	
+3	μέτριες	μέτριος	Aj	Aj	Ba|Fe|Pl|Ac	4	Atr	_	_	
+4	φέτες	φέτα	No	NoCm	Fe|Pl|Ac	1	Pred_Co	_	_	
+5	ψωμί	ψωμί	No	NoCm	Ne|Sg|Ac	4	Atr	_	_	
+
+1	καθημερινά	καθημερινά	Ad	Ad	Ba	7	Adv	_	_	
+2	γαλακτοκομικά	γαλακτοκομικός	Aj	Aj	Ba|Ne|Pl|Nm	7	Sb	_	_	
+3	(	(	OPUNCT	OPUNCT	_	5	AuxG	_	_	
+4	γάλα	γάλα	No	NoCm	Ne|Sg|Nm	5	Atr_Co	_	_	
+5	ή	ή	Cj	CjCo	_	7	Coord_Co	_	_	
+6	γιαούρτι	γιαούρτι	No	NoCm	Ne|Sg|Ac	5	Atr_Co	_	_	
+7	ή	ή	Cj	CjCo	_	0	Coord	_	_	
+8	τυρί	τυρί	No	NoCm	Ne|Sg|Ac	7	Obj	_	_	
+9	)	)	CPUNCT	CPUNCT	_	7	AuxG	_	_	
+
+1	καθημερινά	καθημερινά	Ad	Ad	Ba	3	Atr	_	_	
+2	1-2	1-2	DIG	DIG	_	3	Atr	_	_	
+3	φρούτα	φρούτο	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+
+1	2-3	2-3	DIG	DIG	_	2	Atr	_	_	
+2	φορές	φορά	No	NoCm	Fe|Pl|Ac	0	ExD	_	_	
+3	την	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	εβδομάδα	εβδομάδα	No	NoCm	Fe|Sg|Ac	2	Atr	_	_	
+5	γλυκά	γλυκά	Ad	Ad	Ba	2	Adv	_	_	
+6	σε	σε	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	μικρή	μικρός	Aj	Aj	Ba|Fe|Sg|Ac	8	Atr	_	_	
+8	ποσότητα	ποσότητα	No	NoCm	Fe|Sg|Ac	6	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,190 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Ο	ο	AtDfMaSgNm
+1\3	TOK	Θωμάς	Θωμάς	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\9	TOK	πάει	πηγαίνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\14	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\18	TOK	ταχυδρομείο	ταχυδρομείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\29	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\32	TOK	Θέλει	θέλω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\38	TOK	να	να	PtSj
+1\41	TOK	στείλει	στέλνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\49	TOK	το	ο	AtDfNeSgAc
+1\52	TOK	γράμμα	γράμμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\59	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\63	TOK	έγραψε	γράφω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\70	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+1\76	TOK	φίλους	φίλος	NoCmMaPlAc
+1\83	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\86	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\89	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\90	TOK	Καλημέρα	καλημέρα	NoCmFeSgNm
+1\99	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_nm]
+1\102	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\105	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\106	TOK	Καλημέρα	καλημέρα	NoCmFeSgNm
+	SYN	/np_nm]
+1\114	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\117	ENUM	-	-	ENUM
+	SYN	[vg
+1\118	TOK	Θέλω	θέλω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\123	TOK	να	να	PtSj
+1\126	TOK	στείλω	στέλνω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\133	TOK	αυτό	αυτός	PnDmNe03SgAcXx
+1\138	TOK	το	ο	AtDfNeSgAc
+1\141	TOK	γράμμα	γράμμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\147	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\150	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\151	TOK	Το	ο	AtDfNeSgNm
+1\154	TOK	γραμματόσημο	γραμματόσημο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\167	TOK	κάνει	κάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\173	DIG	60	60	DIG
+1\176	TOK	λεπτά	λεπτό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\181	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\184	TOK	Γράψε	γράφω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\190	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\195	TOK	φάκελο	φάκελος	NoCmMaSgAc
+	SYN	/np_ac]
+1\202	TOK	και	και	CjCo
+	SYN	[np_ac
+1\206	TOK	τη	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\209	TOK	δική	δικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ge
+1\214	TOK	σου	εγώ	PnPeMa02SgGeWe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\218	TOK	διεύθυνση	διεύθυνση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\227	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\230	TOK	Μετά	μετά	AsPpSp
+	SYN	[vg
+1\235	TOK	ρίξε	ρίχνω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\240	TOK	τον	ο	AtDfMaSgAc
+1\244	TOK	φάκελο	φάκελος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\251	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\255	TOK	κίτρινο	κίτρινος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\263	TOK	κουτί	κουτί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\269	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\273	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\279	TOK	έξω	έξω	AdXxBa
+	SYN	/advp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\282	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\285	ENUM	-	-	ENUM
+	SYN	[vg
+1\286	TOK	Ευχαριστώ	ευχαριστώ	VbMnIdXx01SgXxPePvXx
+	SYN	/vg]
+	SYN	[advp
+1\296	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\300	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\302	TOK	Γειά	Γειά	NoCmFeSgNm
+1\307	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_nm]
+1\310	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\313	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\314	TOK	Γεια	γεια	NoCmFeSgNm
+1\319	TOK	σου	μου	PnPoMa02SgGeXx
+	SYN	/np_nm]
+1\322	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

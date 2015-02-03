@@ -1,0 +1,9 @@
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Αχμέτ	Αχμέτ	No	NoPr	Ma|Sg|Nm	3	Sb_Co	_	_	
+3	και	και	Cj	CjCo	_	6	Coord	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	Μελέκ	Μελέκ	No	NoPr	Fe|Sg|Nm	3	Sb_Co	_	_	
+6	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	αδέρφια	αδέρφι	No	NoCm	Ne|Pl|Nm	6	Pnom	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

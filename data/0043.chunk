@@ -1,0 +1,113 @@
+	(SENT	<S>
+1\1	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\2	TOK	Ο	ο	AtDfMaSgNm
+1\4	TOK	Φασαρίας	φασαρίας	NoCmMaSgNm
+	SYN	/np_nm]
+1\12	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\15	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\16	TOK	Φασαρία	φασαρία	NoCmFeSgNm
+	SYN	/np_nm]
+1\23	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\25	TOK	περίμενε	περιμένω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\33	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\36	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\37	TOK	Μελέκ	Μελέκ	NoPrMaSgNm
+	SYN	/np_nm]
+1\42	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\44	TOK	η	ο	AtDfFeSgNm
+1\46	TOK	Αγγέλα	Αγγέλα	NoPrFeSgNm
+	SYN	/np_nm]
+1\52	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\55	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\56	TOK	Αγγέλα	Αγγέλα	NoPrFeSgAc
+	SYN	/np_ac]
+1\62	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\64	TOK	έλα	έλα	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+1\67	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\69	TOK	ο	ο	AtDfMaSgNm
+1\71	TOK	Φασαρίας	φασαρίας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\79	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\82	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\83	TOK	Φασαρία	φασαρία	NoCmFeSgNm
+	SYN	/np_nm]
+1\90	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\92	TOK	πρόσεχε	προσέχω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\99	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\102	ENUM	-	-	ENUM
+	SYN	[vg
+1\103	TOK	Κοίτα	κοιτάζω	VbMnMpXx02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\109	TOK	κυνηγάει	κυνηγώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\118	TOK	μια	ένας	AtIdFeSgAc
+1\122	TOK	γάτα	γάτα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\126	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\129	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\130	TOK	Τα	ο	AtDfNePlNm
+1\133	TOK	αυγά	αυγό	NoCmNePlNm
+	SYN	/np_nm]
+1\137	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\140	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\141	TOK	Συγνώμη	συγνώμη	NoCmFeSgNm
+	SYN	/np_nm]
+1\148	PUNCT	,	,	PUNCT
+1\150	TOK	κύριε	κύριος	NoCmMaSgVo
+1\155	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\158	ENUM	-	-	ENUM
+1\159	TOK	Πού	πού	AdXxBa
+	SYN	[vg
+1\163	TOK	πήγε	πηγαίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\168	TOK	ο	ο	AtDfMaSgNm
+1\170	TOK	Φασαρίας	φασαρίας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\178	PTERM_P	;	;	PTERM_P
+	)SENT	</S>

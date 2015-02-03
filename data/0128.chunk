@@ -1,0 +1,232 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Τα	ο	AtDfNePlNm
+1\4	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\11	TOK	έφτασαν	φτάνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\19	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\24	TOK	παραλία	παράλιος	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\31	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\34	TOK	Τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\39	TOK	τρέχουν	τρέχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\47	TOK	ξυπόλυτα	ξυπόλυτος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\56	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\61	TOK	άμμο	άμμος	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\65	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\69	TOK	Ο	ο	AtDfMaSgNm
+1\71	TOK	Χουσεΐν	Χουσεΐν	RgFwTr
+	SYN	/np_nm]
+	SYN	[vg
+1\79	TOK	ετοιμάζει	ετοιμάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\89	TOK	το	ο	AtDfNeSgAc
+1\92	TOK	καλάμι	καλάμι	NoCmNeSgAc
+1\99	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\103	TOK	για	για	AsPpSp
+1\107	TOK	να	να	PtSj
+1\110	TOK	ψαρέψει	ψαρεύω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\117	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\120	ENUM	-	-	ENUM
+	SYN	[vg
+1\121	TOK	Είμαστε	είμαι	VbMnIdPr01PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\129	TOK	μόνοι	μόνος	AjBaMaPlNm
+1\135	TOK	μας	μου	PnPoMa01PlGeXx
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\139	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\144	TOK	παραλία	παράλιος	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\151	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\154	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\155	TOK	Το	ο	AtDfNeSgNm
+1\158	TOK	καλοκαίρι	καλοκαίρι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\168	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\170	TOK	παραλία	παράλιος	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\178	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\184	TOK	γεμάτη	γεμάτος	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\190	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\193	TOK	Έρχονται	έρχομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\202	TOK	πολλοί	πολύς	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\209	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\218	TOK	για	για	AsPpSp
+1\222	TOK	να	να	PtSj
+1\225	TOK	κολυμπήσουν	κολυμπώ	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\236	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\239	TOK	Την	ο	AtDfFeSgAc
+1\243	TOK	άνοιξη	άνοιξη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\250	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\255	TOK	παραλία	παράλιος	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\263	TOK	έρχονται	έρχομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\272	TOK	λίγοι	λίγος	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\278	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\286	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\289	ENUM	-	-	ENUM
+	SYN	[vg
+1\290	TOK	Πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+	SYN	[cl_o
+	SYN	[vg_s
+1\295	TOK	να	να	PtSj
+1\298	TOK	παίξουμε	παίζω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\307	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\312	TOK	βάρκες	βάρκα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\318	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\321	ENUM	-	-	ENUM
+	SYN	[advp
+1\322	TOK	Μήπως	μήπως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\328	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+1\334	TOK	και	και	CjCo
+	SYN	[np_nm
+1\338	TOK	ο	ο	AtDfMaSgNm
+1\340	TOK	κύριος	κύριος	NoCmMaSgNm
+1\347	TOK	Νικήτας	Νικήτας	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[advp
+1\355	TOK	εκεί	εκεί	AdXxBa
+	SYN	/advp]
+	SYN	/cl_q]
+1\359	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\362	TOK	Έρχεται	έρχομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+1\370	TOK	κι	και	CjCo
+	SYN	[np_nm
+1\373	TOK	αυτός	αυτός	PnDmMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[np_ac
+1\379	TOK	τις	ο	AtDfFePlAc
+1\383	TOK	Κυριακές	Κυριακή	NoPrFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\392	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\396	TOK	ψαρεύει	ψαρεύω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\404	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\407	TOK	τη	ο	AtDfFeSgAc
+1\410	TOK	βάρκα	βάρκα	NoCmFeSgAc
+1\416	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\419	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

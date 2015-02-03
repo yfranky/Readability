@@ -1,0 +1,81 @@
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Χουσεΐν	Χουσεΐν	Rg	RgFw	_	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	6	Det	_	_	
+5	μεγάλος	μεγάλος	Aj	Aj	Ba|Ma|Sg|Nm	6	Atr	_	_	
+6	ξάδερφος	ξάδερφος	No	NoCm	Ma|Sg|Nm	3	Pnom	_	_	
+7	της	ο	At	AtDf	Fe|Sg|Ge	8	Det	_	_	
+8	Μελέκ	Μελέκ	No	NoPr	Fe|Sg|Ge	9	Atr_Co	_	_	
+9	και	και	Cj	CjCo	_	6	Coord	_	_	
+10	του	ο	At	AtDf	Ne|Sg|Ge	11	Det	_	_	
+11	Αχμέτ	Αχμέτ	No	NoPr	Ne|Sg|Ge	9	Atr_Co	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κάθε	κάθε	Pn	PnId	Fe|03|Sg|Nm|Xx	2	Atr	_	_	
+2	Κυριακή	Κυριακή	No	NoCm	Fe|Sg|Nm	11	Sb	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	όταν	όταν	Cj	CjSb	_	11	AuxC	_	_	
+5	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Adv	_	_	
+6	καλό	καλός	Aj	Aj	Ba|Ma|Sg|Ac	7	Atr	_	_	
+7	καιρό	καιρός	No	NoCm	Ma|Sg|Ac	5	Obj	_	_	
+8	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+9	ο	ο	At	AtDf	Ma|Sg|Nm	10	Det	_	_	
+10	Χουσεΐν	Χουσεΐν	Rg	RgFw	_	11	Sb	_	_	
+11	πάει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+12	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	11	AuxP	_	_	
+13	θάλασσα	θάλασσα	No	NoCm	Fe|Sg|Ac	12	Adv	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ψαρεύει	ψαρεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	καλάμι	καλάμι	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+5	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	4	Pos	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σήμερα	σήμερα	Ad	Ad	Ba	3	Adv	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	πάνε	πηγαίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	μαζί	μαζί	Ad	Ad	Ba	14	Adv	_	_	
+5	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	7	Pos	_	_	
+6	η	ο	At	AtDf	Fe|Sg|Nm	7	Det	_	_	
+7	Μελέκ	Μελέκ	No	NoPr	Fe|Sg|Nm	14	ExD_Co	_	_	
+8	,	,	PUNCT	PUNCT	_	14	AuxX	_	_	
+9	ο	ο	At	AtDf	Ma|Sg|Nm	10	Det	_	_	
+10	Αχμέτ	Αχμέτ	No	NoPr	Ma|Sg|Nm	14	ExD_Co	_	_	
+11	,	,	PUNCT	PUNCT	_	14	AuxX	_	_	
+12	η	ο	At	AtDf	Fe|Sg|Nm	13	Det	_	_	
+13	Αγγέλα	Αγγέλα	No	NoPr	Fe|Sg|Nm	14	ExD_Co	_	_	
+14	και	και	Cj	CjCo	_	3	Coord	_	_	
+15	ο	ο	At	AtDf	Ma|Sg|Nm	16	Det	_	_	
+16	Φασαρίας	φασαρίας	No	NoCm	Ma|Sg|Nm	14	Sb_Co	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πήρανε	παίρνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μαζί	μαζί	Ad	Ad	Ba	1	Adv	_	_	
+3	τους	ο	At	AtDf	Ma|Pl|Ac	4	Det	_	_	
+4	νερό	νερό	No	NoCm	Ne|Sg|Ac	5	Obj_Co	_	_	
+5	και	και	Cj	CjCo	_	1	Coord	_	_	
+6	φαγητό	φαγητό	No	NoCm	Ne|Sg|Ac	5	Obj_Co	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Αγγέλα	Αγγέλα	No	NoPr	Fe|Sg|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	έλα	έλα	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+5	γρήγορα	γρήγορα	Ad	Ad	Ba	4	Adv	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Σε	σε	AsPp	AsPpSp	_	4	AuxP	_	_	
+3	λίγο	λίγο	Ad	Ad	Ba	2	Adv	_	_	
+4	έρχεται	έρχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Nm	6	Det	_	_	
+6	λεωφορείο	λεωφορείο	No	NoCm	Ne|Sg|Nm	4	Sb	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	έτοιμη	έτοιμος	Aj	Aj	Ba|Fe|Sg|Nm	2	Pnom	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

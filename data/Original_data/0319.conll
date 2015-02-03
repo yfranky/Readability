@@ -1,0 +1,163 @@
+1	Γκασπάτσο	Γκασπάτσο	No	NoPr	Ma|Sg|Nm	2	ExD_Co	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	Coord	_	_	
+3	Κρύα	κρύο	No	NoCm	Ne|Pl|Ac	2	ExD_Co	_	_	
+4	σούπα	σούπα	No	NoCm	Fe|Sg|Ac	3	Atr	_	_	
+5	ντομάτας	ντομάτα	No	NoCm	Fe|Sg|Ge	4	Atr	_	_	
+
+1	Συστατικά	συστατικός	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+
+1	3	3	DIG	DIG	_	4	Atr	_	_	
+2	μεγάλες	μεγάλος	Aj	Aj	Ba|Fe|Pl|Nm	4	Atr	_	_	
+3	ώριμες	ώριμος	Aj	Aj	Ba|Fe|Pl|Nm	4	Atr	_	_	
+4	ντομάτες	ντομάτα	No	NoCm	Fe|Pl|Nm	0	ExD	_	_	
+
+1	2	2	DIG	DIG	_	4	Atr	_	_	
+2	κόκκινες	κόκκινος	Aj	Aj	Ba|Fe|Pl|Ac	4	Atr	_	_	
+3	γλυκές	γλυκός	Aj	Aj	Ba|Fe|Pl|Ac	4	Atr	_	_	
+4	πιπεριές	πιπεριά	No	NoCm	Fe|Pl|Ac	0	ExD	_	_	
+
+1	1	1	DIG	DIG	_	3	Atr	_	_	
+2	μέτριο	μέτριος	Aj	Aj	Ba|Ne|Sg|Nm	3	Atr	_	_	
+3	αγγούρι	αγγούρι	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+
+1	2	2	DIG	DIG	_	2	Atr	_	_	
+2	φέτες	φέτα	No	NoCm	Fe|Pl|Ac	3	Atr	_	_	
+3	ψωμί	ψωμί	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+4	(	(	OPUNCT	OPUNCT	_	5	AuxG	_	_	
+5	κατά	κατά	AsPp	AsPpSp	_	3	AuxP	_	_	
+6	προτίμηση	προτίμηση	No	NoCm	Fe|Sg|Ac	5	Atr	_	_	
+7	χτεσινό	χτεσινός	Aj	Aj	Ba|Ma|Sg|Ac	6	Atr	_	_	
+8	)	)	CPUNCT	CPUNCT	_	5	AuxG	_	_	
+
+1	1	1	DIG	DIG	_	4	Atr	_	_	
+2	μικρό	μικρός	Aj	Aj	Ba|Ne|Sg|Ac	4	Atr	_	_	
+3	ξερό	ξερός	Aj	Aj	Ba|Ne|Sg|Ac	4	Atr	_	_	
+4	κρεμμύδι	κρεμμύδι	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+
+1	1	1	DIG	DIG	_	2	Atr	_	_	
+2	σκελίδα	σκελίδα	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+3	σκόρδο	σκόρδο	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+
+1	2	2	DIG	DIG	_	2	Atr	_	_	
+2	κουταλιές	κουταλιά	No	NoCm	Fe|Pl|Ac	0	ExD	_	_	
+3	ξίδι	ξίδι	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+
+1	4	4	DIG	DIG	_	2	Atr	_	_	
+2	κουταλιές	κουταλιά	No	NoCm	Fe|Pl|Ac	0	ExD	_	_	
+3	ελαιόλαδο	ελαιόλαδο	No	NoCm	Ne|Sg|Nm	2	Atr	_	_	
+
+1	1	1	DIG	DIG	_	2	Atr	_	_	
+2	κουταλιά	κουταλιά	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+3	σούπας	σούπα	No	NoCm	Fe|Sg|Ge	2	Atr	_	_	
+4	βασιλικό	βασιλικός	Aj	Aj	Ba|Ma|Sg|Ac	6	Atr	_	_	
+5	φρέσκο	φρέσκος	Aj	Aj	Ba|Ne|Sg|Ac	6	Atr	_	_	
+6	ψιλοκομμένο	ψιλοκομμένος	Aj	Aj	Ba|Ma|Sg|Ac	3	Atr	_	_	
+7	(	(	OPUNCT	OPUNCT	_	8	AuxG	_	_	
+8	ή	ή	Cj	CjCo	_	6	Coord	_	_	
+9	ξηρό	ξηρός	Aj	Aj	Ba|Ma|Sg|Ac	8	Atr_Co	_	_	
+10	)	)	CPUNCT	CPUNCT	_	8	AuxG	_	_	
+
+1	αλάτι	αλάτι	No	NoCm	Ne|Sg|Nm	2	ExD_Co	_	_	
+2	/	/	PUNCT	PUNCT	_	0	Coord	_	_	
+3	πιπέρι	πιπέρι	No	NoCm	Ne|Sg|Ac	2	ExD_Co	_	_	
+
+1	Ξεφλούδισε	ξεφλουδίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+2	τις	ο	At	AtDf	Fe|Pl|Ac	3	Det	_	_	
+3	ντομάτες	ντομάτα	No	NoCm	Fe|Pl|Ac	1	Obj	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	λιώσε	λιώνω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+6	τες	τες	No	NoCm	Ma|Pl|Ac	5	Obj	_	_	
+7	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+8	μπλέντερ	μπλέντερ	No	NoCm	Ne|Pl|Ac	7	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πρόσθεσε	προσθέτω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τις	ο	At	AtDf	Fe|Pl|Ac	3	Det	_	_	
+3	πιπεριές	πιπεριά	No	NoCm	Fe|Pl|Ac	1	Obj	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	αφού	αφού	Cj	CjSb	_	1	AuxC	_	_	
+6	τις	εγώ	Pn	PnPe	Fe|03|Pl|Ac|We	7	Obj	_	_	
+7	καθαρίσεις	καθαρίζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	5	Adv	_	_	
+8	από	από	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	τους	ο	At	AtDf	Ma|Pl|Ac	10	Det	_	_	
+10	σπόρους	σπόρος	No	NoCm	Ma|Pl|Ac	8	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κόψε	κόβω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	3	Det	_	_	
+3	αγγούρι	αγγούρι	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	σε	σε	AsPp	AsPpSp	_	1	AuxP	_	_	
+5	κομμάτια	κομμάτι	No	NoCm	Ne|Pl|Ac	4	Adv	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	πρόσθεσέ	προσθέτω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+8	το	εγώ	Pn	PnPo	Ma|03|Sg|Ge|Xx	21	IObj	_	_	
+9	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	8	AuxP	_	_	
+10	μείγμα	μείγμα	No	NoCm	Ne|Sg|Nm	9	Atr	_	_	
+11	μαζί	μαζί	Ad	Ad	Ba	10	Adv	_	_	
+12	με	με	AsPp	AsPpSp	_	11	AuxP	_	_	
+13	το	ο	At	AtDf	Ne|Sg|Ac	14	Det	_	_	
+14	κρεμμύδι	κρεμμύδι	No	NoCm	Ne|Sg|Ac	12	Adv	_	_	
+15	,	,	PUNCT	PUNCT	_	21	AuxX	_	_	
+16	το	ο	At	AtDf	Ne|Sg|Nm	17	Det	_	_	
+17	σκόρδο	σκόρδο	No	NoCm	Ne|Sg|Nm	21	Sb_Co	_	_	
+18	,	,	PUNCT	PUNCT	_	21	AuxX	_	_	
+19	το	ο	At	AtDf	Ne|Sg|Nm	20	Det	_	_	
+20	λάδι	λάδι	No	NoCm	Ne|Sg|Nm	21	Sb_Co	_	_	
+21	και	και	Cj	CjCo	_	7	Coord	_	_	
+22	το	ο	At	AtDf	Ne|Sg|Nm	23	Det	_	_	
+23	ξίδι	ξίδι	No	NoCm	Ne|Sg|Nm	21	Sb_Co	_	_	
+24	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Χτύπα	χτυπώ	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	καλά	καλά	Ad	Ad	Ba	1	Adv	_	_	
+3	τα	ο	At	AtDf	Ne|Pl|Ac	4	Det	_	_	
+4	υλικά	υλικό	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+5	μέχρι	μέχρι	AsPp	AsPpSp	_	1	AuxP	_	_	
+6	να	να	Pt	PtSj	_	7	AuxV	_	_	
+7	γίνουν	γίνομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	5	Adv	_	_	
+8	ένας	ένας	At	AtId	Ma|Sg|Nm	10	Det	_	_	
+9	ομοιόμορφος	ομοιόμορφος	Aj	Aj	Ba|Ma|Sg|Nm	10	Atr	_	_	
+10	πουρές	πουρές	No	NoCm	Ma|Sg|Nm	7	Sb	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βάλε	βάζω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+3	μείγμα	μείγμα	No	NoCm	Ne|Sg|Nm	1	Obj	_	_	
+4	σε	σε	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	ένα	ένας	At	AtId	Ne|Sg|Ac	6	Det	_	_	
+6	μπολ	μπολ	Rg	RgFw	_	12	Sb	_	_	
+7	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+8	πρόσθεσε	προσθέτω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	12	Pred_Co	_	_	
+9	αλάτι	αλάτι	No	NoCm	Ne|Sg|Ac	10	Obj_Co	_	_	
+10	και	και	Cj	CjCo	_	8	Coord	_	_	
+11	πιπέρι	πιπέρι	No	NoCm	Ne|Sg|Ac	10	Obj_Co	_	_	
+12	και	και	Cj	CjCo	_	4	Coord	_	_	
+13	άσε	άσος	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	12	Atr_Co	_	_	
+14	τη	ο	At	AtDf	Fe|Sg|Ac	15	Det	_	_	
+15	σούπα	σούπα	No	NoCm	Fe|Sg|Ac	13	Obj	_	_	
+16	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	13	AuxP	_	_	
+17	ψυγείο	ψυγείο	No	NoCm	Ne|Sg|Ac	16	Adv	_	_	
+18	για	για	AsPp	AsPpSp	_	17	AuxP	_	_	
+19	2-3	2-3	DIG	DIG	_	20	Atr	_	_	
+20	ώρες	ώρα	No	NoCm	Fe|Pl|Ac	18	Atr	_	_	
+21	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Συνόδεψέ	συνοδεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τη	εγώ	Pn	PnPo	Fe|03|Sg|Ge|Xx	7	Atr	_	_	
+3	με	με	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	κρουτόν	κρουτόν	Ad	Ad	Ba	3	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+6	καυτερές	καυτερός	Aj	Aj	Ba|Fe|Pl|Ac	7	Atr	_	_	
+7	πιπεριές	πιπεριά	No	NoCm	Fe|Pl|Ac	1	Obj	_	_	
+8	(	(	OPUNCT	OPUNCT	_	10	AuxG	_	_	
+9	ωμές	ωμός	Aj	Aj	Ba|Fe|Pl|Ac	10	Atr_Co	_	_	
+10	ή	ή	Cj	CjCo	_	7	Coord	_	_	
+11	τουρσί	τουρσί	No	NoCm	Ne|Sg|Ac	10	Atr_Co	_	_	
+12	)	)	CPUNCT	CPUNCT	_	10	AuxG	_	_	
+13	και	και	Cj	CjCo	_	10	AuxY	_	_	
+14	φέτες	φέτα	No	NoCm	Fe|Pl|Ac	10	Atr_Co	_	_	
+15	από	από	AsPp	AsPpSp	_	10	AuxP	_	_	
+16	φρέσκο	φρέσκος	Aj	Aj	Ba|Ne|Sg|Ac	17	Atr	_	_	
+17	αγγούρι	αγγούρι	No	NoCm	Ne|Sg|Ac	15	Adv	_	_	
+18	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

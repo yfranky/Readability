@@ -1,0 +1,70 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πού	πού	Ad	Ad	Ba	3	Adv	_	_	
+3	μένεις	μένω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+5	Δημήτρη	Δημήτρης	No	NoPr	Ma|Sg|Ac	3	Adv	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μένω	μένω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	2	AuxP	_	_	
+4	Ένφιλντ	Ένφιλντ	No	NoPr	Ne|Sg|Ac	3	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δεν	δεν	Pt	PtNg	_	4	AuxV	_	_	
+3	έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	AuxV	_	_	
+4	πάει	πηγαίνω	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	ποτέ	ποτέ	Ad	Ad	Ba	4	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ωραίο	ωραίος	Aj	Aj	Ba|Ne|Sg|Nm	3	Atr	_	_	
+3	μέρος	μέρος	No	NoCm	Ne|Sg|Nm	1	Pnom	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πάρα	πάρα	Ad	Ad	Ba	3	Adv	_	_	
+3	πολύ	πολύ	Ad	Ad	Ba	0	ExD	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	όμορφα	όμορφα	Ad	Ad	Ba	3	Adv	_	_	
+3	σπίτια	σπίτι	No	NoCm	Ne|Pl|Ac	7	Obj_Co	_	_	
+4	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+5	μεγάλους	μεγάλος	Aj	Aj	Ba|Ma|Pl|Ac	6	Atr	_	_	
+6	δρόμους	δρόμος	No	NoCm	Ma|Pl|Ac	7	Obj_Co	_	_	
+7	και	και	Cj	CjCo	_	1	Coord	_	_	
+8	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Ac	9	Atr	_	_	
+9	μαγαζιά	μαγαζί	No	NoCm	Ne|Pl|Ac	7	Obj_Co	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	4	Obj	_	_	
+3	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	4	IObj	_	_	
+4	αρέσει	αρέσω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	πιο	πιο	Ad	Ad	Ba	6	Adv	_	_	
+6	πολύ	πολύ	Ad	Ad	Ba	7	Adv	_	_	
+7	εκεί	εκεί	Ad	Ad	Ba	9	Adv	_	_	
+8	που	που	Ad	Ad	Ba	9	Adv	_	_	
+9	μένεις	μένω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	4	Adv	_	_	
+10	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+3	πάρκο	πάρκο	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+4	που	που	Pn	PnRe	Ne|03|Sg|Ac|Xx	5	Obj	_	_	
+5	παίζω	παίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Atr	_	_	
+6	ποδόσφαιρο	ποδόσφαιρο	No	NoCm	Ne|Sg|Nm	5	Sb	_	_	
+7	με	με	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	τους	ο	At	AtDf	Ma|Pl|Ac	9	Det	_	_	
+9	φίλους	φίλος	No	NoCm	Ma|Pl|Ac	7	Atr	_	_	
+10	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	9	Pos	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	μέσα	μέσα	Ad	Ad	Ba	1	Adv	_	_	
+3	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	2	AuxP	_	_	
+4	πράσινο	πράσινος	Aj	Aj	Ba|Ne|Sg|Ac	3	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

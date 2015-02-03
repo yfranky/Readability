@@ -1,0 +1,605 @@
+	(SENT	<S>
+1\1	TOK	H	H	RgFwOr
+	SYN	[np_ac
+1\3	TOK	παχυσαρκία	παχυσαρκία	NoCmFeSgAc
+	SYN	/np_ac]
+1\13	PTERM_P	:	:	PTERM_P
+	SYN	[np_ac
+1\15	TOK	μια	ένας	AtIdFeSgAc
+1\19	TOK	επιδημία	επιδημία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\28	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\32	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\36	TOK	αναπτυγμένες	αναπτυγμένος	VbMnPpXxXxPlFePePvAc
+	SYN	/adjp_ac]
+1\49	TOK	κοινωνίες	κοινωνία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\60	TOK	Την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\64	TOK	ίδια	ίδιος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\69	TOK	ώρα	ώρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_advp
+1\73	TOK	που	που	AdXxBa
+	SYN	/pou_advp]
+	SYN	[np_nm
+1\77	TOK	οι	ο	AtDfMaPlNm
+1\80	TOK	κάτοικοι	κάτοικος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\89	TOK	του	ο	AtDfMaSgGe
+	SYN	[adjp_ge
+1\93	TOK	Τρίτου	τρίτος	NmOdMaSgGeAj
+	SYN	/adjp_ge]
+1\100	TOK	Κόσμου	κόσμος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\107	TOK	αντιμετωπίζουν	αντιμετωπίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\122	TOK	σοβαρό	σοβαρός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\129	TOK	πρόβλημα	πρόβλημα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\138	TOK	υποσιτισμού	υποσιτισμός	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/cl_r]
+1\149	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\151	TOK	κάποιοι	κάποιος	PnIdMa03PlNmXx
+1\159	TOK	άλλοι	άλλος	PnIdMa03PlNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\165	TOK	υπερσιτίζονται	υπερσιτίζω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\179	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\181	TOK	Η	ο	AtDfFeSgNm
+1\183	TOK	παχυσαρκία	παχυσαρκία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[advp
+1\194	TOK	σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\201	TOK	αποτελεί	αποτελώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\210	TOK	ένα	ένας	NmCdNeSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\214	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\218	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+	SYN	[advp
+1\221	TOK	σπουδαιότερα	σπουδαίος	AdXxCp
+	SYN	/advp]
+1\234	TOK	διατροφικά	διατροφικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\245	TOK	προβλήματα	πρόβλημα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\256	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\260	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\264	TOK	προηγμένες	προηγμένος	VbMnPpXxXxPlFePePvAc
+	SYN	/adjp_ac]
+1\275	TOK	κοινωνίες	κοινωνία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\284	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\286	TOK	Σοβαρή	σοβαρός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\293	TOK	απειλή	απειλή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\300	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\304	TOK	την	ο	AtDfFeSgAc
+1\308	TOK	υγεία	υγεία	NoCmFeSgAc
+1\314	TOK	μας	μου	PnPoMa01PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+1\317	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\319	TOK	εχθρός	εχθρός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\326	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\330	TOK	αισθητικής	αισθητικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\341	TOK	του	ο	AtDfNeSgGe
+1\345	TOK	σώματος	σώμα	NoCmNeSgGe
+	SYN	/np_ge]
+1\352	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\354	TOK	η	ο	AtDfFeSgNm
+1\356	TOK	παχυσαρκία	παχυσαρκία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\367	TOK	αποτελεί	αποτελώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\376	TOK	ένα	ένας	AtIdNeSgAc
+1\380	TOK	πρόβλημα	πρόβλημα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\389	TOK	που	που	PnReNe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[np_nm
+1\393	TOK	η	ο	AtDfFeSgNm
+1\395	TOK	λύση	λύση	NoCmFeSgNm
+1\400	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\404	TOK	βρίσκεται	βρίσκω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\414	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\419	TOK	πρόληψη	πρόληψη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\426	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\428	TOK	Είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\434	TOK	προτιμότερο	προτιμότερος	AjCpNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[advp
+1\446	TOK	δηλαδή	δηλαδή	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\453	TOK	να	να	PtSj
+1\456	TOK	προσέχουμε	προσέχω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\467	TOK	για	για	AsPpSp
+1\471	TOK	να	να	PtSj
+1\474	TOK	μη	μην	PtNg
+1\477	TOK	γίνουμε	γίνομαι	VbMnIdXx01PlXxPePvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\485	TOK	παχύσαρκοι	παχύσαρκος	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\495	PUNCT	,	,	PUNCT
+1\497	TOK	παρά	παρά	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\502	TOK	να	να	PtSj
+1\505	TOK	προσπαθήσουμε	προσπαθώ	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\519	TOK	εκ	εκ	AsPpSp
+	SYN	[np_ge
+1\522	TOK	των	ο	AtDfNePlGe
+1\526	TOK	υστέρων	ύστερος	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\534	TOK	να	να	PtSj
+1\537	TOK	θεραπεύσουμε	θεραπεύω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\550	TOK	την	ο	AtDfFeSgAc
+1\554	TOK	κατάσταση	κατάσταση	NoCmFeSgAc
+1\564	TOK	αυτή	αυτός	PnDmFe03SgAcXx
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\568	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\571	TOK	Πού	πού	AdXxBa
+	SYN	[vg
+1\575	TOK	οφείλεται	οφείλω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\585	TOK	η	ο	AtDfFeSgNm
+1\587	TOK	παχυσαρκία	παχυσαρκία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\597	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\600	TOK	Για	για	AsPpSp
+	SYN	[np_ac
+1\604	TOK	την	ο	AtDfFeSgAc
+1\608	TOK	παχυσαρκία	παχυσαρκία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\619	TOK	μπορεί	μπορώ	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\626	TOK	να	να	PtSj
+1\629	TOK	ευθύνονται	ευθύνομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\640	TOK	διάφοροι	διάφορος	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\649	TOK	παράγοντες	παράγοντας	NoCmMaPlNm
+	SYN	/np_nm]
+1\659	PTERM_P	:	:	PTERM_P
+	SYN	[np_nm
+1\661	TOK	η	ο	AtDfFeSgNm
+1\663	TOK	κληρονομικότητα	κληρονομικότητα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\679	OPUNCT	(	(	OPUNCT
+	SYN	[vg
+1\680	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[cl_o
+	SYN	[vg_s
+1\687	TOK	να	να	PtSj
+1\690	TOK	υπάρχει	υπάρχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\698	TOK	ιστορικό	ιστορικός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\707	TOK	παχυσαρκίας	παχυσαρκία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[pp
+1\719	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\724	TOK	οικογένεια	οικογένεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\734	CPUNCT	)	)	CPUNCT
+1\735	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\737	TOK	ο	ο	AtDfMaSgNm
+1\739	TOK	τρόπος	τρόπος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\746	TOK	ζωής	ζωή	NoCmFeSgGe
+	SYN	/np_ge]
+1\751	OPUNCT	(	(	OPUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\752	TOK	η	ο	AtDfFeSgNm
+1\754	TOK	οικογένεια	οικογένεια	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\765	TOK	δεν	δεν	PtNg
+1\769	TOK	τρέφεται	τρέφω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\778	TOK	σωστά	σωστά	AdXxBa
+	SYN	/advp]
+1\783	PUNCT	,	,	PUNCT
+	SYN	/cl]
+1\785	TOK	είτε	είτε	CjCo
+	SYN	[cl_g
+	SYN	[vg_g
+1\790	TOK	τρώγοντας	τρώω	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\800	TOK	ακατάλληλες	ακατάλληλος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\812	TOK	τροφές	τροφή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl_g]
+1\819	TOK	είτε	είτε	CjCo
+	SYN	[cl_g
+	SYN	[vg_g
+1\824	TOK	παίρνοντας	παίρνω	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\835	TOK	λίγα	λίγος	AjBaNePlAc
+1\840	TOK	και	και	CjCo
+1\844	TOK	μεγάλα	μεγάλος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\851	TOK	γεύματα	γεύμα	NoCmNePlAc
+	SYN	/np_ac]
+1\858	CPUNCT	)	)	CPUNCT
+1\859	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\861	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\863	TOK	μειωμένη	μειωμένος	VbMnPpXxXxSgFePePvNm
+1\872	TOK	φυσική	φυσικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\879	TOK	δραστηριότητα	δραστηριότητα	NoCmFeSgNm
+	SYN	/np_nm]
+1\892	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\894	TOK	η	ο	AtDfFeSgNm
+1\896	TOK	λήψη	λήψη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\901	TOK	φαρμάκων	φάρμακο	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/cl_g]
+1\910	TOK	ή	ή	CjCo
+1\911	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\913	TOK	τέλος	τέλος	NoCmNeSgAc
+	SYN	/np_ac]
+1\918	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\920	TOK	ψυχολογικοί	ψυχολογικός	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\932	TOK	παράγοντες	παράγοντας	NoCmMaPlNm
+	SYN	/np_nm]
+1\943	OPUNCT	(	(	OPUNCT
+	SYN	[np_nm
+1\944	TOK	άγχος	άγχος	NoCmNeSgNm
+	SYN	/np_nm]
+1\949	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\951	TOK	κατάθλιψη	κατάθλιψη	NoCmFeSgAc
+	SYN	/np_ac]
+1\960	CPUNCT	)	)	CPUNCT
+1\961	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\964	TOK	Θεραπεία	θεραπεία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\973	TOK	της	ο	AtDfFeSgGe
+1\977	TOK	παχυσαρκίας	παχυσαρκία	NoCmFeSgGe
+	SYN	/np_ge]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\990	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\993	TOK	βασικό	βασικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1000	TOK	μέσο	μέσος	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\1005	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\1009	TOK	την	ο	AtDfFeSgAc
+1\1013	TOK	αντιμετώπιση	αντιμετώπιση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1026	TOK	της	ο	AtDfFeSgGe
+1\1030	TOK	παχυσαρκίας	παχυσαρκία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[vg
+1\1042	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1048	TOK	μια	ένας	AtIdFeSgNm
+1\1052	TOK	υγιεινή	υγιεινός	NoCmFeSgNm
+1\1060	TOK	δίαιτα	δίαιτα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1067	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1071	TOK	θα	θα	PtFu
+1\1074	TOK	βοηθήσει	βοηθώ	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1083	TOK	το	ο	AtDfNeSgAc
+1\1086	TOK	άτομο	άτομο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1092	TOK	να	να	PtSj
+1\1095	TOK	μειώσει	μειώνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\1103	TOK	το	ο	AtDfNeSgAc
+1\1106	TOK	βάρος	βάρος	NoCmNeSgAc
+1\1112	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\1116	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\1120	TOK	να	να	PtSj
+	SYN	[np_ac
+1\1123	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+1\1126	TOK	διατηρήσει	διατηρώ	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\1137	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1140	TOK	φυσιολογικά	φυσιολογικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1152	TOK	επίπεδα	επίπεδο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\1159	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+	SYN	[np_nm
+1\1161	TOK	Αυτό	αυτός	PnDmNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg_s
+1\1166	TOK	να	να	PtSj
+1\1169	TOK	συνδυάζεται	συνδυάζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\1181	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1184	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\1188	TOK	κατάλληλη	κατάλληλος	AjBaFeSgAc
+1\1198	TOK	σωματική	σωματικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\1207	TOK	άσκηση	άσκηση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\1213	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1215	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1219	TOK	μειώνει	μειώνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1227	TOK	το	ο	AtDfNeSgAc
+1\1230	TOK	λίπος	λίπος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\1236	TOK	και	και	CjCo
+	SYN	[cl_r
+	SYN	[vg
+1\1240	TOK	βελτιώνει	βελτιώνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1250	TOK	τη	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\1253	TOK	φυσική	φυσικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\1260	TOK	κατάσταση	κατάσταση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1270	TOK	του	ο	AtDfMaSgGe
+1\1274	TOK	οργανισμού	οργανισμός	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/cl_r]
+1\1284	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1286	TOK	Θα	θα	PtFu
+1\1289	TOK	πρέπει	πρέπει	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1296	TOK	τέλος	τέλος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1302	TOK	να	να	PtSj
+1\1305	TOK	τονίσουμε	τονίζω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+	SYN	[cl_o
+1\1315	TOK	ότι	ότι	CjSb
+	SYN	[np_nm
+1\1319	TOK	τα	ο	AtDfNePlNm
+1\1322	TOK	φάρμακα	φάρμακο	NoCmNePlNm
+	SYN	/np_nm]
+1\1330	TOK	και	και	CjCo
+	SYN	[np_nm
+1\1334	TOK	οι	ο	AtDfFePlNm
+	SYN	[adjp_nm
+1\1337	TOK	χειρουργικές	χειρουργικός	AjBaFePlNm
+	SYN	/adjp_nm]
+1\1350	TOK	μέθοδοι	μέθοδος	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\1358	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\1362	TOK	τη	ο	AtDfFeSgAc
+1\1365	TOK	μείωση	μείωση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1372	TOK	του	ο	AtDfNeSgGe
+1\1376	TOK	βάρους	βάρος	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[vg
+1\1383	TOK	αποτελούν	αποτελώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1393	TOK	λύση	λύση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[advp
+1\1398	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+	SYN	[cl_t
+1\1403	TOK	όταν	όταν	CjSb
+	SYN	[np_nm
+1\1408	TOK	η	ο	AtDfFeSgNm
+1\1410	TOK	δίαιτα	δίαιτα	NoCmFeSgNm
+	SYN	/np_nm]
+1\1417	TOK	και	και	CjCo
+	SYN	[np_nm
+1\1421	TOK	η	ο	AtDfFeSgNm
+1\1423	TOK	γυμναστική	γυμναστικός	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1434	TOK	δεν	δεν	PtNg
+1\1438	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1444	TOK	αποτέλεσμα	αποτέλεσμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_t]
+1\1454	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

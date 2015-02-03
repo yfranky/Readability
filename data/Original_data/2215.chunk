@@ -1,0 +1,354 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Γκρέγκορ	Γκρέγκορ	NoPrMaSgNm
+	SYN	/np_nm]
+1\10	TOK	Μέντελ	Μέντελ	RgFwTr
+1\17	OPUNCT	(	(	OPUNCT
+1\18	DIG	1822-1884	1822-1884	DIG
+1\27	CPUNCT	)	)	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\30	TOK	Το	ο	AtDfNeSgAc
+1\33	DIG	1866	1866	DIG
+	SYN	/np_ac]
+	SYN	[np_nm
+1\38	TOK	ο	ο	AtDfMaSgNm
+1\40	TOK	Γκρέγκορ	Γκρέγκορ	NoPrMaSgNm
+1\49	TOK	Μέντελ	Μέντελ	NoPrMaSgNm
+	SYN	/np_nm]
+1\55	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\57	TOK	ένας	ένας	AtIdMaSgNm
+	SYN	[adjp_nm
+1\62	TOK	μοναχός	μονάχος	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\70	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\74	TOK	την	ο	AtDfFeSgAc
+1\78	TOK	Τσεχία	Τσεχία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\84	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\86	TOK	ανακάλυψε	ανακαλύπτω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\96	TOK	τους	ο	AtDfMaPlAc
+1\101	TOK	νόμους	νόμος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\108	TOK	της	ο	AtDfFeSgGe
+1\112	TOK	κληρονομικότητας	κληρονομικότητα	NoCmFeSgGe
+	SYN	/np_ge]
+1\128	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\130	TOK	δηλαδή	δηλαδή	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\137	TOK	τον	ο	AtDfMaSgAc
+1\141	TOK	τρόπο	τρόπος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pp
+1\147	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\150	TOK	τον	ο	AtDfMaSgAc
+1\154	TOK	οποίο	οποίος	PnReMa03SgAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\160	TOK	μεταβιβάζεται	μεταβιβάζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\174	TOK	κάποια	κάποιος	PnIdFe03SgNmXx
+1\181	TOK	ιδιότητα	ιδιότητα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\190	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\194	TOK	τους	ο	AtDfMaPlAc
+1\199	TOK	γονείς	γονέας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\206	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+1\212	TOK	απογόνους	απόγονος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\221	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\223	TOK	Με	με	AsPpSp
+	SYN	[np_ac
+1\226	TOK	τα	ο	AtDfNePlAc
+1\229	TOK	πειράματα	πείραμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\239	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\243	TOK	μοσχομπίζελα	μοσχομπίζελο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\255	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\257	TOK	ο	ο	AtDfMaSgNm
+1\259	TOK	Μέντελ	Μέντελ	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\266	TOK	απέδειξε	αποδεικνύω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\275	TOK	ότι	ότι	CjSb
+	SYN	[np_nm
+1\279	TOK	οι	ο	AtDfMaPlNm
+1\282	TOK	γονείς	γονέας	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\289	TOK	μεταδίδουν	μεταδίδω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\300	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+1\306	TOK	απογόνους	απόγονος	NoCmMaPlAc
+1\316	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\321	TOK	κάποια	κάποιος	PnIdNe03PlAcXx
+1\328	TOK	χαρακτηριστικά	χαρακτηριστικό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\342	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\344	TOK	Για	για	AsPpSp
+	SYN	[np_ac
+1\348	TOK	κάθε	κάθε	PnIdNe03SgAcXx
+1\353	TOK	χαρακτηριστικό	χαρακτηριστικός	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\368	TOK	υπάρχει	υπάρχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\376	TOK	ένα	ένας	AtIdNeSgNm
+1\380	TOK	ζεύγος	ζεύγος	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\387	TOK	γονίδιων	γονίδιο	NoCmNePlGe
+	SYN	/np_ge]
+1\395	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\397	TOK	ένα	ένας	NmCdNeSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\401	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\405	TOK	τον	ο	AtDfMaSgAc
+1\409	TOK	πατέρα	πατέρας	NoCmMaSgAc
+	SYN	/np_ac]
+1\416	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\420	TOK	ένα	ένας	NmCdNeSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\424	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\428	TOK	τη	ο	AtDfFeSgAc
+1\431	TOK	μητέρα	μητέρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\437	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\439	TOK	Αυτό	αυτός	PnDmNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\444	TOK	σημαίνει	σημαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\453	TOK	ότι	ότι	CjSb
+	SYN	[np_nm
+1\457	TOK	καθένας	καθένας	PnIdMa03SgNmXx
+	SYN	/np_nm]
+1\465	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\469	TOK	εσάς	εγώ	PnPeMa02PlAcSt
+	SYN	/np_ac]
+	SYN	[vg
+1\474	TOK	παίρνει	παίρνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\482	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\485	TOK	μισά	μισός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\490	TOK	χαρακτηριστικά	χαρακτηριστικό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\505	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\509	TOK	τον	ο	AtDfMaSgAc
+1\513	TOK	πατέρα	πατέρας	NoCmMaSgAc
+1\520	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+1\524	TOK	και	και	CjCo
+	SYN	[np_ac
+1\528	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\531	TOK	μισά	μισός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\536	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\540	TOK	τη	ο	AtDfFeSgAc
+1\543	TOK	μητέρα	μητέρα	NoCmFeSgAc
+1\550	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\553	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\555	TOK	Το	ο	AtDfNeSgNm
+1\558	TOK	γεγονός	γεγονός	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[cl_o
+1\566	TOK	ότι	ότι	CjSb
+	SYN	[vg
+1\570	TOK	εξαφανίζονται	εξαφανίζω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+1\584	TOK	σ’	σε	AsPpSp
+	SYN	[np_ac
+1\587	TOK	εσάς	εγώ	PnPeMa02PlAcSt
+	SYN	/np_ac]
+	SYN	[np_ac
+1\592	TOK	τα	ο	AtDfNePlAc
+1\595	TOK	χαρακτηριστικά	χαρακτηριστικό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\610	TOK	του	ο	AtDfMaSgGe
+1\614	TOK	ενός	ένας	PnIdMa03SgGeXx
+1\619	TOK	γονέα	γονέας	NoCmMaSgGe
+	SYN	/np_ge]
+1\625	OPUNCT	(	(	OPUNCT
+1\626	NBABBR	π.χ.	π.χ.	NBABBR
+	SYN	[np_ac
+1\631	TOK	το	ο	AtDfNeSgAc
+1\634	TOK	χρώμα	χρώμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\640	TOK	των	ο	AtDfNePlGe
+1\644	TOK	ματιών	μάτι	NoCmNePlGe
+	SYN	/np_ge]
+1\650	CPUNCT	)	)	CPUNCT
+	SYN	/cl_o]
+1\652	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg
+1\656	TOK	επανεμφανίζονται	επανεμφανίζω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\673	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\677	TOK	παιδιά	παιδί	NoCmNePlAc
+1\684	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\688	TOK	σημαίνει	σημαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_o]
+	SYN	[cl_o
+1\697	TOK	πως	πως	CjSb
+	SYN	[vg
+1\701	TOK	δε	δεν	PtNg
+1\704	TOK	χάθηκαν	χάνω	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	/cl_o]
+1\711	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\713	TOK	απλώς	απλά	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\719	TOK	επικαλύφθηκαν	επικαλύπτω	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[advp
+1\733	TOK	προσωρινά	προσωρινά	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\742	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\744	TOK	δεν	δεν	PtNg
+1\748	TOK	εκφράστηκαν	εκφράζω	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\760	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\764	TOK	δικό	δικός	AjBaNeSgAc
+1\769	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/adjp_ac]
+1\773	TOK	οργανισμό	οργανισμός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\782	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\784	TOK	Διατηρείται	διατηρώ	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+1\796	TOK	όμως	όμως	CjCo
+	SYN	[np_nm
+1\801	TOK	η	ο	AtDfFeSgNm
+1\803	TOK	πιθανότητα	πιθανότητα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\814	TOK	να	να	PtSj
+1\817	TOK	παρουσιαστούν	παρουσιάζω	VbMnIdXx03PlXxPePvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\831	TOK	αργότερα	αργά	AdXxCp
+	SYN	/advp]
+	SYN	[pp
+1\840	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\843	TOK	κάποιον	κάποιος	PnIdMa03SgAcXx
+1\851	TOK	απόγονό	απόγονος	NoCmMaSgAc
+1\859	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\862	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

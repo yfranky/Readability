@@ -1,0 +1,36 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\2	TOK	Τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\5	TOK	θέλετε	θέλω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\11	PUNCT	,	,	PUNCT
+	SYN	[cl_q
+	SYN	[vg
+1\13	TOK	παρακαλώ	παρακαλώ	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\21	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\24	ENUM	-	-	ENUM
+	SYN	[vg
+1\25	TOK	Θέλω	θέλω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\30	TOK	να	να	PtSj
+1\33	TOK	αγοράσω	αγοράζω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\41	TOK	λουλούδια	λουλούδι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\50	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,86 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ποια	ποιος	Pn	PnIr	Fe|03|Sg|Nm|Xx	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	αυτή	αυτός	Pn	PnDm	Fe|03|Sg|Nm|Xx	3	Pnom	_	_	
+5	με	με	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	τον	ο	At	AtDf	Ma|Sg|Ac	7	Det	_	_	
+7	Δημήτρη	Δημήτρης	No	NoPr	Ma|Sg|Ac	5	Atr	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	ξέρεις	ξέρω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	ξαδέρφη	ξαδέρφη	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	2	Pos	_	_	
+4	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+5	τον	ο	At	AtDf	Ma|Sg|Ac	6	Det	_	_	
+6	Καναδά	Καναδάς	No	NoPr	Ma|Sg|Ac	4	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+3	κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	εδώ	εδώ	Ad	Ad	Ba	3	Adv	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Διακοπές	διακοπή	No	NoPr	Fe|Pl|Nm	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πώς	πώς	Ad	Ad	Ba	4	Adv	_	_	
+3	τη	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	4	Obj	_	_	
+4	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Ελένη	Ελένη	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Και	και	Cj	CjCo	_	4	AuxY	_	_	
+3	πού	πού	Ad	Ad	Ba	4	Adv	_	_	
+4	μένει	μένω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	τώρα	τώρα	Ad	Ad	Ba	4	Adv	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Με	με	AsPp	AsPpSp	_	0	AuxP	_	_	
+3	τον	ο	At	AtDf	Ma|Sg|Ac	4	Det	_	_	
+4	Δημήτρη	Δημήτρης	No	NoPr	Ma|Sg|Ac	5	Adv_Co	_	_	
+5	και	και	Cj	CjCo	_	2	Coord	_	_	
+6	τη	ο	At	AtDf	Fe|Sg|Ac	7	Det	_	_	
+7	Χριστίνα	Χριστίνα	No	NoPr	Fe|Sg|Ac	5	Adv_Co	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ξέρεις	ξέρω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	τηλέφωνό	τηλέφωνο	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+5	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	4	Pos	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	ExD	_	_	
+2	Το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+3	τηλέφωνό	τηλέφωνο	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+4	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	3	Pos	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γιατί	γιατί	Ad	Ad	Ba	0	ExD	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Εεε	Εεε	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+3	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	2	AuxP	_	_	
+4	τραπέζι	τραπέζι	No	NoCm	Ne|Sg|Ac	3	Adv	_	_	
+5	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	4	Pos	_	_	
+6	τώρα	τώρα	Ad	Ad	Ba	2	Adv	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

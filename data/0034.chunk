@@ -1,0 +1,66 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Η	ο	AtDfFeSgNm
+1\3	TOK	Μελέκ	Μελέκ	NoPrFeSgNm
+	SYN	/np_nm]
+1\9	TOK	και	και	CjCo
+	SYN	[np_nm
+1\13	TOK	ο	ο	AtDfMaSgNm
+1\15	TOK	Αχμέτ	Αχμέτ	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\21	TOK	πάνε	πηγαίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\26	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\29	TOK	τη	ο	AtDfFeSgAc
+1\32	TOK	μαμά	μαμά	NoCmFeSgAc
+1\37	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+1\42	TOK	και	και	CjCo
+	SYN	[np_ac
+1\46	TOK	τον	ο	AtDfMaSgAc
+1\50	TOK	μπαμπά	μπαμπάς	NoCmMaSgAc
+1\57	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\62	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\67	TOK	χασάπη	χασάπης	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\73	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\76	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\77	TOK	Τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\80	TOK	θέλετε	θέλω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\86	PUNCT	,	,	PUNCT
+	SYN	[cl_q
+	SYN	[vg
+1\88	TOK	παρακαλώ	παρακαλώ	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\96	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\99	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\100	TOK	Ένα	ένας	AtIdNeSgNm
+	SYN	[adjp_nm
+1\104	TOK	μεγάλο	μεγάλος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\111	TOK	κοτόπουλο	κοτόπουλο	NoCmNeSgNm
+	SYN	/np_nm]
+1\120	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,58 @@
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	Συζυγικοί	συζυγικός	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\11	TOK	καβγάδες	καβγάς	NoCmMaPlNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\21	TOK	Η	ο	AtDfFeSgNm
+1\23	TOK	κυρία	κυρία	NoCmFeSgNm
+1\29	TOK	χάμστερ	χάμστερ	RgFwTr
+	SYN	/np_nm]
+	SYN	[vg
+1\37	TOK	κυνηγά	κυνηγώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\44	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\48	TOK	χτυπά	χτυπώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\54	TOK	τον	ο	AtDfMaSgAc
+	SYN	[adjp_ac
+1\58	TOK	κύριο	κύριος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\64	TOK	χάμστερ	χάμστερ	RgFwTr
+	SYN	/np_ac]
+	SYN	/cl]
+1\71	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\73	TOK	Θέλει	θέλω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\79	TOK	να	να	PtSj
+	SYN	[np_ac
+1\82	TOK	την	εγώ	PnPeFe03SgAcWe
+	SYN	/np_ac]
+1\86	TOK	αφήσει	αφήνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\93	TOK	μόνη	μόνος	AjBaFeSgNm
+1\98	TOK	και	και	CjCo
+1\102	TOK	ήσυχη	ήσυχος	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\107	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

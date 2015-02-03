@@ -1,0 +1,267 @@
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	Λαογραφικό	λαογραφικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\12	TOK	Μουσείο	μουσείο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\20	TOK	Ξάνθης	Ξάνθη	NoPrFeSgGe
+	SYN	/np_ge]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\28	TOK	Στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\33	TOK	παλιά	παλιός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\39	TOK	πόλη	πόλη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\44	TOK	της	ο	AtDfFeSgGe
+1\48	TOK	Ξάνθης	Ξάνθη	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[vg
+1\55	TOK	στεγάζεται	στεγάζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\66	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\69	TOK	Λαογραφικό	λαογραφικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\80	TOK	Μουσείο	μουσείο	NoCmNeSgNm
+	SYN	/np_nm]
+1\87	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[advp
+1\89	TOK	όπου	όπου	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\94	TOK	ταξιδεύει	ταξιδεύω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\104	TOK	κανείς	κανένας	PnIdMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[pp
+1\111	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\114	TOK	παλιότερες	παλιός	AjCpFePlAc
+	SYN	/adjp_ac]
+1\125	TOK	εποχές	εποχή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\131	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\133	TOK	Η	ο	AtDfFeSgNm
+1\135	TOK	λατέρνα	λατέρνα	NoCmFeSgNm
+	SYN	/np_nm]
+1\142	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\144	TOK	το	ο	AtDfNeSgNm
+1\147	TOK	γραμμόφωνο	γραμμόφωνο	NoCmNeSgNm
+	SYN	/np_nm]
+1\157	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\159	TOK	τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\162	TOK	χρωματιστά	χρωματιστός	AjBaNePlNm
+1\173	TOK	υφαντά	υφαντός	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\180	TOK	και	και	CjCo
+	SYN	[np_ac
+1\184	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\187	TOK	ωραία	ωραίος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\193	TOK	κεντήματα	κέντημα	NoCmNePlAc
+	SYN	/np_ac]
+1\202	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\204	TOK	τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\207	TOK	χάλκινα	χάλκινος	AjBaNePlNm
+1\215	TOK	οικιακά	οικιακός	AjBaNePlNm
+	SYN	/adjp_nm]
+1\223	TOK	σκεύη	σκεύος	NoCmNePlNm
+	SYN	/np_nm]
+1\228	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\230	TOK	τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\233	TOK	ακριβά	ακριβός	AjBaNePlNm
+	SYN	/adjp_nm]
+1\240	TOK	κοσμήματα	κόσμημα	NoCmNePlNm
+	SYN	/np_nm]
+1\249	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\251	TOK	τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\254	TOK	γεωργικά	γεωργικός	AjBaNePlNm
+	SYN	/adjp_nm]
+1\263	TOK	εργαλεία	εργαλείο	NoCmNePlNm
+	SYN	/np_nm]
+1\271	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\273	TOK	οι	ο	AtDfFePlNm
+	SYN	[adjp_nm
+1\276	TOK	θρακιώτικες	θρακιώτικος	AjBaFePlNm
+	SYN	/adjp_nm]
+1\288	TOK	στολές	στολή	NoCmFePlNm
+	SYN	/np_nm]
+1\295	TOK	και	και	CjCo
+	SYN	[np_ac
+1\299	TOK	άλλα	άλλος	PnIdNe03PlAcXx
+1\304	TOK	αντικείμενα	αντικείμενο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[vg
+1\316	TOK	βρίσκονται	βρίσκω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\327	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\333	TOK	δύο	δύο	NmCdMaPlAcAj
+	SYN	/adjp_ac]
+1\337	TOK	ορόφους	όροφος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\345	TOK	του	ο	AtDfNeSgGe
+1\349	TOK	Μουσείου	μουσείο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\357	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\359	TOK	Ένας	ένας	AtIdMaSgNm
+1\364	TOK	κόσμος	κόσμος	NoCmMaSgNm
+	SYN	[adjp_nm
+1\371	TOK	μαγικός	μαγικός	AjBaMaSgNm
+1\378	PUNCT	,	,	PUNCT
+1\380	TOK	τοποθετημένος	τοποθετημένος	VbMnPpXxXxSgMaPePvNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\394	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\397	TOK	θαυμάσιες	θαυμάσιος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\407	TOK	αίθουσες	αίθουσα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\416	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\419	TOK	ζωγραφισμένα	ζωγραφισμένος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\432	TOK	ταβάνια	ταβάνι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\439	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\441	TOK	μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\446	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\449	TOK	έναν	ένας	AtIdMaSgAc
+	SYN	[adjp_ac
+1\454	TOK	εντυπωσιακό	εντυπωσιακός	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\466	TOK	χώρο	χώρος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\470	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\472	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\476	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\481	TOK	παλιό	παλιός	AjBaNeSgAc
+1\487	TOK	θρακιώτικο	θρακιώτικος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\498	TOK	αρχοντικό	αρχοντικός	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+1\507	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\510	TOK	Λαογραφικό	λαογραφικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_nm
+1\521	TOK	μουσεία	μουσείο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\529	TOK	υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\538	TOK	επίσης	επίσης	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\545	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\550	TOK	Ορεστιάδα	Ορεστιάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\559	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\561	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\565	TOK	Σαμοθράκη	Σαμοθράκη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\574	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\576	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\580	TOK	Διδυμότειχο	Διδυμότειχο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\591	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\593	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\598	TOK	Κομοτηνή	Κομοτηνή	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\607	TOK	και	και	CjCo
+	SYN	[pp
+1\611	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\614	TOK	άλλες	άλλος	PnIdFe03PlAcXx
+1\620	TOK	περιοχές	περιοχή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\629	TOK	της	ο	AtDfFeSgGe
+1\633	TOK	Θράκης	Θράκη	NoPrFeSgGe
+	SYN	/np_ge]
+1\640	TOK	και	και	CjCo
+	SYN	[np_ge
+1\644	TOK	της	ο	AtDfFeSgGe
+1\648	TOK	Ελλάδας	Ελλάδα	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\655	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

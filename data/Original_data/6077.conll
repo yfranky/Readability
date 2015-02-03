@@ -1,0 +1,75 @@
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Σοφία	Σοφία	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+3	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	2	AuxP	_	_	
+4	Λονδίνο	Λονδίνο	No	NoPr	Ne|Sg|Ac	3	Atr	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κυριακή	Κυριακή	No	NoCm	Fe|Sg|Nm	2	Atr	_	_	
+2	πρωί	πρωί	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+3	φτάσαμε	φτάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Ac	6	Det	_	_	
+6	αεροπλάνο	αεροπλάνο	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+7	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	6	AuxP	_	_	
+8	Λονδίνο	Λονδίνο	No	NoPr	Ne|Sg|Ac	7	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+2	πρώτο	πρώτος	Nm	NmOd	Ne|Sg|Nm|Aj	3	Atr	_	_	
+3	πράγμα	πράγμα	No	NoCm	Ne|Sg|Nm	8	Sb	_	_	
+4	που	που	Pn	PnRe	Ne|03|Sg|Ac|Xx	5	Obj	_	_	
+5	είδαμε	βλέπω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Atr	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+7	Λονδίνο	Λονδίνο	No	NoPr	Ne|Sg|Ac	6	Adv	_	_	
+8	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+9	ένα	ένας	At	AtId	Ne|Sg|Ac	11	Det	_	_	
+10	τεράστιο	τεράστιος	Aj	Aj	Ba|Ne|Sg|Nm	11	Atr	_	_	
+11	fast	fast	Rg	RgFw	_	8	Pnom	_	_	
+12	food	food	Rg	RgFw	_	11	Atr	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πεινούσαμε	πεινώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+2	μετά	μετά	Ad	Ad	Ba	1	Adv	_	_	
+3	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	τόσες	τόσος	Pn	PnDm	Fe|03|Pl|Nm|Xx	5	Atr	_	_	
+5	ώρες	ώρα	No	NoCm	Fe|Pl|Nm	3	Adv	_	_	
+6	ταξίδι	ταξίδι	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	έτσι	έτσι	Ad	Ad	Ba	9	Adv	_	_	
+9	καθίσαμε	κάθομαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+10	σε	σε	AsPp	AsPpSp	_	9	AuxP	_	_	
+11	ένα	ένας	At	AtId	Ne|Sg|Ac	12	Det	_	_	
+12	τραπεζάκι	τραπεζάκι	No	NoCm	Ne|Sg|Ac	10	Adv	_	_	
+13	δίπλα	δίπλα	Ad	Ad	Ba	12	Adv	_	_	
+14	σε	σε	AsPp	AsPpSp	_	13	AuxP	_	_	
+15	μια	ένας	At	AtId	Fe|Sg|Ac	16	Det	_	_	
+16	παρέα	παρέα	No	NoCm	Fe|Sg|Ac	14	Adv	_	_	
+17	αγοριών	αγόρι	No	NoCm	Ne|Pl|Ge	18	Atr_Co	_	_	
+18	και	και	Cj	CjCo	_	16	Coord	_	_	
+19	κοριτσιών	κορίτσι	No	NoCm	Ne|Pl|Ge	18	Atr_Co	_	_	
+20	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πιάσαμε	πιάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	κουβέντα	κουβέντα	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ευτυχώς	ευτυχώς	Ad	Ad	Ba	3	Adv	_	_	
+2	που	που	Ad	Ad	Ba	3	Adv	_	_	
+3	ξέραμε	ξέρω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	λίγα	λίγος	Aj	Aj	Ba|Ne|Pl|Ac	5	Atr	_	_	
+5	αγγλικά	αγγλικός	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	3	AuxV	_	_	
+2	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+3	έλεγαν	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Nm	5	Det	_	_	
+5	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+6	για	για	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	τους	ο	At	AtDf	Ma|Pl|Ac	8	Det	_	_	
+8	Έλληνες	Έλληνας	No	NoPr	Ma|Pl|Nm	9	Atr_Co	_	_	
+9	και	και	Cj	CjCo	_	6	Coord	_	_	
+10	την	ο	At	AtDf	Fe|Sg|Ac	11	Det	_	_	
+11	Ελλάδα	Ελλάδα	No	NoPr	Fe|Sg|Ac	9	Atr_Co	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

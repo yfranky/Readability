@@ -1,0 +1,80 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\1	TOK	Στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\5	INIT	Ν.	Ν.	INIT
+1\8	TOK	Ασία	Ασία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\12	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\14	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+1\20	TOK	μουσώνες	μουσώνας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\29	OPUNCT	(	(	OPUNCT
+	SYN	[advp
+1\30	TOK	δηλαδή	δηλαδή	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\37	TOK	την	ο	AtDfFeSgAc
+1\41	TOK	περίοδο	περίοδος	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\49	TOK	που	που	PnReFe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\53	TOK	βρέχει	βρέχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\60	TOK	συνέχεια	συνέχεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\69	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\73	DIG	6	6	DIG
+1\75	TOK	μήνες	μήνας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\80	CPUNCT	)	)	CPUNCT
+1\81	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\83	TOK	τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\86	TOK	ποτάμια	ποτάμιος	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\94	TOK	ξεχειλίζουν	ξεχειλίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\106	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\110	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\116	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+1\121	TOK	συνηθισμένο	συνηθισμένος	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\133	TOK	να	να	PtSj
+1\136	TOK	πλημμυρίζουν	πλημμυρίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\149	TOK	τα	ο	AtDfNePlAc
+1\152	TOK	πάντα	πάν	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\157	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

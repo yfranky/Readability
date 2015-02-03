@@ -1,0 +1,388 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Βιβλία	βιβλίο	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\8	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\12	TOK	παιδιά	παιδί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\20	TOK	Σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\27	TOK	έχουμε	έχω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\34	TOK	τη	ο	AtDfFeSgAc
+1\37	TOK	δυνατότητα	δυνατότητα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\48	TOK	να	να	PtSj
+1\51	TOK	απολαμβάνουμε	απολαμβάνω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\65	TOK	χιλιάδες	χιλιάδα	NmCtFePlAcNo
+	SYN	/adjp_ac]
+1\74	TOK	βιβλία	βιβλίο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[np_ac
+1\81	TOK	τα	ο	AtDfNePlAc
+1\84	TOK	οποία	οποίος	PnReNe03PlAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\90	TOK	μπορούμε	μπορώ	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\99	TOK	να	να	PtSj
+1\102	TOK	βρούμε	βρίσκω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\109	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\113	TOK	ράφια	ράφι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\119	TOK	των	ο	AtDfNePlGe
+	SYN	[adjp_ge
+1\123	TOK	παιδικών	παιδικός	AjBaNePlGe
+	SYN	/adjp_ge]
+1\132	TOK	βιβλιοπωλείων	βιβλιοπωλείο	NoCmNePlGe
+	SYN	/np_ge]
+1\146	TOK	και	και	CjCo
+	SYN	[np_ge
+1\150	TOK	των	ο	AtDfFePlGe
+	SYN	[adjp_ge
+1\154	TOK	παιδικών	παιδικός	AjBaFePlGe
+	SYN	/adjp_ge]
+1\163	TOK	βιβλιοθηκών	βιβλιοθήκη	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_o]
+1\174	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\176	TOK	Για	για	AsPpSp
+	SYN	[np_ac
+1\180	TOK	αιώνες	αιώνας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\186	PUNCT	,	,	PUNCT
+1\188	TOK	όμως	όμως	CjCo
+1\192	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\194	TOK	δεν	δεν	PtNg
+1\198	TOK	υπήρχαν	υπάρχω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\206	TOK	βιβλία	βιβλίο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\213	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\217	TOK	παιδιά	παιδί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\223	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\225	TOK	Τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\228	TOK	πρώτα	πρώτος	AjBaNePlNm
+	SYN	/adjp_nm]
+1\234	TOK	βιβλία	βιβλίο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\241	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\245	TOK	γράφτηκαν	γράφω	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\255	TOK	γι'	για	AsPpSp
+	SYN	[np_ac
+1\259	TOK	αυτά	αυτός	PnDmNe03PlAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	[vg
+1\264	TOK	ήταν	είμαι	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\269	TOK	σχολικά	σχολικός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\276	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\278	TOK	Βιβλία	βιβλίο	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\285	TOK	γραμματικής	γραμματικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+1\297	TOK	και	και	CjCo
+	SYN	[np_ge
+1\301	TOK	ορθογραφίας	ορθογραφία	NoCmFeSgGe
+	SYN	/np_ge]
+1\312	PUNCT	,	,	PUNCT
+1\314	TOK	καθώς	καθώς	AdXxBa
+1\320	TOK	και	και	CjCo
+	SYN	[np_ac
+1\324	TOK	βιβλία	βιβλίο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\331	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\334	TOK	αυστηρά	αυστηρός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\342	TOK	διηγήματα	διήγημα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\352	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\356	TOK	μιλούσαν	μιλώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\365	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\369	TOK	τη	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\372	TOK	σωστή	σωστός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\378	TOK	συμπεριφορά	συμπεριφορά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\389	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\391	TOK	Μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\396	TOK	εδώ	εδώ	AdXxBa
+	SYN	/advp]
+1\400	TOK	και	και	CjCo
+	SYN	[np_ac
+1\404	DIG	250	250	DIG
+1\408	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[advp
+1\415	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\423	TOK	δημιουργούνται	δημιουργώ	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\438	TOK	βιβλία	βιβλίο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\445	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\448	TOK	παραμύθια	παραμύθι	NoCmNePlAc
+	SYN	/np_ac]
+1\457	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\459	TOK	ποιήματα	ποίημα	NoCmNePlAc
+	SYN	/np_ac]
+1\467	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\469	TOK	ιστορίες	ιστορία	NoCmFePlAc
+	SYN	/np_ac]
+1\477	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\479	TOK	περιπέτειες	περιπέτεια	NoCmFePlAc
+	SYN	/np_ac]
+1\490	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\492	TOK	βιβλία	βιβλίο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\499	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\503	TOK	μιλούν	μιλώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\510	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\514	TOK	τα	ο	AtDfNePlAc
+1\517	TOK	ζώα	ζώο	NoCmNePlAc
+	SYN	/np_ac]
+1\520	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\522	TOK	τα	ο	AtDfNePlAc
+1\525	TOK	φυτά	φυτό	NoCmNePlAc
+	SYN	/np_ac]
+1\529	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\531	TOK	τους	ο	AtDfMaPlAc
+1\536	TOK	λαούς	λαός	NoCmMaPlAc
+	SYN	/np_ac]
+1\541	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\543	TOK	τους	ο	AtDfMaPlAc
+1\548	TOK	πλανήτες	πλανήτης	NoCmMaPlAc
+	SYN	/np_ac]
+1\557	TOK	και	και	CjCo
+	SYN	[np_ac
+1\561	TOK	τόσα	τόσος	PnDmNe03PlAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\566	TOK	άλλα	άλλος	PnIdNe03PlNmXx
+	SYN	/np_nm]
+1\570	PTERM_P	:	:	PTERM_P
+	SYN	[pp
+1\572	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\576	TOK	παράδειγμα	παράδειγμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\587	TOK	το	ο	AtDfNeSgAc
+1\590	TOK	βιβλίο	βιβλίο	NoCmNeSgAc
+	SYN	/np_ac]
+1\597	OPUNCT	«	«	OPUNCT
+	SYN	[np_nm
+1\598	TOK	Η	ο	AtDfFeSgNm
+1\600	TOK	Αλίκη	Αλίκη	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\606	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\610	TOK	χώρα	χώρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\615	TOK	των	ο	AtDfNePlGe
+1\619	TOK	θαυμάτων	θαύμα	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\627	CPUNCT	»	»	CPUNCT
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\629	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\635	TOK	μια	ένας	AtIdFeSgNm
+1\639	TOK	ιστορία	ιστορία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\647	TOK	που	που	PnReFe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\651	TOK	αφηγήθηκε	αφηγούμαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\661	TOK	ο	ο	AtDfMaSgNm
+1\663	TOK	Λιούις	Λιούις	NoPrMaSgNm
+1\670	TOK	Κάρολ	Κάρολ	NoPrMaSgNm
+	SYN	/np_nm]
+1\676	OPUNCT	(	(	OPUNCT
+1\677	DIG	1832-1898	1832-1898	DIG
+1\686	CPUNCT	)	)	CPUNCT
+	SYN	[pp
+1\688	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\691	TOK	παιδιά	παιδί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\698	TOK	κατά	κατά	AsPpSp
+	SYN	[np_ac
+1\703	TOK	τη	ο	AtDfFeSgAc
+1\706	TOK	διάρκεια	διάρκεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\715	TOK	μιας	ένας	AtIdFeSgGe
+1\720	TOK	εκδρομής	εκδρομή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\728	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\730	TOK	Από	από	AsPpSp
+	SYN	[advp
+1\734	TOK	τότε	τότε	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	[vg
+1\739	TOK	έγινε	γίνομαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\745	TOK	βιβλίο	βιβλίο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\752	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\756	TOK	κατέκτησε	κατακτώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\766	TOK	όλο	όλος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\770	TOK	τον	ο	AtDfMaSgAc
+1\774	TOK	κόσμο	κόσμος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\779	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\781	TOK	αφού	αφού	CjSb
+	SYN	[vg
+1\786	TOK	μεταφράστηκε	μεταφράζω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[advp
+1\799	TOK	ακόμη	ακόμα	AdXxBa
+	SYN	/advp]
+1\805	TOK	και	και	CjCo
+	SYN	[pp
+1\809	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\814	TOK	γλώσσες	γλώσσα	NoCmFePlAc
+1\822	TOK	Εσπεράντο	εσπεράντο	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\832	TOK	και	και	CjCo
+	SYN	[np_nm
+1\836	TOK	Σουαχίλι	Σουαχίλι	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\844	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

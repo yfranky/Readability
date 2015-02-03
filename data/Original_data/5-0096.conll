@@ -1,0 +1,30 @@
+1	Φιλόλογος	φιλόλογος	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+2	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	πολυετή	πολυετής	Aj	Aj	Ba|Fe|Sg|Ac	4	Atr	_	_	
+4	πείρα	πείρα	No	NoCm	Fe|Sg|Ac	2	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	παραδίδει	παραδίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Atr	_	_	
+7	ιδιαίτερα	ιδιαίτερα	Ad	Ad	Ba	6	Adv	_	_	
+8	μαθήματα	μάθημα	No	NoCm	Ne|Pl|Ac	6	Obj	_	_	
+9	σε	σε	AsPp	AsPpSp	_	6	AuxP	_	_	
+10	μαθητές	μαθητής	No	NoCm	Ma|Pl|Ac	9	Adv	_	_	
+11	Γυμνασίου-Λυκείου	Γυμνασίου-Λυκείου	No	NoPr	Ma|Sg|Nm	10	Atr	_	_	
+12	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+13	ομαδικά	ομαδικά	Ad	Ad	Ba	14	Adv_Co	_	_	
+14	ή	ή	Cj	CjCo	_	6	Coord	_	_	
+15	ατομικά	ατομικά	Ad	Ad	Ba	14	Adv_Co	_	_	
+16	,	,	PUNCT	PUNCT	_	14	AuxX	_	_	
+17	τιμές	τιμή	No	NoCm	Fe|Pl|Nm	14	Sb_Co	_	_	
+18	λογικές	λογική	No	NoCm	Fe|Pl|Nm	17	Atr	_	_	
+19	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Χαλάνδρι	Χαλάνδρι	No	NoPr	Ne|Sg|Ac	5	Atr	_	_	
+2	–	–	PUNCT	PUNCT	_	5	AuxG	_	_	
+3	Χολαργός	Χολαργός	No	NoPr	Ma|Sg|Nm	5	Atr	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	τηλ.	τηλ.	ABBR	ABBR	_	0	ExD	_	_	
+6	:	:	PTERM_P	PTERM_P	_	5	AuxG	_	_	
+7	270	270	DIG	DIG	_	5	Atr	_	_	
+8	661	661	DIG	DIG	_	7	Atr	_	_	
+9	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

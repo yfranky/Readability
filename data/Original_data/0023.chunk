@@ -1,0 +1,31 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1	TOK	Έχω	έχω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\5	TOK	ένα	ένας	AtIdNeSgAc
+1\9	TOK	καπέλο	καπέλο	NoCmNeSgAc
+	SYN	[adjp_ac
+1\16	TOK	μπλε	μπλε	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\20	PUNCT	,	,	PUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\23	TOK	ένα	ένας	AtIdMaSgAc
+1\27	TOK	καφέ	καφές	NoCmMaSgAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+1\33	TOK	και	και	CjCo
+	SYN	[np_ac
+1\37	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\41	TOK	ριγέ	ριγέ	AjBaMaPlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\45	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,42 @@
+1	Xρηματιστηριακή	χρηματιστηριακός	Aj	Aj	Ba|Fe|Sg|Nm	2	Atr	_	_	
+2	εταιρεία	εταιρεία	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	ζητεί	ζητώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	δύο	δύο	Nm	NmCd	Ne|Pl|Ac|Aj	3	Obj	_	_	
+5	executive	executive	Rg	RgFw	_	4	Adv	_	_	
+6	assistants	assistants	Rg	RgFw	_	5	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Απαραίτητα	απαραίτητος	Aj	Aj	Ba|Ne|Pl|Nm	2	Atr	_	_	
+2	προσόντα	προσόν	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+3	:	:	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+4	πολύ	πολύ	Ad	Ad	Ba	5	Adv	_	_	
+5	καλός	καλός	Aj	Aj	Ba|Ma|Sg|Nm	6	Atr	_	_	
+6	χειρισμός	χειρισμός	No	NoCm	Ma|Sg|Nm	2	Atr	_	_	
+7	της	ο	At	AtDf	Fe|Sg|Ge	8	Det	_	_	
+8	ελληνικής	ελληνικός	Aj	Aj	Ba|Fe|Sg|Ge	9	Atr_Co	_	_	
+9	και	και	Cj	CjCo	_	6	Coord	_	_	
+10	της	ο	At	AtDf	Fe|Sg|Ge	12	Det	_	_	
+11	αγγλικής	αγγλικός	Aj	Aj	Ba|Fe|Sg|Ge	12	Atr	_	_	
+12	γλώσσας	γλώσσα	No	NoCm	Fe|Sg|Ge	9	Atr_Co	_	_	
+13	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+14	άριστη	άριστος	Aj	Aj	Su|Fe|Sg|Ac	15	Atr	_	_	
+15	γνώση	γνώση	No	NoCm	Fe|Sg|Ac	6	Atr	_	_	
+16	Office	Office	Rg	RgFw	_	15	Atr	_	_	
+17	Microsoft	Microsoft	Rg	RgFw	_	18	Atr_Co	_	_	
+18	ή	ή	Cj	CjCo	_	16	Coord	_	_	
+19	internet	internet	Rg	RgFw	_	18	Atr_Co	_	_	
+20	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+2	επικοινωνία	επικοινωνία	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+3	απευθυνθείτε	απευθύνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	:	:	PTERM_P	PTERM_P	_	3	AuxG	_	_	
+5	τηλ.	τηλ.	ABBR	ABBR	_	3	Adv	_	_	
+6	210	210	DIG	DIG	_	7	Atr	_	_	
+7	632	632	DIG	DIG	_	5	Atr	_	_	
+8	...	...	PTERM_P	PTERM_P	_	5	AuxG	_	_	
+9	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+10	e-mail	e-mail	Rg	RgFw	_	3	AuxK	_	_	
+11	:	:	PTERM_P	PTERM_P	_	10	AuxG	_	_	
+12	mstan@otenet.gr	mstan@otenet.gr	Rg	RgFw	_	3	AuxK	_	_	
+

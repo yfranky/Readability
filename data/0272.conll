@@ -1,0 +1,35 @@
+1	ΧΑΘΗΚΕ	χάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	13	Atr	_	_	
+2	Κόλεϊ	Κόλεϊ	Rg	RgFw	_	13	AuxG	_	_	
+3	(	(	OPUNCT	OPUNCT	_	5	AuxG	_	_	
+4	μεγάλης	μεγάλος	Aj	Aj	Ba|Fe|Sg|Ge	5	Atr	_	_	
+5	ηλικίας	ηλικία	No	NoCm	Fe|Sg|Ge	13	Adv_Pa	_	_	
+6	)	)	CPUNCT	CPUNCT	_	5	AuxG	_	_	
+7	αρσενικό	αρσενικός	Aj	Aj	Ba|Ma|Sg|Ac	10	Atr_Co	_	_	
+8	,	,	PUNCT	PUNCT	_	10	AuxX	_	_	
+9	μακρύτριχο	μακρύτριχο	Aj	Aj	Ba|Ne|Sg|Ac	10	Atr_Co	_	_	
+10	,	,	PUNCT	PUNCT	_	5	Coord	_	_	
+11	καφέ-μπεζ-λευκό	καφέ-μπεζ-λευκό	Aj	Aj	Ba|Ne|Sg|Ac	10	Atr_Co	_	_	
+12	,	,	PUNCT	PUNCT	_	13	AuxX	_	_	
+13	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	0	AuxP	_	_	
+14	14	14	DIG	DIG	_	21	AuxG	_	_	
+15	/	/	PUNCT	PUNCT	_	21	AuxG	_	_	
+16	11	11	DIG	DIG	_	21	AuxC	_	_	
+17	,	,	PUNCT	PUNCT	_	21	AuxX	_	_	
+18	περιοχή	περιοχή	No	NoCm	Fe|Sg|Ac	16	Adv	_	_	
+19	Υμηττού	Υμηττός	No	NoPr	Ma|Sg|Ge	18	Atr	_	_	
+20	,	,	PUNCT	PUNCT	_	21	AuxX	_	_	
+21	ακούει	ακούω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Atr	_	_	
+22	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	21	AuxP	_	_	
+23	όνομα	όνομα	No	NoCm	Ne|Sg|Ac	22	Adv	_	_	
+24	Ρούντι	Ρούντι	No	NoPr	Ne|Sg|Nm	23	Atr	_	_	
+25	,	,	PUNCT	PUNCT	_	21	AuxX	_	_	
+26	αμοιβή	αμοιβή	No	NoCm	Fe|Sg|Nm	21	Sb	_	_	
+27	200	200	DIG	DIG	_	28	Atr	_	_	
+28	ευρώ	ευρώ	No	NoCm	Ne|Sg|Ac	26	Atr	_	_	
+29	.	.	PTERM_P	PTERM_P	_	13	AuxK	_	_	
+
+1	Τηλ.	Τηλ.	ABBR	ABBR	_	0	ExD	_	_	
+2	210	210	DIG	DIG	_	1	Adv	_	_	
+3	7625442	7625442	DIG	DIG	_	2	Atr	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

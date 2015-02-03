@@ -1,0 +1,164 @@
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	2	Atr	_	_	
+2	ώρα	ώρα	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+3	ανοίγουν	ανοίγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	μαγαζιά	μαγαζί	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	Τρίτη	Τρίτη	Nm	NmOd	Fe|Sg|Nm|Aj	1	Pnom	_	_	
+3	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+4	δώδεκα	δώδεκα	Nm	NmCd	Ne|Pl|Nm|Aj	6	Atr	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Ac	6	Det	_	_	
+6	μεσημέρι	μεσημέρι	No	NoCm	Ne|Sg|Ac	8	Sb_Co	_	_	
+7	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+8	και	και	Cj	CjCo	_	1	Coord	_	_	
+9	ο	ο	At	AtDf	Ma|Sg|Nm	10	Det	_	_	
+10	Τζίμης	Τζίμης	No	NoPr	Ma|Sg|Nm	8	Sb_Co	_	_	
+11	θυμάται	θυμάμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	1	Pnom	_	_	
+12	ότι	ότι	Cj	CjSb	_	11	AuxC	_	_	
+13	θέλει	θέλω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	12	Obj	_	_	
+14	να	να	Pt	PtSj	_	15	AuxV	_	_	
+15	αγοράσει	αγοράζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	13	Obj	_	_	
+16	παπούτσια	παπούτσι	No	NoCm	Ne|Pl|Ac	15	Obj	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Δημήτρη	Δημήτρης	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Atr	_	_	
+5	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	4	AuxP	_	_	
+6	αγορά	αγορά	No	NoCm	Fe|Sg|Ac	5	Adv	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	αγοράσω	αγοράζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	παπούτσια	παπούτσι	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	4	Obj	_	_	
+3	όποτε	όποτε	Ad	Ad	Ba	2	Adv	_	_	
+4	θέλεις	θέλω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Atr	_	_	
+3	ώρα	ώρα	No	NoCm	Fe|Sg|Ac	4	Adv	_	_	
+4	ανοίγουν	ανοίγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+6	μαγαζιά	μαγαζί	No	NoCm	Ne|Pl|Ac	4	Obj	_	_	
+7	σήμερα	σήμερα	Ad	Ad	Ba	4	Adv	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ανοίγουν	ανοίγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	κατά	κατά	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	τις	ο	At	AtDf	Fe|Pl|Ac	5	Det	_	_	
+5	εννιά	εννέα	Nm	NmCd	Ma|Pl|Ac|Aj	3	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Obj_Co	_	_	
+2	Και	και	Cj	CjCo	_	0	Coord	_	_	
+3	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	4	Atr	_	_	
+4	ώρα	ώρα	No	NoCm	Fe|Sg|Ac	5	Obj	_	_	
+5	κλείνουν	κλείνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Κλείνουν	κλείνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+3	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	2	AuxP	_	_	
+4	δύο	δύο	Nm	NmCd	Ne|Pl|Ac|Aj	3	Adv	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Ac	6	Det	_	_	
+6	μεσημέρι	μεσημέρι	No	NoCm	Ne|Sg|Ac	4	Atr	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	ανοίγουν	ανοίγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+9	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	8	AuxP	_	_	
+10	πεντέμιση	πεντέμιση	No	NoCm	Fe|Sg|Ac	9	Adv	_	_	
+11	η	ο	At	AtDf	Fe|Sg|Nm	12	Det	_	_	
+12	ώρα	ώρα	No	NoCm	Fe|Sg|Nm	8	Sb	_	_	
+13	το	ο	At	AtDf	Ne|Sg|Ac	14	Det	_	_	
+14	απόγευμα	απόγευμα	No	NoCm	Ne|Sg|Ac	8	Obj	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+3	απόγευμα	απόγευμα	No	NoCm	Ne|Sg|Nm	6	Sb	_	_	
+4	ποιες	ποιος	Pn	PnIr	Fe|03|Pl|Nm|Xx	5	Atr	_	_	
+5	ώρες	ώρα	No	NoCm	Fe|Pl|Ac	3	Atr	_	_	
+6	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	ανοικτά	ανοιχτός	Aj	Aj	Ba|Ne|Pl|Nm	6	Pnom	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	ανοικτά	ανοικτά	Ad	Ad	Ba	2	Adv	_	_	
+4	από	από	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τις	ο	At	AtDf	Fe|Pl|Ac	6	Det	_	_	
+6	πεντέμιση	πεντέμιση	No	NoCm	Fe|Sg|Ac	4	Adv	_	_	
+7	μέχρι	μέχρι	AsPp	AsPpSp	_	2	AuxP	_	_	
+8	τις	ο	At	AtDf	Fe|Pl|Ac	7	ExD	_	_	
+9	οχτώ	οκτώ	Nm	NmCd	Ne|Pl|Ac|Aj	10	Atr_Co	_	_	
+10	και	και	Cj	CjCo	_	8	Coord	_	_	
+11	μισή	μισός	Aj	Aj	Ba|Fe|Sg|Ac	10	Atr_Co	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Νομίζω	νομίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	πως	πως	Cj	CjSb	_	1	AuxC	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	2	Obj	_	_	
+4	καλύτερα	καλά	Ad	Ad	Cp	3	Adv	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Pnom	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	απόγευμα	απόγευμα	No	NoCm	Ne|Sg|Ac	6	Obj	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	2	Obj	_	_	
+2	λες	λέγω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	και	και	Cj	CjCo	_	4	AuxY	_	_	
+4	συ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	2	Sb	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Γιατί	γιατί	Ad	Ad	Ba	6	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	τώρα	τώρα	Ad	Ad	Ba	6	Adv	_	_	
+5	δεν	δεν	Pt	PtNg	_	6	AuxV	_	_	
+6	προλαβαίνουμε	προλαβαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	λίγο	λίγο	Ad	Ad	Ba	4	Adv	_	_	
+4	αργά	αργά	Ad	Ad	Ba	2	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Για	για	AsPp	AsPpSp	_	12	AuxP	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	1	Adv	_	_	
+4	από	από	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Ac	6	Det	_	_	
+6	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+7	μέχρι	μέχρι	AsPp	AsPpSp	_	3	AuxP	_	_	
+8	την	ο	At	AtDf	Fe|Sg|Ac	9	Det	_	_	
+9	αγορά	αγορά	No	NoCm	Fe|Sg|Ac	7	Adv	_	_	
+10	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	9	AuxP	_	_	
+11	κέντρο	κέντρο	No	NoCm	Ne|Sg|Ac	10	Atr	_	_	
+12	χρειαζόμαστε	χρειάζομαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+13	τουλάχιστον	τουλάχιστο	Ad	Ad	Ba	14	Adv	_	_	
+14	μια	ένας	At	AtId	Fe|Sg|Ac	15	Det	_	_	
+15	ώρα	ώρα	No	NoCm	Fe|Sg|Ac	12	Obj	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τότε	τότε	Ad	Ad	Ba	3	Adv	_	_	
+3	έχεις	έχω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	δίκιο	δίκιο	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	3	Det	_	_	
+3	απόγευμα	απόγευμα	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

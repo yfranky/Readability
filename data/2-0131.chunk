@@ -1,0 +1,180 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1	TOK	Αρχίσαμε	αρχίζω	VbMnIdPa01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\10	TOK	πάλι	πάλι	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\15	TOK	σχολείο	σχολείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\22	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\25	TOK	Πέρασε	περνώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\32	TOK	ο	ο	AtDfMaSgNm
+1\34	TOK	Ιανουάριος	Ιανουάριος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\44	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\46	TOK	πάνε	πηγαίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\51	TOK	οι	ο	AtDfFePlNm
+1\54	TOK	διακοπές	διακοπή	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\62	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[advp
+1\64	TOK	Τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\69	TOK	μαθήματα	μάθημα	NoCmNePlNm
+	SYN	/np_nm]
+1\77	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\79	TOK	δάσκαλοι	δάσκαλος	NoCmMaPlNm
+	SYN	/np_nm]
+1\88	TOK	και	και	CjCo
+	SYN	[np_ac
+1\92	TOK	βιβλία	βιβλίο	NoCmNePlAc
+	SYN	/np_ac]
+1\98	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\100	TOK	τετράδια	τετράδιο	NoCmNePlAc
+	SYN	/np_ac]
+1\108	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\110	TOK	μολύβια	μολύβι	NoCmNePlAc
+	SYN	/np_ac]
+1\118	TOK	και	και	CjCo
+	SYN	[np_nm
+1\122	TOK	τσάντες	τσάντα	NoCmFePlNm
+	SYN	/np_nm]
+1\129	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\131	TOK	Άντε	άντε	PtOt
+	SYN	[advp
+1\136	TOK	πάλι	πάλι	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\141	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\145	TOK	την	ο	AtDfFeSgAc
+1\149	TOK	αρχή	αρχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\153	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\156	ENUM	-	-	ENUM
+	SYN	[vg
+1\157	TOK	Διάβασες	διαβάζω	VbMnIdPa02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\166	TOK	Ισπανικά	Ισπανικά	NoPrNePlAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\174	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\177	ENUM	-	-	ENUM
+	SYN	[advp
+1\178	TOK	Ναι	ναι	AdXxBa
+	SYN	/advp]
+1\181	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\183	TOK	μαμά	μαμά	NoCmFeSgNm
+	SYN	/np_nm]
+1\187	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\190	ENUM	-	-	ENUM
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\191	TOK	Ελληνικά	ελληνικός	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\199	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\201	TOK	Μαθηματικά	μαθηματικά	NoCmNePlNm
+	SYN	/np_nm]
+1\211	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\214	ENUM	-	-	ENUM
+	SYN	[advp
+1\215	TOK	Μάλιστα	μάλιστα	AdXxBa
+	SYN	/advp]
+1\222	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\224	TOK	μπαμπά	μπαμπάς	NoCmMaSgAc
+	SYN	/np_ac]
+1\230	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\233	ENUM	-	-	ENUM
+	SYN	[vg
+1\234	TOK	Κλείσε	κλείνω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\241	TOK	αμέσως	αμέσως	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\248	TOK	την	ο	AtDfFeSgAc
+1\252	TOK	τηλεόραση	τηλεόραση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\261	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\264	ENUM	-	-	ENUM
+	SYN	[advp
+1\265	TOK	Αμέσως	αμέσως	AdXxBa
+	SYN	/advp]
+1\271	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\273	TOK	γιαγιά	γιαγιά	NoCmFeSgAc
+	SYN	/np_ac]
+1\279	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\282	ENUM	-	-	ENUM
+	SYN	[advp
+1\283	TOK	Πάλι	πάλι	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\288	TOK	παίζεις	παίζω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\295	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[advp
+1\297	TOK	Πότε	πότε	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\302	TOK	θα	θα	PtFu
+1\305	TOK	διαβάσεις	διαβάζω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\315	TOK	Μαθηματικά	μαθηματικά	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\325	PTERM_P	;	;	PTERM_P
+	)SENT	</S>

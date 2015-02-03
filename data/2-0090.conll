@@ -1,0 +1,85 @@
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+2	Άγιος	άγιος	Aj	Aj	Ba|Ma|Sg|Nm	3	Atr	_	_	
+3	Βασίλης	Βασίλης	No	NoPr	Ma|Sg|Nm	4	Sb	_	_	
+4	σταμάτησε	σταματώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Nm	6	Det	_	_	
+6	σκάφος	σκάφος	No	NoCm	Ne|Sg|Nm	4	Obj	_	_	
+7	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	6	Pos	_	_	
+8	σε	σε	AsPp	AsPpSp	_	6	AuxP	_	_	
+9	μια	ένας	At	AtId	Fe|Sg|Ac	11	Det	_	_	
+10	ερημική	ερημικός	Aj	Aj	Ba|Fe|Sg|Ac	11	Atr	_	_	
+11	ακρογιαλιά	ακρογιαλιά	No	NoCm	Fe|Sg|Ac	8	Atr	_	_	
+12	της	ο	At	AtDf	Fe|Sg|Ge	13	Det	_	_	
+13	Αυστραλίας	Αυστραλία	No	NoPr	Fe|Sg|Ge	11	Atr	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κοίταξε	κοιτάζω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	γύρω	γύρω	Ad	Ad	Ba	1	Adv	_	_	
+3	του	εγώ	Pn	PnPe	Ma|03|Sg|Ge|We	2	Adv	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ευτυχώς	ευτυχώς	Ad	Ad	Ba	3	Adv	_	_	
+2	δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	υπήρχε	υπάρχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	κανείς	κανένας	Pn	PnId	Ma|03|Sg|Nm|Xx	3	Sb	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	"	"	OPUNCT	OPUNCT	_	3	AuxG	_	_	
+2	Ας	ας	Pt	PtOt	_	3	AuxV	_	_	
+3	πάρω	παίρνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	8	Obj	_	_	
+4	μια	ένας	At	AtId	Fe|Sg|Ac	5	Det	_	_	
+5	ανάσα	ανάσα	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+6	"	"	CPUNCT	CPUNCT	_	3	AuxG	_	_	
+7	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+8	σκέφτηκε	σκέφτομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	"	"	OPUNCT	OPUNCT	_	14	AuxG	_	_	
+2	Ύστερα	ύστερα	Ad	Ad	Ba	14	Adv	_	_	
+3	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	όλ'	όλος	Aj	Aj	Ba|Ne|Pl|Ac	7	Atr	_	_	
+5	αυτά	αυτός	Pn	PnDm	Ne|03|Pl|Ac|Xx	7	Atr	_	_	
+6	τα	ο	At	AtDf	Ne|Pl|Ac	7	Det	_	_	
+7	χιόνια	χιόνι	No	NoCm	Ne|Pl|Ac	8	Adv_Co	_	_	
+8	και	και	Cj	CjCo	_	3	Coord	_	_	
+9	τα	ο	At	AtDf	Ne|Pl|Ac	10	Det	_	_	
+10	κρύα	κρύο	No	NoCm	Ne|Pl|Ac	8	Adv_Co	_	_	
+11	,	,	PUNCT	PUNCT	_	14	AuxX	_	_	
+12	η	ο	At	AtDf	Fe|Sg|Nm	13	Det	_	_	
+13	Αυστραλία	Αυστραλία	No	NoPr	Fe|Sg|Nm	14	Sb	_	_	
+14	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+15	ένα	ένας	At	AtId	Ne|Sg|Nm	17	Det	_	_	
+16	ευχάριστο	ευχάριστος	Aj	Aj	Ba|Ne|Sg|Nm	17	Atr	_	_	
+17	διάλειμμα	διάλειμμα	No	NoCm	Ne|Sg|Nm	14	Pnom	_	_	
+18	"	"	CPUNCT	CPUNCT	_	17	AuxG	_	_	
+19	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Άφησε	αφήνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+2	κάτω	κάτω	Ad	Ad	Ba	1	Adv	_	_	
+3	τον	ο	At	AtDf	Ma|Sg|Ac	4	Det	_	_	
+4	σκούφο	σκούφος	No	NoCm	Ma|Sg|Ac	1	Obj	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	σκούπισε	σκουπίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+7	τον	ο	At	AtDf	Ma|Sg|Ac	8	Det	_	_	
+8	ιδρώτα	ιδρώτας	No	NoCm	Ma|Sg|Ac	6	Obj	_	_	
+9	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	8	Pos	_	_	
+10	και	και	Cj	CjCo	_	0	Coord	_	_	
+11	ξεκούμπωσε	ξεκουμπώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+12	το	ο	At	AtDf	Ne|Sg|Ac	13	Det	_	_	
+13	σακάκι	σακάκι	No	NoCm	Ne|Sg|Ac	11	Obj	_	_	
+14	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	13	Pos	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δίπλα	δίπλα	Ad	Ad	Ba	8	Adv	_	_	
+2	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	1	AuxP	_	_	
+3	πόδια	πόδι	No	NoCm	Ne|Pl|Ac	2	Adv	_	_	
+4	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	3	Pos	_	_	
+5	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+6	η	ο	At	AtDf	Fe|Sg|Nm	7	Det	_	_	
+7	θάλασσα	θάλασσα	No	NoCm	Fe|Sg|Nm	8	Sb	_	_	
+8	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+9	ήσυχη	ήσυχος	Aj	Aj	Ba|Fe|Sg|Nm	8	Pnom	_	_	
+10	σαν	σαν	Ad	Ad	Ba	8	Adv	_	_	
+11	λάδι	λάδι	No	NoCm	Ne|Sg|Ac	10	Pnom	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

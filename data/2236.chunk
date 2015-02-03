@@ -1,0 +1,383 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	Ηλεκτρονικό	ηλεκτρονικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\13	TOK	παιχνίδι	παιχνίδι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\22	TOK	τρέλανε	τρελαίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\30	TOK	δεκαεξάχρονο	δεκαεξάχρονος	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\44	TOK	Τορίνο	Τορίνο	NoPrNeSgAc
+	SYN	/np_ac]
+1\50	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\52	TOK	Επί	επί	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\56	TOK	πέντε	πέντε	NmCdFePlAcAj
+	SYN	/adjp_ac]
+1\62	TOK	νύχτες	νύχτα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\69	TOK	έπαιζε	παίζω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\76	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\79	TOK	αγαπημένο	αγαπημένος	VbMnPpXxXxSgNePePvNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\89	TOK	του	ο	AtDfNeSgGe
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\93	TOK	ηλεκτρονικό	ηλεκτρονικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_nm
+1\105	TOK	παιχνίδι	παιχνίδι	NoCmNeSgNm
+1\114	OPUNCT	«	«	OPUNCT
+1\115	TOK	Street	Street	RgFwOr
+1\122	TOK	finder	finder	RgFwOr
+1\128	CPUNCT	»	»	CPUNCT
+	SYN	/np_nm]
+	SYN	/cl]
+1\129	PUNCT	,	,	PUNCT
+	SYN	[cl_t
+1\131	TOK	ώσπου	ώσπου	CjSb
+	SYN	[vg
+1\137	TOK	ταυτίστηκε	ταυτίζω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[advp
+1\148	TOK	τόσο	τόσο	AdXxBa
+1\153	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+1\158	TOK	με	με	AsPpSp
+1\161	TOK	τον	ο	AtDfMaSgAc
+	SYN	[np_ac
+1\165	TOK	ηρώα	ηρώο	NoCmNePlAc
+1\170	TOK	Κεν	Κεν	RgFwTr
+	SYN	/np_ac]
+1\173	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\175	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\179	TOK	έχασε	χάνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\185	TOK	τη	ο	AtDfFeSgAc
+1\188	TOK	δίκη	δίκη	NoCmFeSgAc
+1\193	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	[np_ac
+1\197	TOK	ταυτότητα	ταυτότητα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl_t]
+1\206	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\208	TOK	Ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\210	TOK	16χρονος	16χρονος	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\219	TOK	Αλεσάντρο	Αλεσάντρο	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\229	TOK	κατέληξε	καταλήγω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\238	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\241	TOK	ψυχιατρική	ψυχιατρικός	AjBaFeSgAc
+1\252	TOK	κλινική	κλινικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\260	TOK	του	ο	AtDfNeSgGe
+1\264	TOK	Τορίνο	Τορίνο	NoPrNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\271	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\276	TOK	Ιταλία	Ιταλία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\283	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[advp
+1\287	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\292	TOK	ύστερα	ύστερα	AdXxBa
+	SYN	[pp
+1\299	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\303	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[vg
+1\307	TOK	μηνά	μηνώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\312	TOK	ψυχοφαρμακευτικής	ψυχοφαρμακευτικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\330	TOK	θεραπείας	θεραπεία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\340	TOK	ξαναβρήκε	ξαναβρίσκω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\350	TOK	τον	ο	AtDfMaSgAc
+1\354	TOK	εαυτό	εαυτός	NoCmMaSgAc
+1\360	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\363	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\365	TOK	Επηρεασμένος	επηρεασμένος	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\378	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\382	TOK	τους	ο	AtDfMaPlAc
+1\387	TOK	άθλους	άθλος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\394	TOK	του	ο	AtDfMaSgGe
+1\398	TOK	Κεν	Κεν	RgFwTr
+	SYN	/np_ge]
+1\401	PUNCT	,	,	PUNCT
+	SYN	[np_ge
+1\403	TOK	ενός	ένας	AtIdMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[np_ac
+1\408	TOK	Ιάπωνα	Ιάπωνας	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\415	TOK	μαχητή	μαχητής	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\422	TOK	του	ο	AtDfNeSgGe
+1\426	TOK	καράτε	καράτε	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\433	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\437	TOK	καταδιώκει	καταδιώκω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\448	TOK	τους	ο	AtDfMaPlAc
+1\453	TOK	εγκληματίες	εγκληματίας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\465	TOK	μιας	ένας	AtIdFeSgGe
+	SYN	[adjp_ge
+1\470	TOK	φανταστικής	φανταστικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\482	TOK	μεγαλούπολης	μεγαλούπολη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl_r]
+1\494	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\496	TOK	ο	ο	AtDfMaSgNm
+1\498	TOK	Αλεσάντρο	Αλεσάντρο	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\508	TOK	βγήκε	βγαίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\514	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+1\520	TOK	δρόμους	δρόμος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_g
+	SYN	[vg_g
+1\528	TOK	αναζητώντας	αναζητώ	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[np_ac
+1\540	OPUNCT	«	«	OPUNCT
+1\541	TOK	εχθρούς	εχθρός	NoCmMaPlAc
+1\548	CPUNCT	»	»	CPUNCT
+	SYN	/np_ac]
+	SYN	/cl_g]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\550	TOK	να	να	PtSj
+	SYN	[np_ac
+1\553	TOK	τους	εγώ	PnPeMa03PlAcWe
+	SYN	/np_ac]
+1\558	TOK	τιμωρήσει	τιμωρώ	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\567	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\569	TOK	Στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+1\575	TOK	γιατρούς	γιατρός	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\584	TOK	ο	ο	AtDfMaSgNm
+1\586	TOK	Αλεσάντρο	Αλεσάντρο	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\596	TOK	είπε	λέγω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\600	PTERM_P	:	:	PTERM_P
+1\602	OPUNCT	«	«	OPUNCT
+	SYN	[cl
+	SYN	[vg
+1\603	TOK	Ονομάζομαι	ονομάζω	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+1\614	TOK	Κεν	Κεν	RgFwTr
+	SYN	/cl]
+1\617	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\619	TOK	Μάχομαι	μάχομαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\627	TOK	για	για	AsPpSp
+1\631	TOK	να	να	PtSj
+1\634	TOK	σώσω	σώζω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\639	TOK	τις	ο	AtDfFePlAc
+1\643	TOK	γυναίκες	γυναίκα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\652	TOK	της	ο	AtDfFeSgGe
+1\656	TOK	πόλης	πόλη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[pp
+1\662	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\666	TOK	τους	ο	AtDfMaPlAc
+1\671	TOK	εγκληματίες	εγκληματίας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\682	PTERM_P	!	!	PTERM_P
+1\683	CPUNCT	»	»	CPUNCT
+	SYN	/cl_o]
+1\684	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\686	TOK	Ο	ο	AtDfMaSgNm
+1\688	TOK	Ιταλός	Ιταλός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\695	TOK	έφηβος	έφηβος	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\702	TOK	μιλούσε	μιλώ	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\710	TOK	συνεχώς	συνεχώς	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\718	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\722	TOK	μονομαχίες	μονομαχία	NoCmFePlAc
+	SYN	/np_ac]
+1\732	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\734	TOK	μάχες	μάχη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\739	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\741	TOK	καταδιώξεις	καταδιώκω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg]
+1\753	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\757	TOK	φανταστικές	φανταστικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\769	TOK	περιπέτειες	περιπέτεια	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\781	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[advp
+1\785	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\790	TOK	έπειτα	έπειτα	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\797	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\801	TOK	συστηματικές	συστηματικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\814	TOK	προσπάθειες	προσπάθεια	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\826	TOK	των	ο	AtDfMaPlGe
+1\830	TOK	γιατρών	γιατρός	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[vg
+1\838	TOK	επανήλθε	επανέρχομαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\847	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\852	TOK	πραγματικότητα	πραγματικότητα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\866	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

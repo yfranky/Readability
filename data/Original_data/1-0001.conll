@@ -1,0 +1,54 @@
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	Αμάντα	Αμάντα	No	NoPr	Fe|Sg|Nm	1	Pnom	_	_	
+4	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+
+1	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	2	Pnom	_	_	
+2	είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	2	Sb	_	_	
+
+1	κι	και	Cj	CjCo	_	2	AuxY	_	_	
+2	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	0	ExD	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	Βελής	Βελής	No	NoPr	Ma|Sg|Nm	2	Atr	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Της	ο	At	AtDf	Fe|Sg|Ge	2	Det	_	_	
+2	Αλφαβητοχώρας	Αλφαβητοχώρας	No	NoPr	Fe|Sg|Ge	0	ExD	_	_	
+
+1	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+2	μεγάλη	μεγάλος	Aj	Aj	Ba|Fe|Sg|Nm	3	Atr	_	_	
+3	παρέα	παρέα	No	NoCm	Fe|Sg|Nm	4	Sb	_	_	
+4	είμαστε	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	εμείς	εγώ	Pn	PnPe	Ma|01|Pl|Nm|St	4	Pnom	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	Δήμος	Δήμος	No	NoCm	Ma|Sg|Nm	1	Pnom	_	_	
+4	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+
+1	είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	Ηλίας	Ηλίας	No	NoPr	Ma|Sg|Nm	1	Sb	_	_	
+
+1	κι	και	Cj	CjCo	_	2	AuxY	_	_	
+2	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	0	ExD	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	Ερμής	Ερμής	No	NoPr	Ma|Sg|Nm	2	Atr	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έλα	έλα	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Pv|Xx	2	Pred_Co	_	_	
+2	κι	και	Cj	CjCo	_	0	Coord	_	_	
+3	εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	2	ExD_Co	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+6	παιχνίδια	παιχνίδι	No	NoCm	Ne|Pl|Ac	4	Atr	_	_	
+7	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	6	Pos	_	_	
+8	χαρά	χαρά	No	NoCm	Fe|Sg|Ac	6	Atr	_	_	
+
+1	να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	βρεις	βρίσκω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

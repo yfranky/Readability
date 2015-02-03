@@ -1,0 +1,77 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Η	ο	AtDfFeSgNm
+1\3	TOK	Μελέκ	Μελέκ	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\9	TOK	βρήκε	βρίσκω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\15	TOK	την	ο	AtDfFeSgAc
+1\19	TOK	Αγγέλα	Αγγέλα	NoPrFeSgAc
+	SYN	/np_ac]
+1\25	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\27	TOK	τη	ο	AtDfFeSgAc
+1\30	TOK	Γιοντζά	Γιοντζά	NoPrFeSgAc
+	SYN	/np_ac]
+1\38	TOK	και	και	CjCo
+	SYN	[np_ac
+1\42	TOK	τον	ο	AtDfMaSgAc
+1\46	TOK	Θωμά	Θωμάς	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\50	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\53	TOK	Δε	δεν	PtNg
+1\56	TOK	βρήκε	βρίσκω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\62	TOK	τον	ο	AtDfMaSgAc
+1\66	TOK	Αχμέτ	Αχμέτ	NoPrMaSgAc
+	SYN	/np_ac]
+1\72	TOK	και	και	CjCo
+	SYN	[np_ac
+1\76	TOK	τον	ο	AtDfMaSgAc
+1\80	TOK	Φασαρία	φασαρία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\87	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\90	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\91	TOK	Ο	ο	AtDfMaSgNm
+1\93	TOK	Αχμέτ	Αχμέτ	NoPrMaSgNm
+	SYN	/np_nm]
+1\99	TOK	πού	πού	AdXxBa
+	SYN	[vg
+1\103	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\108	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\111	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\112	TOK	Παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+1\118	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\120	TOK	ελάτε	ελάτε	VbMnMpXx02PlXxPePvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\126	TOK	να	να	PtSj
+1\129	TOK	δείτε	βλέπω	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\134	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

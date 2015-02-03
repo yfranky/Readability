@@ -1,0 +1,28 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Γεια	γεια	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	2	Pos	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	ήθελα	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	δυο	δύο	Nm	NmCd	Ne|Pl|Ac|Aj	4	Atr	_	_	
+4	πεπόνια	πεπόνι	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πόσο	πόσο	Ad	Ad	Ba	2	Adv	_	_	
+2	κάνουν	κάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Εξακόσιες	εξακόσιοι	Nm	NmCd	Fe|Pl|Nm|Aj	3	Atr	_	_	
+3	δραχμές	δραχμή	No	NoCm	Fe|Pl|Ac	0	ExD	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	δυο	δύο	Nm	NmCd	Ne|Pl|Ac|Aj	3	Atr	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxC	_	_	
+2	Ορίστε	ορίζω	Ad	Ad	Ba	1	Adv	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	ευχαριστώ	ευχαριστώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

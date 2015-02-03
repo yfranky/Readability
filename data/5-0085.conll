@@ -1,0 +1,19 @@
+1	Επιδοτούμενα	επιδοτούμενος	Aj	Aj	Ba|Ne|Pl|Nm	2	Atr	_	_	
+2	σεμινάρια	σεμινάριο	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+3	ηλεκτρονικών	ηλεκτρονικός	Aj	Aj	Ba|Ma|Pl|Ge	4	Atr	_	_	
+4	υπολογιστών	υπολογιστής	No	NoCm	Ma|Pl|Ge	2	Atr	_	_	
+5	του	ο	At	AtDf	Ne|Sg|Ge	6	Det	_	_	
+6	ΟΑΕΔ	ΟΑΕΔ	ABBR	ABBR	_	4	Atr	_	_	
+7	(	(	OPUNCT	OPUNCT	_	8	AuxG	_	_	
+8	Οργανισμός	οργανισμός	No	NoCm	Ma|Sg|Nm	4	ExD	_	_	
+9	Απασχόλησης	απασχόληση	No	NoCm	Fe|Sg|Ge	8	Atr	_	_	
+10	Εργατικού	εργατικός	Aj	Aj	Ba|Ne|Sg|Ge	11	Atr	_	_	
+11	Δυναμικού	δυναμικός	No	NoCm	Ne|Sg|Ge	9	Atr	_	_	
+12	)	)	CPUNCT	CPUNCT	_	8	AuxG	_	_	
+13	για	για	AsPp	AsPpSp	_	8	AuxP	_	_	
+14	αποφοίτους	απόφοιτος	No	NoCm	Ma|Pl|Ac	16	Adv_Co	_	_	
+15	λυκείου	λύκειο	No	NoCm	Ne|Sg|Ge	14	Atr	_	_	
+16	και	και	Cj	CjCo	_	13	Coord	_	_	
+17	ανέργους	άνεργος	Aj	Aj	Ba|Ma|Pl|Ac	16	Adv_Co	_	_	
+18	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,433 @@
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[vg
+1\1	TOK	Eπανέρχονται	επανέρχομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\14	TOK	οι	ο	AtDfMaPlNm
+1\17	TOK	δεινόσαυροι	δεινόσαυρος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\28	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\31	TOK	Στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\36	TOK	ταινία	ταινία	NoCmFeSgAc
+1\43	TOK	Jurassic	Jurassic	RgFwOr
+1\52	TOK	Park	Park	RgFwOr
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\57	TOK	ένα	ένας	AtIdNeSgAc
+1\61	TOK	κουνούπι	κουνούπι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\70	TOK	ρουφά	ρουφώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\76	TOK	το	ο	AtDfNeSgAc
+1\79	TOK	αίμα	αίμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\84	TOK	ενός	ένας	AtIdMaSgGe
+1\89	TOK	δεινόσαυρου	δεινόσαυρος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\101	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[pp
+1\105	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\109	TOK	συνέχεια	συνέχεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\118	TOK	πετά	πετώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\123	TOK	προς	προς	AsPpSp
+	SYN	[np_ac
+1\128	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\132	TOK	κωνοφόρο	κωνοφόρος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\141	TOK	δέντρο	δέντρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\148	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\152	TOK	κολλά	κολλώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\158	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\162	TOK	ρετσίνι	ρετσίνι	NoCmNeSgAc
+1\170	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\173	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\175	TOK	Με	με	AsPpSp
+	SYN	[np_ac
+1\178	TOK	την	ο	AtDfFeSgAc
+1\182	TOK	πάροδο	πάροδος	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\189	TOK	του	ο	AtDfMaSgGe
+1\193	TOK	χρόνου	χρόνος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[np_ac
+1\200	TOK	το	ο	AtDfNeSgAc
+1\203	TOK	ρετσίνι	ρετσίνι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\211	TOK	σκεπάζει	σκεπάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\220	TOK	τελείως	τελείως	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\228	TOK	το	ο	AtDfNeSgNm
+1\231	TOK	έντομο	έντομο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\238	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[advp
+1\242	TOK	σταδιακά	σταδιακά	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\251	TOK	το	ο	AtDfNeSgNm
+1\254	TOK	ρετσίνι	ρετσίνι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\262	TOK	μετατρέπεται	μετατρέπω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\275	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\278	TOK	ήλεκτρο	ήλεκτρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\286	OPUNCT	(	(	OPUNCT
+	SYN	[np_nm
+1\287	TOK	κεχριμπάρι	κεχριμπάρι	NoCmNeSgNm
+	SYN	/np_nm]
+1\297	CPUNCT	)	)	CPUNCT
+1\298	PUNCT	,	,	PUNCT
+	SYN	[cl_g
+	SYN	[vg_g
+1\300	TOK	διατηρώντας	διατηρώ	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[pp
+1\312	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\316	TOK	εσωτερικό	εσωτερικό	NoCmNeSgAc
+1\326	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\330	TOK	το	ο	AtDfNeSgAc
+1\333	TOK	κουνούπι	κουνούπι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\342	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\345	TOK	το	ο	AtDfNeSgAc
+1\348	TOK	αίμα	αίμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\353	TOK	του	ο	AtDfMaSgGe
+1\357	TOK	δεινόσαυρου	δεινόσαυρος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_g]
+	SYN	/cl]
+1\368	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\370	TOK	Έτσι	έτσι	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\375	TOK	το	ο	AtDfNeSgNm
+1\378	TOK	αίμα	αίμα	NoCmNeSgNm
+	SYN	/np_nm]
+1\382	PUNCT	,	,	PUNCT
+1\384	TOK	και	και	CjCo
+	SYN	[advp
+1\388	TOK	μαζί	μαζί	AdXxBa
+	SYN	[pp
+1\393	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\396	TOK	αυτό	αυτός	PnDmNe03SgAcXx
+1\401	TOK	το	ο	AtDfNeSgAc
+1\404	ABBR	DNA	DNA	ABBR
+	SYN	/np_ac]
+	SYN	[np_ge
+1\408	TOK	του	ο	AtDfMaSgGe
+1\412	TOK	δεινόσαυρου	δεινόσαυρος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/advp]
+1\423	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\425	TOK	διατηρήθηκε	διατηρώ	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\437	TOK	καλά	καλά	AdXxBa
+	SYN	/advp]
+1\442	TOK	σφραγισμένο	σφραγισμένος	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\454	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\458	DIG	65	65	DIG
+	SYN	[adjp_ac
+1\461	TOK	ολόκληρα	ολόκληρος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\470	TOK	εκατομμύρια	εκατομμύριο	NoCmNePlAc
+1\482	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\488	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\490	TOK	Ορισμένα	ορισμένος	AjBaNePlNm
+	SYN	/adjp_nm]
+1\499	TOK	τμήματα	τμήμα	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\507	TOK	του	ο	AtDfNeSgGe
+1\511	ABBR	DNA	DNA	ABBR
+	SYN	/np_ge]
+	SYN	[vg
+1\515	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+1\521	TOK	καταστραφεί	καταστρέφω	VbMnNfXxXxXxXxPePvXx
+	SYN	/vg]
+	SYN	/cl]
+1\532	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\534	TOK	Για	για	AsPpSp
+	SYN	[np_ac
+1\538	TOK	το	ο	AtDfMaSgAc
+1\541	TOK	λόγο	λόγος	NoCmMaSgAc
+1\546	TOK	αυτό	αυτός	PnDmMa03SgAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\551	TOK	οι	ο	AtDfMaPlNm
+1\554	TOK	επιστήμονες	επιστήμονας	NoCmMaPlNm
+	SYN	/np_nm]
+1\565	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\567	TOK	σύμφωνα	σύμφωνα	AdXxBa
+	SYN	[pp
+1\575	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\578	TOK	το	ο	AtDfNeSgAc
+1\581	TOK	σενάριο	σενάριο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\589	TOK	της	ο	AtDfFeSgGe
+1\593	TOK	ταινίας	ταινία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/advp]
+1\600	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\602	TOK	συμπληρώνουν	συμπληρώνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\615	TOK	τα	ο	AtDfNePlAc
+1\618	TOK	κενά	κενό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\623	TOK	που	που	PnReNe03PlAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\627	TOK	λείπουν	λείπω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\635	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\638	TOK	τμήματα	τμήμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\646	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\650	TOK	το	ο	AtDfNeSgAc
+1\653	ABBR	DNA	DNA	ABBR
+	SYN	/np_ac]
+	SYN	[np_ge
+1\657	TOK	κυττάρων	κύτταρο	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\666	TOK	βατράχων	βάτραχος	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+1\674	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\676	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\680	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\686	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+1\691	TOK	συγγενικό	συγγενικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\701	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\704	TOK	το	ο	AtDfNeSgAc
+1\707	ABBR	DNA	DNA	ABBR
+	SYN	/np_ac]
+	SYN	[np_ge
+1\711	TOK	του	ο	AtDfMaSgGe
+1\715	TOK	δεινόσαυρου	δεινόσαυρος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\726	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\728	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\731	TOK	ανασυνδυασμένο	ανασυνδυασμένος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\746	ABBR	DNA	DNA	ABBR
+	SYN	/np_nm]
+	SYN	[vg
+1\750	TOK	τοποθετείται	τοποθετώ	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\763	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\767	TOK	αυγό	αυγό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\772	TOK	μιας	ένας	AtIdFeSgGe
+1\777	TOK	στρουθοκαμήλου	στρουθοκάμηλος	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\791	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+	SYN	[vg_s
+1\793	TOK	για	για	AsPpSp
+1\797	TOK	να	να	PtSj
+1\800	TOK	ολοκληρωθεί	ολοκληρώνω	VbMnIdXx03SgXxPePvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+1\812	TOK	ο	ο	AtDfMaSgNm
+1\814	TOK	σχηματισμός	σχηματισμός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\826	TOK	του	ο	AtDfNeSgGe
+1\830	TOK	εμβρύου	έμβρυο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\837	PUNCT	,	,	PUNCT
+1\839	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[advp
+1\843	TOK	έτσι	έτσι	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\848	TOK	μετά	μετά	AdXxBa
+	SYN	[pp
+1\853	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\857	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\861	TOK	χρονικό	χρονικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\869	TOK	διάστημα	διάστημα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[vg
+1\878	TOK	ξεπροβάλλει	ξεπροβάλλω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\890	TOK	ένα	ένας	AtIdNeSgAc
+1\894	TOK	δεινοσαυράκι	δεινοσαυράκι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\906	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\908	TOK	Με	με	AsPpSp
+	SYN	[np_ac
+1\911	TOK	αυτό	αυτός	PnDmMa03SgAcXx
+1\916	TOK	τον	ο	AtDfMaSgAc
+1\920	TOK	τρόπο	τρόπος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\926	TOK	λοιπόν	λοιπόν	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\933	TOK	έχουμε	έχω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\940	TOK	την	ο	AtDfFeSgAc
+1\944	TOK	επανεμφάνιση	επανεμφάνιση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\957	TOK	των	ο	AtDfMaPlGe
+1\961	TOK	δεινοσαύρων	δεινόσαυρος	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	[pp
+1\973	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\977	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\980	TOK	διατηρημένο	διατηρημένος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\992	ABBR	DNA	DNA	ABBR
+	SYN	/np_ac]
+	SYN	[np_ge
+1\996	TOK	του	ο	AtDfNeSgGe
+1\1000	TOK	αίματός	αίμα	NoCmNeSgGe
+1\1008	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\1012	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

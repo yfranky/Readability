@@ -1,0 +1,135 @@
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	πάρτι	πάρτι	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+3	των	ο	At	AtDf	Ma|Pl|Ge	4	Det	_	_	
+4	γενεθλίων	γενέθλιος	Aj	Aj	Ba|Ma|Pl|Ge	2	Atr	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Εδώ	εδώ	Ad	Ad	Ba	3	Adv	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Nm	5	Det	_	_	
+5	σπίτι	σπίτι	No	NoCm	Ne|Sg|Nm	3	Pnom	_	_	
+6	της	ο	At	AtDf	Fe|Sg|Ge	7	Det	_	_	
+7	Χριστίνας	Χριστίνα	No	NoPr	Fe|Sg|Ge	5	Atr	_	_	
+8	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Περίμενε	περιμένω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	χτυπήσω	χτυπώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	2	Sb	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	κουδούνι	κουδούνι	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Άντε	άντε	Pt	PtOt	_	4	AuxC	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	λοιπόν	λοιπόν	Ad	Ad	Ba	0	ExD	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Χτύπα	χτυπώ	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	1	Det	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Γεια	γεια	No	NoCm	Fe|Sg|Nm	5	Coord	_	_	
+3	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	2	Pos	_	_	
+4	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+5	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Χρόνια	χρόνος	No	NoCm	Ne|Pl|Nm	5	Atr	_	_	
+3	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Ac	2	Atr	_	_	
+4	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+5	Χριστίνα	Χριστίνα	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	3	AuxV	_	_	
+2	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	3	Obj	_	_	
+3	εκατοστίσεις	εκατοστίζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ευχαριστώ	ευχαριστώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	πολύ	πολύ	Ad	Ad	Ba	2	Adv	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ελάτε	ελάτε	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Pv|Xx	5	Obj	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	1	ExD	_	_	
+4	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+5	περάστε	περνώ	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Χριστίνα	Χριστίνα	No	NoPr	Fe|Sg|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Nm|Xx	5	Sb	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	2	Atr	_	_	
+6	για	για	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	σένα	εγώ	Pn	PnPe	Fe|02|Sg|Ac|St	6	Adv	_	_	
+8	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Α	α	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σας	εγώ	Pn	PnPe	Ma|02|Pl|Ac|We	2	Obj	_	_	
+2	ευχαριστώ	ευχαριστώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πάρα	πάρα	Ad	Ad	Ba	4	Adv	_	_	
+4	πολύ	πολύ	Ad	Ad	Ba	2	Adv	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Nm|Xx	2	Sb	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Γρήγορα	γρήγορος	Aj	Aj	Ba|Ne|Pl|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	άνοιξέ	ανοίγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Atr	_	_	
+5	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	4	Pos	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Α	α	No	NoCm	Ne|Sg|Nm	3	Sb_Ap	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	Apos	_	_	
+4	.	.	PTERM_P	PTERM_P	_	3	AuxG	_	_	
+5	.	.	PTERM_P	PTERM_P	_	3	AuxK	_	_	
+6	ο	ο	At	AtDf	Ma|Sg|Nm	8	Det	_	_	
+7	καινούριος	καινούριος	Aj	Aj	Ba|Ma|Sg|Nm	8	Atr	_	_	
+8	δίσκος	δίσκος	No	NoCm	Ma|Sg|Nm	3	ExD	_	_	
+9	του	ο	At	AtDf	Ma|Sg|Ge	11	Det	_	_	
+10	Γιάννη	Γιάννης	No	NoPr	Ma|Sg|Ge	11	Atr	_	_	
+11	Πάριου	Πάριος	No	NoPr	Ma|Sg|Ge	8	Atr	_	_	
+12	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Απίθανα	απίθανα	Ad	Ad	Ba	0	ExD	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	3	ExD_Co	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	τούρτα	τούρτα	No	NoCm	Fe|Sg|Nm	3	ExD_Co	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	0	ExD	_	_	
+2	ωραία	ωραίος	Aj	Aj	Ba|Fe|Sg|Ac	1	ExD	_	_	
+3	που	που	Pn	PnRe	Fe|03|Sg|Nm|Xx	4	Sb	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	2	Atr	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	ζήσεις	ζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	Χριστίνα	Χριστίνα	No	NoPr	Fe|Sg|Nm	3	ExD	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πολύχρονη	πολυχρόνιος	Aj	Aj	Ba|Fe|Sg|Nm	0	ExD	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

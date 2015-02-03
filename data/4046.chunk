@@ -1,0 +1,134 @@
+	(SENT	<S>
+1\1	ENUM	-	-	ENUM
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\2	TOK	Καλό	καλός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\7	TOK	το	ο	AtDfNeSgAc
+	SYN	[np_ac
+1\10	TOK	πάρτι	πάρτι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\16	TOK	της	ο	AtDfFeSgGe
+1\20	TOK	Βιβής	Βιβή	NoPrFeSgGe
+	SYN	/np_ge]
+1\25	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\27	TOK	Και	και	CjCo
+	SYN	[cl
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\31	TOK	καλή	καλός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\36	TOK	μουσική	μουσική	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\44	TOK	είχε	έχω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+1\49	TOK	και	και	CjCo
+	SYN	[advp
+1\53	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+1\57	PUNCT	-	-	PUNCT
+1\58	PTERM_P	...	...	PTERM_P
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\63	ENUM	-	-	ENUM
+1\64	TOK	Για	για	AsPpSp
+	SYN	[vg
+1\68	TOK	κάτσε	κάθομαι	VbMnMpXx02SgXxPePvXx
+	SYN	/vg]
+1\74	TOK	ρε	ρε	Ij
+	SYN	[advp
+1\77	TOK	Χάρη	χάρη	AdXxBa
+	SYN	/advp]
+1\81	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\83	TOK	τι	τι	PnIrNe03SgAcXx
+	SYN	[adjp_ac
+1\86	TOK	καλό	καλός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\90	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\92	TOK	Η	ο	AtDfFeSgNm
+1\94	TOK	μουσική	μουσική	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\102	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\107	TOK	χάλια	χάλι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\112	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\115	ENUM	-	-	ENUM
+	SYN	[advp
+1\116	TOK	Εντάξει	εντάξει	AdXxBa
+	SYN	/advp]
+1\123	PUNCT	,	,	PUNCT
+1\125	TOK	αλλά	αλλά	CjCo
+	SYN	[np_nm
+1\130	TOK	το	ο	AtDfNeSgNm
+1\133	TOK	φαγητό	φαγητό	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\140	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\145	TOK	μια	ένας	AtIdFeSgNm
+1\149	TOK	χαρά	χαρά	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\153	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\156	ENUM	-	-	ENUM
+	SYN	[advp
+1\157	TOK	Ναι	ναι	AdXxBa
+1\160	PUNCT	,	,	PUNCT
+1\162	TOK	ναι	ναι	AdXxBa
+	SYN	/advp]
+1\165	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\168	ENUM	-	-	ENUM
+1\169	OPUNCT	(	(	OPUNCT
+	SYN	[cl_g
+	SYN	[vg_g
+1\170	TOK	κουνώντας	κουνώ	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[np_ac
+1\180	TOK	το	ο	AtDfNeSgAc
+1\183	TOK	κεφάλι	κεφάλι	NoCmNeSgAc
+	SYN	/np_ac]
+1\190	TOK	της	ο	AtDfFeSgGe
+	SYN	[advp
+1\194	TOK	πάνω	πάνω	AdXxBa
+1\199	TOK	κάτω	κάτω	AdXxBa
+	SYN	/advp]
+	SYN	/cl_g]
+	SYN	[cl_o
+	SYN	[vg_s
+1\204	TOK	για	για	AsPpSp
+1\208	TOK	να	να	PtSj
+1\211	TOK	συμφωνήσει	συμφωνώ	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\221	CPUNCT	)	)	CPUNCT
+	SYN	[np_nm
+1\223	TOK	Μμμμ	Μμμμ	NoPrMaSgNm
+	SYN	/np_nm]
+1\227	PTERM_P	...	...	PTERM_P
+	)SENT	</S>

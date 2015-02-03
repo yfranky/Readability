@@ -1,0 +1,176 @@
+	(SENT	<S>
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1	TOK	Αγαπητό	αγαπητός	AjBaMaSgAc
+1\9	TOK	Αερόστατο	αερόστατο	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\18	PUNCT	,	,	PUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\21	TOK	Με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\24	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\29	TOK	Διονυσία	Διονυσία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\38	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\42	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\48	DIG	9	9	DIG
+1\50	TOK	χρονών	χρονών	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\56	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\58	TOK	Μένω	μένω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\63	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\67	TOK	Σύδνεϋ	Σύδνεϋ	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\74	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\78	TOK	πηγαίνω	πηγαίνω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\86	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\91	TOK	Τετάρτη	Τετάρτη	NoCmFeSgAc
+1\99	TOK	τάξη	τάξη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\103	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\105	TOK	Ο	ο	AtDfMaSgNm
+1\107	TOK	μπαμπάς	μπαμπάς	NoCmMaSgNm
+1\115	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\119	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\125	TOK	Έλληνας	Έλληνας	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\133	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\137	TOK	μαθαίνω	μαθαίνω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\145	TOK	Ελληνικά	ελληνικός	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\153	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\155	TOK	Θέλω	θέλω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\160	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\165	TOK	να	να	PtSj
+1\168	TOK	έρθω	έρχομαι	VbMnIdXx01SgXxPePvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\173	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\178	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\185	TOK	μια	ένας	AtIdFeSgAc
+1\189	TOK	μέρα	μέρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\193	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\195	TOK	Θέλω	θέλω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+1\199	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\201	TOK	επίσης	επίσης	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\207	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+	SYN	[vg_s
+1\209	TOK	να	να	PtSj
+1\212	TOK	αλληλογραφήσω	αλληλογραφώ	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\226	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\229	TOK	Ελληνόπουλα	ελληνόπουλο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\240	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\244	TOK	Η	ο	AtDfFeSgNm
+1\246	TOK	διεύθυνσή	διεύθυνση	NoCmFeSgNm
+1\256	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\260	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\265	PTERM_P	:	:	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\269	TOK	Arana	Arana	RgFwOr
+1\275	TOK	Close	Close	RgFwOr
+1\281	TOK	Georges	Georges	RgFwOr
+1\289	TOK	Hall	Hall	RgFwOr
+1\294	ABBR	N.S.W.	N.S.W.	ABBR
+1\301	DIG	2198	2198	DIG
+1\306	TOK	AUSTRALIA	AUSTRALIA	RgFwOr
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[pp
+1\317	TOK	Με	με	AsPpSp
+	SYN	[np_ac
+1\320	TOK	αγάπη	αγάπη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\325	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\327	TOK	Διονυσία	Διονυσία	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\336	TOK	Ορφανίδη	Ορφανίδης	NoPrMaSgAc
+	SYN	/np_ac]
+	)SENT	</S>

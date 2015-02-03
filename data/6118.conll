@@ -1,0 +1,156 @@
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	κάνω	κάνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+5	μέλλον	μέλλον	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	«	«	OPUNCT	OPUNCT	_	3	AuxG	_	_	
+2	Θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	τελειώσω	τελειώνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	9	Obj	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	σχολείο	σχολείο	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	3	AuxP	_	_	
+7	δεκαοχτώ	δεκαοκτώ	Nm	NmCd	Ne|Pl|Ac|Aj	6	Atr	_	_	
+8	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+9	ελπίζω	ελπίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+10	με	με	AsPp	AsPpSp	_	9	AuxP	_	_	
+11	καλό	καλός	Aj	Aj	Ba|Ma|Sg|Ac	12	Atr	_	_	
+12	βαθμό	βαθμός	No	NoCm	Ma|Sg|Ac	10	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μετά	μετά	AsPp	AsPpSp	_	3	Adv	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	ψάξω	ψάχνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	βρω	βρίσκω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+6	μια	ένας	At	AtId	Fe|Sg|Ac	7	Det	_	_	
+7	σχολή	σχολή	No	NoCm	Fe|Sg|Ac	5	Obj	_	_	
+8	για	για	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	μανεκέν	μανεκέν	No	NoCm	Ne|Pl|Ac	8	Atr	_	_	
+10	και	και	Cj	CjCo	_	0	Coord	_	_	
+11	παράλληλα	παράλληλα	Ad	Ad	Ba	13	Adv	_	_	
+12	θα	θα	Pt	PtFu	_	13	AuxV	_	_	
+13	γίνω	γίνομαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	10	Pred_Co	_	_	
+14	και	και	Cj	CjCo	_	15	AuxY	_	_	
+15	στυλίστρια	στυλίστρια	No	NoCm	Fe|Sg|Ac	13	Pnom	_	_	
+16	μόδας	μόδα	No	NoCm	Fe|Sg|Ge	15	Atr	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	ξέρω	ξέρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	αν	αν	Cj	CjSb	_	2	AuxC	_	_	
+4	μέχρι	μέχρι	AsPp	AsPpSp	_	7	AuxP	_	_	
+5	τότε	τότε	Ad	Ad	Ba	4	Adv	_	_	
+6	θα	θα	Pt	PtFu	_	7	AuxV	_	_	
+7	υπάρχει	υπάρχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Adv	_	_	
+8	δημόσια	δημόσιος	Aj	Aj	Ba|Fe|Sg|Nm	9	Atr	_	_	
+9	σχολή	σχολή	No	NoCm	Fe|Sg|Nm	7	Sb	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πάντως	πάντως	Ad	Ad	Ba	9	Adv	_	_	
+2	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+3	μέχρι	μέχρι	AsPp	AsPpSp	_	9	AuxP	_	_	
+4	τώρα	τώρα	Ad	Ad	Ba	3	Adv	_	_	
+5	μόνο	μόνο	Ad	Ad	Ba	6	Adv	_	_	
+6	σε	σε	AsPp	AsPpSp	_	9	AuxP	_	_	
+7	ιδιωτική	ιδιωτικός	Aj	Aj	Ba|Fe|Sg|Ac	8	Atr	_	_	
+8	σχολή	σχολή	No	NoCm	Fe|Sg|Ac	6	Adv	_	_	
+9	μπορώ	μπορώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+10	να	να	Pt	PtSj	_	11	AuxV	_	_	
+11	πάω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	9	Obj	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όταν	όταν	Cj	CjSb	_	5	AuxC	_	_	
+2	αποφοιτήσω	αποφοιτώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+4	θα	θα	Pt	PtFu	_	5	AuxV	_	_	
+5	προσπαθήσω	προσπαθώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	να	να	Pt	PtSj	_	7	AuxV	_	_	
+7	κερδίσω	κερδίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	5	Obj	_	_	
+8	μια	ένας	At	AtId	Fe|Sg|Ac	9	Det	_	_	
+9	υποτροφία	υποτροφία	No	NoCm	Fe|Sg|Ac	7	Obj	_	_	
+10	για	για	AsPp	AsPpSp	_	9	AuxP	_	_	
+11	το	ο	At	AtDf	Ne|Sg|Ac	12	Det	_	_	
+12	εξωτερικό	εξωτερικό	No	NoCm	Ne|Sg|Ac	10	Atr	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ίσως	ίσως	Ad	Ad	Ba	9	Adv	_	_	
+2	Ιταλία	Ιταλία	No	NoPr	Fe|Sg|Nm	9	Sb	_	_	
+3	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+4	Γαλλία	Γαλλία	No	NoPr	Fe|Sg|Nm	9	ExD	_	_	
+5	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+6	Αμερική	Αμερική	No	NoPr	Fe|Sg|Nm	9	ExD	_	_	
+7	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+8	ποιος	ποιος	Pn	PnIr	Ma|03|Sg|Nm|Xx	9	Sb	_	_	
+9	ξέρει	ξέρω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+10	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μετά	μετά	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	κάνω	κάνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+4	διεθνή	διεθνής	Aj	Aj	Ba|Fe|Sg|Ac	5	Atr	_	_	
+5	καριέρα	καριέρα	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλα	όλος	Aj	Aj	Ba|Ne|Pl|Nm	3	Atr	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Nm	3	Det	_	_	
+3	περιοδικά	περιοδικό	No	NoCm	Ne|Pl|Nm	8	Sb	_	_	
+4	θα	θα	Pt	PtFu	_	5	AuxV	_	_	
+5	έχουν	έχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	8	Pred_Co	_	_	
+6	φωτογραφίες	φωτογραφία	No	NoCm	Fe|Pl|Ac	5	Obj	_	_	
+7	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	6	Pos	_	_	
+8	και	και	Cj	CjCo	_	0	Coord	_	_	
+9	θα	θα	Pt	PtFu	_	10	AuxV	_	_	
+10	γίνω	γίνομαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	8	Pred_Co	_	_	
+11	διάσημη	διάσημος	Aj	Aj	Ba|Fe|Sg|Nm	10	Pnom	_	_	
+12	!	!	PTERM_P	PTERM_P	_	10	AuxG	_	_	
+13	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+14	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μήπως	μήπως	Ad	Ad	Ba	2	Adv	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	πολύ	πολύ	Ad	Ad	Ba	4	Adv	_	_	
+4	νωρίς	νωρίς	Ad	Ad	Ba	2	Adv	_	_	
+5	να	να	Pt	PtSj	_	7	AuxV	_	_	
+6	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	7	Obj	_	_	
+7	σκέφτομαι	σκέφτομαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	2	Pnom	_	_	
+8	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	9	Atr	_	_	
+9	αυτά	αυτός	Pn	PnDm	Ne|03|Pl|Ac|Xx	7	Obj	_	_	
+10	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ωχ	ωχ	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	γίνει	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	αύριο	αύριο	Ad	Ad	Ba	3	Adv	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχουμε	έχω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	διαγώνισμα	διαγώνισμα	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+3	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+4	φυσική	φυσικός	Aj	Aj	Ba|Fe|Sg|Ac	5	Atr_Co	_	_	
+5	και	και	Cj	CjCo	_	3	Coord	_	_	
+6	ακόμα	ακόμα	Ad	Ad	Ba	9	Adv	_	_	
+7	δεν	δεν	Pt	PtNg	_	9	AuxV	_	_	
+8	έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	9	AuxV	_	_	
+9	ανοίξει	ανοίγω	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Av|Xx	5	Atr_Co	_	_	
+10	βιβλίο	βιβλίο	No	NoCm	Ne|Sg|Ac	9	Obj	_	_	
+11	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ας	ας	Pt	PtOt	_	2	AuxV	_	_	
+2	πάρω	παίρνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τον	ο	At	AtDf	Ma|Sg|Ac	4	Det	_	_	
+4	Αρτάν	Αρτάν	No	NoPr	Ma|Sg|Ac	2	Obj	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	δω	βλέπω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	IObj	_	_	
+7	σε	σε	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	ποιο	ποιος	Pn	PnIr	Ne|03|Sg|Ac|Xx	9	Atr	_	_	
+9	κεφάλαιο	κεφάλαιο	No	NoCm	Ne|Sg|Ac	7	Adv	_	_	
+10	βρίσκεται	βρίσκω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	6	Obj	_	_	
+11	...	...	PTERM_P	PTERM_P	_	10	Adv	_	_	
+12	»	»	CPUNCT	CPUNCT	_	6	AuxG	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

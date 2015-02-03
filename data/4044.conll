@@ -1,0 +1,39 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ρε	ρε	Ij	Ij	_	6	Adv	_	_	
+3	συ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	6	Sb	_	_	
+4	Χάρη	χάρη	Ad	Ad	Ba	6	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	κουνήσου	κουνώ	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	λίγο	λίγο	Ad	Ad	Ba	6	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	αργήσουμε	αργώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxV	_	_	
+2	Άκου	ακούω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	5	AuxV	_	_	
+4	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	5	IObj	_	_	
+5	πω	λέγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+6	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+7	μη	μην	Pt	PtNg	_	9	AuxV	_	_	
+8	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	9	IObj	_	_	
+9	μιλάς	μιλώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	2	Pred	_	_	
+10	εμένα	εγώ	Pn	PnPe	Ma|01|Sg|Ac|St	9	Obj	_	_	
+11	έτσι	έτσι	Ad	Ad	Ba	9	Adv	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αν	αν	Cj	CjSb	_	0	AuxC	_	_	
+2	θέλεις	θέλω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+3	κάτι	κάτι	Pn	PnId	Ne|03|Sg|Nm|Xx	7	Sb	_	_	
+4	να	να	Pt	PtSj	_	7	AuxV	_	_	
+5	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	7	IObj	_	_	
+6	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	7	Obj	_	_	
+7	λες	λέγω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+8	ευγενικά	ευγενικά	Ad	Ad	Ba	7	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εντάξει	εντάξει	Ad	Ad	Ba	0	ExD	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

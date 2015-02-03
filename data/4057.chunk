@@ -1,0 +1,266 @@
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	Ιαπωνικό	ιαπωνικός	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\10	TOK	ρομπότ-γευσιγνώστης	ρομπότ-γευσιγνώστης	NoCmMaSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\31	TOK	Η	ο	AtDfFeSgNm
+1\33	TOK	Nec	Nec	RgFwOr
+	SYN	/np_nm]
+	SYN	[pp
+1\37	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\40	TOK	συνεργασία	συνεργασία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\51	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\54	TOK	το	ο	AtDfNeSgAc
+1\57	TOK	Πανεπιστήμιο	πανεπιστήμιο	NoCmNeSgAc
+1\70	TOK	NIE	NIE	RgFwOr
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\74	TOK	δημιούργησε	δημιουργώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\86	TOK	μια	ένας	AtIdFeSgAc
+1\90	TOK	συσκευή	συσκευή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\98	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\102	TOK	μπήκε	μπαίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\108	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\112	TOK	βιβλίο	βιβλίο	NoCmNeSgAc
+1\119	TOK	Γκίνες	Γκίνες	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\126	TOK	ως	ως	AdXxBa
+	SYN	[np_ac
+1\129	TOK	το	ο	AtDfMaSgAc
+	SYN	[adjp_ac
+1\132	TOK	πρώτο	πρώτος	NmOdMaSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/advp]
+	SYN	[np_nm
+1\138	TOK	ρομπότ-δοκιμαστής	ρομπότ-δοκιμαστής	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\156	TOK	κρασιών	κρασί	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/cl_r]
+	SYN	/cl]
+1\163	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\165	TOK	Έχει	έχω	VbMnIdPr03SgXxIpAvXx
+1\170	TOK	καταφέρει	καταφέρνω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\180	TOK	να	να	PtSj
+1\183	TOK	αναγνωρίσει	αναγνωρίζω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\195	TOK	τύπους	τύπος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\202	TOK	τυριών	τυρί	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	[pp
+1\209	TOK	χωρίς	χωρίς	AsPpSp
+	SYN	[advp
+1\215	TOK	καν	καν	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\219	TOK	να	να	PtSj
+1\222	TOK	ανοίξει	ανοίγω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\230	TOK	τη	ο	AtDfFeSgAc
+1\233	TOK	συσκευασία	συσκευασία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\243	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\245	TOK	Έπειτα	έπειτα	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\252	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\256	TOK	αυτό	αυτός	PnDmNe03SgAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+1\260	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\262	TOK	οι	ο	AtDfMaPlNm
+1\265	TOK	κατασκευαστές	κατασκευαστής	NoCmMaPlNm
+1\279	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\283	TOK	προσπάθησαν	προσπαθώ	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\295	TOK	να	να	PtSj
+	SYN	[np_ac
+1\298	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+1\301	TOK	εξελίξουν	εξελίσσω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\311	TOK	ως	ως	AdXxBa
+	SYN	[np_ac
+1\314	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\317	TOK	πρώτο	πρώτος	NmOdNeSgAcAj
+1\323	OPUNCT	«	«	OPUNCT
+1\324	TOK	ρομπότ-δοκιμαστή	ρομπότ-δοκιμαστή	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\341	TOK	κρασιών	κρασί	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/advp]
+1\348	CPUNCT	»	»	CPUNCT
+	SYN	/cl_o]
+1\349	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\352	TOK	Έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\357	TOK	τη	ο	AtDfFeSgAc
+1\360	TOK	δυνατότητα	δυνατότητα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\371	TOK	να	να	PtSj
+1\374	TOK	εξερευνά	εξερευνώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\383	TOK	το	ο	AtDfNeSgAc
+1\386	TOK	φαγητό	φαγητό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\392	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+	SYN	[vg_s
+1\394	TOK	να	να	PtSj
+1\397	TOK	αναγνωρίζει	αναγνωρίζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\409	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\413	TOK	να	να	PtSj
+1\416	TOK	καταγράφει	καταγράφω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg_s]
+1\427	TOK	τα	ο	AtDfNePlAc
+	SYN	[np_ac
+1\430	TOK	συστατικά	συστατικός	NoCmNeSgAc
+1\440	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\444	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\448	TOK	να	να	PtSj
+1\451	TOK	κάνει	κάνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\457	TOK	σχόλια	σχόλιο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\464	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\468	TOK	τη	ο	AtDfFeSgAc
+1\471	TOK	γεύση	γεύση	NoCmFeSgAc
+1\477	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\481	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\483	TOK	Επίσης	επίσης	AdXxBa
+	SYN	/advp]
+1\489	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\491	TOK	δίνει	δίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\497	TOK	συμβουλές	συμβουλή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[advp
+1\507	TOK	σχετικά	σχετικά	AdXxBa
+	SYN	[pp
+1\515	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\518	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\522	TOK	θερμιδικές	θερμιδικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\533	TOK	αξίες	αξία	NoCmFePlAc
+	SYN	/np_ac]
+1\539	TOK	και	και	CjCo
+	SYN	[np_ac
+1\543	TOK	πληροφορίες	πληροφορία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[pp
+1\555	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\559	TOK	τις	ο	AtDfFePlAc
+1\563	TOK	επιπτώσεις	επίπτωση	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\574	TOK	του	ο	AtDfNeSgGe
+1\578	TOK	φαγητού	φαγητό	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\586	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\591	TOK	υγεία	υγεία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\597	OPUNCT	(	(	OPUNCT
+	SYN	[np_nm
+1\598	TOK	χοληστερίνη	χοληστερίνη	NoCmFeSgNm
+	SYN	/np_nm]
+1\610	ABBR	κ.ά.	κ.ά.	ABBR
+1\614	CPUNCT	)	)	CPUNCT
+	SYN	/cl]
+1\615	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

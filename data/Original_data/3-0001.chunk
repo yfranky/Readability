@@ -1,0 +1,181 @@
+	(SENT	<S>
+1\1	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\2	TOK	Καλημερα	καλημέρα	NoCmFeSgNm
+	SYN	/np_nm]
+1\10	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\12	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+1\18	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\20	TOK	Καλή	καλός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\25	TOK	χρονιά	χρονιά	NoCmFeSgNm
+	SYN	/np_nm]
+1\31	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\33	TOK	Καλωσορίσατε	καλωσορίζω	VbMnIdPa02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\46	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\50	TOK	Ελληνικά	ελληνικός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\58	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\61	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\62	TOK	Καλημέρα	καλημέρα	NoCmFeSgNm
+	SYN	/np_nm]
+1\70	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\72	TOK	κυρία	κυρία	NoCmFeSgNm
+	SYN	/np_nm]
+1\77	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\80	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\81	TOK	Με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\84	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\89	TOK	κυρία	κυρία	NoCmFeSgAc
+1\95	TOK	Σοφοκλέους	Σοφοκλέους	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\105	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[advp
+1\107	TOK	Πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\111	TOK	σε	εγώ	PnPeMa02SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\114	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\118	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\121	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\122	TOK	Με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\125	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\130	TOK	Σόφη	Σόφη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\134	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\137	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\138	TOK	Σόφη	Σόφη	NoPrFeSgAc
+	SYN	/np_ac]
+1\142	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\144	TOK	Α	α	NoCmNeSgNm
+	SYN	/np_nm]
+1\145	PTERM_P	...	...	PTERM_P
+1\148	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\150	TOK	ελληνικό	ελληνικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\159	TOK	όνομα	όνομα	NoCmNeSgAc
+	SYN	/np_ac]
+1\164	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\166	TOK	Σοφία	Σοφία	NoPrFeSgNm
+	SYN	/np_nm]
+1\171	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\174	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\175	TOK	Γεια	γεια	NoCmFeSgNm
+1\180	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_nm]
+1\183	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_ac
+1\185	TOK	Εσάς	εγώ	PnPeMa02PlAcSt
+	SYN	/np_ac]
+	SYN	[advp
+1\190	TOK	πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[np_ge
+1\194	TOK	σας	εγώ	PnPeMa02PlGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\198	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\202	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\205	ENUM	-	-	ENUM
+	SYN	[np_ge
+1\206	TOK	Εμένα	εγώ	PnPeMa01SgGeSt
+	SYN	/np_ge]
+	SYN	[np_ac
+1\212	TOK	με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\215	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\220	TOK	Σουν	Σουν	NoPrMaSgNm
+1\225	TOK	Γιν	Γιν	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\228	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\231	ENUM	-	-	ENUM
+	SYN	[np_ge
+1\232	TOK	Εμένα	εγώ	PnPeMa01SgGeSt
+	SYN	/np_ge]
+	SYN	[np_ac
+1\238	TOK	με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\241	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\246	TOK	Ορέστη	Ορέστης	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\252	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,31 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Βλέπεις	βλέπω	No	NoCm	Fe|Pl|Nm	0	ExD	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ένας	ένας	At	AtId	Ma|Sg|Nm	3	Det	_	_	
+2	άσπρος	άσπρος	Aj	Aj	Ba|Ma|Sg|Nm	3	Atr	_	_	
+3	κύκνος	κύκνος	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	μέσα	μέσα	Ad	Ad	Ba	4	Adv	_	_	
+6	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	5	AuxP	_	_	
+7	γαλάζια	γαλάζιος	Aj	Aj	Ba|Fe|Sg|Ac	8	Atr	_	_	
+8	λίμνη	λίμνη	No	NoCm	Fe|Sg|Ac	6	Adv	_	_	
+9	δίπλα	δίπλα	Ad	Ad	Ba	4	Adv	_	_	
+10	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	9	AuxP	_	_	
+11	πάπιες	πάπια	No	NoCm	Fe|Pl|Ac	10	Adv	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	2	AuxY	_	_	
+2	πιο	πιο	Ad	Ad	Ba	3	Adv	_	_	
+3	πέρα	πέρα	Ad	Ad	Ba	6	Adv	_	_	
+4	άσπρα	άσπρος	Aj	Aj	Ba|Ne|Pl|Ac	5	Atr	_	_	
+5	νούφαρα	νούφαρο	No	NoCm	Ne|Pl|Ac	6	Obj	_	_	
+6	κολυμπάνε	κολυμπώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	6	AuxP	_	_	
+8	νερό	νερό	No	NoCm	Ne|Sg|Ac	7	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

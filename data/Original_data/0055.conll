@@ -1,0 +1,63 @@
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Ωραία	ωραία	Ad	Ad	Ba	3	Adv	_	_	
+3	γάτα	γάτα	No	NoCm	Fe|Sg|Ac	4	Obj_Co	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	καλή	καλός	Aj	Aj	Ba|Fe|Sg|Ac	4	Obj_Co	_	_	
+6	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	2	Obj	_	_	
+2	τρως	τρώω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+3	ολημέρα	ολημερίς	Ad	Ad	Ba	2	Adv	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	είσαι	είμαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	4	Pred_Co	_	_	
+6	τόσο	τόσο	Ad	Ad	Ba	7	Adv	_	_	
+7	χοντρή	χοντρός	Aj	Aj	Ba|Fe|Sg|Nm	5	Pnom	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Τρώω	τρώω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	ποντίκια	ποντίκι	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+4	κάθε	κάθε	Pn	PnId	Fe|03|Sg|Ac|Xx	5	Atr	_	_	
+5	μέρα	μέρα	No	NoCm	Fe|Sg|Ac	2	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ποντίκια	ποντίκι	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	σούπα	σούπα	No	NoCm	Fe|Sg|Ac	1	Atr	_	_	
+3	τη	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	Δευτέρα	Δευτέρα	No	NoCm	Fe|Sg|Ac	1	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	την	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+2	Τρίτη	Τρίτη	Nm	NmOd	Fe|Sg|Nm|Aj	4	Atr	_	_	
+3	ποντικό	ποντικός	Aj	Aj	Ba|Ne|Sg|Ac	4	Atr	_	_	
+4	κεμπάπ	κεμπάπ	No	NoCm	Ne|Pl|Ac	0	ExD	_	_	
+
+1	την	ο	At	AtDf	Fe|Sg|Ac	2	Det	_	_	
+2	Τετάρτη	Τετάρτη	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+3	τασκεμπάπ	τασκεμπάπ	No	NoCm	Ne|Pl|Ac	2	Atr	_	_	
+4	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	την	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+2	Πέμπτη	Πέμπτη	Nm	NmOd	Fe|Sg|Ac|Aj	3	Atr	_	_	
+3	ποντικό	ποντικός	Aj	Aj	Ba|Ma|Sg|Ac	0	ExD	_	_	
+4	βραστό	βραστός	Aj	Aj	Ba|Ma|Sg|Ac	3	Atr	_	_	
+
+1	και	και	Cj	CjCo	_	3	AuxY	_	_	
+2	την	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+3	Παρασκευή	Παρασκευή	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+4	ψητό	ψητός	Aj	Aj	Ba|Ma|Sg|Ac	3	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	Σάββατο	Σάββατο	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+3	τηγανητό	τηγανητός	Aj	Aj	Ba|Ma|Sg|Ac	2	Atr	_	_	
+
+1	και	και	Cj	CjCo	_	3	AuxY	_	_	
+2	την	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+3	Κυριακή	Κυριακή	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+4	ζεστά	ζεστά	Ad	Ad	Ba	3	Adv	_	_	
+
+1	ποντικάκια	ποντικάκι	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	γεμιστά	γεμιστός	Aj	Aj	Ba|Ne|Pl|Ac	1	Atr	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

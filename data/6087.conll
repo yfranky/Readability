@@ -1,0 +1,109 @@
+1	Όταν	όταν	Cj	CjSb	_	0	AuxC	_	_	
+2	γίνεται	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	1	Adv	_	_	
+3	σεισμός	σεισμός	No	NoCm	Ma|Sg|Nm	2	Sb	_	_	
+
+1	δε	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	βγαίνετε	βγαίνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	έξω	έξω	Ad	Ad	Ba	2	Adv	_	_	
+4	από	από	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Ac	6	Det	_	_	
+6	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+7	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	6	Pos	_	_	
+8	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+9	γιατί	γιατί	Cj	CjSb	_	2	AuxC	_	_	
+10	μπορεί	μπορώ	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	9	Adv	_	_	
+11	να	να	Pt	PtSj	_	12	AuxV	_	_	
+12	πέσουν	πέφτω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	10	Sb	_	_	
+13	πάνω	πάνω	Ad	Ad	Ba	12	Adv	_	_	
+14	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ge|We	15	Atr	_	_	
+15	τζάμια	τζάμι	No	NoCm	Ne|Pl|Ac	18	Obj_Co	_	_	
+16	,	,	PUNCT	PUNCT	_	18	AuxX	_	_	
+17	γλάστρες	γλάστρα	No	NoCm	Fe|Pl|Ac	18	Adv_Co	_	_	
+18	ή	ή	Cj	CjCo	_	13	Coord	_	_	
+19	μάρμαρα	μάρμαρο	No	NoCm	Ne|Pl|Ac	18	Obj_Co	_	_	
+20	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	μένετε	μένω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	κάτω	κάτω	Ad	Ad	Ba	1	Adv	_	_	
+3	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	μια	ένας	At	AtId	Fe|Sg|Ac	5	Det	_	_	
+5	κάσα	κάσα	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+6	εσωτερικής	εσωτερικός	Aj	Aj	Ba|Fe|Sg|Ge	7	Atr	_	_	
+7	πόρτας	πόρτα	No	NoCm	Fe|Sg|Ge	5	Atr	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	μπαίνετε	μπαίνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	κάτω	κάτω	Ad	Ad	Ba	1	Adv	_	_	
+3	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	ένα	ένας	At	AtId	Ne|Sg|Ac	6	Det	_	_	
+5	γερό	γερός	Aj	Aj	Ba|Ne|Sg|Ac	6	Atr	_	_	
+6	τραπέζι	τραπέζι	No	NoCm	Ne|Sg|Ac	3	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	έχετε	έχω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	μαζί	μαζί	Ad	Ad	Ba	2	Adv	_	_	
+4	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ge|We	7	Atr	_	_	
+5	μια	ένας	At	AtId	Fe|Sg|Ac	6	Det	_	_	
+6	σφυρίχτρα	σφυρίχτρα	No	NoCm	Fe|Sg|Ac	7	Obj_Co	_	_	
+7	και	και	Cj	CjCo	_	3	Coord	_	_	
+8	ένα	ένας	At	AtId	Ne|Sg|Ac	9	Det	_	_	
+9	δοχείο	δοχείο	No	NoCm	Ne|Sg|Ac	7	Obj_Co	_	_	
+10	με	με	AsPp	AsPpSp	_	7	AuxP	_	_	
+11	νερό	νερό	No	NoCm	Ne|Sg|Ac	10	Adv_Co	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όταν	όταν	Cj	CjSb	_	0	AuxC	_	_	
+2	σταματήσει	σταματώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	σεισμός	σεισμός	No	NoCm	Ma|Sg|Nm	2	Sb	_	_	
+
+1	βγαίνετε	βγαίνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	έξω	έξω	Ad	Ad	Ba	1	Adv	_	_	
+3	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	τις	ο	At	AtDf	Fe|Pl|Ac	5	Det	_	_	
+5	σκάλες	σκάλα	No	NoCm	Fe|Pl|Ac	3	Adv	_	_	
+
+1	δε	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	χρησιμοποιείτε	χρησιμοποιώ	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	ασανσέρ	ασανσέρ	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	παίρνετε	παίρνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μαζί	μαζί	Ad	Ad	Ba	1	Adv	_	_	
+3	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ge|We	6	IObj	_	_	
+4	ένα	ένας	At	AtId	Ne|Sg|Ac	5	Det	_	_	
+5	ραδιόφωνο	ραδιόφωνο	No	NoCm	Ne|Sg|Ac	6	Adv_Co	_	_	
+6	και	και	Cj	CjCo	_	2	Coord	_	_	
+7	ένα	ένας	At	AtId	Ma|Sg|Ac	8	Det	_	_	
+8	φακό	φακός	No	NoCm	Ma|Sg|Ac	6	Adv_Co	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	κάνετε	κάνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	«	«	OPUNCT	OPUNCT	_	3	AuxG	_	_	
+3	ασκήσεις	άσκηση	No	NoCm	Fe|Pl|Ac	1	Obj	_	_	
+4	ετοιμότητας	ετοιμότητα	No	NoCm	Fe|Sg|Ge	3	Atr	_	_	
+5	»	»	CPUNCT	CPUNCT	_	3	AuxG	_	_	
+6	για	για	AsPp	AsPpSp	_	11	AuxP	_	_	
+7	πιθανό	πιθανός	Aj	Aj	Ba|Ma|Sg|Ac	8	Atr	_	_	
+8	σεισμό	σεισμός	No	NoCm	Ma|Sg|Ac	6	Atr_Co	_	_	
+9	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	8	AuxP	_	_	
+10	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	9	Atr	_	_	
+11	και	και	Cj	CjCo	_	3	Coord	_	_	
+12	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	11	AuxP	_	_	
+13	σχολείο	σχολείο	No	NoCm	Ne|Sg|Ac	12	Adv_Co	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έτσι	έτσι	Ad	Ad	Ba	2	Adv	_	_	
+2	ξέρετε	ξέρω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	6	Obj	_	_	
+4	πρέπει	πρέπει	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	κάνετε	κάνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	4	Sb	_	_	
+7	την	ο	At	AtDf	Fe|Sg|Ac	8	Det	_	_	
+8	ώρα	ώρα	No	NoCm	Fe|Sg|Ac	6	Obj	_	_	
+9	του	ο	At	AtDf	Ma|Sg|Ge	10	Det	_	_	
+10	σεισμού	σεισμός	No	NoCm	Ma|Sg|Ge	8	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

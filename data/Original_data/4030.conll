@@ -1,0 +1,16 @@
+1	Εμπύρετος	εμπύρετος	Aj	Aj	Ba|Fe|Sg|Nm	2	Atr	_	_	
+2	κατάστασις	κατάσταση	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	λόγω	λόγω	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	ελαφράς	ελαφρός	Aj	Aj	Ba|Fe|Sg|Ge	5	Atr	_	_	
+5	λοιμώξεως	λοίμωξη	No	NoCm	Fe|Sg|Ge	3	Atr	_	_	
+6	του	ο	At	AtDf	Ma|Sg|Ge	7	Det	_	_	
+7	αναπνευστικού	αναπνευστικός	Aj	Aj	Ba|Ma|Sg|Ge	5	Atr	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	χορηγηθεί	χορηγώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	αντιβίωση	αντιβίωση	No	NoCm	Fe|Sg|Nm	4	Pnom_Co	_	_	
+4	και	και	Cj	CjCo	_	2	Coord	_	_	
+5	αντιπυρετικά	αντιπυρετικός	Aj	Aj	Ba|Ne|Pl|Ac	4	Pnom_Co	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,514 @@
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	25η	25ος	NmOdFeSgNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ge
+1\5	TOK	Μαρτίου	Μάρτιος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	[pp
+1\13	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\18	TOK	Καναδά	Καναδάς	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\26	TOK	Το	ο	AtDfNeSgAc
+1\29	DIG	1821	1821	DIG
+	SYN	[np_nm
+1\34	TOK	οι	ο	AtDfMaPlNm
+1\37	TOK	Έλληνες	Έλληνας	NoPrMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\45	TOK	αποφασίζουν	αποφασίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\57	TOK	να	να	PtSj
+1\60	TOK	αγωνιστούν	αγωνίζομαι	VbMnIdXx03PlXxPePvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\71	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\75	TOK	την	ο	AtDfFeSgAc
+1\79	TOK	ελευθερία	ελευθερία	NoCmFeSgAc
+1\89	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\93	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\95	TOK	Δεν	δεν	PtNg
+1\99	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\104	TOK	βέβαια	βέβαια	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\111	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\113	TOK	πρώτη	πρώτος	NmOdFeSgNmAj
+	SYN	/adjp_nm]
+1\119	TOK	φορά	φορά	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\123	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\125	TOK	Και	και	CjCo
+	SYN	[cl
+	SYN	[advp
+1\129	TOK	παλαιότερα	παλιός	AdXxCp
+	SYN	/advp]
+	SYN	[vg
+1\140	TOK	είχαν	έχω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\146	TOK	κάνει	κάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\152	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\155	TOK	ίδιο	ίδιος	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\159	PUNCT	,	,	PUNCT
+1\161	TOK	αλλά	αλλά	CjCo
+	SYN	[pp
+1\166	TOK	χωρίς	χωρίς	AsPpSp
+	SYN	[np_ac
+1\172	TOK	αποτέλεσμα	αποτέλεσμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\182	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\184	TOK	Παίρνουν	παίρνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\193	TOK	λοιπόν	λοιπόν	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\200	TOK	πάλι	πάλι	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\205	TOK	τα	ο	AtDfNePlAc
+1\208	TOK	όπλα	όπλο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\212	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\214	TOK	συγκεντρώνονται	συγκεντρώνω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\230	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\233	TOK	διάφορα	διάφορος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\241	TOK	μέρη	μέρος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\246	TOK	σ'	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\249	TOK	όλη	όλος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\253	TOK	την	ο	AtDfFeSgAc
+1\257	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\263	PUNCT	,	,	PUNCT
+1\265	TOK	κι	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\268	TOK	αρχίζουν	αρχίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\277	TOK	την	ο	AtDfFeSgAc
+1\281	TOK	επανάσταση	επανάσταση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\291	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\293	TOK	Το	ο	AtDfNeSgNm
+1\296	TOK	σύνθημα	σύνθημα	NoCmNeSgNm
+1\304	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\309	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\314	PTERM_P	:	:	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[pp
+1\318	TOK	Για	για	AsPpSp
+	SYN	[np_ge
+1\322	TOK	του	ο	AtDfMaSgGe
+1\326	TOK	Χριστού	χριστός	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\334	TOK	την	ο	AtDfFeSgAc
+1\338	TOK	πίστη	πίστη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\344	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\348	TOK	αγία	άγιος	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+1\354	TOK	και	και	CjCo
+	SYN	[np_ge
+1\358	TOK	της	ο	AtDfFeSgGe
+1\362	TOK	πατρίδας	πατρίδα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\371	TOK	την	ο	AtDfFeSgAc
+1\375	TOK	ελευθερία	ελευθερία	NoCmFeSgAc
+	SYN	/np_ac]
+1\384	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\387	TOK	Οι	ο	AtDfMaPlNm
+1\390	TOK	Έλληνες	Έλληνας	NoPrMaPlNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\398	TOK	που	που	PnReMa03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\402	TOK	ζούσαν	ζω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\409	TOK	έξω	έξω	AdXxBa
+	SYN	[pp
+1\413	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\417	TOK	την	ο	AtDfFeSgAc
+1\421	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\427	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\429	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\432	TOK	διάφορες	διάφορος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\441	TOK	πόλεις	πόλη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\448	TOK	της	ο	AtDfFeSgGe
+1\452	TOK	Ευρώπης	Ευρώπη	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+1\459	PUNCT	,	,	PUNCT
+	SYN	[cl_t
+1\461	TOK	μόλις	μόλις	AdXxBa
+	SYN	[vg
+1\467	TOK	έμαθαν	μαθαίνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\474	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\478	TOK	την	ο	AtDfFeSgAc
+1\482	TOK	επανάσταση	επανάσταση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_t]
+1\492	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\494	TOK	προσπάθησαν	προσπαθώ	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\506	TOK	να	να	PtSj
+1\509	TOK	βοηθήσουν	βοηθώ	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[advp
+1\519	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\524	TOK	μπορούσαν	μπορώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_o]
+1\533	PTERM_P	:	:	PTERM_P
+	SYN	[cl
+	SYN	[np_nm
+1\535	TOK	άλλοι	άλλος	PnIdMa03PlNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\541	TOK	έφυγαν	φεύγω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\548	TOK	αμέσως	αμέσως	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\555	TOK	για	για	AsPpSp
+1\559	TOK	να	να	PtSj
+1\562	TOK	πολεμήσουν	πολεμώ	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\572	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\574	TOK	άλλοι	άλλος	PnIdMa03PlNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\580	TOK	έστελναν	στέλνω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\589	TOK	χρήματα	χρήμα	NoCmNePlAc
+	SYN	/np_ac]
+1\597	TOK	κι	και	CjCo
+	SYN	[np_ac
+1\600	TOK	άλλα	άλλος	PnIdNe03PlAcXx
+	SYN	[adjp_ac
+1\605	TOK	απαραίτητα	απαραίτητος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\615	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\617	TOK	Σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\620	TOK	όλα	όλος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\624	TOK	αυτά	αυτός	PnDmNe03PlAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\629	TOK	βοήθησαν	βοηθώ	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\638	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\643	TOK	οι	ο	AtDfFePlNm
+	SYN	[adjp_nm
+1\646	TOK	Ελληνικές	ελληνικός	AjBaFePlNm
+	SYN	/adjp_nm]
+1\656	TOK	Κοινότητες	κοινότητα	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\667	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\671	TOK	υπήρχαν	υπάρχω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\679	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\683	TOK	μέρη	μέρος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\688	TOK	που	που	PnReNe03PlAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\692	TOK	ζούσαν	ζω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl]
+1\698	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\700	TOK	Σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+1\706	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\708	TOK	οι	ο	AtDfMaPlNm
+1\711	TOK	Έλληνες	Έλληνας	NoPrMaPlNm
+	SYN	/np_nm]
+1\718	PUNCT	,	,	PUNCT
+	SYN	[advp
+	SYN	[cl_ri
+	SYN	[advp
+1\720	TOK	όπου	όπου	AdXxBa
+	SYN	/advp]
+1\725	TOK	κι	και	CjCo
+1\728	TOK	αν	αν	CjSb
+	SYN	[vg
+1\731	TOK	βρίσκονται	βρίσκω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_ri]
+	SYN	/advp]
+1\741	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\743	TOK	γιορτάζουν	γιορτάζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+1\754	TOK	την	ο	AtDfFeSgAc
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\758	TOK	25η	25ος	NmOdFeSgNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ge
+1\762	TOK	Μαρτίου	Μάρτιος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[np_ac
+1\770	TOK	με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\773	TOK	παρελάσεις	παρελαύνω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg]
+1\784	TOK	και	και	CjCo
+	SYN	[np_ac
+1\788	TOK	εκδηλώσεις	εκδήλωση	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\798	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\800	TOK	Θυμούνται	θυμάμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\810	TOK	ξανά	ξανά	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\815	TOK	αυτούς	αυτός	PnDmMa03PlAcXx
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\822	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\826	TOK	αγωνίστηκαν	αγωνίζομαι	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\838	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\842	TOK	την	ο	AtDfFeSgAc
+1\846	TOK	ελευθερία	ελευθερία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\855	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\857	TOK	Οι	ο	AtDfMaPlNm
+1\860	TOK	Έλληνες	Έλληνας	NoPrMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\868	TOK	του	ο	AtDfMaSgGe
+1\872	TOK	Καναδά	Καναδάς	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\879	TOK	γιορτάζουν	γιορτάζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+1\890	TOK	και	και	CjCo
+	SYN	[np_nm
+1\894	TOK	αυτοί	αυτός	PnDmMa03PlNmXx
+	SYN	/np_nm]
+1\899	PUNCT	,	,	PUNCT
+	SYN	[advp
+	SYN	[cl_ri
+	SYN	[advp
+1\901	TOK	όπου	όπου	AdXxBa
+	SYN	/advp]
+1\906	TOK	κι	και	CjCo
+1\909	TOK	αν	αν	CjSb
+	SYN	[vg
+1\912	TOK	βρίσκονται	βρίσκω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+1\922	PTERM_P	:	:	PTERM_P
+	SYN	[pp
+1\924	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\928	TOK	Μοντρεάλ	Μοντρεάλ	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\936	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\938	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\943	TOK	Οτάβα	Οτάβα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\948	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\950	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\954	TOK	Τορόντο	Τορόντο	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\961	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\963	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\967	TOK	Βανκούβερ	Βανκούβερ	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\976	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\978	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\982	TOK	Χάλιφαξ	Χάλιφαξ	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\989	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\991	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\995	TOK	Κάλκαρι	Κάλκαρι	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\1002	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\1004	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\1008	TOK	Γουίνμπεκ	Γουίνμπεκ	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_ri]
+	SYN	/advp]
+	SYN	/cl]
+1\1017	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

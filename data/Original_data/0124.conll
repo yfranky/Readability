@@ -1,0 +1,75 @@
+1	Χτες	χθες	Ad	Ad	Ba	2	Adv	_	_	
+2	χιόνισε	χιονίζει	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πολύ	πολύ	Ad	Ad	Ba	2	Adv	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	παίζουν	παίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Ac	6	Det	_	_	
+6	χιόνι	χιόνι	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φτιάχνουν	φτιάχνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	έναν	ένας	At	AtId	Ma|Sg|Ac	4	Det	_	_	
+3	μεγάλο	μεγάλος	Aj	Aj	Ba|Ma|Sg|Ac	4	Atr	_	_	
+4	χιονάνθρωπο	χιονάνθρωπος	No	NoCm	Ma|Sg|Ac	1	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βάζουν	βάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ένα	ένας	At	AtId	Ne|Sg|Ac	3	Det	_	_	
+3	καρότο	καρότο	No	NoCm	Ne|Sg|Ac	6	Obj_Ap	_	_	
+4	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	μύτη	μύτη	No	NoCm	Fe|Sg|Ac	4	Atr	_	_	
+6	,	,	PUNCT	PUNCT	_	1	Apos	_	_	
+7	δύο	δύο	Nm	NmCd	Ne|Pl|Ac|Aj	8	Atr	_	_	
+8	κουμπιά	κουμπί	No	NoCm	Ne|Pl|Ac	6	Obj_Ap	_	_	
+9	για	για	AsPp	AsPpSp	_	8	AuxP	_	_	
+10	μάτια	μάτι	No	NoCm	Ne|Pl|Ac	9	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Αχμέτ	Αχμέτ	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	βάζει	βάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	3	AuxP	_	_	
+5	χιονάνθρωπο	χιονάνθρωπος	No	NoCm	Ma|Sg|Ac	4	IObj	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+7	κόκκινο	κόκκινος	Aj	Aj	Ba|Ne|Sg|Ac	8	Atr	_	_	
+8	κασκόλ	κασκόλ	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+9	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	8	Pos	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Καθίστε	κάθομαι	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	2	Sb	_	_	
+4	κοντά	κοντά	Ad	Ad	Ba	3	Adv	_	_	
+5	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	4	AuxP	_	_	
+6	χιονάνθρωπο	χιονάνθρωπος	No	NoCm	Ma|Sg|Ac	5	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	4	AuxV	_	_	
+3	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ge|We	4	Obj	_	_	
+4	φωτογραφίσω	φωτογραφίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	βάλω	βάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τη	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	φωτογραφία	φωτογραφία	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	2	AuxP	_	_	
+6	δωμάτιό	δωμάτιο	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+7	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	6	Pos	_	_	
+8	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	6	AuxP	_	_	
+9	Θεσσαλονίκη	Θεσσαλονίκη	No	NoPr	Fe|Sg|Ac	8	Atr	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Φασαρία	φασαρία	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	έλα	έλα	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	2	Adv_Pa	_	_	
+5	κι	και	Cj	CjCo	_	4	AuxX	_	_	
+6	εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	2	ExD	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

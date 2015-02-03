@@ -1,0 +1,549 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Το	ο	AtDfNeSgNm
+1\4	TOK	κλίμα	κλίμα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\10	TOK	της	ο	AtDfFeSgGe
+1\14	TOK	Ελλάδας	Ελλάδα	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\22	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\28	TOK	γενικά	γενικά	AdXxBa
+	SYN	/advp]
+1\35	TOK	μεσογειακό	μεσογειακός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\45	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\47	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\50	TOK	ήπιους	ήπιος	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\57	TOK	χειμώνες	χειμώνας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\65	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\67	TOK	θερμά	θερμά	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\73	TOK	καλοκαίρια	καλοκαίρι	NoCmNePlAc
+	SYN	/np_ac]
+1\83	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\85	TOK	λίγες	λίγος	AjBaFePlAc
+	SYN	/adjp_ac]
+	SYN	[advp
+1\91	TOK	σχετικά	σχετικά	AdXxBa
+	SYN	/advp]
+1\99	TOK	βροχές	βροχή	NoCmFePlAc
+	SYN	/np_ac]
+1\106	TOK	και	και	CjCo
+	SYN	[advp
+1\110	TOK	πολύ	πολύ	AdXxBa
+1\115	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\120	TOK	ήλιο	ήλιος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\125	TOK	όλο	όλος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\129	TOK	τον	ο	AtDfMaSgAc
+1\133	TOK	χρόνο	χρόνος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\138	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\141	TOK	Ωστόσο	ωστόσο	CjCo
+	SYN	[cl
+1\147	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\149	TOK	δεν	δεν	PtNg
+1\153	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\159	TOK	όλες	όλος	AjBaFePlNm
+	SYN	/adjp_nm]
+1\164	TOK	οι	ο	AtDfFePlNm
+1\167	TOK	περιοχές	περιοχή	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\176	TOK	της	ο	AtDfFeSgGe
+1\180	TOK	Ελλάδας	Ελλάδα	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\188	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\191	TOK	ίδιο	ίδιος	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	[advp
+1\196	TOK	ακριβώς	ακριβώς	AdXxBa
+	SYN	/advp]
+1\204	TOK	κλίμα	κλίμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\209	PTERM_P	:	:	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\212	ENUM	-	-	ENUM
+	SYN	[pp
+1\214	TOK	Στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\218	TOK	ελληνικά	ελληνικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\227	TOK	βουνά	βουνό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\233	TOK	χιονίζει	χιονίζει	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\242	TOK	συχνά	συχνά	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\248	TOK	τον	ο	AtDfMaSgAc
+1\252	TOK	χειμώνα	χειμώνας	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\260	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\264	TOK	κάνει	κάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\270	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\275	TOK	κρύο	κρύο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\279	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\281	TOK	Το	ο	AtDfNeSgNm
+1\284	TOK	κλίμα	κλίμα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\290	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\296	TOK	ξηρό	ξηρός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\300	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[advp
+1\302	TOK	δηλαδή	δηλαδή	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\309	TOK	δεν	δεν	PtNg
+1\313	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\318	TOK	πολλή	πολύς	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\324	TOK	υγρασία	υγρασία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\331	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\333	TOK	Συχνές	συχνός	AjBaFePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\340	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+1\346	TOK	και	και	CjCo
+	SYN	[np_nm
+1\350	TOK	οι	ο	AtDfFePlNm
+1\353	TOK	βροχές	βροχή	NoCmFePlNm
+	SYN	/np_nm]
+1\359	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\361	TOK	ιδίως	ιδίως	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\367	TOK	την	ο	AtDfFeSgAc
+1\371	TOK	άνοιξη	άνοιξη	NoCmFeSgAc
+	SYN	/np_ac]
+1\378	TOK	και	και	CjCo
+	SYN	[np_ac
+1\382	TOK	το	ο	AtDfNeSgAc
+1\385	TOK	φθινόπωρο	φθινόπωρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\394	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\396	TOK	Το	ο	AtDfNeSgNm
+1\399	TOK	καλοκαίρι	καλοκαίρι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\409	TOK	η	ο	AtDfFeSgNm
+1\411	TOK	θερμοκρασία	θερμοκρασία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\423	TOK	ανεβαίνει	ανεβαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\433	TOK	αρκετά	αρκετά	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\439	PUNCT	,	,	PUNCT
+1\441	TOK	αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[advp
+1\446	TOK	ποτέ	ποτέ	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\451	TOK	δεν	δεν	PtNg
+1\455	TOK	κάνει	κάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\461	TOK	πολλή	πολύς	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\467	TOK	ζέστη	ζέστη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\472	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\475	ENUM	-	-	ENUM
+	SYN	[pp
+1\477	TOK	Στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\482	TOK	παραθαλάσσιες	παραθαλάσσιος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\496	TOK	περιοχές	περιοχή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\505	TOK	ο	ο	AtDfMaSgNm
+1\507	TOK	χειμώνας	χειμώνας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\516	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\522	TOK	γλυκός	γλυκός	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\528	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\530	TOK	χωρίς	χωρίς	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\536	TOK	πολύ	πολύς	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\541	TOK	κρύο	κρύο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\545	PUNCT	,	,	PUNCT
+1\547	TOK	και	και	CjCo
+	SYN	[np_nm
+1\551	TOK	το	ο	AtDfNeSgNm
+1\554	TOK	καλοκαίρι	καλοκαίρι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\564	TOK	δροσερό	δροσερός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\571	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\573	TOK	Σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\576	TOK	πολλά	πολύς	AjBaNePlAc
+	SYN	/adjp_ac]
+1\582	TOK	μέρη	μέρος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\587	TOK	όμως	όμως	CjCo
+	SYN	[np_ac
+1\592	TOK	το	ο	AtDfNeSgAc
+1\595	TOK	κλίμα	κλίμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\601	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\607	TOK	υγρό	υγρός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+	SYN	[cl_o
+1\612	TOK	γιατί	γιατί	CjSb
+	SYN	[vg
+1\618	TOK	βρέχει	βρέχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\625	TOK	συχνά	συχνά	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+1\630	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\633	ENUM	-	-	ENUM
+	SYN	[pp
+1\635	TOK	Στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\640	TOK	περιοχές	περιοχή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\649	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\653	TOK	βρίσκονται	βρίσκω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\664	TOK	μακριά	μακριά	AdXxBa
+	SYN	[pp
+1\671	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\675	TOK	τη	ο	AtDfFeSgAc
+1\678	TOK	θάλασσα	θάλασσα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[np_nm
+1\686	TOK	ο	ο	AtDfMaSgNm
+1\688	TOK	χειμώνας	χειμώνας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_r]
+	SYN	[vg
+1\697	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\703	TOK	βαρύς	βαρύς	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\709	TOK	και	και	CjCo
+	SYN	[np_nm
+1\713	TOK	το	ο	AtDfNeSgNm
+1\716	TOK	καλοκαίρι	καλοκαίρι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\726	TOK	πάρα	πάρα	AdXxBa
+1\731	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+1\736	TOK	ζεστό	ζεστός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\741	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\743	TOK	Τον	ο	AtDfMaSgAc
+1\747	TOK	χειμώνα	χειμώνας	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\755	TOK	το	ο	AtDfNeSgAc
+1\758	TOK	θερμόμετρο	θερμόμετρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\769	TOK	κατεβαίνει	κατεβαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\780	TOK	πολλές	πολύς	AjBaFePlAc
+	SYN	/adjp_ac]
+1\787	TOK	φορές	φορά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[advp
+1\793	TOK	κάτω	κάτω	AdXxBa
+	SYN	/advp]
+1\798	TOK	από	από	AsPpSp
+1\802	TOK	το	ο	AtDfNeSgAc
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\805	TOK	μηδέν	μηδέν	NmCdNeSgNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\810	PUNCT	,	,	PUNCT
+1\812	TOK	ενώ	ενώ	CjCo
+	SYN	[np_nm
+1\816	TOK	το	ο	AtDfNeSgNm
+1\819	TOK	καλοκαίρι	καλοκαίρι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\829	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\835	TOK	συχνοί	συχνός	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_nm
+1\842	TOK	οι	ο	AtDfMaPlNm
+1\845	TOK	καύσωνες	καύσωνας	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\853	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\856	TOK	Στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\861	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\868	TOK	φυσάει	φυσάω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\875	TOK	συχνά	συχνά	AdXxBa
+	SYN	/advp]
+1\881	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\885	TOK	όλο	όλος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\889	TOK	τον	ο	AtDfMaSgAc
+1\893	TOK	χρόνο	χρόνος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\898	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\900	TOK	Πιο	πιο	AdXxBa
+	SYN	/advp]
+1\904	TOK	δυνατοί	δυνατός	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\912	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\918	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\921	TOK	βόρειοι	βόρειος	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\929	TOK	άνεμοι	άνεμος	NoCmMaPlNm
+	SYN	/np_nm]
+1\935	PUNCT	,	,	PUNCT
+1\937	TOK	ενώ	ενώ	CjCo
+	SYN	[np_nm
+1\941	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\944	TOK	νότιοι	νότιος	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\951	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\957	TOK	αυτοί	αυτός	PnDmMa03PlNmXx
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\963	TOK	που	που	PnReMa03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\967	TOK	φέρνουν	φέρω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\975	TOK	βροχή	βροχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\980	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\982	TOK	Ένας	ένας	AtIdMaSgNm
+	SYN	[adjp_nm
+1\987	TOK	γνωστός	γνωστός	AjBaMaSgNm
+1\995	TOK	βόρειος	βόρειος	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\1003	TOK	άνεμος	άνεμος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1010	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1016	TOK	το	ο	AtDfNeSgNm
+1\1019	TOK	μελτέμι	μελτέμι	NoCmNeSgNm
+	SYN	/np_nm]
+1\1026	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1028	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1032	TOK	φυσάει	φυσάω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1039	TOK	τον	ο	AtDfMaSgAc
+1\1043	TOK	Αύγουστο	Αύγουστος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+1\1052	TOK	και	και	CjCo
+	SYN	[cl_r
+	SYN	[vg
+1\1056	TOK	δροσίζει	δροσίζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1065	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\1068	TOK	ζεστό	ζεστός	AjBaNeSgAc
+1\1074	TOK	ελληνικό	ελληνικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\1083	TOK	καλοκαίρι	καλοκαίρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\1092	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

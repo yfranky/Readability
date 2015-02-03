@@ -1,0 +1,358 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	ENUM	-	-	ENUM
+	SYN	[advp
+1\2	TOK	Πότε	πότε	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\7	TOK	θέλετε	θέλω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+	SYN	[cl_o
+	SYN	[vg_s
+1\14	TOK	να	να	PtSj
+1\17	TOK	κάνετε	κάνω	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\24	TOK	διακοπές	διακοπή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\33	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\38	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\44	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\47	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\48	TOK	Τον	ο	AtDfMaSgAc
+1\52	TOK	Ιούλιο	Ιούλιος	NoCmMaSgAc
+	SYN	/np_ac]
+1\58	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[vg
+1\60	TOK	Μπορείτε	μπορώ	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+	SYN	[cl_o
+	SYN	[vg_s
+1\69	TOK	να	να	PtSj
+	SYN	[np_ge
+1\72	TOK	μας	εγώ	PnPeMa01PlGeWe
+	SYN	/np_ge]
+1\76	TOK	βρείτε	βρίσκω	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\83	TOK	εισιτήρια	εισιτήριο	NoCmNePlAc
+	SYN	/np_ac]
+1\93	TOK	και	και	CjCo
+	SYN	[np_ac
+1\97	TOK	δωμάτια	δωμάτιο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\104	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\107	ENUM	-	-	ENUM
+	SYN	[advp
+1\108	TOK	Ευχαρίστως	ευχαρίστως	AdXxBa
+	SYN	/advp]
+1\118	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+	SYN	[vg_s
+1\120	TOK	Να	να	PtSj
+1\123	TOK	κοιτάξω	κοιτάζω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\130	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\132	TOK	Υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\141	TOK	ακόμη	ακόμα	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\147	TOK	ελεύθερες	ελεύθερος	AjBaFePlNm
+	SYN	/adjp_nm]
+1\157	TOK	θέσεις	θέση	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\164	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\168	TOK	Λονδίνο	Λονδίνο	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\176	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\180	TOK	Αθήνα	Αθήνα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\186	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\189	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\193	TOK	Ολυμπιακή	ολυμπιακός	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\203	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ge
+1\208	DIG	20	20	DIG
+1\211	TOK	Ιουλίου	Ιούλιος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\218	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\220	TOK	Το	ο	AtDfNeSgNm
+1\223	TOK	αεροπλάνο	αεροπλάνο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\233	TOK	πετάει	πετώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\240	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\245	TOK	εννιά	εννέα	NmCdMaPlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\251	TOK	το	ο	AtDfNeSgAc
+1\254	TOK	πρωί	πρωί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\259	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\263	TOK	φτάνει	φτάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\270	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\275	TOK	Αθήνα	Αθήνα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\281	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\286	TOK	δώδεκα	δώδεκα	NmCdNePlNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/pp]
+1\293	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\297	TOK	μισή	μισός	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\301	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\304	ENUM	-	-	ENUM
+	SYN	[vg
+1\305	TOK	Θέλουμε	θέλω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\313	TOK	να	να	PtSj
+1\316	TOK	πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\321	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\326	TOK	Κρήτη	Κρήτη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\331	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\334	ENUM	-	-	ENUM
+1\335	TOK	Πως	πως	CjSb
+1\339	TOK	και	και	CjCo
+	SYN	[advp
+1\343	TOK	πότε	πότε	AdXxBa
+	SYN	/advp]
+1\347	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\350	ENUM	-	-	ENUM
+	SYN	[pp
+1\351	TOK	Με	με	AsPpSp
+	SYN	[np_ac
+1\354	TOK	το	ο	AtDfNeSgAc
+1\357	TOK	πλοίο	πλοίο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\362	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\364	TOK	από	από	AsPpSp
+	SYN	[np_ge
+1\368	DIG	28	28	DIG
+1\371	TOK	Ιουλίου	Ιούλιος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\379	TOK	μέχρι	μέχρι	AsPpSp
+	SYN	[np_ge
+1\385	DIG	11	11	DIG
+1\388	TOK	Αυγούστου	Αύγουστος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\397	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\400	ENUM	-	-	ENUM
+	SYN	[advp
+1\401	TOK	Ωραία	ωραία	AdXxBa
+	SYN	/advp]
+1\406	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\408	TOK	Από	από	AsPpSp
+	SYN	[np_ac
+1\412	TOK	τον	ο	AtDfMaSgAc
+1\416	TOK	Πειραιά	Πειραιάς	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\424	TOK	φεύγετε	φεύγω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\432	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ge
+1\437	DIG	11	11	DIG
+1\440	TOK	Αυγούστου	Αύγουστος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\449	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\452	ENUM	-	-	ENUM
+	SYN	[advp
+1\453	TOK	Ωραία	ωραία	AdXxBa
+	SYN	/advp]
+1\458	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\460	TOK	Από	από	AsPpSp
+	SYN	[np_ac
+1\464	TOK	τον	ο	AtDfMaSgAc
+1\468	TOK	Πειραιά	Πειραιάς	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\476	TOK	φεύγετε	φεύγω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\484	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\489	DIG	19:30	19:30	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\495	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\498	TOK	το	ο	AtDfNeSgAc
+1\501	TOK	πλοίο	πλοίο	NoCmNeSgAc
+1\507	OPUNCT	"	"	OPUNCT
+1\508	TOK	Αρκάδι	Αρκάδι	NoPrNeSgAc
+1\514	CPUNCT	"	"	CPUNCT
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\516	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\520	TOK	θα	θα	PtFu
+1\523	TOK	μείνετε	μένω	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\531	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\535	TOK	Ρέθυμνο	Ρέθυμνο	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\543	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\547	TOK	ξενοδοχείο	ξενοδοχείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\558	OPUNCT	"	"	OPUNCT
+1\559	TOK	Το	ο	AtDfNeSgNm
+1\562	TOK	Δάσος	δάσος	NoCmNeSgNm
+1\567	CPUNCT	"	"	CPUNCT
+	SYN	/np_nm]
+	SYN	/cl]
+1\568	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\570	TOK	Σε	σε	AsPpSp
+	SYN	[np_ac
+1\573	TOK	μια	ένας	AtIdFeSgAc
+1\577	TOK	βδομάδα	βδομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\585	TOK	θα	θα	PtFu
+1\588	TOK	πάρετε	παίρνω	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\595	TOK	τα	ο	AtDfNePlAc
+1\598	TOK	εισιτήριά	εισιτήριο	NoCmNePlAc
+1\608	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\611	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\614	ENUM	-	-	ENUM
+	SYN	[vg
+1\615	TOK	Ευχαριστούμε	ευχαριστώ	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\628	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\632	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\634	TOK	Γεια	γεια	NoCmFeSgNm
+1\639	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_nm]
+1\642	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

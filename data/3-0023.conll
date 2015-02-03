@@ -1,0 +1,62 @@
+1	Πότε	πότε	Ad	Ad	Ba	2	Adv	_	_	
+2	γιορτάζουν	γιορτάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	οι	ο	At	AtDf	Ma|Pl|Nm	4	Det	_	_	
+4	φίλοι	φίλος	No	NoCm	Ma|Pl|Nm	2	Sb	_	_	
+5	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	4	Pos	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Άννα	Άννα	No	NoPr	Fe|Sg|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	πότε	πότε	Ad	Ad	Ba	5	Adv	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	2	Atr	_	_	
+6	η	ο	At	AtDf	Fe|Sg|Nm	9	Det	_	_	
+7	ονομαστική	ονομαστικός	Aj	Aj	Ba|Fe|Sg|Nm	9	Atr	_	_	
+8	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	9	Atr	_	_	
+9	γιορτή	γιορτή	No	NoCm	Fe|Sg|Nm	5	Pnom	_	_	
+10	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Για	για	AsPp	AsPpSp	_	0	ExD	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	δούμε	βλέπω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Adv	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Ac	6	Det	_	_	
+6	ημερολόγιο	ημερολόγιο	No	NoCm	Ne|Sg|Ac	4	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	0	AuxP	_	_	
+2	εννιά	εννέα	Nm	NmCd	Ma|Pl|Ac|Aj	3	Atr	_	_	
+3	Δεκεμβρίου	Δεκέμβριος	No	NoCm	Ma|Sg|Ge	1	Adv	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πότε	πότε	Ad	Ad	Ba	3	Adv	_	_	
+3	γιορτάζει	γιορτάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	Ελένη	Ελένη	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	0	AuxP	_	_	
+3	είκοσι	είκοσι	Nm	NmCd	Ma|Pl|Nm|Aj	5	Atr	_	_	
+4	μία	ένας	At	AtId	Fe|Sg|Ac	5	Det	_	_	
+5	Μαΐου	Μάιος	No	NoCm	Ma|Sg|Ge	2	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πότε	πότε	Ad	Ad	Ba	3	Adv	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	8	Det	_	_	
+5	(	(	OPUNCT	OPUNCT	_	6	AuxG	_	_	
+6	ονομαστική	ονομαστικός	Aj	Aj	Ba|Fe|Sg|Nm	8	Atr	_	_	
+7	)	)	CPUNCT	CPUNCT	_	6	AuxG	_	_	
+8	γιορτή	γιορτή	No	NoCm	Fe|Sg|Nm	3	Pnom	_	_	
+9	του	ο	At	AtDf	Ma|Sg|Ge	10	Det	_	_	
+10	Ανδρέα	Ανδρέας	No	NoPr	Ma|Sg|Ge	8	Atr	_	_	
+11	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	0	AuxP	_	_	
+3	30	30	DIG	DIG	_	4	Atr	_	_	
+4	Νοεμβρίου	Νοέμβριος	No	NoCm	Ma|Sg|Ge	2	ExD	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

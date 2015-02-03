@@ -1,0 +1,74 @@
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	πια	πια	Ad	Ad	Ba	1	Adv	_	_	
+3	μεσημέρι	μεσημέρι	No	NoCm	Ne|Sg|Ac	1	Pnom	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	πεινάνε	πεινώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κάθονται	κάθομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	σε	σε	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	έναν	ένας	At	AtId	Ma|Sg|Ac	4	Det	_	_	
+4	κορμό	κορμός	No	NoCm	Ma|Sg|Ac	2	Adv	_	_	
+5	για	για	AsPp	AsPpSp	_	1	AuxP	_	_	
+6	να	να	Pt	PtSj	_	7	AuxV	_	_	
+7	φάνε	τρώω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	5	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	AuxG	_	_	
+2	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	1	Sb	_	_	
+3	θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+4	καθίσω	κάθομαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	κοντά	κοντά	Ad	Ad	Ba	4	Adv	_	_	
+6	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	5	AuxP	_	_	
+7	Αχμέτ	Αχμέτ	No	NoPr	Ma|Sg|Ac	6	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Εμείς	εγώ	Pn	PnPe	Ma|01|Pl|Nm|St	3	Sb	_	_	
+3	έχουμε	έχω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ντολμάδες	ντολμάς	No	NoCm	Ma|Pl|Ac	7	Obj_Co	_	_	
+5	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+6	τυρί	τυρί	No	NoCm	Ne|Sg|Ac	7	Adv_Co	_	_	
+7	και	και	Cj	CjCo	_	3	Coord	_	_	
+8	ψωμί	ψωμί	No	NoCm	Ne|Sg|Ac	7	Obj_Co	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	τσάντα	τσάντα	No	NoCm	Fe|Sg|Nm	5	Sb	_	_	
+4	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	3	Pos	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	βαριά	βαρύς	Aj	Aj	Ba|Fe|Sg|Nm	5	Pnom	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	2	Obj	_	_	
+2	έχεις	έχω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	μέσα	μέσα	Ad	Ad	Ba	2	Adv	_	_	
+4	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+5	τσάντα	τσάντα	No	NoCm	Fe|Sg|Ac	4	Adv	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πέντε	πέντε	Nm	NmCd	Fe|Pl|Nm|Aj	4	Atr	_	_	
+4	ντομάτες	ντομάτα	No	NoCm	Fe|Pl|Nm	7	Sb_Co	_	_	
+5	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+6	κεφτέδες	κεφτές	No	NoCm	Ma|Pl|Ac	7	Adv_Co	_	_	
+7	και	και	Cj	CjCo	_	2	Coord	_	_	
+8	μανταρίνια	μανταρίνι	No	NoCm	Ne|Pl|Ac	7	Sb_Co	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Καλή	καλός	Aj	Aj	Ba|Fe|Sg|Nm	3	Atr	_	_	
+3	όρεξη	όρεξη	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	2	Sb	_	_	
+2	αρχίζω	αρχίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	τρώω	τρώω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

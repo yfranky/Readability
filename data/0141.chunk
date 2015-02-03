@@ -1,0 +1,312 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\2	TOK	Παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+1\8	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\10	TOK	θέλετε	θέλω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+	SYN	[cl_o
+	SYN	[vg_s
+1\17	TOK	να	να	PtSj
+1\20	TOK	διαβάσουμε	διαβάζω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\31	TOK	αυτό	αυτός	PnDmNe03SgAcXx
+1\36	TOK	το	ο	AtDfNeSgAc
+1\39	TOK	περιοδικό	περιοδικό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\48	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\51	ENUM	-	-	ENUM
+	SYN	[advp
+1\52	TOK	Ναι	ναι	AdXxBa
+	SYN	/advp]
+1\55	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\58	ENUM	-	-	ENUM
+	SYN	[advp
+1\59	TOK	Πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\63	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\66	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\70	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\73	ENUM	-	-	ENUM
+1\74	CPUNCT	"	"	CPUNCT
+1\75	TOK	Τζεσούρ	Τζεσούρ	RgFwTr
+1\83	TOK	και	και	CjCo
+1\87	TOK	Τζαρτζούρ	Τζαρτζούρ	RgFwTr
+1\96	CPUNCT	"	"	CPUNCT
+1\97	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\99	TOK	Είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\105	TOK	ένα	ένας	AtIdNeSgNm
+1\109	TOK	περιοδικό	περιοδικό	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\119	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\123	TOK	παιδιά	παιδί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\129	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\131	TOK	Έχω	έχω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\135	TOK	πολλά	πολύς	AjBaNePlAc
+	SYN	/adjp_ac]
+1\141	TOK	τεύχη	τεύχος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\147	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\151	TOK	το	ο	AtDfNeSgAc
+1\154	TOK	περιοδικό	περιοδικό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\163	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\166	ENUM	-	-	ENUM
+	SYN	[vg
+1\167	TOK	Θα	θα	PtFu
+	SYN	[np_ac
+1\170	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+1\173	TOK	διαβάσουμε	διαβάζω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\184	TOK	όλα	όλος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\187	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\190	ENUM	-	-	ENUM
+	SYN	[advp
+1\191	TOK	Ναι	ναι	AdXxBa
+	SYN	/advp]
+1\194	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\196	TOK	θα	θα	PtFu
+	SYN	[np_ac
+1\199	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+1\202	TOK	διαβάσουμε	διαβάζω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\213	TOK	όλα	όλος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\216	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\219	TOK	Τα	ο	AtDfNePlNm
+1\222	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\229	TOK	διαβάζουν	διαβάζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\239	TOK	το	ο	AtDfNeSgAc
+1\242	TOK	περιοδικό	περιοδικό	NoCmNeSgAc
+1\252	OPUNCT	"	"	OPUNCT
+1\253	TOK	Τζεσούρ	Τζεσούρ	RgFwTr
+1\261	TOK	και	και	CjCo
+1\265	TOK	Τζαρτζούρ	Τζαρτζούρ	RgFwTr
+1\274	CPUNCT	"	"	CPUNCT
+	SYN	/np_ac]
+	SYN	/cl]
+1\275	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\278	ENUM	-	-	ENUM
+	SYN	[vg
+1\279	TOK	Θέλω	θέλω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+1\284	TOK	κι	και	CjCo
+	SYN	[np_nm
+1\287	TOK	εγώ	εγώ	PnPeMa01SgNmSt
+	SYN	/np_nm]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\291	TOK	να	να	PtSj
+1\294	TOK	βρω	βρίσκω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\298	TOK	έναν	ένας	AtIdMaSgAc
+	SYN	/np_ac]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\303	TOK	κρυμμένο	κρυμμένος	VbMnPpXxXxSgNePePvNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+1\312	TOK	θησαυρό	θησαυρός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\319	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[vg
+1\321	TOK	Υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\330	TOK	τώρα	τώρα	AdXxBa
+	SYN	/advp]
+1\335	TOK	κρυμμένοι	κρυμμένος	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\345	TOK	θησαυροί	θησαυρός	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\353	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\356	ENUM	-	-	ENUM
+	SYN	[vg
+1\357	TOK	Δεν	δεν	PtNg
+1\361	TOK	υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\369	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\372	ENUM	-	-	ENUM
+	SYN	[vg
+1\373	TOK	Υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\381	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\383	TOK	Το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\386	TOK	λέει	λέγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\391	TOK	ο	ο	AtDfMaSgNm
+1\393	TOK	μπαμπάς	μπαμπάς	NoCmMaSgNm
+1\401	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+	SYN	/cl]
+1\404	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\407	TOK	Μερικές	μερικοί	PnIdFe03PlNmXx
+	SYN	/np_nm]
+	SYN	[np_ac
+1\415	TOK	μέρες	μέρα	NoCmFePlAc
+	SYN	/np_ac]
+1\421	TOK	μετά	μετά	AsPpSp
+1\425	PTERM_P	...	...	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\430	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\431	TOK	Εσύ	εγώ	PnPeMa02SgNmSt
+	SYN	/np_nm]
+	SYN	[vg
+1\435	TOK	είσαι	είμαι	VbMnIdPr02SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\441	TOK	η	ο	AtDfFeSgNm
+1\443	TOK	Αγγέλα	Αγγέλα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\449	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\452	ENUM	-	-	ENUM
+	SYN	[advp
+1\453	TOK	Ναι	ναι	AdXxBa
+	SYN	/advp]
+1\456	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\458	TOK	εγώ	εγώ	PnPeMa01SgNmSt
+	SYN	/np_nm]
+	SYN	[vg
+1\462	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\467	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\470	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\471	TOK	Αγγέλα	Αγγέλα	NoPrFeSgAc
+	SYN	/np_ac]
+1\477	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\479	TOK	έχεις	έχω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\485	TOK	ένα	ένας	AtIdNeSgAc
+1\489	TOK	γράμμα	γράμμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\495	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\498	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\499	TOK	Ένα	ένας	AtIdNeSgNm
+1\503	TOK	γράμμα	γράμμα	NoCmNeSgNm
+	SYN	/np_nm]
+1\509	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\511	TOK	Ευχαριστώ	ευχαριστώ	VbMnIdXx01SgXxPePvXx
+	SYN	/vg]
+	SYN	/cl]
+1\520	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

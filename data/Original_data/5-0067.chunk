@@ -1,0 +1,658 @@
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[advp
+1\1	TOK	Πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\5	TOK	φυτεύονται	φυτεύω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\16	TOK	οι	ο	AtDfFePlNm
+1\19	TOK	ταράτσες	ταράτσα	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[pp
+1\29	TOK	Στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\33	TOK	φωτογραφία	φωτογραφία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\44	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\48	TOK	πράσινη	πράσινος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\56	TOK	ταράτσα	ταράτσα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\64	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\68	TOK	Λονδίνο	Λονδίνο	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\75	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_c
+1\77	TOK	Αν	αν	CjSb
+	SYN	[vg
+1\80	TOK	πρασίνιζαν	πρασινίζω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\91	TOK	έτσι	έτσι	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\96	TOK	οι	ο	AtDfFePlNm
+1\99	TOK	ταράτσες	ταράτσα	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\108	TOK	της	ο	AtDfFeSgGe
+1\112	TOK	Αθήνας	Αθήνα	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/cl_c]
+1\118	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\120	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\122	TOK	ποιοτική	ποιοτικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\131	TOK	διαφορά	διαφορά	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\139	TOK	της	ο	AtDfFeSgGe
+1\143	TOK	ζωής	ζωή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[pp
+1\148	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\153	TOK	πόλη	πόλη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\158	TOK	θα	θα	PtFu
+1\161	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\166	TOK	τεράστια	τεράστιος	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\176	OPUNCT	«	«	OPUNCT
+	SYN	[adjp_ac
+1\177	TOK	Πράσινες	πράσινος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\186	TOK	ταράτσες	ταράτσα	NoCmFePlAc
+1\194	CPUNCT	»	»	CPUNCT
+	SYN	/np_ac]
+	SYN	[vg
+1\196	TOK	δεν	δεν	PtNg
+1\200	TOK	σημαίνει	σημαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\209	TOK	ζαρντινιέρες	ζαρντινιέρα	NoCmFePlAc
+	SYN	/np_ac]
+1\222	TOK	και	και	CjCo
+	SYN	[np_ac
+1\226	TOK	γλάστρες	γλάστρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[advp
+1\235	TOK	μαζί	μαζί	AdXxBa
+	SYN	[pp
+1\240	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\243	TOK	κάποια	κάποιος	PnIdNe03PlAcXx
+1\250	TOK	καθίσματα	κάθισμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\259	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\261	TOK	Πρόκειται	πρόκειται	VbIsIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\271	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\275	TOK	μια	ένας	AtIdFeSgAc
+1\279	TOK	κίνηση	κίνηση	NoCmFeSgAc
+	SYN	[adjp_ac
+1\286	TOK	οικολογικά	οικολογικός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\297	TOK	συνειδητοποιημένη	συνειδητοποιημένος	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\315	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\319	TOK	προϋποθέτει	προϋποθέτω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\331	TOK	ειδικές	ειδικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\339	TOK	κατασκευές	κατασκευή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\349	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[pp
+1\351	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\354	TOK	κάποια	κάποιος	PnIdFe03SgAcXx
+1\361	TOK	δαπάνη	δαπάνη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\368	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\374	TOK	η	ο	AtDfFeSgNm
+1\376	TOK	αλήθεια	αλήθεια	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\383	PUNCT	,	,	PUNCT
+1\385	TOK	αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[vg
+1\390	TOK	προσφέρει	προσφέρω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\400	TOK	πολλά	πολλά	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\406	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\410	TOK	άτομο	άτομο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\416	TOK	και	και	CjCo
+	SYN	[pp
+1\420	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\425	TOK	κοινωνία	κοινωνία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\433	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+1\435	TOK	Διότι	διότι	CjSb
+	SYN	[np_nm
+1\441	TOK	οι	ο	AtDfFePlNm
+	SYN	[adjp_nm
+1\444	TOK	πράσινες	πράσινος	AjBaFePlNm
+	SYN	/adjp_nm]
+1\453	TOK	στέγες	στέγη	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\460	TOK	μειώνουν	μειώνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\469	TOK	ως	ως	AdXxBa
+	SYN	/advp]
+1\472	TOK	και	και	CjCo
+	SYN	[np_ac
+1\476	DIG	3,5	3,5	DIG
+1\480	TOK	βαθμούς	βαθμός	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\488	TOK	Κελσίου	Κελσίου	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\496	TOK	τη	ο	AtDfFeSgAc
+1\499	TOK	θερμοκρασία	θερμοκρασία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\511	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\516	TOK	τελευταίο	τελευταίος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\526	TOK	όροφο	όροφος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\532	TOK	και	και	CjCo
+1\535	PUNCT	,	,	PUNCT
+	SYN	[cl_c
+1\537	TOK	αν	αν	CjSb
+	SYN	[vg
+1\540	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\546	TOK	πάχος	πάχος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[advp
+1\552	TOK	γύρω	γύρω	AdXxBa
+	SYN	[pp
+1\557	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_nm
+1\561	DIG	10	10	DIG
+	SYN	[adjp_nm
+1\564	TOK	εκατοστά	εκατοστός	NmOdNePlNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl_c]
+1\572	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\574	TOK	συγκρατούν	συγκρατώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\585	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\593	TOK	το	ο	AtDfNeSgAc
+1\596	DIG	60%	60%	DIG
+	SYN	/np_ac]
+	SYN	[np_ge
+1\600	TOK	του	ο	AtDfNeSgGe
+1\604	TOK	νερού	νερό	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\610	TOK	της	ο	AtDfFeSgGe
+1\614	TOK	βροχής	βροχή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[pp
+1\621	TOK	κατά	κατά	AsPpSp
+	SYN	[np_ac
+1\626	TOK	τους	ο	AtDfMaPlAc
+	SYN	[adjp_ac
+1\631	TOK	χειμερινούς	χειμερινός	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\643	TOK	μήνες	μήνας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\648	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\650	TOK	Κάτι	κάτι	PnIdNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\655	TOK	που	που	PnReNe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\659	TOK	χρειάζεται	χρειάζομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\670	TOK	επειγόντως	επειγόντως	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\681	TOK	η	ο	AtDfFeSgNm
+1\683	TOK	Αττική	Αττική	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_r]
+	SYN	[cl_o
+1\690	TOK	επειδή	επειδή	CjSb
+	SYN	[vg
+1\697	TOK	απέκτησε	αποκτώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\706	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\711	TOK	τσιμέντο	τσιμέντο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\719	PUNCT	,	,	PUNCT
+1\721	TOK	άρα	άρα	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\725	TOK	το	ο	AtDfNeSgNm
+1\728	TOK	έδαφος	έδαφος	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\735	TOK	δεν	δεν	PtNg
+1\739	TOK	απορροφά	απορροφώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\748	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\753	TOK	νερό	νερό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\758	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\761	TOK	τις	ο	AtDfFePlAc
+1\765	TOK	βροχές	βροχή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\772	TOK	και	και	CjCo
+	SYN	[vg
+1\776	TOK	πλημμυρίζει	πλημμυρίζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\788	TOK	ευκολότατα	εύκολα	AdXxSu
+	SYN	/advp]
+	SYN	[np_nm
+1\799	TOK	ο	ο	AtDfMaSgNm
+1\801	TOK	τόπος	τόπος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\806	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\808	TOK	Ακόμα	ακόμα	AdXxBa
+	SYN	/advp]
+1\813	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\815	TOK	ανακόπτουν	ανακόπτω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\826	TOK	αρκετά	αρκετά	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\833	TOK	τον	ο	AtDfMaSgAc
+1\837	TOK	θόρυβο	θόρυβος	NoCmMaSgAc
+	SYN	/np_ac]
+1\843	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\845	TOK	κοντά	κοντά	AdXxBa
+	SYN	[pp
+1\851	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_nm
+1\855	TOK	3Db	3Db	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\858	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\860	TOK	Παράλληλα	παράλληλα	AdXxBa
+	SYN	/advp]
+1\869	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\871	TOK	το	ο	AtDfNeSgNm
+1\874	TOK	άζωτο	άζωτο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\880	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\884	TOK	υπάρχει	υπάρχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\892	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\897	TOK	αέρα	αέρας	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\902	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\905	TOK	τη	ο	AtDfFeSgAc
+1\908	TOK	βοήθεια	βοήθεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\916	TOK	της	ο	AtDfFeSgGe
+1\920	TOK	βροχής	βροχή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	[vg
+1\927	TOK	καταλήγει	καταλήγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\937	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\942	TOK	ταράτσα	ταράτσα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\950	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\954	TOK	αξιοποιείται	αξιοποιώ	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\967	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\971	TOK	τα	ο	AtDfNePlAc
+1\974	TOK	φυτά	φυτό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\979	TOK	σαν	σαν	AdXxBa
+	SYN	[np_ac
+1\983	TOK	λίπασμα	λίπασμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/advp]
+	SYN	/cl]
+1\990	PUNCT	,	,	PUNCT
+1\992	TOK	οπότε	οπότε	CjCo
+	SYN	[cl
+	SYN	[vg
+1\998	TOK	δεν	δεν	PtNg
+1\1002	TOK	φθάνει	φτάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\1009	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\1013	TOK	έδαφος	έδαφος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1020	TOK	για	για	AsPpSp
+1\1024	TOK	να	να	PtSj
+1\1027	TOK	καταλήξει	καταλήγω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\1037	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\1041	TOK	δίκτυο	δίκτυο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1048	TOK	του	ο	AtDfNeSgGe
+1\1052	TOK	νερού	νερό	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_o]
+1\1057	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\1059	TOK	Για	για	AsPpSp
+	SYN	[np_nm
+1\1063	TOK	μια	ένας	AtIdFeSgNm
+	SYN	[adjp_nm
+1\1067	TOK	πράσινη	πράσινος	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\1075	TOK	ταράτσα	ταράτσα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	[vg
+1\1083	TOK	χρειάζεται	χρειάζομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1094	TOK	ειδική	ειδικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\1101	TOK	κατασκευή	κατασκευή	NoCmFeSgNm
+	SYN	/np_nm]
+1\1110	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1112	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1116	TOK	αποτελείται	αποτελώ	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\1128	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1132	TOK	αδιάβροχες	αδιάβροχος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\1143	TOK	μεμβράνες	μεμβράνη	NoCmFePlAc
+	SYN	/np_ac]
+1\1152	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1154	TOK	υπόστρωμα	υπόστρωμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\1164	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\1168	TOK	τη	ο	AtDfFeSgAc
+1\1171	TOK	συγκράτηση	συγκράτηση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1182	TOK	του	ο	AtDfNeSgGe
+1\1186	TOK	νερού	νερό	NoCmNeSgGe
+	SYN	/np_ge]
+1\1192	TOK	και	και	CjCo
+	SYN	[np_ac
+1\1196	TOK	την	ο	AtDfFeSgAc
+1\1200	TOK	ανάπτυξη	ανάπτυξη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1209	TOK	της	ο	AtDfFeSgGe
+1\1213	TOK	βλάστησης	βλάστηση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\1222	PUNCT	,	,	PUNCT
+1\1224	TOK	ενώ	ενώ	CjCo
+	SYN	[cl
+	SYN	[np_ac
+1\1228	TOK	τα	ο	AtDfNePlAc
+1\1231	TOK	φυτά	φυτό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\1236	TOK	που	που	PnReNe03PlAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\1240	TOK	επιλέγονται	επιλέγω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\1252	TOK	συνήθως	συνήθως	AdXxBa
+	SYN	/advp]
+	SYN	/cl_r]
+	SYN	[vg
+1\1260	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1266	TOK	επιφανειακές	επιφανειακός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\1279	TOK	ρίζες	ρίζα	NoCmFePlAc
+	SYN	/np_ac]
+1\1285	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1289	TOK	χυμώδη	χυμώδης	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1296	TOK	φύλλα	φύλλο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1302	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1306	TOK	αποθηκεύουν	αποθηκεύω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+1\1318	TOK	και	και	CjCo
+	SYN	[np_ac
+1\1322	TOK	αυτά	αυτός	PnDmNe03PlAcXx
+	SYN	/np_ac]
+	SYN	[np_ac
+1\1327	TOK	νερό	νερό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\1331	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\1333	TOK	Στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1337	TOK	επόμενα	επόμενος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1345	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\1352	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\1356	TOK	είδος	είδος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1362	TOK	πολυτελείας	πολυτέλεια	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[np_nm
+1\1374	TOK	οι	ο	AtDfFePlNm
+	SYN	[adjp_nm
+1\1377	TOK	πράσινες	πράσινος	AjBaFePlNm
+	SYN	/adjp_nm]
+1\1386	TOK	ταράτσες	ταράτσα	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1395	TOK	θα	θα	PtFu
+1\1398	TOK	γίνουν	γίνομαι	VbMnIdXx03PlXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\1405	TOK	εκ	εκ	AsPpSp
+	SYN	[np_ge
+1\1408	TOK	των	ο	AtDfNePlGe
+1\1412	TOK	ων	ων	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\1415	TOK	ουκ	ουκ	PtNg
+1\1419	TOK	άνευ	άνευ	AsPpSp
+1\1423	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\1425	TOK	λόγω	λόγω	AsPpSp
+1\1430	TOK	και	και	CjCo
+	SYN	[np_ge
+1\1434	TOK	των	ο	AtDfFePlGe
+	SYN	[adjp_ge
+1\1438	TOK	τελευταίων	τελευταίος	AjBaFePlGe
+1\1449	TOK	οικολογικών	οικολογικός	AjBaFePlGe
+	SYN	/adjp_ge]
+1\1461	TOK	καταστροφών	καταστροφή	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\1472	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

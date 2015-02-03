@@ -1,0 +1,34 @@
+1	Και	και	Cj	CjCo	_	2	AuxY	_	_	
+2	όταν	όταν	Cj	CjSb	_	9	AuxC	_	_	
+3	ήρθε	έρχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	2	Adv	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	ώρα	ώρα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+6	του	ο	At	AtDf	Ne|Sg|Ge	7	Det	_	_	
+7	φαγητού	φαγητό	No	NoCm	Ne|Sg|Ge	5	Atr	_	_	
+8	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+9	κάθισαν	κάθομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+10	όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	12	Sb	_	_	
+11	να	να	Pt	PtSj	_	12	AuxV	_	_	
+12	φάνε	τρώω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	9	Obj	_	_	
+13	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Ιησούς	Ιησούς	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	ευλόγησε	ευλογώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	ψωμί	ψωμί	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Nm	8	Det	_	_	
+8	κρασί	κρασί	No	NoCm	Ne|Sg|Nm	9	Sb_Co	_	_	
+9	και	και	Cj	CjCo	_	6	Coord_Co	_	_	
+10	έδωσε	δίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	9	Sb_Co	_	_	
+11	στους	στου	AsPp	AsPpPa	Ma|Pl|Ac	10	AuxP	_	_	
+12	Μαθητές	μαθητής	No	NoCm	Ma|Pl|Ac	11	IObj	_	_	
+13	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	12	Pos	_	_	
+14	να	να	Pt	PtSj	_	15	AuxV	_	_	
+15	φάνε	τρώω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	16	Obj_Co	_	_	
+16	και	και	Cj	CjCo	_	10	Coord	_	_	
+17	να	να	Pt	PtSj	_	18	AuxV	_	_	
+18	πιουν	πίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	16	Obj_Co	_	_	
+19	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

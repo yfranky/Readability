@@ -1,0 +1,17 @@
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Πάρε	παίρνω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	βερνίκι	βερνίκι	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+5	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	4	Pos	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	δώσε	δίνω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+8	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	7	IObj	_	_	
+9	το	ο	At	AtDf	Ne|Sg|Ac	10	Det	_	_	
+10	πανί	πανί	No	NoCm	Ne|Sg|Ac	7	Obj	_	_	
+11	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	10	Pos	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ορίστε	ορίζω	Ad	Ad	Ba	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

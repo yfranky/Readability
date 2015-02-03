@@ -1,0 +1,42 @@
+1	Σήμερα	σήμερα	Ad	Ad	Ba	2	Adv	_	_	
+2	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	λαϊκή	λαϊκός	Aj	Aj	Ba|Fe|Sg|Ac	2	Obj	_	_	
+4	αφορά	αφορώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Sb	_	_	
+5	και	και	Cj	CjCo	_	7	AuxY	_	_	
+6	όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	7	Sb	_	_	
+7	πάνε	πηγαίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	4	Obj	_	_	
+8	για	για	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	ψώνια	ψώνιο	No	NoCm	Ne|Pl|Ac	8	Adv	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Αγγέλα	Αγγέλα	No	NoPr	Fe|Sg|Nm	7	Sb	_	_	
+3	με	με	AsPp	AsPpSp	_	7	AuxP	_	_	
+4	τη	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	μαμά	μαμά	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+6	της	μου	Pn	PnPo	Fe|03|Sg|Ge|Xx	5	Pos	_	_	
+7	πάνε	πηγαίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+8	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	7	AuxP	_	_	
+9	φούρνο	φούρνος	No	NoCm	Ma|Sg|Ac	8	Adv	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Καλημέρα	καλημέρα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δύο	δύο	Nm	NmCd	Fe|Pl|Nm|Aj	2	Atr	_	_	
+2	φρατζόλες	φρατζόλες	No	NoCm	Fe|Pl|Nm	5	Sb	_	_	
+3	ψωμί	ψωμί	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+4	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+5	παρακαλώ	παρακαλώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πόσο	πόσο	Ad	Ad	Ba	2	Adv	_	_	
+2	κάνουν	κάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δύο	δύο	Nm	NmCd	Ne|Pl|Nm|Aj	3	Atr	_	_	
+3	ευρώ	ευρώ	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

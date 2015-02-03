@@ -1,0 +1,46 @@
+1	Μεγάλος	μεγάλος	Aj	Aj	Ba|Ma|Sg|Nm	2	Atr_Co	_	_	
+2	και	και	Cj	CjCo	_	0	Coord	_	_	
+3	περίτεχνος	περίτεχνος	Aj	Aj	Ba|Ma|Sg|Nm	4	Atr	_	_	
+4	ναός	ναός	No	NoCm	Ma|Sg|Nm	2	ExD_Co	_	_	
+5	πάνω	πάνω	Ad	Ad	Ba	4	Adv	_	_	
+6	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	5	AuxP	_	_	
+7	αρχαία	αρχαίος	Aj	Aj	Ba|Ne|Pl|Ac	8	Atr	_	_	
+8	Ακρόπολη	Ακρόπολη	No	NoPr	Fe|Sg|Ac	6	Adv	_	_	
+9	της	ο	At	AtDf	Fe|Sg|Ge	10	Det	_	_	
+10	Αθήνας	Αθήνα	No	NoPr	Fe|Sg|Ge	8	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	ναός	ναός	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	περίπτερος	περίπτερος	Aj	Aj	Ba|Ma|Sg|Nm	3	Pnom	_	_	
+5	με	με	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	δωρικό	δωρικός	Aj	Aj	Ba|Ma|Sg|Ac	7	Atr	_	_	
+7	ρυθμό	ρυθμός	No	NoCm	Ma|Sg|Ac	5	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	8	8	DIG	DIG	_	3	Atr	_	_	
+3	κίονες	κίονας	No	NoCm	Ma|Pl|Ac	1	Obj	_	_	
+4	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	3	AuxP	_	_	
+5	στενές	στενός	Aj	Aj	Ba|Fe|Pl|Ac	6	IObj_Co	_	_	
+6	και	και	Cj	CjCo	_	4	Coord	_	_	
+7	17	17	DIG	DIG	_	6	Atr	_	_	
+8	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	6	AuxP	_	_	
+9	πλατιές	πλατύς	Aj	Aj	Ba|Fe|Pl|Ac	10	Atr	_	_	
+10	πλευρές	πλευρά	No	NoCm	Fe|Pl|Ac	8	Obj_Co	_	_	
+11	,	,	PUNCT	PUNCT	_	13	AuxX	_	_	
+12	όλους	όλος	Aj	Aj	Ba|Ma|Pl|Ac	13	Atr	_	_	
+13	μαρμάρινους	μαρμάρινος	Aj	Aj	Ba|Ma|Pl|Ac	10	Atr	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	ναός	ναός	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+3	αυτός	αυτός	Pn	PnDm	Ma|03|Sg|Nm|Xx	2	Atr	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	αφιερωμένος	αφιερωμένος	Aj	Aj	Ba|Ma|Sg|Nm	4	Pnom	_	_	
+6	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	5	AuxP	_	_	
+7	θεά	θεά	No	NoCm	Fe|Sg|Ac	6	Adv	_	_	
+8	Αθηνά	Αθηνά	No	NoPr	Fe|Sg|Ac	7	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

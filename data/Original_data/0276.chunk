@@ -1,0 +1,251 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	ΠΙΠΕΡΙ	πιπέρι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\8	TOK	ΣΤΟ	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\12	TOK	ΣΤΟΜΑ	στόμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\18	TOK	ΤΗΣ	ο	AtDfFeSgGe
+1\22	TOK	ΤΗΛΕΟΡΑΣΗΣ	τηλεόραση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\34	TOK	Μια	ένας	AtIdFeSgNm
+1\38	TOK	εταιρεία	εταιρεία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\47	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\51	TOK	Άρκανσο	Άρκανσο	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\59	TOK	των	ο	AtDfFePlGe
+1\63	ABBR	ΗΠΑ	ΗΠΑ	ABBR
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[vg
+1\67	TOK	ανακάλυψε	ανακαλύπτω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\77	TOK	ένα	ένας	AtIdNeSgAc
+1\81	TOK	εξάρτημα	εξάρτημα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\90	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+1\94	OPUNCT	«	«	OPUNCT
+	SYN	[vg
+1\95	TOK	βάζει	βάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\101	TOK	πιπέρι	πιπέρι	NoCmNeSgAc
+	SYN	/np_ac]
+1\107	CPUNCT	»	»	CPUNCT
+	SYN	[pp
+1\109	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\113	TOK	στόμα	στόμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\119	TOK	της	ο	AtDfFeSgGe
+1\123	TOK	τηλεόρασης	τηλεόραση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl_t
+1\134	TOK	όταν	όταν	CjSb
+	SYN	[vg
+1\139	TOK	ακούγονται	ακούω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\150	OPUNCT	«	«	OPUNCT
+	SYN	[adjp_nm
+1\151	TOK	κακές	κακός	AjBaFePlNm
+	SYN	/adjp_nm]
+1\157	TOK	λέξεις	λέξη	NoCmFePlNm
+1\163	CPUNCT	»	»	CPUNCT
+	SYN	/np_nm]
+	SYN	/cl_t]
+1\164	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\166	TOK	Το	ο	AtDfNeSgNm
+1\169	TOK	εξάρτημα	εξάρτημα	NoCmNeSgNm
+1\178	TOK	αυτό	αυτός	PnDmNe03SgNmXx
+	SYN	/np_nm]
+1\182	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\184	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\188	TOK	λέγεται	λέγω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+1\196	OPUNCT	«	«	OPUNCT
+	SYN	[np_nm
+1\197	TOK	Φύλακας	φύλακας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\205	TOK	της	ο	AtDfFeSgGe
+1\209	TOK	Τηλεόρασης	τηλεόραση	NoCmFeSgGe
+	SYN	/np_ge]
+1\219	CPUNCT	»	»	CPUNCT
+	SYN	/cl_r]
+1\220	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[vg
+1\222	TOK	συνδέεται	συνδέω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\232	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\235	TOK	την	ο	AtDfFeSgAc
+1\239	TOK	τηλεόραση	τηλεόραση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\248	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[vg
+1\250	OPUNCT	«	«	OPUNCT
+1\251	TOK	διαβάζει	διαβάζω	VbMnIdPr03SgXxIpAvXx
+1\259	CPUNCT	»	»	CPUNCT
+	SYN	/vg]
+	SYN	[np_ac
+1\261	TOK	τον	ο	AtDfMaSgAc
+1\265	TOK	ήχο	ήχος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+1\269	TOK	και	και	CjCo
+	SYN	[cl_r
+	SYN	[vg
+1\273	TOK	σβήνει	σβήνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\280	TOK	αυτόματα	αυτόματα	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\289	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\293	OPUNCT	«	«	OPUNCT
+1\294	TOK	κακές	κακός	AjBaFePlAc
+1\299	CPUNCT	»	»	CPUNCT
+	SYN	/adjp_ac]
+1\301	TOK	λέξεις	λέξη	NoCmFePlAc
+	SYN	/np_ac]
+1\308	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\310	TOK	φράσεις	φράση	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+1\317	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\319	TOK	ώστε	ώστε	CjSb
+	SYN	[np_nm
+1\324	TOK	ο	ο	AtDfMaSgNm
+1\326	TOK	θεατής	θεατής	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg_s
+1\333	TOK	να	να	PtSj
+1\336	TOK	μην	μην	PtNg
+1\340	TOK	ακούει	ακούω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+	SYN	[cl_ri
+	SYN	[np_ac
+1\347	TOK	ό,τι	ό,τι	PnRiNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\352	TOK	δε	δεν	PtNg
+1\355	TOK	θέλει	θέλω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_ri]
+	SYN	/np_ac]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\361	TOK	να	να	PtSj
+1\364	TOK	ακούσει	ακούω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\371	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[advp
+1\374	TOK	Εντάξει	εντάξει	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\382	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\385	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\389	OPUNCT	«	«	OPUNCT
+1\390	TOK	κακές	κακός	AjBaFePlAc
+1\395	CPUNCT	»	»	CPUNCT
+	SYN	/adjp_ac]
+1\397	TOK	λέξεις	λέξη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\403	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_nm
+1\405	TOK	Ποιο	ποιος	PnIrNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[np_ac
+1\410	TOK	μηχάνημα	μηχάνημα	NoCmNeSgAc
+	SYN	/np_ac]
+1\419	TOK	όμως	όμως	CjCo
+	SYN	[vg
+1\424	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+	SYN	[cl_o
+	SYN	[vg_s
+1\431	TOK	να	να	PtSj
+	SYN	[np_ge
+1\434	TOK	μας	εγώ	PnPeMa01PlGeWe
+	SYN	/np_ge]
+1\438	TOK	γλιτώσει	γλιτώνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\447	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\451	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\455	TOK	απαίσιες	απαίσιος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\464	TOK	εικόνες	εικόνα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\472	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\476	TOK	κυριαρχούν	κυριαρχώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\487	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\490	TOK	πολλά	πολύς	AjBaNePlAc
+1\496	TOK	τηλεοπτικά	τηλεοπτικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\507	TOK	προγράμματα	πρόγραμμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\518	PTERM_P	;	;	PTERM_P
+	)SENT	</S>

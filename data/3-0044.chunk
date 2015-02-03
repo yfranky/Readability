@@ -1,0 +1,109 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Γεια	γεια	NoCmFeSgNm
+1\6	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_nm]
+1\9	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\12	TOK	Με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\15	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\20	TOK	Μάρκο	Μάρκος	NoPrMaSgAc
+1\26	TOK	Φιλιππούσση	Φιλιππούσση	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\37	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\40	TOK	Γεννήθηκα	γεννώ	VbMnIdPa01SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\50	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\55	TOK	Μελβούρνη	Μελβούρνη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\64	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\66	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\71	TOK	Αυστραλία	Αυστραλία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\80	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\83	TOK	Είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\89	TOK	Ελληνικής	ελληνικός	AjBaFeSgGe
+1\99	TOK	και	και	CjCo
+1\103	TOK	ιταλικής	ιταλικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\112	TOK	καταγωγής	καταγωγή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\121	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\124	TOK	Μένω	μένω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\129	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\134	TOK	Μελβούρνη	Μελβούρνη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\144	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\148	TOK	μιλώ	μιλώ	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\153	TOK	Αγγλικά	Αγγλικά	NoPrNePlAc
+	SYN	/np_ac]
+1\160	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\162	TOK	Ελληνικά	ελληνικός	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\171	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\175	TOK	Ιταλικά	Ιταλικά	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\182	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\185	TOK	Είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\191	TOK	παίκτης	παίκτης	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\199	TOK	του	ο	AtDfNeSgGe
+1\203	TOK	τένις	τένις	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\208	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

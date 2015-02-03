@@ -1,0 +1,357 @@
+	(SENT	<S>
+1\1	TOK	H	H	RgFwOr
+	SYN	[np_ac
+1\3	TOK	άλλη	άλλος	PnIdFe03SgAcXx
+1\8	TOK	πλευρά	πλευρά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\15	TOK	των	ο	AtDfFePlGe
+1\19	TOK	διαταραχών	διαταραχή	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\30	TOK	διατροφής	διατροφή	NoCmFeSgGe
+	SYN	/np_ge]
+1\39	PTERM_P	:	:	PTERM_P
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\41	TOK	Νευρική	νευρικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\49	TOK	ανορεξία	ανορεξία	NoCmFeSgAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\59	TOK	H	H	RgFwOr
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\61	TOK	νευρική	νευρικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\69	TOK	ανορεξία	ανορεξία	NoCmFeSgAc
+	SYN	/np_ac]
+1\78	OPUNCT	(	(	OPUNCT
+1\79	TOK	anorexia	anorexia	RgFwOr
+1\88	TOK	nervosa	nervosa	RgFwOr
+1\95	CPUNCT	)	)	CPUNCT
+	SYN	[vg
+1\97	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\103	TOK	μια	ένας	AtIdFeSgNm
+1\107	TOK	ασθένεια	ασθένεια	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\116	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\120	TOK	δεν	δεν	PtNg
+1\124	TOK	προκαλείται	προκαλώ	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\136	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\140	TOK	κάποιο	κάποιος	PnIdNe03SgAcXx
+	SYN	[adjp_ac
+1\147	TOK	μικρόβιο	μικρόβιος	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+1\155	PUNCT	,	,	PUNCT
+1\157	TOK	αλλά	αλλά	CjCo
+	SYN	[pp
+1\162	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\166	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\169	TOK	ίδιο	ίδιος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\174	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\177	TOK	ανθρώπινο	ανθρώπινος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\187	TOK	μυαλό	μυαλό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\192	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\194	TOK	Επηρεασμένες	επηρεασμένος	AjBaFePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\207	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\211	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\214	TOK	σύγχρονο	σύγχρονος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\223	TOK	πρότυπο	πρότυπο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\231	TOK	ομορφιάς	ομορφιά	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\240	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\244	TOK	ταυτίζει	ταυτίζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\253	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\256	OPUNCT	«	«	OPUNCT
+1\257	TOK	ωραίο	ωραίος	AjBaNeSgAc
+1\262	CPUNCT	»	»	CPUNCT
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\264	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\267	TOK	το	ο	AtDfNeSgAc
+1\270	OPUNCT	«	«	OPUNCT
+1\271	TOK	λεπτό	λεπτό	NoCmNeSgAc
+1\276	CPUNCT	»	»	CPUNCT
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\277	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\279	TOK	νεαρές	νεαρός	AjBaFePlNm
+	SYN	/adjp_nm]
+1\286	TOK	γυναίκες	γυναίκα	NoCmFePlNm
+	SYN	/np_nm]
+1\295	TOK	και	και	CjCo
+	SYN	[np_nm
+1\299	TOK	κορίτσια	κορίτσι	NoCmNePlNm
+	SYN	/np_nm]
+1\307	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\309	TOK	επειδή	επειδή	CjSb
+	SYN	[vg
+1\316	TOK	θεωρούν	θεωρώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\324	TOK	τον	ο	AtDfMaSgAc
+1\328	TOK	εαυτό	εαυτός	NoCmMaSgAc
+1\334	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\339	TOK	χοντρό	χοντρός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\345	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\347	TOK	ακολουθούν	ακολουθώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\358	TOK	σκληρές	σκληρός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\366	TOK	δίαιτες	δίαιτα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\374	TOK	και	και	CjCo
+	SYN	[vg
+1\378	TOK	γυμνάζονται	γυμνάζω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\390	TOK	ασταμάτητα	ασταμάτητα	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\401	TOK	για	για	AsPpSp
+1\405	TOK	να	να	PtSj
+1\408	TOK	φτάσουν	φτάνω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\416	TOK	το	ο	AtDfNeSgAc
+1\419	OPUNCT	«	«	OPUNCT
+	SYN	[adjp_ac
+1\420	TOK	ιδανικό	ιδανικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\428	TOK	βάρος	βάρος	NoCmNeSgAc
+1\433	CPUNCT	»	»	CPUNCT
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\434	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\436	TOK	Δεν	δεν	PtNg
+	SYN	[np_ac
+1\440	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+1\443	TOK	φτάνουν	φτάνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+1\451	TOK	όμως	όμως	CjCo
+	SYN	[advp
+1\456	TOK	ποτέ	ποτέ	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\460	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\462	TOK	επειδή	επειδή	CjSb
+	SYN	[np_nm
+1\469	TOK	το	ο	AtDfNeSgNm
+1\472	TOK	πρόβλημα	πρόβλημα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\481	TOK	βρίσκεται	βρίσκω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\491	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\496	TOK	εικόνα	εικόνα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\503	TOK	που	που	PnReFe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\507	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\513	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\517	TOK	τον	ο	AtDfMaSgAc
+1\521	TOK	εαυτό	εαυτός	NoCmMaSgAc
+1\527	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\531	PUNCT	,	,	PUNCT
+1\533	TOK	κι	και	CjCo
+	SYN	[cl
+	SYN	[np_ac
+1\536	TOK	αυτή	αυτός	PnDmFe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\541	TOK	δεν	δεν	PtNg
+1\545	TOK	αλλάζει	αλλάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\553	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\556	TOK	δίαιτες	δίαιτα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\563	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\565	TOK	Έτσι	έτσι	AdXxBa
+	SYN	/advp]
+1\569	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\571	TOK	τρώνε	τρώω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\577	TOK	όλο	όλο	AdXxBa
+1\581	TOK	και	και	CjCo
+1\585	TOK	λιγότερο	λίγο	AdXxCp
+	SYN	/advp]
+1\593	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\595	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\598	TOK	αποτέλεσμα	αποτέλεσμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\609	TOK	να	να	PtSj
+1\612	TOK	χάνουν	χάνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\619	TOK	όλο	όλο	AdXxBa
+1\623	TOK	και	και	CjCo
+1\627	TOK	πιο	πιο	AdXxBa
+1\631	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\636	TOK	βάρος	βάρος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\641	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\643	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\646	TOK	τραγικά	τραγικός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	[advp
+1\654	TOK	συνήθως	συνήθως	AdXxBa
+	SYN	/advp]
+1\662	TOK	αποτελέσματα	αποτέλεσμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\675	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\679	TOK	την	ο	AtDfFeSgAc
+1\683	TOK	υγεία	υγεία	NoCmFeSgAc
+1\689	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+1\693	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\695	TOK	ακόμα	ακόμα	AdXxBa
+	SYN	/advp]
+1\701	TOK	και	και	CjCo
+	SYN	[pp
+1\705	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\709	TOK	τη	ο	AtDfFeSgAc
+1\712	TOK	ζωή	ζωή	NoCmFeSgAc
+1\716	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+1\721	OPUNCT	(	(	OPUNCT
+	SYN	[cl
+	SYN	[pp
+1\722	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\726	TOK	νευρική	νευρικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\734	TOK	ανορεξία	ανορεξία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\743	TOK	το	ο	AtDfNeSgAc
+1\746	TOK	ποσοστό	ποσοστό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\754	TOK	θνησιμότητας	θνησιμότητα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\767	TOK	φτάνει	φτάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\774	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\778	DIG	20%	20%	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\781	CPUNCT	)	)	CPUNCT
+1\782	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,14 @@
+1	Έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ένα	ένας	At	AtId	Ne|Sg|Ac	3	Det	_	_	
+3	καπέλο	καπέλο	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	μπλε	μπλε	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+
+1	ένα	ένας	At	AtId	Ma|Sg|Ac	2	Det	_	_	
+2	καφέ	καφές	No	NoCm	Ma|Sg|Ac	0	ExD	_	_	
+
+1	και	και	Cj	CjCo	_	3	AuxY	_	_	
+2	ένα	ένας	At	AtId	Ne|Sg|Ac	3	Det	_	_	
+3	ριγέ	ριγέ	Aj	Aj	Ba|Ma|Pl|Ac	0	ExD	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

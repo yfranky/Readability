@@ -1,0 +1,59 @@
+1	Brian	Brian	Rg	RgFw	_	0	ExD	_	_	
+
+1	Οι	ο	At	AtDf	Ma|Pl|Nm	2	Det	_	_	
+2	Έλληνες	Έλληνας	No	NoPr	Ma|Pl|Nm	4	Sb	_	_	
+3	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	4	IObj	_	_	
+4	φαίνονται	φαίνομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	πολύ	πολύ	Ad	Ad	Ba	6	Adv	_	_	
+6	διαφορετικοί	διαφορετικός	Aj	Aj	Ba|Ma|Pl|Nm	4	Pnom	_	_	
+7	από	από	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	εμάς	εγώ	Pn	PnPe	Ma|01|Pl|Ac|St	7	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εσείς	εγώ	Pn	PnPe	Ma|02|Pl|Nm|St	2	Sb	_	_	
+2	είστε	είμαι	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	φιλικοί	φιλικός	Aj	Aj	Ba|Ma|Pl|Nm	2	Pnom	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	διασκεδάζετε	διασκεδάζω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	2	Adv_Pa	_	_	
+6	όλη	όλος	Aj	Aj	Ba|Fe|Sg|Ac	8	Atr	_	_	
+7	τη	ο	At	AtDf	Fe|Sg|Ac	8	Det	_	_	
+8	νύχτα	νύχτα	No	NoCm	Fe|Sg|Ac	5	Obj	_	_	
+9	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+10	χορεύετε	χορεύω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	2	Pnom	_	_	
+11	πάνω	πάνω	Ad	Ad	Ba	10	Adv	_	_	
+12	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	11	AuxP	_	_	
+13	τραπέζι	τραπέζι	No	NoCm	Ne|Sg|Ac	12	Adv	_	_	
+14	,	,	PUNCT	PUNCT	_	15	AuxX	_	_	
+15	συζητάτε	συζητώ	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	10	Adv	_	_	
+16	πολλές	πολύς	Aj	Aj	Ba|Fe|Pl|Ac	17	Atr	_	_	
+17	ώρες	ώρα	No	NoCm	Fe|Pl|Ac	15	Obj	_	_	
+18	με	με	AsPp	AsPpSp	_	15	AuxP	_	_	
+19	φίλους	φίλος	No	NoCm	Ma|Pl|Ac	18	Adv	_	_	
+20	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+2	είστε	είμαι	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	1	Pred_Co	_	_	
+3	και	και	Cj	CjCo	_	2	Coord	_	_	
+4	πονηροί	πονηρός	Aj	Aj	Ba|Ma|Pl|Nm	3	Pnom_Co	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πέρσι	πέρυσι	Ad	Ad	Ba	16	Adv	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+3	καλοκαίρι	καλοκαίρι	No	NoCm	Ne|Sg|Nm	1	ExD_Co	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	όταν	όταν	Cj	CjSb	_	16	AuxC	_	_	
+6	πήγαμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	5	Adv	_	_	
+7	από	από	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	το	ο	At	AtDf	Ne|Sg|Ac	9	Det	_	_	
+9	αεροδρόμιο	αεροδρόμιο	No	NoCm	Ne|Sg|Ac	7	Adv	_	_	
+10	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	9	AuxP	_	_	
+11	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	10	Atr	_	_	
+12	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+13	ο	ο	At	AtDf	Ma|Sg|Nm	14	Det	_	_	
+14	ταξιτζής	ταξιτζής	No	NoCm	Ma|Sg|Nm	16	Sb	_	_	
+15	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	14	Pos	_	_	
+16	πήρε	παίρνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+17	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Ac	18	Atr	_	_	
+18	λεφτά	λεφτά	No	NoCm	Ne|Pl|Ac	16	Obj	_	_	
+19	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

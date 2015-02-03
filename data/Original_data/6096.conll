@@ -1,0 +1,102 @@
+1	Πολλοί	πολύς	Aj	Aj	Ba|Ma|Pl|Nm	5	Atr	_	_	
+2	-	-	PUNCT	PUNCT	_	3	AuxG	_	_	
+3	πολλές	πολύς	Aj	Aj	Ba|Fe|Pl|Ac	5	Atr	_	_	
+4	-	-	PUNCT	PUNCT	_	3	AuxG	_	_	
+5	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Ac	0	ExD	_	_	
+6	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Έλενα	Έλενα	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+3	διαφωνεί	διαφωνώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τη	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	μαμά	μαμά	No	NoCm	Fe|Sg|Ac	4	Adv	_	_	
+7	της	μου	Pn	PnPo	Fe|03|Sg|Ge|Xx	6	Pos	_	_	
+8	για	για	AsPp	AsPpSp	_	6	AuxP	_	_	
+9	τα	ο	At	AtDf	Ne|Pl|Ac	10	Det	_	_	
+10	ρούχα	ρούχο	No	NoCm	Ne|Pl|Ac	8	Atr	_	_	
+11	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Αγόρασες	αγοράζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	κι	και	Cj	CjCo	_	5	AuxY	_	_	
+4	άλλη	άλλος	Pn	PnId	Fe|03|Sg|Ac|Xx	5	Atr	_	_	
+5	μπλούζα	μπλούζα	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Καλά	καλά	Ad	Ad	Ba	6	Adv	_	_	
+2	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+3	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	6	Obj	_	_	
+4	θα	θα	Pt	PtFu	_	6	AuxV	_	_	
+5	τις	εγώ	Pn	PnPe	Fe|03|Pl|Ac|We	6	Obj	_	_	
+6	κάνεις	κάνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	τόσες	τόσος	Pn	PnDm	Fe|03|Pl|Ac|Xx	9	Atr	_	_	
+8	πολλές	πολύς	Aj	Aj	Ba|Fe|Pl|Ac	9	Atr	_	_	
+9	μπλούζες	μπλούζα	No	NoCm	Fe|Pl|Ac	6	Obj	_	_	
+10	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μα	μα	Cj	CjCo	_	0	Coord	_	_	
+3	δεν	δεν	Pt	PtNg	_	4	AuxV	_	_	
+4	έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+5	πολλές	πολύς	Aj	Aj	Ba|Fe|Pl|Ac	4	Obj	_	_	
+6	και	και	Cj	CjCo	_	2	Coord_Co	_	_	
+7	δεν	δεν	Pt	PtNg	_	8	AuxV	_	_	
+8	έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+9	καμία	κανένας	Pn	PnId	Fe|03|Sg|Ac|Xx	10	Atr	_	_	
+10	θαλασσιά	θαλασσής	Aj	Aj	Ba|Fe|Sg|Ac	8	Obj	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Έχεις	έχω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πάρα	πάρα	Ad	Ad	Ba	4	Adv	_	_	
+4	πολλές	πολύς	Aj	Aj	Ba|Fe|Pl|Ac	5	Atr	_	_	
+5	μπλούζες	μπλούζα	No	NoCm	Fe|Pl|Ac	2	Obj	_	_	
+6	και	και	Cj	CjCo	_	9	AuxY	_	_	
+7	πάρα	πάρα	Ad	Ad	Ba	8	Adv	_	_	
+8	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Ac	9	Atr	_	_	
+9	παντελόνια	παντελόνι	No	NoCm	Ne|Pl|Ac	2	ExD	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πρέπει	πρέπει	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	αγοράσεις	αγοράζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	1	Sb	_	_	
+4	και	και	Cj	CjCo	_	6	AuxY	_	_	
+5	καμιά	κανένας	Pn	PnId	Fe|03|Sg|Ac|Xx	6	Atr	_	_	
+6	φούστα	φούστα	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	έχεις	έχω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πολλές	πολύς	Aj	Aj	Ba|Fe|Pl|Ac	4	Atr	_	_	
+4	φούστες	φούστα	No	NoCm	Fe|Pl|Ac	2	Obj	_	_	
+5	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Και	και	Cj	CjCo	_	0	Coord	_	_	
+3	δεν	δεν	Pt	PtNg	_	4	AuxV	_	_	
+4	έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+5	και	και	Cj	CjCo	_	7	AuxY	_	_	
+6	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Ac	7	Atr	_	_	
+7	παπούτσια	παπούτσι	No	NoCm	Ne|Pl|Ac	4	Obj	_	_	
+8	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	3	Sb	_	_	
+3	μιλάς	μιλώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	παπούτσια	παπούτσι	No	NoCm	Ne|Pl|Ac	4	Adv	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	ξέρουμε	ξέρω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πού	πού	Ad	Ad	Ba	2	Adv	_	_	
+4	να	να	Pt	PtSj	_	6	AuxV	_	_	
+5	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	6	Obj	_	_	
+6	βάλουμε	βάζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+7	πια	πια	Ad	Ad	Ba	6	Adv	_	_	
+8	τα	ο	At	AtDf	Ne|Pl|Ac	9	Det	_	_	
+9	παπούτσια	παπούτσι	No	NoCm	Ne|Pl|Ac	6	Obj	_	_	
+10	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	9	Pos	_	_	
+11	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

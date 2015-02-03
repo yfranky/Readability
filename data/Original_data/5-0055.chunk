@@ -1,0 +1,235 @@
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	ΑΞΕΧΑΣΤΕΣ	αξέχαστος	AjBaFePlNm
+	SYN	/adjp_nm]
+1\11	TOK	ΔΙΑΚΟΠΕΣ	διακοπή	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\20	TOK	ΣΤΗ	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\24	TOK	ΜΑΓΕΥΤΙΚΗ	μαγευτικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\34	TOK	ΣΑΝΤΟΡΙΝΗ	Σαντορίνη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\45	TOK	Διαμονή	διαμονή	NoCmFeSgNm
+	SYN	/np_nm]
+1\52	PTERM_P	:	:	PTERM_P
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\54	TOK	ενοικιαζόμενα	ενοικιαζόμενος	AjBaNePlNm
+	SYN	/adjp_nm]
+1\68	TOK	δωμάτια	δωμάτιο	NoCmNePlNm
+1\76	TOK	Μαρούλια	μαρούλι	NoCmNePlNm
+	SYN	/np_nm]
+1\85	OPUNCT	(	(	OPUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\86	TOK	τρίκλινα	τρίκλινος	AjBaNePlAc
+1\95	TOK	και	και	CjCo
+1\99	TOK	δίκλινα	δίκλινος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\106	CPUNCT	)	)	CPUNCT
+1\107	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\109	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\114	TOK	οικισμό	οικισμός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\122	TOK	Χορευτό	Χορευτό	NoPrMaSgNm
+	SYN	/np_nm]
+1\129	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[advp
+1\131	TOK	Μακριά	μακριά	AdXxBa
+	SYN	[pp
+1\138	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\142	TOK	το	ο	AtDfMaSgAc
+1\145	TOK	θόρυβο	θόρυβος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\152	TOK	της	ο	AtDfFeSgGe
+1\156	TOK	πόλης	πόλη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/advp]
+1\161	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\163	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\166	TOK	σεβασμό	σεβασμός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\174	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\179	TOK	ώρες	ώρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\184	TOK	κοινής	κοινός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\191	TOK	ησυχίας	ησυχία	NoCmFeSgGe
+	SYN	/np_ge]
+1\198	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\200	TOK	ιδανικό	ιδανικός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\208	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\212	TOK	οικογένειες	οικογένεια	NoCmFePlAc
+	SYN	/np_ac]
+1\224	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\228	TOK	ηλικιωμένους	ηλικιωμένος	AjBaMaPlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+1\240	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[pp
+1\242	TOK	Στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\246	TOK	ευρύχωρο	ευρύχωρος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\255	TOK	σαλόνι	σαλόνι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\262	TOK	του	ο	AtDfNeSgGe
+1\266	TOK	συγκροτήματος	συγκρότημα	NoCmNeSgGe
+	SYN	/np_ge]
+1\279	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\281	TOK	τζάκι	τζάκι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\286	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\288	TOK	μπαρ	μπαρ	NoCmNeSgNm
+	SYN	/np_nm]
+1\293	OPUNCT	(	(	OPUNCT
+	SYN	[pp
+1\294	TOK	μέχρι	μέχρι	AsPpSp
+	SYN	[np_ac
+1\300	TOK	τις	ο	AtDfFePlAc
+1\304	DIG	11.00	11.00	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+1\309	CPUNCT	)	)	CPUNCT
+1\310	PUNCT	,	,	PUNCT
+1\312	ABBR	DVD	DVD	ABBR
+1\316	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\320	TOK	επιτραπέζια	επιτραπέζιος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\332	TOK	παιχνίδια	παιχνίδι	NoCmNePlAc
+	SYN	/np_ac]
+1\341	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\343	TOK	Για	για	AsPpSp
+	SYN	[np_ac
+1\347	TOK	τους	ο	AtDfMaPlAc
+	SYN	[adjp_ac
+1\352	TOK	μικρούς	μικρός	AjBaMaPlAc
+1\360	TOK	μας	μου	PnPoMa01PlGeXx
+	SYN	/adjp_ac]
+1\364	TOK	φίλους	φίλος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\370	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\372	TOK	λειτουργεί	λειτουργώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\383	TOK	παιδότοπος	παιδότοπος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[advp
+1\394	TOK	όπισθεν	όπισθεν	AdXxBa
+	SYN	[np_ge
+1\402	TOK	του	ο	AtDfNeSgGe
+1\406	TOK	πάρκινγκ	πάρκινγκ	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/advp]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\416	TOK	Αναχώρηση	αναχώρηση	NoCmFeSgNm
+	SYN	/np_nm]
+1\425	PTERM_P	:	:	PTERM_P
+	SYN	[np_ac
+1\427	INIT	Μ.	Μ.	INIT
+	SYN	[adjp_ac
+1\430	TOK	Πέμπτη	Πέμπτη	NmOdFeSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\436	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\438	TOK	Επιστροφή	επιστροφή	NoCmFeSgNm
+	SYN	/np_nm]
+1\447	PTERM_P	:	:	PTERM_P
+	SYN	[np_ac
+1\449	TOK	Τετάρτη	Τετάρτη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\457	TOK	του	ο	AtDfNeSgGe
+1\461	TOK	Πάσχα	Πάσχα	NoPrNeSgGe
+	SYN	/np_ge]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\468	TOK	Τιμή	τιμή	NoCmFeSgNm
+	SYN	/np_nm]
+1\472	PTERM_P	:	:	PTERM_P
+	SYN	[np_ac
+1\474	DIG	150	150	DIG
+1\478	TOK	ευρώ	ευρώ	NoCmNeSgAc
+	SYN	/np_ac]
+1\483	OPUNCT	(	(	OPUNCT
+	SYN	[cl
+	SYN	[pp
+1\484	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_nm
+1\489	TOK	τιμή	τιμή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	[vg
+1\494	TOK	δεν	δεν	PtNg
+1\498	TOK	περιλαμβάνεται	περιλαμβάνω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\513	TOK	ο	ο	AtDfMaSgNm
+1\515	ABBR	ΦΠΑ	ΦΠΑ	ABBR
+	SYN	/np_nm]
+	SYN	/cl]
+1\518	CPUNCT	)	)	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\521	TOK	Πληροφορίες	πληροφορία	NoCmFePlNm
+	SYN	/np_nm]
+1\532	PTERM_P	:	:	PTERM_P
+1\534	DIG	218	218	DIG
+1\538	DATE	3103103	3103103	DATE
+	)SENT	</S>

@@ -1,0 +1,46 @@
+1	Ένα	ένας	At	AtId	Ne|Sg|Nm	3	Det	_	_	
+2	χοντρό	χοντρός	Aj	Aj	Ba|Ne|Sg|Nm	3	Atr	_	_	
+3	ποντίκι	ποντίκι	No	NoCm	Ne|Sg|Nm	4	Sb	_	_	
+4	βλέπει	βλέπω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	μια	ένας	At	AtId	Fe|Sg|Ac	6	Det	_	_	
+6	τσάντα	τσάντα	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+7	πάνω	πάνω	Ad	Ad	Ba	6	Adv	_	_	
+8	σε	σε	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	ένα	ένας	At	AtId	Ne|Sg|Ac	10	Det	_	_	
+10	δέντρο	δέντρο	No	NoCm	Ne|Sg|Ac	8	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	τσάντα	τσάντα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	ανοιχτή	ανοιχτός	Aj	Aj	Ba|Fe|Sg|Nm	3	Pnom	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ελάτε	ελάτε	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	εδώ	εδώ	Ad	Ad	Ba	2	Adv	_	_	
+4	ποντίκια	ποντίκι	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ελάτε	ελάτε	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	φάμε	τρώω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	τσάντα	τσάντα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	γεμάτη	γεμάτος	Aj	Aj	Ba|Fe|Sg|Nm	3	Pnom	_	_	
+5	ντομάτες	ντομάτα	No	NoCm	Fe|Pl|Nm	14	ExD_Co	_	_	
+6	,	,	PUNCT	PUNCT	_	14	AuxX	_	_	
+7	μήλα	μήλο	No	NoCm	Ne|Pl|Ac	14	Atr_Co	_	_	
+8	,	,	PUNCT	PUNCT	_	14	AuxX	_	_	
+9	ντολμάδες	ντολμάς	No	NoCm	Ma|Pl|Ac	14	Atr_Co	_	_	
+10	,	,	PUNCT	PUNCT	_	14	AuxX	_	_	
+11	ελιές	ελιά	No	NoCm	Fe|Pl|Ac	14	Atr_Co	_	_	
+12	,	,	PUNCT	PUNCT	_	14	AuxX	_	_	
+13	φουντούκια	φουντούκι	No	NoCm	Ne|Pl|Ac	14	ExD_Co	_	_	
+14	,	,	PUNCT	PUNCT	_	4	Coord	_	_	
+15	μανταρίνια	μανταρίνι	No	NoCm	Ne|Pl|Ac	14	ExD_Co	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

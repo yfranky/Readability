@@ -1,0 +1,50 @@
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Φασαρίας	φασαρίας	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	έφυγε	φεύγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	πάλι	πάλι	Ad	Ad	Ba	3	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	τρέχουν	τρέχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	6	AuxV	_	_	
+5	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	6	Obj	_	_	
+6	βρουν	βρίσκω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	3	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δε	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	θέλουν	θέλω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	5	AuxV	_	_	
+4	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	5	Obj	_	_	
+5	χάσουν	χάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	Φασαρίας	φασαρίας	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+4	κυνηγάει	κυνηγώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	έναν	ένας	At	AtId	Ma|Sg|Ac	6	Det	_	_	
+6	λαγό	λαγός	No	NoCm	Ma|Sg|Ac	4	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Φασαρία	φασαρία	No	NoCm	Fe|Sg|Nm	4	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	σταμάτα	σταματώ	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	λαγός	λαγός	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+4	τρέχει	τρέχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	πολύ	πολύ	Ad	Ad	Ba	6	Adv	_	_	
+6	γρήγορα	γρήγορα	Ad	Ad	Ba	4	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	μπορείς	μπορώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	5	AuxV	_	_	
+4	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	5	Obj	_	_	
+5	πιάσεις	πιάνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

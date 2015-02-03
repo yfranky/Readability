@@ -1,0 +1,57 @@
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	Κυριακή	Κυριακή	No	NoCm	Fe|Sg|Nm	1	Pnom	_	_	
+3	πρωί	πρωί	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Οι	ο	At	AtDf	Ma|Pl|Nm	2	Det	_	_	
+2	γονείς	γονέας	No	NoCm	Ma|Pl|Nm	6	Sb	_	_	
+3	του	ο	At	AtDf	Ma|Sg|Ge	4	Det	_	_	
+4	Θωμά	Θωμάς	No	NoPr	Ma|Sg|Ge	2	Atr	_	_	
+5	δε	δεν	Pt	PtNg	_	6	AuxV	_	_	
+6	δουλεύουν	δουλεύω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	3	Sb	_	_	
+2	μαζί	μαζί	Ad	Ad	Ba	3	Adv	_	_	
+3	κάνουν	κάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	βόλτα	βόλτα	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+6	λιμάνι	λιμάνι	No	NoCm	Ne|Sg|Ac	5	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Περπατούν	περπατώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+2	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+3	παραλία	παράλιος	Aj	Aj	Ba|Fe|Sg|Ac	2	Adv	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	μιλάνε	μιλώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Θωμάς	Θωμάς	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	ρωτάει	ρωτώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	4	Obj	_	_	
+6	όσα	όσος	Pn	PnRi	Ne|03|Pl|Ac|Xx	7	Obj	_	_	
+7	βλέπει	βλέπω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Atr	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Φασαρίας	φασαρίας	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	θέλει	θέλω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	τρέξει	τρέχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+8	δεν	δεν	Pt	PtNg	_	9	AuxV	_	_	
+9	μπορεί	μπορώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Θωμάς	Θωμάς	No	NoPr	Ma|Sg|Nm	4	Sb	_	_	
+3	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	4	Obj	_	_	
+4	κρατάει	κρατώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	από	από	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	λουρί	λουρί	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

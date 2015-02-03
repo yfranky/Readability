@@ -1,0 +1,128 @@
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[vg
+1\1	TOK	Παρακαλώ	παρακαλώ	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\9	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\12	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\13	TOK	Τη	ο	AtDfFeSgAc
+1\16	TOK	Μαρία	Μαρία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\22	TOK	θα	θα	PtFu
+1\25	TOK	ήθελα	θέλω	VbMnIdPa01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\30	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\33	ENUM	-	-	ENUM
+	SYN	[vg
+1\34	TOK	Δεν	δεν	PtNg
+1\38	TOK	έχουμε	έχω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\45	TOK	καμιά	κανένας	PnIdFe03SgAcXx
+	SYN	/np_ac]
+	SYN	[np_nm
+1\51	TOK	Μαρία	Μαρία	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[advp
+1\57	TOK	εδώ	εδώ	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\60	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\63	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\64	TOK	Α	α	NoCmNeSgNm
+	SYN	/np_nm]
+1\65	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\67	TOK	συγγνώμη	συγγνώμη	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\75	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\77	TOK	Μα	μα	CjCo
+	SYN	[cl_q
+1\79	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\81	TOK	δεν	δεν	PtNg
+1\85	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\91	TOK	το	ο	AtDfNeSgAc
+1\94	DIG	53	53	DIG
+1\97	DIG	763	763	DIG
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\100	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\103	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\104	TOK	Αυτό	αυτός	PnDmNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\109	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\115	TOK	το	ο	AtDfNeSgNm
+1\118	TOK	νούμερο	νούμερο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\125	PUNCT	,	,	PUNCT
+1\127	TOK	αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[vg
+1\132	TOK	δεν	δεν	PtNg
+1\136	TOK	υπάρχει	υπάρχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\144	TOK	Μαρία	Μαρία	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[advp
+1\150	TOK	εδώ	εδώ	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\153	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\156	ENUM	-	-	ENUM
+	SYN	[vg
+1\157	TOK	Θα	θα	PtFu
+	SYN	[np_ge
+1\160	TOK	μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+1\164	TOK	έδωσαν	δίνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\171	TOK	λάθος	λάθος	NoCmNeSgAc
+1\177	TOK	αριθμό	αριθμός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\183	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\185	TOK	Με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\188	TOK	συγχωρείτε	συγχωρώ	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\198	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

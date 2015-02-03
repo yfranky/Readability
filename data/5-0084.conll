@@ -1,0 +1,11 @@
+1	ΦΡΟΝΤΙΣΤHΡΙΟ	φροντιστήριο	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+2	ΘΕΤΙΚHΣ	θετικός	Aj	Aj	Ba|Fe|Sg|Ge	3	Atr	_	_	
+3	ΚΑΤΕYΘΥΝΣΗΣ	κατεύθυνση	No	NoCm	Fe|Sg|Ge	1	Atr	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	ΕΙΔΙΚA	ειδικός	Aj	Aj	Ba|Ne|Pl|Nm	4	Atr	_	_	
+2	ΘΕΡΙΝA	θερινός	Aj	Aj	Ba|Ne|Pl|Ac	4	Atr	_	_	
+3	ΕΝΤΑΤΙΚA	εντατικός	Aj	Aj	Ba|Ne|Pl|Ac	4	Atr	_	_	
+4	ΤΜHΜΑΤΑ	τμήμα	No	NoCm	Ne|Pl|Ac	0	ExD	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,47 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	ENUM	-	-	ENUM
+	SYN	[vg
+1\2	TOK	Παίζουμε	παίζω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\11	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\14	TOK	το	ο	AtDfNeSgAc
+1\17	TOK	τόπι	τόπι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_q]
+1\21	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\24	ENUM	-	-	ENUM
+	SYN	[advp
+1\25	TOK	Ναι	ναι	AdXxBa
+	SYN	/advp]
+1\28	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\31	ENUM	-	-	ENUM
+	SYN	[advp
+1\32	TOK	Ναι	ναι	AdXxBa
+	SYN	/advp]
+1\35	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\38	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\39	TOK	Ο	ο	AtDfMaSgNm
+1\41	TOK	Φασαρίας	φασαρίας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\50	TOK	πήρε	παίρνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\55	TOK	το	ο	AtDfNeSgAc
+1\58	TOK	τόπι	τόπι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\62	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

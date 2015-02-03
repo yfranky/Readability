@@ -1,0 +1,37 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Η	ο	AtDfFeSgNm
+1\3	TOK	Νανά	Νανά	NoPrFeSgNm
+1\8	TOK	Μούσχουρη	Μούσχουρη	NoPrFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\19	TOK	Γεννήθηκε	γεννώ	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\29	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ge
+1\34	DIG	13	13	DIG
+1\37	TOK	Οκτωβρίου	Οκτώβριος	NoCmMaSgGe
+1\47	DIG	1934	1934	DIG
+	SYN	/np_ge]
+	SYN	/pp]
+1\51	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\53	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\58	TOK	Αθήνα	Αθήνα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\63	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\65	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\70	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\76	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

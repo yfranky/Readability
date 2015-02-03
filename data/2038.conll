@@ -1,0 +1,59 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	4	Sb	_	_	
+3	πού	πού	Ad	Ad	Ba	4	Adv	_	_	
+4	πήγες	πηγαίνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	χτες	χθες	Ad	Ad	Ba	4	Adv	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πήγα	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	σινεμά	σινεμά	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	5	AuxG	_	_	
+2	Κι	και	Cj	CjCo	_	1	AuxY	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	Γιάννης	Γιάννης	No	NoPr	Ma|Sg|Nm	5	Sb	_	_	
+5	πήγε	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	σινεμά	σινεμά	No	NoCm	Ne|Sg|Ac	5	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ε	ε	Ij	Ij	_	1	AuxG	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	βέβαια	βέβαια	Ad	Ad	Ba	7	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+6	μαζί	μαζί	Ad	Ad	Ba	7	Adv	_	_	
+7	πήγαμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+8	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εσείς	εγώ	Pn	PnPe	Ma|02|Pl|Nm|St	3	Sb	_	_	
+2	πού	πού	Ad	Ad	Ba	3	Adv	_	_	
+3	πήγατε	πηγαίνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	Αλέξανδρος	Αλέξανδρος	No	NoPr	Ma|Sg|Nm	1	Sb	_	_	
+4	κι	και	Cj	CjCo	_	9	AuxY	_	_	
+5	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	9	Sb	_	_	
+6	πήγαμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	9	Obj_Co	_	_	
+7	για	για	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	μπάσκετ	μπάσκετ	No	NoCm	Ne|Sg|Ge	7	Adv	_	_	
+9	και	και	Cj	CjCo	_	0	Coord	_	_	
+10	μετά	μετά	Ad	Ad	Ba	9	Adv	_	_	
+11	για	για	AsPp	AsPpSp	_	10	AuxP	_	_	
+12	φαγητό	φαγητό	No	NoCm	Ne|Sg|Ac	11	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Ελένη	Ελένη	No	NoPr	Fe|Sg|Nm	3	Sb_Co	_	_	
+3	κι	και	Cj	CjCo	_	7	Coord	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	Δημήτρης	Δημήτρης	No	NoPr	Ma|Sg|Nm	3	Sb_Co	_	_	
+6	δεν	δεν	Pt	PtNg	_	7	AuxV	_	_	
+7	ξέρω	ξέρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+8	πού	πού	Ad	Ad	Ba	9	Adv	_	_	
+9	πήγαν	πηγαίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	7	Obj	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

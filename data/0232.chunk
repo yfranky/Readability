@@ -1,0 +1,125 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ge
+1\1	TOK	Εμένα	εγώ	PnPeMa01SgGeSt
+	SYN	/np_ge]
+	SYN	[advp
+1\7	TOK	δε	δε	AdXxBa
+	SYN	/advp]
+	SYN	[np_ge
+1\10	TOK	μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\14	TOK	αρέσει	αρέσω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\21	TOK	το	ο	AtDfNeSgAc
+1\24	TOK	φθινόπωρο	φθινόπωρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\33	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\35	TOK	Δε	δεν	PtNg
+	SYN	[np_ge
+1\38	TOK	μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+1\42	TOK	αρέσει	αρέσω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\49	TOK	γιατί	γιατί	CjSb
+	SYN	[advp
+1\55	TOK	ξαφνικά	ξαφνικά	AdXxBa
+1\62	PUNCT	,	,	PUNCT
+1\64	TOK	εκεί	εκεί	AdXxBa
+	SYN	/advp]
+	SYN	[cl_r
+	SYN	[pou_advp
+1\69	TOK	που	που	AdXxBa
+	SYN	/pou_advp]
+	SYN	[vg
+1\73	TOK	είχα	έχω	VbMnIdPa01SgXxIpAvXx
+1\78	TOK	συνηθίσει	συνηθίζω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\88	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\92	TOK	μπάνια	μπάνιο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\98	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\100	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\105	TOK	βουτιές	βουτιά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\112	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\114	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\119	TOK	βόλτες	βόλτα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\126	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\129	TOK	το	ο	AtDfNeSgAc
+1\132	TOK	ποδήλατο	ποδήλατο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\140	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+	SYN	[vg_s
+1\142	TOK	να	να	PtSj
+1\145	TOK	τρώω	τρώω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\150	TOK	παγωτά	παγωτό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\157	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\161	TOK	να	να	PtSj
+1\164	TOK	παίζω	παίζω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\170	TOK	ηλεκτρονικά	ηλεκτρονικός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\182	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\186	TOK	camping	camping	RgFwOr
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\193	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\195	TOK	τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\200	TOK	δεν	δεν	PtNg
+	SYN	[np_ac
+1\204	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+1\207	TOK	κάνω	κάνω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\212	TOK	αυτά	αυτός	PnDmNe03PlAcXx
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\217	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\221	TOK	στεναχωριέμαι	στεναχωρώ	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\234	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,114 @@
+	(SENT	<S>
+	SYN	[pp
+1\1	TOK	Στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\6	TOK	κορυφή	κορυφή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\13	TOK	του	ο	AtDfNeSgGe
+1\17	TOK	Έβερεστ	Έβερεστ	NoPrNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\26	TOK	Οι	ο	AtDfFePlNm
+1\29	TOK	αναρριχήσεις	αναρρίχηση	NoCmFePlNm
+	SYN	/np_nm]
+1\42	TOK	στη	στου	AsPpPaFeSgAc
+1\46	OPUNCT	"	"	OPUNCT
+	SYN	[np_ac
+1\47	TOK	Στέγη	στέγη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\53	TOK	του	ο	AtDfMaSgGe
+1\57	TOK	Κόσμου	κόσμος	NoCmMaSgGe
+	SYN	/np_ge]
+1\63	CPUNCT	"	"	CPUNCT
+1\64	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+	SYN	[advp
+1\66	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\71	TOK	αποκαλείται	αποκαλώ	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+1\83	TOK	το	ο	AtDfMaSgAc
+	SYN	[np_nm
+1\86	TOK	όρος	όρος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\91	TOK	Έβερεστ	Έβερεστ	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\98	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\100	TOK	ξεκίνησαν	ξεκινώ	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\110	TOK	το	ο	AtDfNeSgAc
+1\113	DIG	1920	1920	DIG
+	SYN	/np_ac]
+	SYN	/cl]
+1\118	TOK	και	και	CjCo
+1\122	TOK	μέχρι	μέχρι	AsPpSp
+1\128	TOK	το	ο	AtDfNeSgAc
+	SYN	[np_nm
+1\131	DIG	1953	1953	DIG
+1\136	TOK	κανείς	κανένας	PnIdMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\143	TOK	δεν	δεν	PtNg
+1\147	TOK	είχε	έχω	VbMnIdPa03SgXxIpAvXx
+1\152	TOK	κατορθώσει	κατορθώνω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\163	TOK	να	να	PtSj
+1\166	TOK	φτάσει	φτάνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\173	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\178	TOK	κορυφή	κορυφή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\184	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\186	TOK	εκτός	εκτός	AdXxBa
+	SYN	[pp
+1\192	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\196	TOK	τον	ο	AtDfMaSgAc
+1\200	TOK	Έντμουντ	Έντμουντ	NoPrMaSgAc
+1\209	TOK	Χίλαρι	Χίλαρι	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\215	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\217	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\221	TOK	πάτησε	πατάω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\228	TOK	την	ο	AtDfFeSgAc
+1\232	TOK	κορυφή	κορυφή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\239	TOK	των	ο	AtDfNePlGe
+1\243	TOK	Ιμαλαΐων	Ιμαλαΐων	NoPrNePlGe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\252	TOK	το	ο	AtDfNeSgAc
+1\255	DIG	1953	1953	DIG
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\259	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

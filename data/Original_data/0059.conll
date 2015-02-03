@@ -1,0 +1,48 @@
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	ημερολόγιο	ημερολόγιο	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+3	του	ο	At	AtDf	Ma|Sg|Ge	4	Det	_	_	
+4	Θωμά	Θωμάς	No	NoPr	Ma|Sg|Ge	2	Atr	_	_	
+
+1	Σήμερα	σήμερα	Ad	Ad	Ba	2	Adv	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	Σάββατο	Σάββατο	No	NoCm	Ne|Sg|Nm	2	Pnom	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βρέχει	βρέχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	μπορώ	μπορώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	πάω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+6	βουνό	βουνό	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	μπορώ	μπορώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	παίξω	παίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	έξω	έξω	Ad	Ad	Ba	4	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βαριέμαι	βαριέμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	κάνω	κάνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	2	Obj	_	_	
+2	βρήκα	βρίσκω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	παίξω	παίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	με	με	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	τη	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	βάρκα	βάρκα	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+6	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	5	Pos	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

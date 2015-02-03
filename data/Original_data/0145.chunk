@@ -1,0 +1,341 @@
+	(SENT	<S>
+1\1	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\2	TOK	Γεια	γεια	NoCmFeSgNm
+1\7	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_nm]
+	SYN	[np_nm
+1\11	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+1\17	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[advp
+1\19	TOK	Πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\23	TOK	πάει	πηγαίνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\28	TOK	το	ο	AtDfNeSgAc
+1\31	TOK	σχολείο	σχολείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\38	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\41	ENUM	-	-	ENUM
+	SYN	[advp
+1\42	TOK	Πολύ	πολύ	AdXxBa
+1\47	TOK	καλά	καλά	AdXxBa
+	SYN	/advp]
+1\51	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\54	ENUM	-	-	ENUM
+1\55	TOK	Μπράβο	μπράβο	Ij
+1\61	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_ac
+1\63	TOK	Τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\66	TOK	θέλετε	θέλω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\72	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\74	TOK	Μαρκαδόρους	μαρκαδόρος	NoCmMaPlAc
+	SYN	/np_ac]
+1\85	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\87	TOK	Τετράδια	τετράδιο	NoCmNePlNm
+	SYN	/np_nm]
+1\95	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\97	TOK	Μολύβια	μολύβι	NoCmNePlNm
+	SYN	/np_nm]
+1\104	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\106	TOK	Γόμες	γόμα	NoCmFePlNm
+	SYN	/np_nm]
+1\111	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\114	ENUM	-	-	ENUM
+	SYN	[vg
+1\115	TOK	Ψάχνουμε	ψάχνω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\124	TOK	να	να	PtSj
+1\127	TOK	βρούμε	βρίσκω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\134	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\138	TOK	λεξικό	λεξικός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\144	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\147	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\148	TOK	Τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\151	TOK	λεξικά	λεξικός	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\158	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\164	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\167	TOK	εκείνο	εκείνος	PnDmNe03SgAcXx
+1\174	TOK	το	ο	AtDfNeSgAc
+1\177	TOK	ράφι	ράφι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\181	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\184	ENUM	-	-	ENUM
+	SYN	[cl_o
+	SYN	[vg_s
+1\185	TOK	Να	να	PtSj
+1\187	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\189	TOK	αυτό	αυτός	PnDmNe03SgNmXx
+	SYN	/np_nm]
+1\194	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\200	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\203	TOK	λεξικό	λεξικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\210	TOK	που	που	PnReNe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\214	TOK	ψάχνουμε	ψάχνω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\222	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\224	TOK	Είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\230	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+	SYN	[advp
+1\233	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\237	TOK	μικρό	μικρός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\242	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\245	TOK	Άφιξη	άφιξη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\251	TOK	αμαξοστοιχίας	αμαξοστοιχία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[pp
+1\265	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\269	TOK	Θεσσαλονίκη	Θεσσαλονίκη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\280	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\283	ENUM	-	-	ENUM
+1\284	CPUNCT	"	"	CPUNCT
+	SYN	[np_ac
+1\285	TOK	Άφιξη	άφιξη	NoCmFeSgAc
+	SYN	/np_ac]
+1\290	CPUNCT	"	"	CPUNCT
+1\291	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_nm
+1\293	TOK	Τι	τι	PnIrNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\296	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\302	TOK	άφιξη	άφιξη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\307	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\310	ENUM	-	-	ENUM
+	SYN	[cl_o
+	SYN	[vg_s
+1\311	TOK	Να	να	PtSj
+1\314	TOK	δούμε	βλέπω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\320	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\324	TOK	λεξικό	λεξικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\330	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\333	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\334	TOK	Άφιξη	άφιξη	NoCmFeSgNm
+	SYN	/np_nm]
+1\339	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\341	TOK	Εδώ	εδώ	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\345	TOK	λέει	λέγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\350	OPUNCT	"	"	OPUNCT
+1\351	TOK	ερχομός	ερχομός	NoCmMaSgNm
+1\358	CPUNCT	"	"	CPUNCT
+	SYN	/np_nm]
+	SYN	/cl]
+1\359	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\362	ENUM	-	-	ENUM
+	SYN	[advp
+1\363	TOK	Δηλαδή	δηλαδή	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\370	TOK	κάποιος	κάποιος	PnIdMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\378	TOK	έρχεται	έρχομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\385	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\388	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\389	TOK	Ποιος	ποιος	PnIrMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\395	TOK	έρχεται	έρχομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\402	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\405	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\406	TOK	Αμαξοστοιχία	αμαξοστοιχία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\419	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\425	TOK	το	ο	AtDfNeSgNm
+1\428	TOK	τρένο	τρένο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\433	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\436	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\437	TOK	Α	α	NoCmNeSgNm
+	SYN	/np_nm]
+1\438	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\440	TOK	Έρχεται	έρχομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\448	TOK	το	ο	AtDfNeSgNm
+1\451	TOK	τρένο	τρένο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\456	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\458	TOK	Το	ο	AtDfNeSgNm
+1\461	TOK	τρένο	τρένο	NoCmNeSgNm
+	SYN	/np_nm]
+1\466	PTERM_P	...	...	PTERM_P
+	SYN	[vg
+1\470	TOK	έρχεται	έρχομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\478	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\482	TOK	τη	ο	AtDfFeSgAc
+1\485	TOK	Θεσσαλονίκη	Θεσσαλονίκη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\496	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\498	TOK	Πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\503	TOK	γρήγορα	γρήγορα	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\511	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\516	TOK	σταθμό	σταθμός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\522	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,75 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Μαρία	Μαρία	NoPrFeSgNm
+1\7	TOK	Πετράκη	Πετράκη	NoPrFeSgNm
+	SYN	/np_nm]
+1\14	PUNCT	,	,	PUNCT
+	SYN	[np_ge
+1\16	DIG	9	9	DIG
+1\18	TOK	χρονών	χρονών	NoCmMaPlGe
+	SYN	/np_ge]
+1\24	PTERM_P	:	:	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\27	TOK	Εγώ	εγώ	PnPeMa01SgNmSt
+	SYN	/np_nm]
+	SYN	[vg
+1\31	TOK	θα	θα	PtFu
+1\34	TOK	στείλω	στέλνω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\41	TOK	ένα	ένας	AtIdNeSgAc
+1\45	TOK	γράμμα	γράμμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\52	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\56	ABBR	Ε.ΔΙΑ.Μ.ΜΕ.	Ε.ΔΙΑ.Μ.ΜΕ.	ABBR
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\68	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\71	TOK	ηλεκτρονικό	ηλεκτρονικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\83	TOK	ταχυδρομείο	ταχυδρομείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\94	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\96	TOK	Τη	ο	AtDfFeSgAc
+1\99	TOK	διεύθυνση	διεύθυνση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\109	TOK	την	εγώ	PnPeFe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\113	TOK	ξέρω	ξέρω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\118	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_ac
+1\122	TOK	τη	εγώ	PnPeFe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\125	TOK	λέω	λέγω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+1\129	TOK	και	και	CjCo
+	SYN	[pp
+1\133	TOK	σε	σε	AsPpSp
+	SYN	[np_ge
+1\136	TOK	σας	εγώ	PnPeMa02PlGeWe
+	SYN	/np_ge]
+	SYN	/pp]
+1\139	PTERM_P	:	:	PTERM_P
+1\141	TOK	ediamme@edc.uoc.gr	ediamme@edc.uoc.gr	RgFwOr
+	SYN	/cl]
+	)SENT	</S>

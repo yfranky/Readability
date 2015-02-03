@@ -1,0 +1,40 @@
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Ελλάδα	Ελλάδα	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+3	γιορτάζει	γιορτάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Θωμάς	Θωμάς	No	NoPr	Ma|Sg|Nm	4	Sb	_	_	
+3	πάντα	πάντα	Ad	Ad	Ba	2	Adv	_	_	
+4	θυμώνει	θυμώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+
+1	και	και	Cj	CjCo	_	5	AuxY	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Ac	3	Det	_	_	
+3	φρύδια	φρύδι	No	NoCm	Ne|Pl|Ac	5	Obj	_	_	
+4	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	3	Pos	_	_	
+5	ζαρώνει	ζαρώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+2	του	εγώ	Pn	PnPe	Ma|03|Sg|Ge|We	3	IObj	_	_	
+3	αρέσει	αρέσω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	σχολείο	σχολείο	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+
+1	το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	τετράδιο	τετράδιο	No	NoCm	Ne|Sg|Nm	3	Sb_Co	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Nm	5	Det	_	_	
+5	βιβλίο	βιβλίο	No	NoCm	Ne|Sg|Nm	3	Sb_Co	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σήμερα	σήμερα	Ad	Ad	Ba	2	Adv	_	_	
+2	όμως	όμως	Cj	CjCo	_	0	ExD	_	_	
+3	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+4	γιορτή	γιορτή	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+
+1	τσολιάς	τσολιάς	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+2	θαύμα	θαύμα	No	NoCm	Ne|Sg|Ac	1	Atr	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	AuxV	_	_	
+4	ντυθεί	ντύνω	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

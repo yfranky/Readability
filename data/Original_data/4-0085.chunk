@@ -1,0 +1,324 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Το	ο	AtDfNeSgNm
+1\4	TOK	μαντολίνο	μαντολίνο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\14	TOK	του	ο	AtDfMaSgGe
+1\18	TOK	λοχαγού	λοχαγός	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	[np_nm
+1\26	TOK	Κορέλι	Κορέλι	NoPrMaSgNm
+	SYN	/np_nm]
+1\33	OPUNCT	(	(	OPUNCT
+1\34	TOK	Captain	Captain	RgFwOr
+1\42	TOK	Corelli's	Corelli's	RgFwOr
+1\52	TOK	Mandolin	Mandolin	RgFwOr
+1\60	CPUNCT	)	)	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\63	TOK	Σκηνοθεσία	σκηνοθεσία	NoCmFeSgNm
+	SYN	/np_nm]
+1\73	PTERM_P	:	:	PTERM_P
+1\75	TOK	Τζον	Τζον	RgFwTr
+1\80	TOK	Μάντεν	Μάντεν	RgFwTr
+	SYN	[vg
+1\87	TOK	Πρωταγωνιστούν	πρωταγωνιστώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+1\101	PTERM_P	:	:	PTERM_P
+1\103	TOK	Νίκολας	Νίκολας	RgFwTr
+1\111	TOK	Κέιτζ	Κέιτζ	RgFwTr
+1\116	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\118	TOK	Πενέλοπι	Πενέλοπι	NoPrMaSgNm
+1\127	TOK	Κρουζ	Κρουζ	NoPrMaSgNm
+	SYN	/np_nm]
+1\132	PUNCT	,	,	PUNCT
+1\134	TOK	Κριστιάν	Κριστιάν	RgFwTr
+	SYN	[np_nm
+1\143	TOK	Μπέιϊ	Μπέιϊ	NoPrMaSgNm
+	SYN	/np_nm]
+1\148	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\150	TOK	Ειρήνη	Ειρήνη	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\157	TOK	Παππά	παππάς	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\164	TOK	Το	ο	AtDfNeSgAc
+1\167	DIG	1941	1941	DIG
+	SYN	/np_ac]
+	SYN	[pp
+1\172	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\175	TOK	ένα	ένας	AtIdNeSgAc
+1\179	TOK	χωριό	χωριό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\185	TOK	της	ο	AtDfFeSgGe
+1\189	TOK	Κεφαλονιάς	Κεφαλονιά	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\199	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\201	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\205	TOK	ετοιμάζεται	ετοιμάζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	[cl_o
+	SYN	[vg_s
+1\217	TOK	να	να	PtSj
+1\220	TOK	γευτεί	γεύομαι	VbMnIdXx03SgXxPePvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\227	TOK	τη	ο	AtDfFeSgAc
+1\230	TOK	φρίκη	φρίκη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\236	TOK	του	ο	AtDfMaSgGe
+1\240	TOK	πολέμου	πόλεμος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\247	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\249	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\251	TOK	καλόκαρδος	καλόκαρδος	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\262	TOK	λοχαγός	λοχαγός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\270	TOK	μιας	ένας	AtIdFeSgGe
+	SYN	[adjp_ge
+1\275	TOK	ιταλικής	ιταλικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\284	TOK	στρατιάς	στρατιά	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\293	TOK	κατοχής	κατοχή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\301	TOK	ερωτεύεται	ερωτεύομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\312	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\316	TOK	πανέμορφη	πανέμορφος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\326	TOK	κόρη	κόρη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\331	TOK	του	ο	AtDfMaSgGe
+	SYN	[adjp_ge
+1\335	TOK	ντόπιου	ντόπιος	AjBaMaSgGe
+	SYN	/adjp_ge]
+1\343	TOK	γιατρού	γιατρός	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\350	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\352	TOK	Η	ο	AtDfFeSgNm
+1\354	TOK	ταινία	ταινία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\361	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\367	TOK	μια	ένας	AtIdFeSgNm
+1\371	TOK	ιστορία	ιστορία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\379	TOK	αγάπης	αγάπη	NoCmFeSgGe
+	SYN	/np_ge]
+1\386	TOK	και	και	CjCo
+	SYN	[np_ge
+1\390	TOK	πολέμου	πόλεμος	NoCmMaSgGe
+	SYN	/np_ge]
+1\397	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\399	TOK	έρωτα	έρωτας	NoCmMaSgAc
+	SYN	/np_ac]
+1\405	TOK	και	και	CjCo
+	SYN	[np_ge
+1\409	TOK	τραγωδίας	τραγωδία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\418	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\420	TOK	Περιλαμβάνει	περιλαμβάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\433	TOK	μαγευτικά	μαγευτικός	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\443	TOK	τοπία	τοπίο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\449	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\453	TOK	το	ο	AtDfNeSgAc
+1\456	TOK	νησί	νησί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\461	TOK	της	ο	AtDfFeSgGe
+1\465	TOK	Κεφαλονιάς	Κεφαλονιά	NoPrFeSgGe
+	SYN	/np_ge]
+1\476	TOK	και	και	CjCo
+	SYN	[np_ac
+1\480	TOK	σκηνές	σκηνή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\487	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\491	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\495	TOK	καθημερινή	καθημερινός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\506	TOK	ζωή	ζωή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\510	TOK	των	ο	AtDfMaPlGe
+1\514	TOK	ανθρώπων	άνθρωπος	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\523	TOK	της	ο	AtDfFeSgGe
+1\527	TOK	εποχής	εποχή	NoCmFeSgGe
+1\534	TOK	εκείνης	εκείνος	PnDmFe03SgGeXx
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\541	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\544	TOK	Υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\553	TOK	αρκετοί	αρκετός	PnIdMa03PlNmXx
+	SYN	/np_nm]
+	SYN	[advp
+1\561	TOK	βέβαια	βέβαια	AdXxBa
+	SYN	/advp]
+	SYN	[cl_r
+	SYN	[pou_advp
+1\568	TOK	που	που	AdXxBa
+	SYN	/pou_advp]
+	SYN	[vg
+1\572	TOK	αντιμετώπισαν	αντιμετωπίζω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\586	TOK	την	ο	AtDfFeSgAc
+1\590	TOK	ταινία	ταινία	NoCmFeSgAc
+	SYN	/np_ac]
+1\597	TOK	και	και	CjCo
+	SYN	[np_ac
+1\601	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\604	TOK	ομώνυμο	ομώνυμος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\612	TOK	μυθιστόρημα	μυθιστόρημα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+1\623	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[np_nm
+1\625	TOK	το	ο	AtDfNeSgNm
+1\628	TOK	οποίο	οποίος	PnReNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\634	TOK	μεταφέρεται	μεταφέρω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\646	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\651	TOK	οθόνη	οθόνη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\656	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\658	TOK	ως	ως	AdXxBa
+	SYN	[np_nm
+1\661	TOK	τίποτα	τίποτα	PnIdNe03SgNmXx
+	SYN	/np_nm]
+	SYN	/advp]
+	SYN	[advp
+1\668	TOK	περισσότερο	πολύ	AdXxCp
+	SYN	/advp]
+	SYN	[pp
+1\680	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\684	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\688	TOK	ιστορικό-ρομαντικό	ιστορικό-ρομαντικό	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\707	TOK	Άρλεκιν	Άρλεκιν	NoPrNeSgNm
+	SYN	/np_nm]
+	SYN	/cl_r]
+	SYN	/cl]
+1\714	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\716	TOK	Πολλοί	πολύς	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\723	TOK	μίλησαν	μιλώ	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\731	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\735	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\739	TOK	σοβαρές	σοβαρός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\747	TOK	ανακρίβειες	ανακρίβεια	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\759	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\763	TOK	υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\772	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\775	TOK	βάρος	βάρος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\781	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\785	TOK	ελληνικής	ελληνικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\795	TOK	ιστορίας	ιστορία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\803	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,35 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Δικηγόρος	δικηγόρος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\11	TOK	ζητά	ζητώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\16	TOK	υπεύθυνο	υπεύθυνος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\25	TOK	άτομο	άτομο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\31	TOK	για	για	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\35	TOK	ταχύρρυθμα	ταχύρρυθμος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\46	TOK	μαθήματα	μάθημα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\55	TOK	χειρισμού	χειρισμός	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\65	TOK	Η	ο	AtDfFeSgNm
+1\66	PUNCT	/	/	PUNCT
+1\67	INIT	Υ.	Υ.	INIT
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+1\71	ABBR	τηλ.	τηλ.	ABBR
+1\76	DIG	2610333967	2610333967	DIG
+	)SENT	</S>

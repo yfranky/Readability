@@ -1,0 +1,43 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+4	Μέγας	μέγας	Aj	Aj	Ba|Ma|Sg|Nm	5	Atr	_	_	
+5	Αλέξανδρος	Αλέξανδρος	No	NoPr	Ma|Sg|Nm	6	Sb_Co	_	_	
+6	ή	ή	Cj	CjCo	_	2	Coord	_	_	
+7	ο	ο	At	AtDf	Ma|Sg|Nm	8	Det	_	_	
+8	Καραγκιόζης	καραγκιόζης	No	NoCm	Ma|Sg|Nm	6	Sb_Co	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	Καραγκιόζης	καραγκιόζης	No	NoCm	Ma|Sg|Nm	2	Pnom	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πού	πού	Ad	Ad	Ba	3	Adv	_	_	
+3	είστε	είμαι	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+5	τελοσπάντων	τελοσπάντων	Ad	Ad	Ba	3	Adv	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Εδώ	εδώ	Ad	Ad	Ba	3	Adv	_	_	
+3	είμαστε	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Τα	ο	At	AtDf	Ne|Pl|Nm	3	Det	_	_	
+3	ελληνικά	ελληνικός	Aj	Aj	Ba|Ne|Pl|Nm	4	Sb	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	εύκολα	εύκολα	Ad	Ad	Ba	6	Adv_Co	_	_	
+6	ή	ή	Cj	CjCo	_	4	Coord	_	_	
+7	δύσκολα	δύσκολα	Ad	Ad	Ba	6	Adv_Co	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	πολύ	πολύ	Ad	Ad	Ba	4	Adv	_	_	
+4	εύκολα	εύκολα	Ad	Ad	Ba	2	Adv	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

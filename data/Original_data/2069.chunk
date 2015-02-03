@@ -1,0 +1,244 @@
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_ac
+1\1	TOK	Τι	τι	PnIrNe03SgAcXx
+1\4	TOK	άλλο	άλλος	PnIdNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\9	TOK	έγινε	γίνομαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\15	TOK	στο	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\19	TOK	γάμο	γάμος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\24	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\28	TOK	θείας	θείος	AjBaFeSgGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_q]
+1\33	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\36	ENUM	-	-	ENUM
+	SYN	[vg
+1\37	TOK	Σκίστηκε	σκίζω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\46	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\49	TOK	νυφικό	νυφικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\55	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\57	TOK	Και	και	CjCo
+	SYN	[cl_q
+	SYN	[np_ac
+1\61	TOK	τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\64	TOK	έκανε	κάνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\70	TOK	η	ο	AtDfFeSgNm
+1\72	TOK	θεία	θεία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\76	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[vg
+1\78	TOK	Φοβήθηκε	φοβούμαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\86	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\89	ENUM	-	-	ENUM
+	SYN	[vg
+1\90	TOK	Δεν	δεν	PtNg
+1\94	TOK	ασχολήθηκε	ασχολούμαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[advp
+1\105	TOK	καθόλου	καθόλου	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\112	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\114	TOK	Δεν	δεν	PtNg
+1\118	TOK	παραπονέθηκε	παραπονιέμαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\131	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\135	TOK	τίποτα	τίποτα	PnIdNe03SgAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+1\141	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\143	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\145	TOK	καημένη	καημένος	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\152	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_t
+1\154	TOK	Μόλις	μόλις	CjSb
+	SYN	[vg
+1\160	TOK	είδε	βλέπω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\165	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\168	TOK	θείο	θείος	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_t]
+1\172	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\174	TOK	φιλήθηκαν	φιλώ	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	/cl]
+1\183	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\185	TOK	κρατήθηκαν	κρατώ	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\196	TOK	χέρι	χέρι	NoCmNeSgAc
+1\201	TOK	χέρι	χέρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\206	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\210	TOK	μπήκαν	μπαίνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\217	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\222	TOK	εκκλησία	εκκλησία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\230	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\234	ENUM	-	-	ENUM
+	SYN	[advp
+1\235	TOK	Σιγά	σιγά	AdXxBa
+	SYN	/advp]
+1\239	PUNCT	,	,	PUNCT
+1\241	TOK	βρε	βρε	Ij
+	SYN	[np_ac
+1\245	TOK	Χριστίνα	Χριστίνα	NoPrFeSgAc
+	SYN	/np_ac]
+1\253	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\255	TOK	θα	θα	PtFu
+1\258	TOK	κλάψω	κλαίω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\264	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\268	TOK	τη	ο	AtDfFeSgAc
+1\271	TOK	συγκίνηση	συγκίνηση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\280	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\282	TOK	Ουφ	ουφ	NoPrMaSgNm
+	SYN	/np_nm]
+1\285	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\287	TOK	βαρέθηκα	βαριέμαι	VbMnIdPa01SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\296	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\299	TOK	το	ο	AtDfMaSgAc
+1\302	TOK	γάμο	γάμος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\306	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[vg
+1\308	TOK	Δεν	δεν	PtNg
+1\312	TOK	πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\317	TOK	καμιά	κανένας	PnIdFe03SgAcXx
+1\323	TOK	βόλτα	βόλτα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\328	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\331	ENUM	-	-	ENUM
+	SYN	[vg
+1\332	TOK	Μη	μην	PtNg
+1\335	TOK	βιάζεσαι	βιάζω	VbMnIdPr02SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\343	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\345	TOK	κοίτα	κοιτάζω	VbMnMpXx02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_ir
+	SYN	[np_ac
+1\351	TOK	τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[np_ge
+1\354	TOK	σου	εγώ	PnPeMa02SgGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\358	TOK	’χω	έχω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\362	TOK	εδώ	εδώ	AdXxBa
+	SYN	/advp]
+	SYN	/cl_ir]
+1\365	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\368	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\369	TOK	Τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+1\371	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\373	TOK	Κι	και	CjCo
+	SYN	[np_ac
+1\376	TOK	άλλη	άλλος	PnIdFe03SgAcXx
+1\381	TOK	πρόσκληση	πρόσκληση	NoCmFeSgAc
+	SYN	/np_ac]
+1\390	PTERM_P	;	;	PTERM_P
+	)SENT	</S>

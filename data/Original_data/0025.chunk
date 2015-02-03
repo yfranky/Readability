@@ -1,0 +1,111 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Ένα	ένας	AtIdNeSgNm
+1\5	TOK	βιβλίο	βιβλίο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\12	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\18	TOK	κάτω	κάτω	AdXxBa
+	SYN	[pp
+1\23	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\27	TOK	το	ο	AtDfNeSgAc
+1\30	TOK	χαλί	χαλί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\34	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\37	TOK	Ένα	ένας	AtIdNeSgNm
+1\41	TOK	βιβλίο	βιβλίο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\48	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\51	TOK	ιστορίες	ιστορία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\59	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ge
+1\62	TOK	Μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\66	TOK	αρέσει	αρέσω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\73	TOK	να	να	PtSj
+1\76	TOK	διαβάζω	διαβάζω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\84	TOK	ιστορίες	ιστορία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\92	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ge
+1\95	TOK	Μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\99	TOK	αρέσει	αρέσω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\106	TOK	να	να	PtSj
+1\109	TOK	ακούω	ακούω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\115	TOK	ιστορίες	ιστορία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\123	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ge
+1\126	TOK	Μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\130	TOK	αρέσει	αρέσω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\137	TOK	να	να	PtSj
+1\140	TOK	γράφω	γράφω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\146	TOK	ιστορίες	ιστορία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\154	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\157	TOK	Πάρε	παίρνω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\162	TOK	ένα	ένας	AtIdNeSgNm
+1\166	TOK	μολύβι	μολύβι	NoCmNeSgNm
+	SYN	/np_nm]
+1\172	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\174	TOK	Μελέκ	Μελέκ	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\179	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

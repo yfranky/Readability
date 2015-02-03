@@ -1,0 +1,242 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	ΦΙΛΙΑ	φιλί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\7	TOK	ΣΗΜΑΙΝΕΙ	σημαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\16	TOK	ΣΕΒΑΣΜΟΣ	σεβασμός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\26	TOK	Δεν	δεν	PtNg
+1\30	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\36	TOK	εύκολο	εύκολος	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\43	TOK	να	να	PtSj
+	SYN	[np_ac
+1\46	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+1\49	TOK	πάνε	πηγαίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\54	TOK	καλά	καλά	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\59	TOK	αυτοί	αυτός	PnDmMa03PlNmXx
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\65	TOK	που	που	PnReMa03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\69	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\75	TOK	διαφορετικές	διαφορετικός	AjBaFePlNm
+	SYN	/adjp_nm]
+1\88	TOK	συνήθειες	συνήθεια	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\97	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\99	TOK	Ωστόσο	ωστόσο	CjCo
+	SYN	[cl
+1\105	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\107	TOK	τα	ο	AtDfNePlNm
+1\110	TOK	πράγματα	πράγμα	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\119	TOK	δεν	δεν	PtNg
+1\123	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\129	TOK	πάντα	πάντα	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\135	TOK	έτσι	έτσι	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\139	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\141	TOK	Το	ο	AtDfNeSgNm
+	SYN	[advp
+1\144	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[cl_r
+	SYN	[pou_advp
+1\149	TOK	που	που	AdXxBa
+	SYN	/pou_advp]
+	SYN	[vg
+1\153	TOK	χρειάζεται	χρειάζομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	[vg
+1\164	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\170	TOK	να	να	PtSj
+1\173	TOK	σεβόμαστε	σέβομαι	VbMnIdPr01PlXxIpPvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\183	TOK	τις	ο	AtDfFePlAc
+1\187	TOK	απόψεις	άποψη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\195	TOK	των	ο	AtDfNePlGe
+1\199	TOK	άλλων	άλλος	PnIdNe03PlGeXx
+	SYN	/np_ge]
+1\204	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\206	TOK	έστω	έστω	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+1\211	TOK	κι	και	CjCo
+	SYN	[cl_c
+1\214	TOK	αν	αν	CjSb
+	SYN	[vg
+1\217	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\223	TOK	διαφορετικές	διαφορετικός	AjBaFePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\236	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\240	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\244	TOK	δικές	δικός	AjBaFePlAc
+1\250	TOK	μας	μου	PnPoMa01PlGeXx
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_c]
+1\253	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\256	TOK	Να	να	PtSj
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\259	TOK	πέντε	πέντε	NmCdMaPlNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+1\265	TOK	κανόνες	κανόνας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\273	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\277	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\281	TOK	σωστή	σωστός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\287	TOK	φιλία	φιλία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\292	PTERM_P	:	:	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\295	TOK	Μην	μην	PtNg
+1\299	TOK	προδίδετε	προδίδω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\309	TOK	τα	ο	AtDfNePlAc
+1\312	TOK	μυστικά	μυστικό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\319	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+	SYN	[vg_s
+1\322	TOK	Να	να	PtSj
+1\325	TOK	είστε	είμαι	VbMnIdPr02PlXxIpPvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\331	TOK	πάντοτε	πάντοτε	AdXxBa
+	SYN	/advp]
+1\339	TOK	ειλικρινείς	ειλικρινής	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\350	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\353	TOK	Μη	μην	PtNg
+1\356	TOK	φοβάστε	φοβούμαι	VbMnIdPr02PlXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\364	TOK	να	να	PtSj
+1\367	TOK	ζητάτε	ζητώ	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\374	TOK	συγνώμη	συγνώμη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\381	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\384	TOK	Μην	μην	PtNg
+1\388	TOK	είστε	είμαι	VbMnIdPr02PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\394	TOK	πεισματάρηδες	πεισματάρης	AjBaMaPlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+	SYN	[vg_s
+1\409	TOK	Να	να	PtSj
+1\412	TOK	μοιράζεστε	μοιράζω	VbMnIdPr02PlXxIpPvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\423	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\426	TOK	τους	ο	AtDfMaPlAc
+1\431	TOK	φίλους	φίλος	NoCmMaPlAc
+1\438	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\442	TOK	τα	ο	AtDfNePlAc
+1\445	TOK	παιχνίδια	παιχνίδι	NoCmNePlAc
+1\455	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\458	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

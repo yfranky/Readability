@@ -1,0 +1,351 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\1	TOK	Το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\4	TOK	ήξερες	ξέρω	VbMnIdPa02SgXxIpAvXx
+	SYN	/vg]
+1\11	TOK	ότι	ότι	CjSb
+1\14	PTERM_P	...	...	PTERM_P
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\19	TOK	σημαντικό	σημαντικός	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\29	TOK	ρόλο	ρόλος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\34	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\38	TOK	μεξικανική	μεξικανικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\49	TOK	κουζίνα	κουζίνα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\57	TOK	παίζουν	παίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\65	TOK	τα	ο	AtDfNePlAc
+1\68	TOK	φασόλια	φασόλι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\75	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\77	TOK	Μαύρα	μαύρος	AjBaNePlAc
+1\82	PUNCT	,	,	PUNCT
+1\84	TOK	ροζ	ροζ	AjBaMaPlAc
+1\87	PUNCT	,	,	PUNCT
+1\89	TOK	κόκκινα	κόκκινος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\96	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\98	TOK	Διάφορες	διάφορος	AjBaFePlNm
+	SYN	/adjp_nm]
+1\107	TOK	ποικιλίες	ποικιλία	NoCmFePlNm
+	SYN	/np_nm]
+1\116	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\118	TOK	Τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\121	TOK	μαγειρεύουν	μαγειρεύω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\133	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\136	TOK	διάφορους	διάφορος	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\146	TOK	τρόπους	τρόπος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\154	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\158	TOK	αποτελούν	αποτελώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\168	TOK	κυρίως	κυρίως	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\175	TOK	γεύμα	γεύμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\180	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_nm
+1\183	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\186	TOK	αγγλικό	αγγλικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\194	TOK	πρωινό	πρωινός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[vg
+1\201	TOK	περιλαμβάνει	περιλαμβάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\214	TOK	τηγανητά	τηγανητός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\223	TOK	αβγά	αβγό	NoCmNePlAc
+	SYN	/np_ac]
+1\227	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\229	TOK	λουκάνικα	λουκάνικο	NoCmNePlAc
+	SYN	/np_ac]
+1\238	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\240	TOK	φασόλια	φασόλι	NoCmNePlAc
+	SYN	/np_ac]
+1\248	TOK	και	και	CjCo
+	SYN	[np_ac
+1\252	TOK	μπέικον	μπέικον	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\259	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_nm
+1\262	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\265	TOK	ολλανδικό	ολλανδικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\275	TOK	τυρί	τυρί	NoCmNeSgNm
+1\280	TOK	Γκούντα	Γκούντα	NoPrNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\288	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\294	TOK	κίτρινο	κίτρινος	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+	SYN	[cl_o
+1\302	TOK	γιατί	γιατί	CjSb
+	SYN	[vg
+1\308	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\313	TOK	μέσα	μέσα	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\318	TOK	πατάτα	πατάτα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\324	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[vg
+1\327	TOK	υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\336	DIG	88	88	DIG
+	SYN	[adjp_nm
+1\339	TOK	διαφορετικοί	διαφορετικός	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\352	TOK	τρόποι	τρόπος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+	SYN	[cl_o
+	SYN	[vg_s
+1\359	TOK	για	για	AsPpSp
+1\363	TOK	να	να	PtSj
+1\366	TOK	φτιάξει	φτιάχνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+1\374	TOK	κανείς	κανένας	PnIdMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[np_ac
+1\381	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\385	TOK	παραδοσιακή	παραδοσιακός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\397	TOK	λιχουδιά	λιχουδιά	NoCmFeSgAc
+	SYN	/np_ac]
+1\406	TOK	τον	ο	AtDfMaSgAc
+	SYN	[np_ge
+1\410	TOK	Λιβάνου	Λίβανος	NoPrMaSgGe
+	SYN	/np_ge]
+1\417	PUNCT	,	,	PUNCT
+1\419	TOK	Φαλάφελ	Φαλάφελ	RgFwTr
+	SYN	/cl_o]
+1\426	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\429	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\434	TOK	Ανατολή	ανατολή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\442	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\445	TOK	περισσότερα	πολύς	AjCpNePlAc
+	SYN	/adjp_ac]
+1\457	TOK	φαγητά	φαγητό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[vg
+1\464	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\470	TOK	πολλά	πολύς	AjBaNePlAc
+	SYN	/adjp_ac]
+1\476	TOK	μπαχαρικά	μπαχαρικό	NoCmNePlAc
+	SYN	/np_ac]
+1\485	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\487	TOK	γι’	για	AsPpSp
+	SYN	[np_nm
+1\491	TOK	αυτό	αυτός	PnDmNe03SgNmXx
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	/cl]
+1\496	TOK	και	και	CjCo
+	SYN	[cl_q
+	SYN	[vg
+1\500	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\506	TOK	συχνά	συχνά	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\512	TOK	καυτερά	καυτερός	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\519	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\522	TOK	YAK-SIK	YAK-SIK	RgFwOr
+	SYN	[vg
+1\530	TOK	σημαίνει	σημαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\539	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\544	TOK	Κορέα	Κορέα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\550	TOK	βασιλικό	βασιλικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\559	TOK	ρύζι	ρύζι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\563	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\565	TOK	γιατί	γιατί	CjSb
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\571	TOK	παλιά	παλιός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ac
+1\577	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\580	TOK	έτρωγε	τρώω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\587	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\592	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\594	TOK	βασιλική	βασιλικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\603	TOK	οικογένεια	οικογένεια	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\613	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\615	TOK	Το	ο	AtDfNeSgNm
+1\618	TOK	ρύζι	ρύζι	NoCmNeSgNm
+1\623	TOK	αυτό	αυτός	PnDmNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\628	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\634	TOK	γνωστό	γνωστός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\641	TOK	στο	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\645	TOK	δυτικό	δυτικός	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\652	TOK	κόσμο	κόσμος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\658	TOK	ως	ως	AdXxBa
+	SYN	[np_ac
+1\661	TOK	ρύζι	ρύζι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/advp]
+	SYN	[np_da
+1\666	TOK	μπασμάτι	μπασμάτι	NoCmNeSgDa
+	SYN	/np_da]
+	SYN	/cl]
+1\675	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\679	TOK	αποτελεί	αποτελώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\688	TOK	πολύτιμο	πολύτιμος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\697	TOK	αγαθό	αγαθό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\703	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\707	TOK	τους	ο	AtDfMaPlAc
+1\712	TOK	λαούς	λαός	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\718	TOK	της	ο	AtDfFeSgGe
+1\722	TOK	Κίνας	Κίνα	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\727	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

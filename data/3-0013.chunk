@@ -1,0 +1,84 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	ENUM	-	-	ENUM
+	SYN	[vg
+1\2	TOK	Είσαι	είμαι	VbMnIdPr02SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\8	TOK	κορίτσι	κορίτσι	NoCmNeSgAc
+	SYN	/np_ac]
+1\16	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\18	TOK	αγόρι	αγόρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\23	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\26	ENUM	-	-	ENUM
+	SYN	[vg
+1\27	TOK	Είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\33	TOK	αγόρι	αγόρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\38	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\41	ENUM	-	-	ENUM
+	SYN	[vg
+1\42	TOK	Είσαι	είμαι	VbMnIdPr02SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\48	TOK	η	ο	AtDfFeSgNm
+1\50	TOK	Σοφία	Σοφία	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\55	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\58	ENUM	-	-	ENUM
+	SYN	[advp
+1\59	TOK	Όχι	όχι	AdXxBa
+	SYN	/advp]
+1\62	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\64	TOK	δεν	δεν	PtNg
+1\68	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\73	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\76	ENUM	-	-	ENUM
+	SYN	[vg
+1\77	TOK	Είσαι	είμαι	VbMnIdPr02SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\83	TOK	ο	ο	AtDfMaSgNm
+1\85	TOK	Χασάν	Χασάν	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\90	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\93	ENUM	-	-	ENUM
+	SYN	[advp
+1\94	TOK	Ναι	ναι	AdXxBa
+	SYN	/advp]
+1\97	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\99	TOK	εγώ	εγώ	PnPeMa01SgNmSt
+	SYN	/np_nm]
+	SYN	[vg
+1\103	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\108	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,112 @@
+1	Στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	0	AuxP	_	_	
+2	κουζίνα	κουζίνα	No	NoCm	Fe|Sg|Ac	1	ExD	_	_	
+
+1	Στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+2	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	1	Adv	_	_	
+3	του	ο	At	AtDf	Ma|Sg|Ge	4	Det	_	_	
+4	Νίκου	Νίκος	No	NoPr	Ma|Sg|Ge	2	Atr	_	_	
+5	έγιναν	γίνομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	κι	και	Cj	CjCo	_	7	AuxY	_	_	
+7	αυτά	αυτός	Pn	PnDm	Ne|03|Pl|Ac|Xx	5	Pnom	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	πως	πως	Cj	CjSb	_	1	AuxC	_	_	
+4	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ge|We	6	IObj	_	_	
+5	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	6	Obj	_	_	
+6	λέει	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Adv	_	_	
+7	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	6	AuxP	_	_	
+8	ημερολόγιό	ημερολόγιο	No	NoCm	Ne|Sg|Ac	7	Adv	_	_	
+9	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	8	Pos	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	υπέροχο	υπέροχος	Aj	Aj	Ba|Ne|Sg|Nm	1	Pnom	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+4	σημερινό	σημερινός	Aj	Aj	Ba|Ne|Sg|Ac	5	Atr	_	_	
+5	φαγητό	φαγητό	No	NoCm	Ne|Sg|Ac	1	Sb	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όταν	όταν	Cj	CjSb	_	0	AuxC	_	_	
+2	τους	εγώ	Pn	PnPe	Ma|03|Pl|Ge|We	3	IObj	_	_	
+3	έβλεπα	βλέπω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+4	να	να	Pt	PtSj	_	6	AuxV	_	_	
+5	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	6	Obj	_	_	
+6	ετοιμάζουν	ετοιμάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	3	Obj	_	_	
+7	δεν	δεν	Pt	PtNg	_	8	AuxV	_	_	
+8	περίμενα	περιμένω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	6	Obj	_	_	
+9	να	να	Pt	PtSj	_	10	AuxV	_	_	
+10	γίνει	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	8	Obj	_	_	
+11	τόσο	τόσο	Ad	Ad	Ba	12	Adv	_	_	
+12	νόστιμο	νόστιμος	Aj	Aj	Ba|Ma|Sg|Ac	10	Pnom	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	μαμά	μαμά	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	καθώς	καθώς	Ad	Ad	Ba	2	AuxC	_	_	
+5	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	6	Obj	_	_	
+6	ετοίμαζε	ετοιμάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Adv	_	_	
+7	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+8	όλο	όλο	Ad	Ad	Ba	9	Adv	_	_	
+9	έδινε	δίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Obj	_	_	
+10	εντολές	εντολή	No	NoCm	Fe|Pl|Ac	9	Obj	_	_	
+11	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Κώστα	Κώστας	No	NoPr	Ma|Sg|Ge	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	κόβε	κόβω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	2	Atr	_	_	
+5	πιο	πιο	Ad	Ad	Ba	6	Adv	_	_	
+6	μικρές	μικρός	Aj	Aj	Ba|Fe|Pl|Ac	8	Atr	_	_	
+7	τις	ο	At	AtDf	Fe|Pl|Ac	8	Det	_	_	
+8	πατάτες	πατάτα	No	NoCm	Fe|Pl|Ac	4	Obj	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κόψε	κόβω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	γρήγορα	γρήγορα	Ad	Ad	Ba	1	Adv	_	_	
+3	τα	ο	At	AtDf	Ne|Pl|Ac	4	Det	_	_	
+4	κολοκυθάκια	κολοκυθάκι	No	NoCm	Ne|Pl|Ac	5	Obj_Co	_	_	
+5	και	και	Cj	CjCo	_	1	Coord	_	_	
+6	τις	ο	At	AtDf	Fe|Pl|Ac	7	Det	_	_	
+7	μελιτζάνες	μελιτζάνα	No	NoCm	Fe|Pl|Ac	5	Obj_Co	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	ετοίμασες	ετοιμάζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τη	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	σάλτσα	σάλτσα	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Αχ	αχ	Ij	Ij	_	5	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	5	Obj	_	_	
+5	τσούζουν	τσούζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	9	Obj	_	_	
+6	τα	ο	At	AtDf	Ne|Pl|Ac	7	Det	_	_	
+7	κρεμμύδια	κρεμμύδι	No	NoCm	Ne|Pl|Ac	5	Obj	_	_	
+8	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+9	γκρίνιαζε	γκρινιάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+10	η	ο	At	AtDf	Fe|Sg|Nm	11	Det	_	_	
+11	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	9	Sb	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όταν	όταν	Cj	CjSb	_	7	AuxC	_	_	
+2	ετοιμάστηκαν	ετοιμάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	1	Adv	_	_	
+3	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	2	Pnom	_	_	
+4	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+5	η	ο	At	AtDf	Fe|Sg|Nm	6	Det	_	_	
+6	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	7	Sb	_	_	
+7	έβαλε	βάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+8	τα	ο	At	AtDf	Ne|Pl|Ac	9	Det	_	_	
+9	πιάτα	πιάτο	No	NoCm	Ne|Pl|Ac	7	Obj	_	_	
+10	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	7	AuxP	_	_	
+11	τραπέζι	τραπέζι	No	NoCm	Ne|Sg|Ac	10	Adv	_	_	
+12	κι	και	Cj	CjCo	_	13	AuxY	_	_	
+13	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	7	Sb	_	_	
+14	τα	ο	At	AtDf	Ne|Pl|Ac	15	Det	_	_	
+15	ποτήρια	ποτήριο	No	NoCm	Ne|Pl|Ac	7	Obj	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

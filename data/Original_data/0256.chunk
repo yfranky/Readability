@@ -1,0 +1,420 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Ο	ο	AtDfMaSgNm
+1\3	TOK	βεζίρης	βεζίρης	NoCmMaSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\12	TOK	Ο	ο	AtDfMaSgNm
+1\14	OPUNCT	«	«	OPUNCT
+1\15	TOK	βεζίρης	βεζίρης	NoCmMaSgNm
+1\22	CPUNCT	»	»	CPUNCT
+	SYN	/np_nm]
+	SYN	[vg
+1\24	TOK	παίζεται	παίζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\33	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\36	TOK	το	ο	AtDfNeSgAc
+1\39	TOK	κότσι	κότσι	NoCmNeSgAc
+	SYN	/np_ac]
+1\44	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\46	TOK	ένα	ένας	AtIdNeSgAc
+1\50	TOK	κόκαλο	κόκαλο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\57	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\61	TOK	το	ο	AtDfNeSgAc
+1\64	TOK	πόδι	πόδι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\69	TOK	της	ο	AtDfFeSgGe
+1\73	TOK	γίδας	γίδα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\78	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\80	TOK	Το	ο	AtDfNeSgNm
+1\83	TOK	κότσι	κότσι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\89	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\94	TOK	τέσσερις	τέσσερις	NmCdFePlAcAj
+	SYN	/adjp_ac]
+1\103	TOK	πλευρές	πλευρά	NoCmFePlAc
+	SYN	/np_ac]
+1\110	PTERM_P	:	:	PTERM_P
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\112	TOK	δύο	δύο	NmCdNePlAcAj
+1\116	TOK	στενές	στενός	AjBaFePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\122	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\124	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\128	TOK	ονομάζονται	ονομάζω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\140	TOK	η	ο	AtDfFeSgNm
+1\142	TOK	μία	ένας	PnIdFe03SgNmXx
+1\146	OPUNCT	«	«	OPUNCT
+1\147	TOK	βεζίρης	βεζίρης	NoCmMaSgNm
+1\154	CPUNCT	»	»	CPUNCT
+	SYN	/np_nm]
+	SYN	/cl_r]
+	SYN	/cl]
+1\156	TOK	και	και	CjCo
+	SYN	[cl
+1\160	TOK	η	ο	AtDfFeSgNm
+	SYN	[np_ac
+1\162	TOK	άλλη	άλλος	PnIdFe03SgAcXx
+	SYN	/np_ac]
+	SYN	[np_nm
+1\167	OPUNCT	«	«	OPUNCT
+1\168	TOK	βασιλιάς	βασιλιάς	NoCmMaSgNm
+1\176	CPUNCT	»	»	CPUNCT
+	SYN	/np_nm]
+1\177	PUNCT	,	,	PUNCT
+1\179	TOK	και	και	CjCo
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\183	TOK	δύο	δύο	NmCdNePlNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\187	TOK	φαρδιές	φαρδύς	AjBaFePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\194	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\196	TOK	η	ο	AtDfFeSgNm
+1\198	TOK	μία	ένας	PnIdFe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\202	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\208	TOK	φουσκωτή	φουσκωτός	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\217	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\221	TOK	λέγεται	λέγω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\229	OPUNCT	«	«	OPUNCT
+1\230	TOK	ψωμάς	ψωμάς	NoCmMaSgNm
+1\235	CPUNCT	»	»	CPUNCT
+	SYN	/np_nm]
+	SYN	/cl]
+1\237	TOK	και	και	CjCo
+	SYN	[cl
+1\241	TOK	η	ο	AtDfFeSgNm
+	SYN	[np_ac
+1\243	TOK	άλλη	άλλος	PnIdFe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\248	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\253	TOK	μία	ένας	AtIdFeSgNm
+1\257	TOK	λακκούβα	λακκούβα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\266	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\270	TOK	λέγεται	λέγω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\278	OPUNCT	«	«	OPUNCT
+1\279	TOK	κλέφτης	κλέφτης	NoCmMaSgNm
+1\286	CPUNCT	»	»	CPUNCT
+	SYN	/np_nm]
+	SYN	/cl]
+1\287	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\290	TOK	Ο	ο	AtDfMaSgNm
+1\292	TOK	κάθε	κάθε	PnIdMa03SgNmXx
+1\297	TOK	παίκτης	παίκτης	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\305	TOK	ρίχνει	ρίχνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\312	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\315	TOK	τη	ο	AtDfFeSgAc
+1\318	TOK	σειρά	σειρά	NoCmFeSgAc
+1\324	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\328	TOK	το	ο	AtDfNeSgAc
+1\331	TOK	κότσι	κότσι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\336	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\339	TOK	Πριν	πριν	AdXxBa
+	SYN	/advp]
+1\344	TOK	αρχίσει	αρχίζω	VbMnNfXxXxXxXxPeAvXx
+	SYN	[np_ac
+1\352	TOK	το	ο	AtDfNeSgAc
+1\355	TOK	παιχνίδι	παιχνίδι	NoCmNeSgAc
+	SYN	/np_ac]
+1\363	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\365	TOK	τα	ο	AtDfNePlNm
+1\368	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\375	TOK	ρίχνουν	ρίχνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\383	TOK	το	ο	AtDfNeSgAc
+1\386	TOK	κότσι	κότσι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+1\392	TOK	μέχρι	μέχρι	AsPpSp
+	SYN	[vg_s
+1\398	TOK	να	να	PtSj
+1\401	TOK	γίνουν	γίνομαι	VbMnIdXx03PlXxPePvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\408	TOK	δύο	δύο	NmCdMaPlNmAj
+	SYN	/adjp_nm]
+1\412	TOK	παίκτες	παίκτης	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\420	OPUNCT	«	«	OPUNCT
+1\421	TOK	βασιλιάς	βασιλιάς	NoCmMaSgNm
+1\429	CPUNCT	»	»	CPUNCT
+	SYN	/np_nm]
+1\431	TOK	και	και	CjCo
+	SYN	[np_nm
+1\435	OPUNCT	«	«	OPUNCT
+1\436	TOK	βεζίρης	βεζίρης	NoCmMaSgNm
+1\443	CPUNCT	»	»	CPUNCT
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\444	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\446	TOK	Παίρνει	παίρνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\454	TOK	ο	ο	AtDfMaSgNm
+1\456	OPUNCT	«	«	OPUNCT
+1\457	TOK	βασιλιάς	βασιλιάς	NoCmMaSgNm
+1\465	CPUNCT	»	»	CPUNCT
+	SYN	/np_nm]
+	SYN	[np_ac
+1\467	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\471	TOK	κοντή	κοντός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\477	TOK	βέργα	βέργα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\483	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\487	TOK	ο	ο	AtDfMaSgNm
+1\489	OPUNCT	«	«	OPUNCT
+1\490	TOK	βεζίρης	βεζίρης	NoCmMaSgNm
+1\497	CPUNCT	»	»	CPUNCT
+	SYN	/np_nm]
+	SYN	[np_ac
+1\499	TOK	μια	ένας	AtIdFeSgAc
+	SYN	/np_ac]
+	SYN	[advp
+1\503	TOK	μακριά	μακριά	AdXxBa
+	SYN	/advp]
+1\510	TOK	και	και	CjCo
+	SYN	[vg
+1\514	TOK	αρχίζουν	αρχίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\523	TOK	όλοι	όλος	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\528	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\531	TOK	τη	ο	AtDfFeSgAc
+1\534	TOK	σειρά	σειρά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\540	TOK	να	να	PtSj
+1\543	TOK	ρίχνουν	ρίχνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\551	TOK	το	ο	AtDfNeSgAc
+1\554	TOK	κότσι	κότσι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\559	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_t
+1\562	TOK	Όταν	όταν	CjSb
+	SYN	[np_nm
+1\567	TOK	ένας	ένας	AtIdMaSgNm
+1\572	TOK	παίκτης	παίκτης	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\580	TOK	φέρνει	φέρω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\587	OPUNCT	«	«	OPUNCT
+1\588	TOK	κλέφτη	κλέφτης	NoCmMaSgGe
+1\594	CPUNCT	»	»	CPUNCT
+	SYN	/np_ge]
+	SYN	/cl_t]
+1\595	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\597	TOK	ο	ο	AtDfMaSgNm
+1\599	OPUNCT	«	«	OPUNCT
+1\600	TOK	βασιλιάς	βασιλιάς	NoCmMaSgNm
+1\608	CPUNCT	»	»	CPUNCT
+	SYN	/np_nm]
+	SYN	[vg
+1\610	TOK	διατάζει	διατάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\619	TOK	τον	ο	AtDfMaSgAc
+1\623	OPUNCT	«	«	OPUNCT
+1\624	TOK	βεζίρη	βεζίρης	NoCmMaSgAc
+1\630	CPUNCT	»	»	CPUNCT
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\632	TOK	να	να	PtSj
+	SYN	[np_ge
+1\635	TOK	του	εγώ	PnPeMa03SgGeWe
+	SYN	/np_ge]
+1\639	TOK	δώσει	δίνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\645	TOK	ξυλιές	ξυλιά	NoCmFePlAc
+1\652	TOK	λαδάτες	λαδάτες	NoCmMaPlAc
+	SYN	/np_ac]
+1\660	OPUNCT	(	(	OPUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\661	TOK	μαλακές	μαλακός	AjBaFePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\668	CPUNCT	)	)	CPUNCT
+1\670	TOK	ή	ή	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\672	TOK	ξιδάτες	ξιδάτος	AjBaFePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\680	OPUNCT	(	(	OPUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\681	TOK	τσουχτερές	τσουχτερός	AjBaFePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\691	CPUNCT	)	)	CPUNCT
+	SYN	/cl_o]
+1\692	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_t
+1\694	TOK	Όταν	όταν	CjSb
+	SYN	[vg
+1\699	TOK	φέρνει	φέρω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\706	OPUNCT	«	«	OPUNCT
+1\707	TOK	ψωμά	ψωμάς	NoCmMaSgAc
+1\711	CPUNCT	»	»	CPUNCT
+	SYN	/np_ac]
+	SYN	/cl_t]
+1\712	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\714	TOK	δεν	δεν	PtNg
+1\718	TOK	παθαίνει	παθαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\727	TOK	τίποτα	τίποτα	PnIdNe03SgAcXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\733	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_t
+1\735	TOK	Όταν	όταν	CjSb
+	SYN	[vg
+1\740	TOK	φέρνει	φέρω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\747	OPUNCT	«	«	OPUNCT
+1\748	TOK	βασιλιά	βασιλιάς	NoCmMaSgGe
+1\755	CPUNCT	»	»	CPUNCT
+	SYN	/np_ge]
+	SYN	/cl_t]
+1\757	TOK	ή	ή	CjCo
+	SYN	[cl
+	SYN	[np_ac
+1\759	OPUNCT	«	«	OPUNCT
+1\760	TOK	βεζίρη	βεζίρης	NoCmMaSgAc
+1\766	CPUNCT	»	»	CPUNCT
+	SYN	/np_ac]
+1\767	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\769	TOK	παίρνει	παίρνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\777	TOK	αυτός	αυτός	PnDmMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[np_ac
+1\783	TOK	τη	ο	AtDfFeSgAc
+1\786	TOK	θέση	θέση	NoCmFeSgAc
+1\791	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\794	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

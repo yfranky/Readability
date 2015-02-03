@@ -1,0 +1,80 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Ένας	ένας	AtIdMaSgNm
+1\6	TOK	δράκος	δράκος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\13	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\17	TOK	πεινάει	πεινώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\26	TOK	τρώει	τρώω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[cl_ri
+	SYN	[np_ac
+1\32	TOK	ό,τι	ό,τι	PnRiNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\37	TOK	συναντάει	συναντώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_ri]
+	SYN	/np_ac]
+	SYN	/cl]
+1\46	PTERM_P	:	:	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\49	TOK	τα	ο	AtDfNePlNm
+1\52	TOK	τραπέζια	τραπέζι	NoCmNePlNm
+	SYN	/np_nm]
+1\60	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\62	TOK	τα	ο	AtDfNePlNm
+1\65	TOK	ταψιά	ταψί	NoCmNePlNm
+	SYN	/np_nm]
+1\70	PUNCT	,	,	PUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\73	TOK	τα	ο	AtDfNePlNm
+1\76	TOK	τυριά	τυρί	NoCmNePlNm
+	SYN	/np_nm]
+1\81	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\83	TOK	τα	ο	AtDfNePlNm
+1\86	TOK	παγωτά	παγωτό	NoCmNePlNm
+	SYN	/np_nm]
+1\92	PUNCT	,	,	PUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\95	TOK	τα	ο	AtDfNePlNm
+1\98	TOK	τετράδια	τετράδιο	NoCmNePlNm
+	SYN	/np_nm]
+1\106	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\108	TOK	τα	ο	AtDfNePlNm
+1\111	TOK	βιβλία	βιβλίο	NoCmNePlNm
+	SYN	/np_nm]
+1\117	PUNCT	,	,	PUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\120	TOK	τα	ο	AtDfNePlNm
+1\123	TOK	μολύβια	μολύβι	NoCmNePlNm
+	SYN	/np_nm]
+1\130	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\132	TOK	τα	ο	AtDfNePlNm
+1\135	TOK	θρανία	θρανίο	NoCmNePlNm
+	SYN	/np_nm]
+1\141	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

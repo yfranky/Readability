@@ -1,0 +1,70 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	ENUM	-	-	ENUM
+	SYN	[np_ge
+1\2	TOK	Παππού	παππούς	NoCmMaSgGe
+	SYN	/np_ge]
+1\8	PUNCT	,	,	PUNCT
+	SYN	[np_ge
+1\10	TOK	πόσων	πόσος	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\16	TOK	χρονών	χρονών	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	[vg
+1\23	TOK	είσαι	είμαι	VbMnIdPr02SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\28	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\31	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\32	TOK	Δεκαεννέα	δεκαεννέα	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\42	TOK	χρονών	χρονών	NoCmMaPlGe
+	SYN	/np_ge]
+1\48	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\51	ENUM	-	-	ENUM
+1\52	TOK	Μα	μα	CjCo
+	SYN	[cl_q
+	SYN	[advp
+1\55	TOK	πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\59	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\65	TOK	δυνατόν	δυνατός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\72	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\75	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\76	TOK	Τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\79	TOK	γενέθλιά	γενέθλιος	AjBaNePlNm
+1\88	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\92	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\98	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_nm
+1\103	DIG	29	29	DIG
+1\106	TOK	Φερβουαρίου	Φερβουαρίου	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	/cl]
+1\117	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

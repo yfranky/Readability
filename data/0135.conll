@@ -1,0 +1,172 @@
+1	Άλφα	άλφα	Nm	NmOd	Fe|Sg|Ac|Aj	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+3	Βήτα	βήτα	No	NoCm	Ne|Sg|Nm	2	Atr_Ap	_	_	
+4	,	,	PUNCT	PUNCT	_	3	Apos	_	_	
+5	Γάμα	γάμα	No	NoCm	Ne|Pl|Ac	4	Atr_Ap	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	Δέλτα	δέλτα	No	NoCm	Ne|Pl|Ac	5	Atr	_	_	
+8	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	γυναίκα	γυναίκα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	του	ο	At	AtDf	Ma|Sg|Ge	4	Det	_	_	
+4	Νικήτα	Νικήτας	No	NoPr	Ma|Sg|Ge	2	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+
+1	Έψιλον	έψιλον	No	NoCm	Ne|Pl|Nm	2	ExD_Co	_	_	
+2	,	,	PUNCT	PUNCT	_	0	Coord	_	_	
+3	Ζήτα	ζήτα	No	NoCm	Fe|Sg|Ac	2	Atr_Ap	_	_	
+4	,	,	PUNCT	PUNCT	_	3	Coord	_	_	
+5	Ήτα	ήτα	No	NoCm	Ne|Pl|Ac	4	Atr_Ap	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	Θήτα	θήτα	No	NoCm	Ne|Pl|Ac	5	Atr	_	_	
+8	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	Κάθε	κάθε	Pn	PnId	Fe|03|Sg|Nm|Xx	2	Atr	_	_	
+2	Τετάρτη	Τετάρτη	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	φτιάχνει	φτιάχνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	πίτα	πίτα	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γιώτα	Γιώτα	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+3	Κάπα	κάπα	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+4	,	,	PUNCT	PUNCT	_	3	Coord	_	_	
+5	Λάμδα	λάμδα	No	NoCm	Ne|Pl|Ac	4	Atr_Ap	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	Μι	μι	No	NoCm	Ne|Pl|Ac	5	Atr	_	_	
+8	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	φτιάχνει	φτιάχνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	πίτα	πίτα	No	NoCm	Fe|Sg|Ac	3	Obj_Co	_	_	
+3	και	και	Cj	CjCo	_	1	Coord	_	_	
+4	ψωμί	ψωμί	No	NoCm	Ne|Sg|Ac	3	Obj_Co	_	_	
+5	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	Νι	νι	No	NoCm	Ne|Pl|Nm	8	ExD_Co	_	_	
+2	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+3	Ξι	ξι	No	NoCm	Ne|Pl|Ac	8	Adv_Co	_	_	
+4	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+5	Όμικρον	όμικρον	No	NoCm	Ne|Pl|Ac	8	Adv_Co	_	_	
+6	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+7	Πι	πι	No	NoCm	Ne|Pl|Ac	8	Adv_Co	_	_	
+8	και	και	Cj	CjCo	_	0	Coord	_	_	
+9	Ρο	ρο	No	NoCm	Ne|Pl|Ac	8	ExD_Co	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	με	με	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	αλεύρι	αλεύρι	No	NoCm	Ne|Sg|Ac	3	Adv_Co	_	_	
+3	και	και	Cj	CjCo	_	1	Coord	_	_	
+4	νερό	νερό	No	NoCm	Ne|Sg|Ac	3	Adv_Co	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σίγμα	σίγμα	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	Ταυ	ταυ	No	NoCm	Ne|Pl|Ac	1	Atr	_	_	
+4	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	καμιά	κανένας	Pn	PnId	Fe|03|Sg|Ac|Xx	2	Atr	_	_	
+2	φορά	φορά	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	Ύψιλον	ύψιλον	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	γελά	γελώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	Χαρά	χαρά	No	NoCm	Fe|Sg|Nm	1	Sb	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τότε	τότε	Ad	Ad	Ba	2	Adv	_	_	
+2	πέφτει	πέφτω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	ταψί	ταψί	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+
+1	λίγο	λίγος	Aj	Aj	Ba|Ne|Sg|Ac	2	Atr	_	_	
+2	γέλιο	γέλιο	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	Φι	φι	No	NoCm	Ne|Pl|Nm	6	ExD_Co	_	_	
+2	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+3	Χι	χι	No	NoCm	Ne|Pl|Ac	6	ExD_Co	_	_	
+4	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+5	Ψι	ψι	No	NoCm	Ne|Pl|Ac	6	Adv_Co	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	Ωμέγα	ωμέγα	No	NoCm	Ne|Pl|Ac	6	ExD_Co	_	_	
+8	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+
+1	ψήνεται	ψήνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	διαμάντι	διαμάντι	No	NoCm	Ne|Sg|Nm	2	Sb	_	_	
+2	γίνεται	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+
+1	μέσα	μέσα	Ad	Ad	Ba	0	ExD	_	_	
+2	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+3	ψωμί	ψωμί	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+4	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+5	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+6	πίτα	πίτα	No	NoCm	Fe|Sg|Ac	5	Adv_Co	_	_	
+
+1	και	και	Cj	CjCo	_	2	AuxY	_	_	
+2	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	0	AuxP	_	_	
+3	πιάτο	πιάτο	No	NoCm	Ne|Sg|Ac	2	ExD	_	_	
+4	του	ο	At	AtDf	Ma|Sg|Ge	5	Det	_	_	
+5	Νικήτα	Νικήτας	No	NoPr	Ma|Sg|Ge	3	Atr	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σίγμα	σίγμα	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	Ταυ	ταυ	No	NoCm	Ne|Pl|Ac	1	Atr	_	_	
+4	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	καμιά	κανένας	Pn	PnId	Fe|03|Sg|Ac|Xx	2	Atr	_	_	
+2	φορά	φορά	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	Ύψιλον	ύψιλον	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	κλαίει	κλαίω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	Χαρά	χαρά	No	NoCm	Fe|Sg|Nm	1	Sb	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πέφτουν	πέφτω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τότε	τότε	Ad	Ad	Ba	1	Adv	_	_	
+3	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+4	ταψί	ταψί	No	NoCm	Ne|Sg|Ac	3	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+
+1	τρία	τρεις	Nm	NmCd	Ne|Pl|Nm|Aj	2	Atr	_	_	
+2	δάκρια	δάκρια	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+
+1	Φι	φι	No	NoCm	Ne|Pl|Nm	6	ExD_Co	_	_	
+2	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+3	Χι	χι	No	NoCm	Ne|Pl|Ac	6	ExD_Co	_	_	
+4	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+5	Ψι	ψι	No	NoCm	Ne|Pl|Ac	6	ExD_Co	_	_	
+6	κι	και	Cj	CjCo	_	0	Coord	_	_	
+7	Ωμέγα	ωμέγα	No	NoCm	Ne|Pl|Ac	6	ExD_Co	_	_	
+
+1	ψήνονται	ψήνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	χαλίκια	χαλίκι	No	NoCm	Ne|Pl|Nm	2	Sb	_	_	
+2	γίνονται	γίνομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+
+1	μέσα	μέσα	Ad	Ad	Ba	0	ExD	_	_	
+2	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+3	ψωμί	ψωμί	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+4	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+5	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+6	πίτα	πίτα	No	NoCm	Fe|Sg|Ac	5	Adv_Co	_	_	
+
+1	και	και	Cj	CjCo	_	2	AuxY	_	_	
+2	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	0	AuxP	_	_	
+3	πιάτο	πιάτο	No	NoCm	Ne|Sg|Ac	2	ExD	_	_	
+4	του	ο	At	AtDf	Ma|Sg|Ge	5	Det	_	_	
+5	Νικήτα	Νικήτας	No	NoPr	Ma|Sg|Ge	3	Atr	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

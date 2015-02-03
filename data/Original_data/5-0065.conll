@@ -1,0 +1,410 @@
+1	20+20	20+20	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+2	απλές	απλός	Aj	Aj	Ba|Fe|Pl|Nm	3	Atr	_	_	
+3	συμβουλές	συμβουλή	No	NoCm	Fe|Pl|Nm	1	Atr	_	_	
+4	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τη	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	σωτηρία	σωτηρία	Aj	Aj	Ba|Fe|Sg|Ac	4	Atr	_	_	
+7	του	ο	At	AtDf	Ma|Sg|Ge	8	Det	_	_	
+8	πλανήτη	πλανήτης	No	NoCm	Ma|Sg|Ge	6	Atr	_	_	
+9	(	(	OPUNCT	OPUNCT	_	10	AuxG	_	_	
+10	συνέχεια	συνέχεια	No	NoCm	Fe|Sg|Nm	1	Atr_Pa	_	_	
+11	)	)	CPUNCT	CPUNCT	_	10	AuxG	_	_	
+
+1	21	21	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μαζέψτε	μαζεύω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	8	Pred_Co	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	3	Det	_	_	
+3	νερό	νερό	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	της	ο	At	AtDf	Fe|Sg|Ge	5	Det	_	_	
+5	βροχής	βροχή	No	NoCm	Fe|Sg|Ge	3	Atr	_	_	
+6	σε	σε	AsPp	AsPpSp	_	1	AuxP	_	_	
+7	κουβάδες	κουβάς	No	NoCm	Ma|Pl|Ac	6	Adv	_	_	
+8	και	και	Cj	CjCo	_	0	Coord	_	_	
+9	χρησιμοποιήστε	χρησιμοποιώ	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	8	Pred_Co	_	_	
+10	το	ο	At	AtDf	Ne|Sg|Ac	9	Obj	_	_	
+11	για	για	AsPp	AsPpSp	_	10	AuxP	_	_	
+12	το	ο	At	AtDf	Ne|Sg|Ac	13	Det	_	_	
+13	πότισμα	πότισμα	No	NoCm	Ne|Sg|Ac	11	Atr	_	_	
+14	των	ο	At	AtDf	Ne|Pl|Ge	15	Det	_	_	
+15	φυτών	φυτό	No	NoCm	Ne|Pl|Ge	13	Atr	_	_	
+16	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	15	Pos	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έτσι	έτσι	Ad	Ad	Ba	3	Adv	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	εξοικονομείτε	εξοικονομώ	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	νερό	νερό	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+5	είτε	είτε	Cj	CjCo	_	10	AuxY	_	_	
+6	από	από	AsPp	AsPpSp	_	10	AuxP	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	9	Det	_	_	
+8	δημοτικό	δημοτικός	Aj	Aj	Ba|Ne|Sg|Ac	9	Atr	_	_	
+9	δίκτυο	δίκτυο	No	NoCm	Ne|Sg|Ac	6	Adv_Co	_	_	
+10	είτε	είτε	Cj	CjCo	_	3	Coord	_	_	
+11	από	από	AsPp	AsPpSp	_	10	AuxP	_	_	
+12	πηγάδια	πηγάδι	No	NoCm	Ne|Pl|Ac	11	Atr_Co	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	22	22	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Προτιμήστε	προτιμώ	No	NoPr	Ma|Sg|Nm	3	Atr	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Nm	3	Det	_	_	
+3	καταστήματα	κατάστημα	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+4	που	που	Pn	PnRe	Ne|03|Pl|Nm|Xx	5	Sb	_	_	
+5	προωθούν	προωθώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	3	Atr	_	_	
+6	συγκεκριμένα	συγκεκριμένος	Aj	Aj	Ba|Ne|Pl|Ac	7	Atr	_	_	
+7	προγράμματα	πρόγραμμα	No	NoCm	Ne|Pl|Ac	5	Obj	_	_	
+8	ανακύκλωσης	ανακύκλωση	No	NoCm	Fe|Sg|Ge	7	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	23	23	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μην	μην	Pt	PtNg	_	2	AuxV	_	_	
+2	αγοράζετε	αγοράζω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	προϊόντα	προϊόν	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+4	που	που	Pn	PnRe	Ne|03|Pl|Nm|Xx	5	Sb	_	_	
+5	προέρχονται	προέρχομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	3	Atr	_	_	
+6	από	από	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	ζώα	ζώο	No	NoCm	Ne|Pl|Ac	8	Atr_Co	_	_	
+8	ή	ή	Cj	CjCo	_	6	Coord	_	_	
+9	φυτά	φυτό	No	NoCm	Ne|Pl|Ac	8	Atr_Co	_	_	
+10	που	που	Pn	PnRe	Ne|03|Pl|Nm|Xx	11	Sb	_	_	
+11	κινδυνεύουν	κινδυνεύω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	8	Atr	_	_	
+12	με	με	AsPp	AsPpSp	_	11	AuxP	_	_	
+13	εξαφάνιση	εξαφάνιση	No	NoCm	Fe|Sg|Ac	12	Adv	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	24	24	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	βράδια	βράδυ	No	NoCm	Ne|Pl|Nm	5	Sb	_	_	
+3	του	ο	At	AtDf	Ma|Sg|Ge	4	Det	_	_	
+4	χειμώνα	χειμώνας	No	NoCm	Ma|Sg|Ge	2	Atr	_	_	
+5	κλείνετε	κλείνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	τα	ο	At	AtDf	Ne|Pl|Ac	7	Det	_	_	
+7	πατζούρια	πατζούρι	No	NoCm	Ne|Pl|Ac	8	Obj_Co	_	_	
+8	και	και	Cj	CjCo	_	5	Coord	_	_	
+9	τις	ο	At	AtDf	Fe|Pl|Ac	10	Det	_	_	
+10	κουρτίνες	κουρτίνα	No	NoCm	Fe|Pl|Ac	8	Obj_Co	_	_	
+11	για	για	AsPp	AsPpSp	_	5	AuxP	_	_	
+12	να	να	Pt	PtSj	_	13	AuxV	_	_	
+13	κρατήσετε	κρατώ	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	11	Adv	_	_	
+14	τη	ο	At	AtDf	Fe|Sg|Ac	15	Det	_	_	
+15	ζέστη	ζέστη	No	NoCm	Fe|Sg|Ac	13	Obj	_	_	
+16	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	13	AuxP	_	_	
+17	χώρο	χώρος	No	NoCm	Ma|Sg|Ac	16	Adv	_	_	
+18	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	17	Pos	_	_	
+19	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	25	25	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Χρησιμοποιήστε	χρησιμοποιώ	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	επαναχρησιμοποιούμενα	επαναχρησιμοποιούμενος	Aj	Aj	Ba|Ne|Pl|Ac	3	Atr	_	_	
+3	δοχεία	δοχείο	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+4	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	την	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	αποθήκευση	αποθήκευση	No	NoCm	Fe|Sg|Ac	4	Atr	_	_	
+7	τροφών	τροφή	No	NoCm	Fe|Pl|Ge	6	Atr	_	_	
+8	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	6	AuxP	_	_	
+9	ψυγείο	ψυγείο	No	NoCm	Ne|Sg|Ac	8	Atr	_	_	
+10	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	9	Pos	_	_	
+11	αντί	αντί	AsPp	AsPpSp	_	1	AuxC	_	_	
+12	να	να	Pt	PtSj	_	14	AuxV	_	_	
+13	τις	εγώ	Pn	PnPe	Fe|03|Pl|Ac|We	14	Obj	_	_	
+14	καλύπτετε	καλύπτω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	11	Adv	_	_	
+15	με	με	AsPp	AsPpSp	_	14	AuxP	_	_	
+16	αλουμινόχαρτο	αλουμινόχαρτο	No	NoCm	Ne|Sg|Ac	15	Adv	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	26	26	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	ποδηλασία	ποδηλασία	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	βοηθάει	βοηθώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	16	Pred_Co	_	_	
+4	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+5	διατήρηση	διατήρηση	No	NoCm	Fe|Sg|Ac	4	Adv	_	_	
+6	καλής	καλός	Aj	Aj	Ba|Fe|Sg|Ge	8	Atr	_	_	
+7	φυσικής	φυσικός	Aj	Aj	Ba|Fe|Sg|Ge	8	Atr	_	_	
+8	κατάστασης	κατάσταση	No	NoCm	Fe|Sg|Ge	5	Atr	_	_	
+9	,	,	PUNCT	PUNCT	_	10	AuxX	_	_	
+10	συμβάλλει	συμβάλλω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	16	Pred_Co	_	_	
+11	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	10	AuxP	_	_	
+12	μείωση	μείωση	No	NoCm	Fe|Sg|Ac	11	Obj	_	_	
+13	της	ο	At	AtDf	Fe|Sg|Ge	15	Det	_	_	
+14	ατμοσφαιρικής	ατμοσφαιρικός	Aj	Aj	Ba|Fe|Sg|Ge	15	Atr	_	_	
+15	ρύπανσης	ρύπανση	No	NoCm	Fe|Sg|Ge	12	Atr	_	_	
+16	και	και	Cj	CjCo	_	0	Coord	_	_	
+17	επιβραδύνει	επιβραδύνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	16	Pred_Co	_	_	
+18	το	ο	At	AtDf	Ne|Sg|Nm	20	Det	_	_	
+19	«	«	OPUNCT	OPUNCT	_	20	AuxG	_	_	
+20	φαινόμενο	φαινόμενο	No	NoCm	Ne|Sg|Nm	17	Sb	_	_	
+21	του	ο	At	AtDf	Ne|Sg|Ge	22	Det	_	_	
+22	θερμοκηπίου	θερμοκήπιο	No	NoCm	Ne|Sg|Ge	20	Atr	_	_	
+23	»	»	CPUNCT	CPUNCT	_	20	AuxG	_	_	
+24	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	27	27	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φυτέψτε	φυτεύω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ένα	ένας	At	AtId	Ne|Sg|Ac	3	Det	_	_	
+3	δέντρο	δέντρο	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	28	28	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ανακυκλώστε	ανακυκλώνω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τις	ο	At	AtDf	Fe|Pl|Ac	3	Det	_	_	
+3	εφημερίδες	εφημερίδα	No	NoCm	Fe|Pl|Ac	4	Obj_Co	_	_	
+4	και	και	Cj	CjCo	_	1	Coord	_	_	
+5	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+6	περιοδικά	περιοδικό	No	NoCm	Ne|Pl|Ac	4	Obj_Co	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	29	29	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εάν	αν	Cj	CjSb	_	14	AuxC	_	_	
+2	αποφασίσετε	αποφασίζω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	1	Adv	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	φάτε	τρώω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	σε	σε	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	εστιατόρια	εστιατόριο	No	NoCm	Ne|Pl|Ac	5	Adv	_	_	
+7	γρήγορου	γρήγορος	Aj	Aj	Ba|Ne|Sg|Ge	8	Atr	_	_	
+8	φαγητού	φαγητό	No	NoCm	Ne|Sg|Ge	6	Atr	_	_	
+9	(	(	OPUNCT	OPUNCT	_	10	AuxG	_	_	
+10	fast	fast	Rg	RgFw	_	6	Atr_Pa	_	_	
+11	food	food	Rg	RgFw	_	10	Atr	_	_	
+12	)	)	CPUNCT	CPUNCT	_	10	AuxG	_	_	
+13	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+14	ζητάτε	ζητώ	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+15	πάντα	πάντα	Ad	Ad	Ba	14	Adv	_	_	
+16	επαναχρησιμοποιούμενα	επαναχρησιμοποιούμενος	Aj	Aj	Ba|Ne|Pl|Ac	17	Atr	_	_	
+17	πιάτα	πιάτο	No	NoCm	Ne|Pl|Ac	18	Obj_Co	_	_	
+18	και	και	Cj	CjCo	_	14	Coord	_	_	
+19	ποτήρια	ποτήριο	No	NoCm	Ne|Pl|Ac	18	Obj_Co	_	_	
+20	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ούτως	ούτως	Ad	Ad	Ba	4	Adv	_	_	
+2	ή	ή	Cj	CjCo	_	3	AuxY	_	_	
+3	άλλως	άλλως	Ad	Ad	Ba	4	Adv	_	_	
+4	πάντως	πάντως	Ad	Ad	Ba	6	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+6	ξανασκεφτείτε	ξανασκέφτομαι	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	αν	αν	Cj	CjSb	_	6	AuxC	_	_	
+9	βρίσκεστε	βρίσκω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	8	Adv	_	_	
+10	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	9	AuxP	_	_	
+11	κατάλληλο	κατάλληλος	Aj	Aj	Ba|Ma|Sg|Ac	12	Atr	_	_	
+12	χώρο	χώρος	No	NoCm	Ma|Sg|Ac	10	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	30	30	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Επιλέξτε	επιλέγω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+3	όπου	όπου	Ad	Ad	Ba	4	Adv	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	1	Obj	_	_	
+5	δυνατόν	δυνατός	Aj	Aj	Ba|Ne|Sg|Nm	4	Pnom	_	_	
+6	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+7	υδροχρώματα	υδρόχρωμα	No	NoCm	Ne|Pl|Ac	8	Obj_Co	_	_	
+8	και	και	Cj	CjCo	_	4	Coord	_	_	
+9	όχι	όχι	Pt	PtNg	_	10	Adv	_	_	
+10	λαδομπογιές	λαδομπογιά	No	NoCm	Fe|Pl|Ac	8	Obj_Co	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	31	31	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μη	μην	Pt	PtNg	_	2	AuxV	_	_	
+2	ξεχνάτε	ξεχνώ	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	σβήνετε	σβήνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	όσα	όσος	Pn	PnRi	Ne|03|Pl|Ac|Xx	6	Atr	_	_	
+6	φώτα	φως	No	NoCm	Ne|Pl|Ac	4	Obj	_	_	
+7	δεν	δεν	Pt	PtNg	_	9	AuxV	_	_	
+8	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ge|We	9	Obj	_	_	
+9	χρειάζονται	χρειάζομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	2	IObj	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	32	32	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αντί	αντί	No	NoPr	Ne|Sg|Nm	0	ExD	_	_	
+2	για	για	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	κλιματιστικές	κλιματιστικός	Aj	Aj	Ba|Fe|Pl|Ac	4	Atr	_	_	
+4	συσκευές	συσκευή	No	NoCm	Fe|Pl|Ac	2	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	αξιοποιήστε	αξιοποιώ	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	1	Pred_Co	_	_	
+7	τις	ο	At	AtDf	Fe|Pl|Ac	8	Det	_	_	
+8	δυνατότητες	δυνατότητα	No	NoCm	Fe|Pl|Ac	6	Obj	_	_	
+9	φυσικού	φυσικός	Aj	Aj	Ba|Ma|Sg|Ge	10	Atr	_	_	
+10	δροσισμού	δροσισμού	No	NoCm	Ma|Sg|Ge	8	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	33	33	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Προτιμάτε	προτιμώ	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	χαρτιά	χαρτί	No	NoCm	Ne|Pl|Nm	1	Obj	_	_	
+3	που	που	Pn	PnRe	Ne|03|Pl|Nm|Xx	7	Sb	_	_	
+4	δεν	δεν	Pt	PtNg	_	7	AuxV	_	_	
+5	έχουν	έχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	7	AuxV	_	_	
+6	προηγουμένως	προηγουμένως	Ad	Ad	Ba	7	Adv	_	_	
+7	υποστεί	υφίσταμαι	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Pv|Xx	2	Atr	_	_	
+8	λεύκανση	λεύκανση	No	NoCm	Fe|Sg|Nm	7	Sb	_	_	
+9	με	με	AsPp	AsPpSp	_	8	AuxP	_	_	
+10	χλώριο	χλώριο	No	NoCm	Ne|Sg|Ac	9	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	34	34	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μην	μην	Pt	PtNg	_	2	AuxV	_	_	
+2	αφήνετε	αφήνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	άσκοπα	άσκοπα	Ad	Ad	Ba	2	Adv	_	_	
+4	τις	ο	At	AtDf	Fe|Pl|Ac	5	Det	_	_	
+5	εστίες	εστία	No	NoCm	Fe|Pl|Ac	2	Obj	_	_	
+6	της	ο	At	AtDf	Fe|Sg|Ge	8	Det	_	_	
+7	ηλεκτρικής	ηλεκτρικός	Aj	Aj	Ba|Fe|Sg|Ge	8	Atr	_	_	
+8	κουζίνας	κουζίνα	No	NoCm	Fe|Sg|Ge	5	Atr	_	_	
+9	ανοιχτές	ανοιχτός	Aj	Aj	Ba|Fe|Pl|Ac	2	Pnom	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	35	35	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μην	μην	Pt	PtNg	_	2	AuxV	_	_	
+2	αφήνετε	αφήνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	την	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	τηλεόραση	τηλεόραση	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+5	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Nm	7	Det	_	_	
+7	στερεοφωνικό	στερεοφωνικός	Aj	Aj	Ba|Ne|Sg|Nm	11	Atr	_	_	
+8	ή	ή	Cj	CjCo	_	11	AuxY	_	_	
+9	άλλες	άλλος	Pn	PnId	Fe|03|Pl|Ac|Xx	11	Atr	_	_	
+10	ηλεκτρικές	ηλεκτρικός	Aj	Aj	Ba|Fe|Pl|Ac	11	Atr	_	_	
+11	συσκευές	συσκευή	No	NoCm	Fe|Pl|Ac	2	Obj	_	_	
+12	σε	σε	AsPp	AsPpSp	_	2	AuxP	_	_	
+13	κατάσταση	κατάσταση	No	NoCm	Fe|Sg|Ac	12	Adv	_	_	
+14	αναμονής	αναμονή	No	NoCm	Fe|Sg|Ge	13	Atr	_	_	
+15	(	(	OPUNCT	OPUNCT	_	16	AuxG	_	_	
+16	stand-by	stand-by	Rg	RgFw	_	14	Atr_Pa	_	_	
+17	)	)	CPUNCT	CPUNCT	_	16	AuxG	_	_	
+18	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	εκπλαγείτε	εκπλήσσω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	εάν	αν	Cj	CjSb	_	2	AuxC	_	_	
+4	μάθετε	μαθαίνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	3	Adv	_	_	
+5	πόση	πόσος	Pn	PnIr	Fe|03|Sg|Ac|Xx	6	Atr	_	_	
+6	ενέργεια	ενέργεια	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+7	καταναλώνουν	καταναλώνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+8	σε	σε	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	αυτή	αυτός	Pn	PnDm	Fe|03|Sg|Ac|Xx	11	Atr	_	_	
+10	την	ο	At	AtDf	Fe|Sg|Ac	11	Det	_	_	
+11	κατάσταση	κατάσταση	No	NoCm	Fe|Sg|Ac	8	Adv	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	36	36	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μην	μην	Pt	PtNg	_	2	AuxV	_	_	
+2	αγοράζετε	αγοράζω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	ψάρια	ψάρι	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+4	πολύ	πολύ	Ad	Ad	Ba	5	Adv	_	_	
+5	μικρού	μικρός	Aj	Aj	Ba|Ne|Sg|Ge	6	Atr	_	_	
+6	μεγέθους	μέγεθος	No	NoCm	Ne|Sg|Ge	3	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δώστε	δίνω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μία	ένας	At	AtId	Fe|Sg|Ac	3	Det	_	_	
+3	ευκαιρία	ευκαιρία	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+4	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+5	φύση	φύση	No	NoCm	Fe|Sg|Ac	4	IObj	_	_	
+6	να	να	Pt	PtSj	_	7	AuxV	_	_	
+7	αναπαραχθεί	αναπαράγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	3	Atr	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	37	37	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Προτιμήστε	προτιμώ	No	NoPr	Ma|Sg|Nm	5	Atr	_	_	
+2	«	«	OPUNCT	OPUNCT	_	3	AuxG	_	_	
+3	έξυπνα	έξυπνα	Ad	Ad	Ba	1	Adv_Pa	_	_	
+4	»	»	CPUNCT	CPUNCT	_	3	AuxG	_	_	
+5	παράθυρα	παράθυρο	No	NoCm	Ne|Pl|Ac	0	ExD	_	_	
+6	με	με	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	διπλά	διπλά	Nm	NmMl	Ne|Pl|Ac|Aj	8	Atr	_	_	
+8	τζάμια	τζάμι	No	NoCm	Ne|Pl|Ac	6	Atr	_	_	
+9	για	για	AsPp	AsPpSp	_	8	AuxP	_	_	
+10	εξοικονόμηση	εξοικονόμηση	No	NoCm	Fe|Sg|Ac	9	Atr	_	_	
+11	ενέργειας	ενέργεια	No	NoCm	Fe|Sg|Ge	10	Atr	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	38	38	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μειώστε	μειώνω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	5	AuxV	_	_	
+2	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+3	όσο	όσο	Ad	Ad	Ba	5	Adv	_	_	
+4	αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Nm|Xx	5	Sb	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	δυνατό	δυνατός	Aj	Aj	Ba|Ne|Sg|Nm	5	Pnom	_	_	
+7	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+8	την	ο	At	AtDf	Fe|Sg|Ac	9	Det	_	_	
+9	κατανάλωση	κατανάλωση	No	NoCm	Fe|Sg|Ac	5	Pnom	_	_	
+10	χαρτιού	χαρτί	No	NoCm	Ne|Sg|Ge	11	Atr_Co	_	_	
+11	και	και	Cj	CjCo	_	13	Coord	_	_	
+12	υλικών	υλικό	No	NoCm	Ne|Pl|Ge	11	Atr_Co	_	_	
+13	συσκευασίας	συσκευασία	No	NoCm	Fe|Sg|Ge	9	Atr	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	39	39	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Προτιμήστε	προτιμώ	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+3	ντους	ντους	No	NoCm	Ne|Sg|Nm	1	Atr	_	_	
+4	από	από	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Ac	6	Det	_	_	
+6	μπάνιο	μπάνιο	No	NoCm	Ne|Sg|Ac	4	Atr	_	_	
+7	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	6	AuxP	_	_	
+8	μπανιέρα	μπανιέρα	No	NoCm	Fe|Sg|Ac	7	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	40	40	DIG	DIG	_	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Διαμαρτυρηθείτε	διαμαρτύρομαι	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	2	Pred_Co	_	_	
+2	και	και	Cj	CjCo	_	0	Coord	_	_	
+3	μποϋκοτάρετε	μποϋκοτάρω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	18	Pred_Co	_	_	
+4	τις	ο	At	AtDf	Fe|Pl|Ac	5	Det	_	_	
+5	εταιρίες	εταιρία	No	NoCm	Fe|Pl|Ac	3	Obj	_	_	
+6	που	που	Pn	PnRe	Fe|03|Pl|Nm|Xx	7	Sb	_	_	
+7	προβάλλουν	προβάλλω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	5	Atr	_	_	
+8	οικολογικό	οικολογικός	Aj	Aj	Ba|Ne|Sg|Ac	9	Atr	_	_	
+9	προσωπείο	προσωπείο	No	NoCm	Ne|Sg|Ac	7	Obj	_	_	
+10	συχνά	συχνά	Ad	Ad	Ba	3	Adv	_	_	
+11	διαφημίζοντας	διαφημίζω	Vb	VbMn	Pp|Xx|Xx|Xx|Xx|Xx|Av|Xx	3	Adv	_	_	
+12	δήθεν	δήθεν	Ad	Ad	Ba	16	Adv	_	_	
+13	«	«	OPUNCT	OPUNCT	_	14	AuxG	_	_	
+14	πράσινα	πράσινος	Aj	Aj	Ba|Ne|Pl|Ac	16	Atr	_	_	
+15	»	»	CPUNCT	CPUNCT	_	14	AuxG	_	_	
+16	προϊόντα	προϊόν	No	NoCm	Ne|Pl|Ac	11	Obj	_	_	
+17	,	,	PUNCT	PUNCT	_	18	AuxX	_	_	
+18	ενώ	ενώ	Cj	CjCo	_	2	Coord_Co	_	_	
+19	η	ο	At	AtDf	Fe|Sg|Nm	20	Det	_	_	
+20	πραγματικότητα	πραγματικότητα	No	NoCm	Fe|Sg|Nm	21	Sb	_	_	
+21	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	18	Pred_Co	_	_	
+22	πολύ	πολύ	Ad	Ad	Ba	23	Adv	_	_	
+23	διαφορετική	διαφορετικός	Aj	Aj	Ba|Fe|Sg|Nm	21	Pnom	_	_	
+24	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

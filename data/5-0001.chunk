@@ -1,0 +1,273 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Η	ο	AtDfFeSgNm
+1\3	TOK	Ελλάδα	Ελλάδα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\10	TOK	αποτελεί	αποτελώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\19	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\22	TOK	νότιο	νότιος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\28	TOK	τμήμα	τμήμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\34	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\38	TOK	Βαλκανικής	Βαλκανική	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\49	TOK	χερσονήσου	χερσόνησος	NoCmFeSgGe
+	SYN	/np_ge]
+1\60	TOK	και	και	CjCo
+	SYN	[np_nm
+1\64	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\67	TOK	νοτιοανατολικό	νοτιοανατολικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\82	TOK	άκρο	άκρος	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\87	TOK	της	ο	AtDfFeSgGe
+1\91	TOK	Ευρώπης	Ευρώπη	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\98	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\100	TOK	Η	ο	AtDfFeSgNm
+1\102	TOK	χώρα	χώρα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\107	TOK	συνορεύει	συνορεύω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\117	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\120	TOK	την	ο	AtDfFeSgAc
+1\124	TOK	Αλβανία	Αλβανία	NoPrFeSgAc
+	SYN	/np_ac]
+1\131	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\133	TOK	την	ο	AtDfFeSgAc
+	SYN	[advp
+1\137	TOK	Πρώην	πρώην	AdXxBa
+	SYN	/advp]
+	SYN	[adjp_ac
+1\143	TOK	Γιουγκοσλαβική	γιουγκοσλαβικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\158	TOK	Δημοκρατία	δημοκρατία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\169	TOK	της	ο	AtDfFeSgGe
+1\173	TOK	Μακεδονίας	Μακεδονία	NoPrFeSgGe
+	SYN	/np_ge]
+1\184	TOK	και	και	CjCo
+	SYN	[np_ac
+1\188	TOK	τη	ο	AtDfFeSgAc
+1\191	TOK	Βουλγαρία	Βουλγαρία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\201	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\205	TOK	βορρά	βορράς	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\211	TOK	και	και	CjCo
+	SYN	[pp
+1\215	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\218	TOK	την	ο	AtDfFeSgAc
+1\222	TOK	Τουρκία	Τουρκία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\230	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\234	TOK	ανατολικά	ανατολικός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\243	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\246	TOK	Η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\248	TOK	ελληνική	ελληνικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\257	TOK	ενδοχώρα	ενδοχώρα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\266	TOK	περιτριγυρίζεται	περιτριγυρίζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\283	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\287	TOK	περισσότερα	πολύς	AjCpNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\299	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\303	DIG	2.000	2.000	DIG
+1\309	TOK	νησιά	νησί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\314	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\316	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\320	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\326	TOK	σπαρμένα	σπαρμένος	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\335	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\339	TOK	Αιγαίο	Αιγαίο	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\346	TOK	και	και	CjCo
+	SYN	[pp
+1\350	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\354	TOK	Ιόνιο	Ιόνιο	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\359	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pp
+1\361	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\365	TOK	τα	ο	AtDfNePlAc
+1\368	TOK	οποία	οποίος	PnReNe03PlAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\374	TOK	κατοικούνται	κατοικώ	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\387	TOK	λίγο	λίγο	AdXxBa
+	SYN	/advp]
+1\392	TOK	περισσότερα	πολύς	AjCpNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\404	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\408	DIG	200	200	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\411	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\414	TOK	Ο	ο	AtDfMaSgNm
+1\416	TOK	πληθυσμός	πληθυσμός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\426	TOK	της	ο	AtDfFeSgGe
+1\430	TOK	Ελλάδος	Ελλάδα	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[advp
+1\438	TOK	σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\445	TOK	πλησιάζει	πλησιάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\455	TOK	τα	ο	AtDfNePlAc
+1\458	DIG	11.000.000	11.000.000	DIG
+	SYN	/np_ac]
+1\469	TOK	και	και	CjCo
+	SYN	[np_nm
+1\473	TOK	η	ο	AtDfFeSgNm
+1\475	TOK	έκταση	έκταση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\482	TOK	της	ο	AtDfFeSgGe
+1\486	TOK	χώρας	χώρα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\492	TOK	τα	ο	AtDfNePlAc
+1\495	DIG	132.000	132.000	DIG
+	SYN	[adjp_ac
+1\503	TOK	τετραγωνικά	τετραγωνικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\515	TOK	χιλιόμετρα	χιλιόμετρο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\525	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\527	TOK	Η	ο	AtDfFeSgNm
+1\529	TOK	Αθήνα	Αθήνα	NoPrFeSgNm
+	SYN	/np_nm]
+1\534	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\536	TOK	πέρα	πέρα	AdXxBa
+	SYN	[pp
+1\541	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\545	TOK	πρωτεύουσα	πρωτεύουσα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\556	TOK	της	ο	AtDfFeSgGe
+1\560	TOK	Ελλάδας	Ελλάδα	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/advp]
+1\567	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\569	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\575	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\578	TOK	πολιτικό	πολιτικός	AjBaNeSgNm
+1\586	PUNCT	,	,	PUNCT
+1\588	TOK	κοινωνικό	κοινωνικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\598	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\602	TOK	οικονομικό	οικονομικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\613	TOK	κέντρο	κέντρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\620	TOK	των	ο	AtDfNePlGe
+1\624	TOK	Βαλκανίων	Βαλκάνια	NoPrNePlGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\633	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

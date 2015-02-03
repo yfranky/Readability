@@ -1,0 +1,1010 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Οι	ο	AtDfMaPlNm
+1\4	TOK	Ολυμπιακοί	ολυμπιακός	NoPrMaPlNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\15	TOK	Αγώνες	αγώνας	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\22	TOK	του	ο	AtDfNeSgGe
+1\26	DIG	2000	2000	DIG
+	SYN	/np_ge]
+	SYN	[vg
+1\31	TOK	έγιναν	γίνομαι	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\38	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\42	TOK	Σίδνεϊ	Σίδνεϊ	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\49	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\53	TOK	θεωρήθηκαν	θεωρώ	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\64	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+1\69	TOK	πετυχημένοι	πετυχημένος	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\80	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\83	TOK	Η	ο	AtDfFeSgNm
+1\85	TOK	τελετή	τελετή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\92	TOK	έναρξης	έναρξη	NoCmFeSgGe
+	SYN	/np_ge]
+1\100	TOK	των	ο	AtDfMaPlGe
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\104	TOK	27ων	27ος	NmOdMaPlNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\109	TOK	Ολυμπιακών	ολυμπιακός	AjBaMaPlGe
+	SYN	/adjp_ge]
+1\120	TOK	Αγώνων	αγώνας	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\127	TOK	του	ο	AtDfNeSgGe
+1\131	TOK	Σίδνεϊ	Σίδνεϊ	NoPrNeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\138	TOK	πραγματοποιήθηκε	πραγματοποιώ	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\155	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ge
+1\160	DIG	15	15	DIG
+1\163	TOK	Σεπτεμβρίου	Σεπτέμβριος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\174	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\176	TOK	Την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\180	TOK	ολυμπιακή	ολυμπιακός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\190	TOK	φλόγα	φλόγα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\196	TOK	άναψε	ανάβω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\202	TOK	η	ο	AtDfFeSgNm
+1\204	TOK	Κάθι	Κάθι	NoPrFeSgNm
+1\209	TOK	Φρίμαν	Φρίμαν	NoPrFeSgNm
+	SYN	/np_nm]
+1\215	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\217	TOK	μια	ένας	AtIdFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\221	TOK	Αυστραλή	Αυστραλή	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\230	TOK	αθλήτρια	αθλήτρια	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\239	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\243	TOK	τους	ο	AtDfMaPlAc
+1\248	TOK	Αβορίγινες	Αβορίγινας	NoPrMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\259	OPUNCT	(	(	OPUNCT
+	SYN	[np_nm
+1\260	TOK	Αμπορίτζιναλς	Αμπορίτζιναλς	NoPrMaSgNm
+	SYN	/np_nm]
+1\273	CPUNCT	)	)	CPUNCT
+	SYN	/cl]
+1\274	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\276	TOK	Ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\278	TOK	ολυμπιακός	ολυμπιακός	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\289	TOK	όρκος	όρκος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\295	TOK	των	ο	AtDfMaPlGe
+1\299	TOK	αθλητών	αθλητής	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	[vg
+1\307	TOK	δόθηκε	δίνω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\314	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\318	TOK	τον	ο	AtDfMaSgAc
+1\322	TOK	Ρέτσελ	Ρέτσελ	NoPrMaSgAc
+1\329	TOK	Χοκς	Χοκς	NoPrMaSgAc
+	SYN	/np_ac]
+1\333	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\335	TOK	Αυστραλό	Αυστραλός	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\344	TOK	αθλητή	αθλητής	NoCmMaSgAc
+	SYN	/np_ac]
+1\351	TOK	του	ο	AtDfNeSgGe
+	SYN	[np_ac
+1\355	TOK	χόκεϊ	χόκεϊ	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\360	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\362	TOK	Αμέσως	αμέσως	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\369	TOK	μετά	μετά	AsPpSp
+	SYN	[np_ac
+1\374	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\377	TOK	επίσημο	επίσημος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\385	TOK	μέρος	μέρος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\391	TOK	της	ο	AtDfFeSgGe
+1\395	TOK	τελετής	τελετή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\403	TOK	έναρξης	έναρξη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[vg
+1\411	TOK	ακολούθησε	ακολουθώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\422	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\425	TOK	καλλιτεχνικό	καλλιτεχνικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\438	TOK	πρόγραμμα	πρόγραμμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\447	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\449	TOK	Περισσότεροι	πολύς	AjCpMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\462	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\466	TOK	τρία	τρεις	NmCdNePlAcAj
+	SYN	/adjp_ac]
+1\471	TOK	δισεκατομμύρια	δισεκατομμύριο	NoCmNePlAc
+1\486	TOK	θεατές	θεατής	NoCmMaPlAc
+	SYN	/np_ac]
+1\493	TOK	και	και	CjCo
+	SYN	[np_ac
+1\497	TOK	τηλεθεατές	τηλεθεατής	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\508	TOK	παρακολουθήσαν	παρακολουθώ	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\523	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\526	TOK	ιδιαίτερο	ιδιαίτερος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\536	TOK	ενδιαφέρον	ενδιαφέρον	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\547	TOK	το	ο	AtDfNeSgAc
+1\550	TOK	σενάριο	σενάριο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\558	TOK	της	ο	AtDfFeSgGe
+1\562	TOK	τελετής	τελετή	NoCmFeSgGe
+	SYN	/np_ge]
+1\569	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\571	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\575	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\580	TOK	το	ο	AtDfNeSgNm
+1\583	TOK	όνειρο	όνειρο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\590	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\594	TOK	13χρονης	13χρονης	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\603	TOK	Νίκης	Νίκη	NoPrFeSgGe
+1\609	TOK	Γουέμπστερ	Γουέμπστερ	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/cl_r]
+	SYN	/cl]
+1\619	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\621	TOK	Σύμφωνα	σύμφωνα	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\629	TOK	λοιπόν	λοιπόν	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\636	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\639	TOK	αυτό	αυτός	PnDmNe03SgAcXx
+1\644	TOK	το	ο	AtDfNeSgAc
+1\647	TOK	σενάριο	σενάριο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\654	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\656	TOK	η	ο	AtDfFeSgNm
+1\658	TOK	Νίκη	Νίκη	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\663	TOK	γνώρισε	γνωρίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\671	TOK	ένα	ένας	AtIdMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\675	TOK	γίγαντα	γίγαντας	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\683	TOK	της	ο	AtDfFeSgGe
+1\687	TOK	φυλής	φυλή	NoCmFeSgGe
+	SYN	/np_ge]
+1\693	TOK	των	ο	AtDfFePlGe
+	SYN	[np_nm
+1\697	TOK	Αβοριγίνων	Αβοριγίνων	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[np_nm
+1\708	TOK	ο	ο	AtDfMaSgNm
+1\710	TOK	οποίος	οποίος	PnReMa03SgNmXx
+	SYN	/np_nm]
+1\717	TOK	την	ο	AtDfFeSgAc
+	SYN	[vg
+1\721	OPUNCT	«	«	OPUNCT
+1\722	TOK	ξενάγησε	ξεναγώ	VbMnIdPa03SgXxPeAvXx
+1\730	CPUNCT	»	»	CPUNCT
+	SYN	/vg]
+	SYN	[pp
+1\732	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\737	TOK	ιστορία	ιστορία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\744	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\746	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\749	TOK	σκοπό	σκοπός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\755	TOK	να	να	PtSj
+1\758	TOK	γνωρίσει	γνωρίζω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\767	TOK	ολόκληρος	ολόκληρος	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\777	TOK	ο	ο	AtDfMaSgNm
+1\779	TOK	κόσμος	κόσμος	NoCmMaSgNm
+	SYN	/np_nm]
+1\786	TOK	το	ο	AtDfNeSgAc
+	SYN	[advp
+1\789	TOK	χθες	χθες	AdXxBa
+	SYN	/advp]
+1\794	TOK	και	και	CjCo
+1\798	TOK	το	ο	AtDfNeSgNm
+	SYN	[advp
+1\801	TOK	σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+	SYN	[np_ge
+1\808	TOK	της	ο	AtDfFeSgGe
+1\812	TOK	Αυστραλίας	Αυστραλία	NoPrFeSgGe
+	SYN	/np_ge]
+1\822	PTERM_P	...	...	PTERM_P
+	SYN	/cl_o]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\827	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\830	TOK	αγωνιστικό	αγωνιστικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\841	TOK	μέρος	μέρος	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\847	TOK	της	ο	AtDfFeSgGe
+1\851	TOK	Ολυμπιάδας	ολυμπιάδα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\862	TOK	διάρκεσε	διαρκώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\871	DIG	15	15	DIG
+1\874	TOK	μέρες	μέρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\879	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\881	TOK	Η	ο	AtDfFeSgNm
+1\883	TOK	συμμετοχή	συμμετοχή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\893	TOK	των	ο	AtDfMaPlGe
+1\897	TOK	αθλητών	αθλητής	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	[vg
+1\905	TOK	υπήρξε	υπάρχω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+1\912	TOK	η	ο	AtDfFeSgNm
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\914	TOK	μεγαλύτερη	μεγάλος	AjCpFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[advp
+1\925	TOK	ως	ως	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\928	TOK	τότε	τότε	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\932	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\934	TOK	καθώς	καθώς	AdXxBa
+	SYN	[vg
+1\940	TOK	έλαβαν	λαμβάνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\947	TOK	μέρος	μέρος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\953	DIG	10.651	10.651	DIG
+1\960	TOK	αθλητές	αθλητής	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\968	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\972	DIG	199	199	DIG
+1\976	TOK	χώρες	χώρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\981	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\983	TOK	Επίσης	επίσης	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\990	TOK	σημειώθηκαν	σημειώνω	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+1\1002	TOK	και	και	CjCo
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\1006	TOK	πολλά	πολλά	AdXxBa
+	SYN	/advp]
+1\1012	TOK	παγκόσμια	παγκόσμιος	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+1\1022	TOK	ρεκόρ	ρεκόρ	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1027	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1029	TOK	Πολλοί	πολύς	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\1036	TOK	αθλητές	αθλητής	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1044	TOK	έγραψαν	γράφω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1052	TOK	μεγάλη	μεγάλος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\1059	TOK	ιστορία	ιστορία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1067	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1072	TOK	παγκόσμιο	παγκόσμιος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\1082	TOK	αθλητισμό	αθλητισμός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\1091	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\1093	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\1098	TOK	η	ο	AtDfFeSgNm
+1\1100	TOK	Μπίργκιτ	Μπίργκιτ	NoPrFeSgNm
+1\1109	TOK	Φίσερ	Φίσερ	NoPrFeSgNm
+	SYN	/np_nm]
+1\1114	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1116	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1120	TOK	κέρδισε	κερδίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1128	TOK	δύο	δύο	NmCdNePlAcAj
+1\1132	TOK	χρυσά	χρυσός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1138	TOK	μετάλλια	μετάλλιο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+1\1147	TOK	και	και	CjCo
+	SYN	[cl_r
+	SYN	[advp
+1\1151	TOK	έτσι	έτσι	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\1156	TOK	έγινε	γίνομαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1162	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\1164	TOK	πρώτη	πρώτος	NmOdFeSgNmAj
+	SYN	/adjp_nm]
+1\1170	TOK	γυναίκα	γυναίκα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_r]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1178	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1182	TOK	ανεβαίνει	ανεβαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\1192	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\1196	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\1200	TOK	ψηλό	ψηλός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\1205	TOK	σκαλί	σκαλί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1211	TOK	του	ο	AtDfNeSgGe
+1\1215	TOK	βάθρου	βάθρο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\1222	TOK	επί	επί	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1226	TOK	είκοσι	είκοσι	NmCdNePlAcAj
+1\1233	TOK	συνεχόμενα	συνεχόμενος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1244	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\1250	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1252	TOK	Ο	ο	AtDfMaSgNm
+1\1254	TOK	Στιβ	Στιβ	NoPrMaSgNm
+1\1259	TOK	Ρέντγκρεϊβ	Ρέντγκρεϊβ	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1270	TOK	έγινε	γίνομαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1276	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\1278	TOK	πρώτος	πρώτος	NmOdMaSgNmAj
+	SYN	/adjp_nm]
+1\1285	TOK	κωπηλάτης	κωπηλάτης	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1295	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1299	TOK	κέρδισε	κερδίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1307	TOK	χρυσό	χρυσός	NoCmMaSgAc
+1\1313	TOK	μετάλλιο	μετάλλιο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1322	TOK	σε	σε	AsPpSp
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1325	TOK	πέντε	πέντε	NmCdMaPlNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1331	TOK	συνεχόμενους	συνεχόμενος	AjBaMaPlAc
+1\1344	TOK	Ολυμπιακούς	ολυμπιακός	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\1356	TOK	Αγώνες	αγώνας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\1362	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1364	TOK	Ο	ο	AtDfMaSgNm
+1\1366	TOK	Ίαν	Ίαν	NoPrMaSgNm
+1\1370	TOK	Θορπ	Θορπ	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1375	TOK	κέρδισε	κερδίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1383	TOK	τρία	τρεις	NmCdNePlAcAj
+1\1388	TOK	χρυσά	χρυσός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1394	TOK	μετάλλια	μετάλλιο	NoCmNePlAc
+	SYN	/np_ac]
+1\1403	TOK	και	και	CjCo
+	SYN	[np_ac
+1\1407	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\1411	TOK	αργυρό	αργυρός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\1418	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\1423	TOK	κολύμβηση	κολύμβηση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\1432	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\1434	TOK	Η	ο	AtDfFeSgNm
+	SYN	[np_ac
+1\1436	TOK	Μάριον	Μάριος	NoPrMaSgAc
+	SYN	/np_ac]
+1\1443	TOK	Τζόουνς	Τζόουνς	RgFwTr
+	SYN	[vg
+1\1451	TOK	κέρδισε	κερδίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1459	TOK	τρία	τρεις	NmCdNePlAcAj
+1\1464	TOK	χρυσά	χρυσός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1470	TOK	μετάλλια	μετάλλιο	NoCmNePlAc
+	SYN	/np_ac]
+1\1479	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1483	TOK	δύο	δύο	NmCdNePlAcAj
+1\1487	TOK	χάλκινα	χάλκινος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\1494	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1497	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\1500	TOK	αγωνιστικό	αγωνιστικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\1511	TOK	μέρος	μέρος	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1517	TOK	ολοκληρώθηκε	ολοκληρώνω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\1530	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\1535	DIG	11:15	11:15	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\1541	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1544	TOK	την	ο	AtDfFeSgAc
+1\1548	TOK	απονομή	απονομή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1556	TOK	των	ο	AtDfNePlGe
+1\1560	TOK	μεταλλίων	μετάλλιο	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\1570	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+1\1576	TOK	νικητές	νικητής	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1584	TOK	του	ο	AtDfMaSgGe
+	SYN	[adjp_ge
+1\1588	TOK	μαραθωνίου	μαραθώνιος	AjBaMaSgGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	[np_ge
+1\1599	TOK	ανδρών	άντρας	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\1605	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1607	TOK	Η	ο	AtDfFeSgNm
+1\1609	TOK	τελετή	τελετή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\1616	TOK	λήξης	λήξη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\1622	TOK	ξεκίνησε	ξεκινώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\1631	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\1636	DIG	12:10	12:10	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\1642	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1645	TOK	την	ο	AtDfFeSgAc
+1\1649	TOK	παρέλαση	παρέλαση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\1658	TOK	όλων	όλος	AjBaMaPlGe
+	SYN	/adjp_ge]
+1\1663	TOK	των	ο	AtDfMaPlGe
+1\1667	TOK	αθλητών	αθλητής	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\1675	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\1679	TOK	Ολυμπιακό	ολυμπιακός	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\1689	TOK	Στάδιο	στάδιο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1695	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1697	TOK	Η	ο	AtDfFeSgNm
+1\1699	TOK	διαδικασία	διαδικασία	NoCmFeSgNm
+1\1710	TOK	αυτή	αυτός	PnDmFe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\1715	TOK	διάρκεσε	διαρκώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\1724	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\1732	DIG	20	20	DIG
+1\1735	TOK	λεπτά	λεπτό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1740	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1742	TOK	Ακολούθησαν	ακολουθώ	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1754	TOK	οι	ο	AtDfMaPlNm
+1\1757	TOK	λόγοι	λόγος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\1763	TOK	του	ο	AtDfMaSgGe
+1\1767	TOK	προέδρου	πρόεδρος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\1776	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\1780	TOK	Διεθνούς	διεθνής	AjBaFeSgGe
+1\1789	TOK	Ολυμπιακής	ολυμπιακός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\1800	TOK	Επιτροπής	επιτροπή	NoCmFeSgGe
+	SYN	/np_ge]
+1\1810	OPUNCT	(	(	OPUNCT
+1\1811	ABBR	ΔΟΕ	ΔΟΕ	ABBR
+1\1814	CPUNCT	)	)	CPUNCT
+1\1815	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1817	TOK	Χουάν	Χουάν	NoPrMaSgAc
+	SYN	/np_ac]
+1\1823	TOK	Αντόνιο	Αντόνιο	RgFwTr
+	SYN	[np_nm
+1\1831	TOK	Σάμαρανκ	Σάμαρανκ	NoPrMaSgNm
+	SYN	/np_nm]
+1\1839	PUNCT	,	,	PUNCT
+1\1841	TOK	και	και	CjCo
+	SYN	[np_ge
+1\1845	TOK	του	ο	AtDfMaSgGe
+1\1849	TOK	προέδρου	πρόεδρος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\1858	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\1862	TOK	Ολυμπιακής	ολυμπιακός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\1873	TOK	Επιτροπής	επιτροπή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\1883	TOK	του	ο	AtDfNeSgGe
+1\1887	TOK	Σίδνεϊ	Σίδνεϊ	NoPrNeSgGe
+	SYN	/np_ge]
+1\1893	PUNCT	,	,	PUNCT
+1\1895	TOK	Μάικλ	Μάικλ	RgFwTr
+1\1901	TOK	Νάιτ	Νάιτ	RgFwTr
+	SYN	/cl]
+1\1905	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\1907	TOK	Στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\1911	TOK	συνέχεια	συνέχεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\1920	TOK	ο	ο	AtDfMaSgNm
+1\1922	TOK	Δήμαρχος	δήμαρχος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\1931	TOK	Αθηναίων	Αθηναίος	NoPrMaPlGe
+	SYN	/np_ge]
+1\1939	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\1941	TOK	Δημήτρης	Δημήτρης	NoPrMaSgNm
+1\1950	TOK	Αβραμόπουλος	Αβραμόπουλος	NoPrMaSgNm
+	SYN	/np_nm]
+1\1962	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\1964	TOK	παρέλαβε	παραλαβαίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1973	TOK	τη	ο	AtDfFeSgAc
+1\1976	TOK	σημαία	σημαία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1983	TOK	των	ο	AtDfMaPlGe
+	SYN	[adjp_ge
+1\1987	TOK	Ολυμπιακών	ολυμπιακός	AjBaMaPlGe
+	SYN	/adjp_ge]
+1\1998	TOK	Αγώνων	αγώνας	NoCmMaPlGe
+	SYN	/np_ge]
+1\2005	OPUNCT	(	(	OPUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\2006	TOK	η	ο	AtDfFeSgNm
+1\2008	TOK	Αθήνα	Αθήνα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\2014	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\2020	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\2022	TOK	επόμενη	επόμενος	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\2030	TOK	διοργανώτρια	διοργανώτρια	NoCmFeSgNm
+1\2043	TOK	πόλη	πόλη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\2047	CPUNCT	)	)	CPUNCT
+	SYN	/cl]
+1\2048	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\2050	TOK	Μετά	μετά	AsPpSp
+	SYN	[np_ac
+1\2055	TOK	την	ο	AtDfFeSgAc
+1\2059	TOK	παράδοση	παράδοση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\2068	TOK	της	ο	AtDfFeSgGe
+1\2072	TOK	σημαίας	σημαία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[vg
+1\2080	TOK	έσβησε	σβήνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\2087	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\2089	TOK	ολυμπιακή	ολυμπιακός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\2099	TOK	φλόγα	φλόγα	NoCmFeSgNm
+	SYN	/np_nm]
+1\2104	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\2106	TOK	τη	ο	AtDfFeSgAc
+1\2109	TOK	στιγμή	στιγμή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_advp
+1\2116	TOK	που	που	AdXxBa
+	SYN	/pou_advp]
+	SYN	[np_ac
+1\2120	TOK	ένα	ένας	AtIdNeSgAc
+1\2124	TOK	αεροπλάνο	αεροπλάνο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\2134	TOK	περνούσε	περνώ	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\2143	DIG	300	300	DIG
+1\2147	TOK	μέτρα	μέτρο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[advp
+1\2153	TOK	πάνω	πάνω	AdXxBa
+	SYN	[pp
+1\2158	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\2162	TOK	το	ο	AtDfNeSgAc
+1\2165	TOK	Στάδιο	στάδιο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\2171	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\2173	TOK	Στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\2178	DIG	13:00	13:00	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+1\2183	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\2185	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\2188	TOK	τη	ο	AtDfFeSgAc
+1\2191	TOK	διέλευση	διέλευση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\2200	TOK	ενός	ένας	AtIdNeSgGe
+	SYN	[adjp_ge
+1\2205	TOK	δεύτερου	δεύτερος	NmOdNeSgGeAj
+	SYN	/adjp_ge]
+1\2214	TOK	αεροπλάνου	αεροπλάνο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\2224	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\2226	TOK	άρχισε	αρχίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+1\2233	TOK	το	ο	AtDfNeSgAc
+	SYN	[np_ac
+1\2236	TOK	σόου	σόου	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\2241	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\2244	TOK	τα	ο	AtDfNePlAc
+1\2247	TOK	πυροτεχνήματα	πυροτέχνημα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\2260	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\2262	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\2265	TOK	εντυπωσιακό	εντυπωσιακός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\2277	TOK	φινάλε	φινάλε	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\2284	TOK	δόθηκε	δίνω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\2291	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\2295	TOK	διάσημη	διάσημος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\2303	TOK	γέφυρα	γέφυρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\2310	TOK	του	ο	AtDfNeSgGe
+1\2314	TOK	Σίδνεϊ	Σίδνεϊ	NoPrNeSgGe
+	SYN	/np_ge]
+1\2320	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\2322	TOK	τη	ο	AtDfFeSgAc
+1\2325	TOK	Χάρμπορ	Χάρμπορ	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\2333	TOK	Μπριτζ	Μπριτζ	RgFwTr
+	SYN	/cl]
+1\2339	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

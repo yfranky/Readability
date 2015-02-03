@@ -1,0 +1,139 @@
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Nm	5	Pnom	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	τι	τι	Pn	PnIr	Ne|03|Sg|Nm|Xx	5	Pnom	_	_	
+5	γίνεται	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	η	ο	At	AtDf	Fe|Sg|Nm	7	Det	_	_	
+7	Κατερίνα	Κατερίνα	No	NoPr	Fe|Sg|Nm	5	Sb	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	καλά	καλά	Ad	Ad	Ba	1	Adv	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μια	ένας	At	AtId	Fe|Sg|Nm	3	Det	_	_	
+3	χαρά	χαρά	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θυμάστε	θυμάμαι	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	τον	ο	At	AtDf	Ma|Sg|Ac	3	Det	_	_	
+3	αδερφό	αδερφός	No	NoCm	Ma|Sg|Ac	5	Obj_Ap	_	_	
+4	της	μου	Pn	PnPo	Fe|03|Sg|Ge|Xx	3	Pos	_	_	
+5	,	,	PUNCT	PUNCT	_	1	Apos	_	_	
+6	τον	ο	At	AtDf	Ma|Sg|Ac	7	Det	_	_	
+7	Πέτρο	Πέτρος	No	NoPr	Ma|Sg|Ac	5	Obj_Ap	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Α	α	No	NoCm	Ne|Sg|Nm	9	Sb	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	ναι	ναι	Ad	Ad	Ba	9	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+6	πώς	πώς	Ad	Ad	Ba	9	Adv	_	_	
+7	δεν	δεν	Pt	PtNg	_	9	AuxV	_	_	
+8	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	9	Obj	_	_	
+9	θυμάμαι	θυμάμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+10	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Σπουδάζει	σπουδάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	2	AuxP	_	_	
+4	Αγγλία	Αγγλία	No	NoPr	Fe|Sg|Ac	3	Adv	_	_	
+5	τώρα	τώρα	Ad	Ad	Ba	2	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Και	και	Cj	CjCo	_	7	AuxY	_	_	
+3	τα	ο	At	AtDf	Ne|Pl|Ac	4	Det	_	_	
+4	ξαδέρφια	ξαδέρφι	No	NoCm	Ne|Pl|Ac	7	Sb	_	_	
+5	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	4	Pos	_	_	
+6	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	7	Obj	_	_	
+7	κάνουν	κάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	μικρή	μικρός	Aj	Aj	Ba|Fe|Sg|Nm	4	Sb_Ap	_	_	
+4	,	,	PUNCT	PUNCT	_	8	Apos	_	_	
+5	η	ο	At	AtDf	Fe|Sg|Nm	6	Det	_	_	
+6	Άρτεμη	Άρτεμη	No	NoPr	Fe|Sg|Nm	4	Sb_Ap	_	_	
+7	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+8	πάει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	11	Pred_Co	_	_	
+9	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	8	AuxP	_	_	
+10	γυμνάσιο	γυμνάσιο	No	NoCm	Ne|Sg|Ac	9	Adv	_	_	
+11	και	και	Cj	CjCo	_	0	Coord	_	_	
+12	ο	ο	At	AtDf	Ma|Sg|Nm	13	Det	_	_	
+13	μεγάλος	μεγάλος	Aj	Aj	Ba|Ma|Sg|Nm	11	ExD_Co	_	_	
+14	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	13	AuxP	_	_	
+15	λύκειο	λύκειο	No	NoCm	Ne|Sg|Ac	14	Adv	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θυμάσαι	θυμάμαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	τους	ο	At	AtDf	Ma|Pl|Ac	3	Det	_	_	
+3	φίλους	φίλος	No	NoCm	Ma|Pl|Ac	8	Obj_Co	_	_	
+4	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	3	Pos	_	_	
+5	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+6	τον	ο	At	AtDf	Ma|Sg|Ac	7	Det	_	_	
+7	Παύλο	Παύλος	No	NoPr	Ma|Sg|Ac	8	Adv_Co	_	_	
+8	και	και	Cj	CjCo	_	1	Coord	_	_	
+9	τη	ο	At	AtDf	Fe|Sg|Ac	10	Det	_	_	
+10	Μαριάνθη	Μαριάνθη	No	NoPr	Fe|Sg|Ac	8	Obj_Co	_	_	
+11	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Αν	αν	Cj	CjSb	_	1	AuxC	_	_	
+3	τους	εγώ	Pn	PnPe	Ma|03|Pl|Ge|We	4	IObj	_	_	
+4	θυμάμαι	θυμάμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	2	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	λέει	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	2	AuxY	_	_	
+2	αυτοί	αυτός	Pn	PnDm	Ma|03|Pl|Nm|Xx	4	Sb	_	_	
+3	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ge|We	4	Obj	_	_	
+4	θυμούνται	θυμάμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	5	Pred_Co	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ac|We	7	Obj	_	_	
+7	στέλνουν	στέλνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+8	κάρτες	κάρτα	No	NoCm	Fe|Pl|Ac	7	Obj	_	_	
+9	τα	ο	At	AtDf	Ne|Pl|Ac	10	Det	_	_	
+10	Χριστούγεννα	Χριστούγεννα	No	NoPr	Ne|Pl|Ac	8	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	5	Sb	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Ac	1	ExD_Pa	_	_	
+4	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+5	έχεις	έχω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	νέα	νέος	Aj	Aj	Ba|Fe|Sg|Ac	5	Obj	_	_	
+7	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	6	Pos	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Όχι	όχι	Ad	Ad	Ba	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εμένα	εγώ	Pn	PnPe	Ma|01|Sg|Ge|St	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+3	κανείς	κανένας	Pn	PnId	Ma|03|Sg|Nm|Xx	6	Sb	_	_	
+4	δε	δε	Ad	Ad	Ba	6	Adv	_	_	
+5	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	6	Obj	_	_	
+6	θυμάται	θυμάμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	1	Pred	_	_	
+7	πια	πια	Ad	Ad	Ba	6	Adv	_	_	
+8	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Έλα	έλα	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	καλέ	καλός	Aj	Aj	Ba|Ma|Sg|Vo	5	Atr	_	_	
+5	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+6	!	!	PTERM_P	PTERM_P	_	5	AuxG	_	_	
+7	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εμείς	εγώ	Pn	PnPe	Ma|01|Pl|Nm|St	3	Sb	_	_	
+2	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	3	Obj	_	_	
+3	θυμόμαστε	θυμάμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	πάντα	πάντα	Ad	Ad	Ba	3	Adv	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

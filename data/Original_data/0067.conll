@@ -1,0 +1,81 @@
+1	Πετάω	πετώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ψηλά	ψηλά	Ad	Ad	Ba	1	Adv	_	_	
+3	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	1	AuxP	_	_	
+4	ουρανό	ουρανός	No	NoCm	Ma|Sg|Ac	3	Adv	_	_	
+5	πάνω	πάνω	Ad	Ad	Ba	1	Adv	_	_	
+6	από	από	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	τα	ο	At	AtDf	Ne|Pl|Ac	8	Det	_	_	
+8	βουνά	βουνό	No	NoCm	Ne|Pl|Ac	6	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βλέπω	βλέπω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Ac	3	Det	_	_	
+3	δέντρα	δέντρο	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+6	φρούτα	φρούτο	No	NoCm	Ne|Pl|Ac	4	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βλέπω	βλέπω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Ac	3	Det	_	_	
+3	λουλούδια	λουλούδι	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ακούω	ακούω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	3	Det	_	_	
+3	βουητό	βουητό	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	του	ο	At	AtDf	Ma|Sg|Ge	5	Det	_	_	
+5	αέρα	αέρας	No	NoCm	Ma|Sg|Ge	3	Atr	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πετάω	πετώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ψηλά	ψηλά	Ad	Ad	Ba	1	Adv	_	_	
+3	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	1	AuxP	_	_	
+4	ουρανό	ουρανός	No	NoCm	Ma|Sg|Ac	3	Adv	_	_	
+5	μαζί	μαζί	Ad	Ad	Ba	1	Adv	_	_	
+6	με	με	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	τα	ο	At	AtDf	Ne|Pl|Ac	8	Det	_	_	
+8	πουλιά	πουλί	No	NoCm	Ne|Pl|Ac	6	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βλέπω	βλέπω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Ac	4	Det	_	_	
+3	πολύχρωμα	πολύχρωμος	Aj	Aj	Ba|Ne|Pl|Ac	4	Atr	_	_	
+4	φτερά	φτερό	No	NoCm	Ne|Pl|Ac	6	Obj_Co	_	_	
+5	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	4	Pos	_	_	
+6	και	και	Cj	CjCo	_	1	Coord	_	_	
+7	τις	ο	At	AtDf	Fe|Pl|Ac	9	Det	_	_	
+8	χρωματιστές	χρωματιστός	Aj	Aj	Ba|Fe|Pl|Ac	9	Atr	_	_	
+9	ουρές	ουρά	No	NoCm	Fe|Pl|Ac	6	Obj_Co	_	_	
+10	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	9	Pos	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ακούω	ακούω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	3	Det	_	_	
+3	τραγούδι	τραγούδι	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	3	Pos	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πετάω	πετώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	πάνω	πάνω	Ad	Ad	Ba	1	Adv	_	_	
+3	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	σύννεφα	σύννεφο	No	NoCm	Ne|Pl|Ac	3	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βλέπω	βλέπω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Ac	3	Det	_	_	
+3	βουνά	βουνό	No	NoCm	Ne|Pl|Ac	13	Obj_Co	_	_	
+4	,	,	PUNCT	PUNCT	_	13	AuxX	_	_	
+5	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+6	λουλούδια	λουλούδι	No	NoCm	Ne|Pl|Ac	13	Adv_Co	_	_	
+7	,	,	PUNCT	PUNCT	_	13	AuxX	_	_	
+8	τα	ο	At	AtDf	Ne|Pl|Ac	9	Det	_	_	
+9	πουλιά	πουλί	No	NoCm	Ne|Pl|Ac	13	Adv_Co	_	_	
+10	,	,	PUNCT	PUNCT	_	13	AuxX	_	_	
+11	πολύ	πολύ	Ad	Ad	Ba	12	Adv	_	_	
+12	μικρά	μικρός	Aj	Aj	Ba|Ne|Pl|Ac	13	Atr_Co	_	_	
+13	,	,	PUNCT	PUNCT	_	1	Coord	_	_	
+14	μικρούτσικα	μικρούτσικος	Aj	Aj	Ba|Ne|Pl|Ac	13	Obj_Co	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

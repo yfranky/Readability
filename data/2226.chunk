@@ -1,0 +1,132 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Ο	ο	AtDfMaSgNm
+1\3	TOK	Σπύρος	Σπύρος	NoPrMaSgNm
+1\10	TOK	Λούης	Λούης	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\16	TOK	έγινε	γίνομαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\22	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+	SYN	[advp
+1\24	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\28	TOK	γνωστός	γνωστός	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\36	TOK	Ολυμπιονίκης	ολυμπιονίκης	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\49	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\53	TOK	πρώτης	πρώτος	NmOdFeSgGeAj
+1\60	TOK	σύγχρονης	σύγχρονος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\70	TOK	Ολυμπιάδας	ολυμπιάδα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\80	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\82	TOK	επειδή	επειδή	CjSb
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\89	TOK	πρώτος	πρώτος	NmOdMaSgNmAj
+	SYN	/adjp_nm]
+1\96	TOK	αυτός	αυτός	PnDmMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\102	TOK	νίκησε	νικώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\109	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\114	TOK	απόσταση	απόσταση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\123	TOK	που	που	PnReFe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\127	TOK	έτρεξε	τρέχω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\134	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\136	TOK	αρχαίος	αρχαίος	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\144	TOK	μαραθωνοδρόμος	μαραθωνοδρόμος	NoCmMaSgNm
+1\159	TOK	Φειδιππίδης	Φειδιππίδης	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\170	PUNCT	,	,	PUNCT
+	SYN	[cl_g
+	SYN	[vg_g
+1\172	TOK	μεταφέροντας	μεταφέρω	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[np_ac
+1\185	TOK	το	ο	AtDfNeSgAc
+1\188	TOK	μήνυμα	μήνυμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\195	TOK	της	ο	AtDfFeSgGe
+1\199	TOK	νίκης	νίκη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\205	TOK	των	ο	AtDfMaPlGe
+1\209	TOK	Αθηναίων	Αθηναίος	NoPrMaPlGe
+	SYN	/np_ge]
+	SYN	[pp
+1\218	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\222	TOK	Μαραθώνα	Μαραθώνας	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_g]
+1\230	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\232	TOK	Σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+1\238	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\240	TOK	η	ο	AtDfFeSgNm
+1\242	TOK	Ελλάδα	Ελλάδα	NoPrFeSgNm
+	SYN	/np_nm]
+1\248	PUNCT	,	,	PUNCT
+	SYN	[cl_g
+	SYN	[vg_g
+1\250	TOK	τιμώντας	τιμώ	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	/cl_g]
+1\259	TOK	τον	ο	AtDfMaSgAc
+1\262	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\264	TOK	έδωσε	δίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\270	TOK	το	ο	AtDfNeSgAc
+1\273	TOK	όνομά	όνομα	NoCmNeSgAc
+1\279	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	[pp
+1\283	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\287	TOK	Ολυμπιακό	ολυμπιακός	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\297	TOK	Στάδιο	στάδιο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\304	TOK	της	ο	AtDfFeSgGe
+1\308	TOK	Καλογρέζας	Καλογρέζα	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\318	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

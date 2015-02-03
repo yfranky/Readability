@@ -1,0 +1,176 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1	TOK	Θα	θα	PtFu
+1\4	TOK	σκίσω	σκίζω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\10	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\13	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\17	TOK	καινούρια	καινούριος	AjBaFeSgAc
+1\27	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/adjp_ac]
+1\31	TOK	φόρμα	φόρμα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\36	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\39	TOK	Χτένισμα	χτένισμα	NoCmNeSgNm
+	SYN	/np_nm]
+1\48	TOK	και	και	CjCo
+	SYN	[np_ac
+1\52	TOK	ντύσιμο	ντύσιμο	NoCmNeSgAc
+	SYN	[adjp_ac
+1\60	TOK	μοντέρνο	μοντέρνος	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\68	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\71	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\72	TOK	Μαλλιά	μαλλί	NoCmNePlNm
+	SYN	/np_nm]
+1\78	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\80	TOK	καρέ	καρέ	NoCmNePlAc
+	SYN	/np_ac]
+1\85	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\87	TOK	κοτσίδα	κοτσίδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\95	TOK	πίδω	πίδω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+1\100	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[cl_ri
+	SYN	[np_ac
+1\104	TOK	ό,τι	ό,τι	PnRiNe03SgAcXx
+1\109	TOK	άλλο	άλλος	PnIdNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\114	TOK	επιθυμούμε	επιθυμώ	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_ri]
+	SYN	/np_ac]
+	SYN	/cl]
+1\124	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\128	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\129	TOK	Φούστα	φούστα	NoCmFeSgNm
+	SYN	/np_nm]
+1\136	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\138	TOK	φόρεμα	φόρεμα	NoCmNeSgAc
+	SYN	[adjp_ac
+1\145	TOK	μίνι	μίνι	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\149	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\151	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\155	TOK	τζιν	τζιν	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\160	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\163	OPUNCT	"	"	OPUNCT
+1\164	TOK	σωλήνα	σωλήνας	NoCmMaSgAc
+1\170	CPUNCT	"	"	CPUNCT
+	SYN	/np_ac]
+1\172	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\174	OPUNCT	"	"	OPUNCT
+1\175	TOK	καμπάνα	καμπάνα	NoCmFeSgAc
+1\182	CPUNCT	"	"	CPUNCT
+	SYN	/np_ac]
+	SYN	/pp]
+1\183	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\186	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\187	TOK	Μπλούζα	μπλούζα	NoCmFeSgNm
+	SYN	/np_nm]
+1\194	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[advp
+1\196	TOK	Συνήθως	συνήθως	AdXxBa
+	SYN	/advp]
+	SYN	[np_ge
+1\204	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\208	TOK	αγαπημένης	αγαπημένος	AjBaFeSgGe
+1\219	TOK	μας	μου	PnPoMa01PlGeXx
+	SYN	/adjp_ge]
+1\223	TOK	ομάδας	ομάδα	NoCmFeSgGe
+	SYN	/np_ge]
+1\229	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\231	TOK	Μαλλιά	μαλλί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\238	TOK	κοντοκουρεμένα	κοντοκουρεμένος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\252	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\255	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\256	TOK	Παντελόνι	παντελόνι	NoCmNeSgAc
+	SYN	/np_ac]
+1\265	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\267	TOK	Τζιν	τζιν	NoCmNePlNm
+	SYN	/np_nm]
+1\271	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\273	TOK	μαύρη	μαύρος	AjBaFeSgNm
+1\279	TOK	ή	ή	CjCo
+1\281	TOK	άσπρη	άσπρος	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\287	TOK	βερμούδα	βερμούδα	NoCmFeSgNm
+	SYN	/np_nm]
+1\295	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\297	TOK	ίδια	ίδιος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\302	TOK	μάρκα	μάρκο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\308	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\311	TOK	το	ο	AtDfNeSgAc
+1\314	TOK	μπλουζάκι	μπλουζάκι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\323	PUNCT	,	,	PUNCT
+1\325	TOK	αλλά	αλλά	CjCo
+1\330	TOK	και	και	CjCo
+1\334	TOK	για	για	AsPpSp
+1\338	TOK	το	ο	AtDfNeSgAc
+	SYN	[np_ge
+1\341	TOK	μπάσκετ	μπάσκετ	NoCmNeSgGe
+	SYN	/np_ge]
+1\348	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

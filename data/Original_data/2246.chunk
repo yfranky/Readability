@@ -1,0 +1,204 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	Πολλές	πολύς	AjBaFePlNm
+	SYN	/adjp_nm]
+1\8	TOK	φορές	φορά	NoCmFePlNm
+	SYN	/np_nm]
+1\14	TOK	για	για	AsPpSp
+	SYN	[np_da
+1\18	TOK	συντομία	συντομία	NoCmFeSgDa
+	SYN	/np_da]
+	SYN	[vg
+1\27	TOK	λέμε	λέγω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+1\32	ABBR	Α.Φ.Μ.	Α.Φ.Μ.	ABBR
+1\39	OPUNCT	(	(	OPUNCT
+	SYN	[np_ac
+1\40	TOK	α-φι-μι	α-φι-μι	NoCmNeSgAc
+	SYN	/np_ac]
+1\47	CPUNCT	)	)	CPUNCT
+1\49	TOK	αντί	αντί	AsPpSp
+	SYN	[pp
+1\54	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\58	TOK	Αριθμό	αριθμός	NoCmMaSgAc
+	SYN	[adjp_ac
+1\65	TOK	Φορολογικά	φορολογικός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ge
+1\76	TOK	Μητρώου	μητρώο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\83	PUNCT	,	,	PUNCT
+1\85	TOK	ή	ή	CjCo
+	SYN	[cl
+	SYN	[vg
+1\87	TOK	λέμε	λέγω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+1\92	ABBR	Δ.Ο.Υ.	Δ.Ο.Υ.	ABBR
+1\99	OPUNCT	(	(	OPUNCT
+	SYN	[np_ge
+1\100	TOK	δό-υ	δό-υ	NoCmNeSgGe
+	SYN	/np_ge]
+1\104	CPUNCT	)	)	CPUNCT
+1\106	TOK	αντί	αντί	AsPpSp
+	SYN	[pp
+1\111	TOK	για	για	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\115	TOK	Δημόσια	δημόσιος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\123	TOK	Οικονομική	οικονομικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\134	TOK	Υπηρεσία	υπηρεσία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\142	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\144	TOK	Παίρνουμε	παίρνω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+1\153	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\155	TOK	δηλαδή	δηλαδή	AdXxBa
+	SYN	/advp]
+1\161	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\163	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\168	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\171	TOK	πρώτο	πρώτος	NmOdNeSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\177	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\179	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\182	TOK	πρώτα	πρώτος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\188	TOK	γράμματα	γράμμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\197	TOK	των	ο	AtDfFePlGe
+1\201	TOK	λέξεων	λέξη	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\208	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\212	TOK	σχηματίζουμε	σχηματίζω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\225	TOK	σύντομες	σύντομος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\234	OPUNCT	«	«	OPUNCT
+1\235	TOK	λέξεις	λέξη	NoCmFePlAc
+1\241	CPUNCT	»	»	CPUNCT
+	SYN	/np_ac]
+	SYN	/cl]
+1\242	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\244	TOK	Οι	ο	AtDfFePlNm
+1\247	TOK	λέξεις	λέξη	NoCmFePlNm
+1\254	TOK	αυτές	αυτός	PnDmFe03PlNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\260	TOK	λέγονται	λέγω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\269	TOK	αρκτικόλεξα	αρκτικόλεξο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\280	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\282	TOK	Είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\288	TOK	αρσενικές	αρσενικός	AjBaFePlAc
+1\297	PUNCT	,	,	PUNCT
+1\299	TOK	θηλυκές	θηλυκός	AjBaFePlAc
+1\307	TOK	ή	ή	CjCo
+1\309	TOK	ουδέτερες	ουδέτερος	AjBaFePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\319	TOK	ανάλογα	ανάλογα	AdXxBa
+1\327	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\330	TOK	το	ο	AtDfNeSgAc
+	SYN	[cl_c
+1\333	TOK	αν	αν	CjSb
+	SYN	[vg
+1\336	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\342	TOK	οργανισμός	οργανισμός	NoCmMaSgNm
+	SYN	/np_nm]
+1\353	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\355	TOK	ίδρυμα	ίδρυμα	NoCmNeSgAc
+1\362	ABBR	κτλ.	κτλ.	ABBR
+	SYN	/np_ac]
+	SYN	/cl_c]
+	SYN	/np_ac]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\367	TOK	Λέμε	λέγω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\372	TOK	δηλαδή	δηλαδή	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\379	TOK	ο	ο	AtDfMaSgNm
+1\381	ABBR	Α.Φ.Μ.	Α.Φ.Μ.	ABBR
+	SYN	/np_nm]
+	SYN	/cl]
+	SYN	[cl_o
+1\388	TOK	γιατί	γιατί	CjSb
+	SYN	[vg
+1\394	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\400	TOK	ο	ο	AtDfMaSgNm
+1\402	TOK	αριθμός	αριθμός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\409	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\411	TOK	η	ο	AtDfFeSgNm
+1\413	ABBR	Δ.Ο.Υ.	Δ.Ο.Υ.	ABBR
+	SYN	/np_nm]
+	SYN	[cl_o
+1\420	TOK	γιατί	γιατί	CjSb
+	SYN	[vg
+1\426	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\432	TOK	η	ο	AtDfFeSgNm
+1\434	TOK	υπηρεσία	υπηρεσία	NoCmFeSgNm
+1\443	ABBR	κτλ.	κτλ.	ABBR
+	SYN	/np_nm]
+	SYN	/cl_o]
+	)SENT	</S>

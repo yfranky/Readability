@@ -1,0 +1,100 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	ΑΝΝΑ	Άννα	NoPrFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\7	TOK	Το	ο	AtDfNeSgNm
+1\10	TOK	σπίτι	σπίτι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\16	TOK	της	ο	AtDfFeSgGe
+1\20	TOK	Άννας	Άννα	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\26	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\32	TOK	μικρό	μικρός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\37	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\40	TOK	Έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\45	TOK	μια	ένας	AtIdFeSgAc
+1\49	TOK	σκάλα	σκάλα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\55	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\58	TOK	τρία	τρεις	NmCdNePlAcAj
+	SYN	/adjp_ac]
+1\63	TOK	σκαλοπάτια	σκαλοπάτι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\74	TOK	μπροστά	μπροστά	AdXxBa
+	SYN	[pp
+1\82	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\87	TOK	εξώπορτα	εξώπορτα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\95	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\99	TOK	Το	ο	AtDfNeSgNm
+1\102	TOK	δωμάτιό	δωμάτιο	NoCmNeSgNm
+1\110	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\114	TOK	βλέπει	βλέπω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\121	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\126	TOK	κήπο	κήπος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\130	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\133	TOK	Τα	ο	AtDfNePlNm
+1\136	TOK	γραμματοκιβώτια	γραμματοκιβώτιο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\152	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\158	TOK	δίπλα	δίπλα	AdXxBa
+	SYN	[pp
+1\164	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\169	TOK	πόρτα	πόρτα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\175	TOK	του	ο	AtDfMaSgGe
+1\179	TOK	κήπου	κήπος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\184	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,130 @@
+1	Να	να	Pt	PtSj	_	3	AuxV	_	_	
+2	πώς	πώς	Ad	Ad	Ba	3	Adv	_	_	
+3	δικαιολόγησε	δικαιολογώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	Αρτάν	Αρτάν	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+6	την	ο	At	AtDf	Fe|Sg|Ac	7	Det	_	_	
+7	αποτυχία	αποτυχία	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+8	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	7	Pos	_	_	
+9	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	7	AuxP	_	_	
+10	τεστ	τεστ	No	NoCm	Ne|Sg|Ac	9	Atr	_	_	
+11	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+3	έγινε	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	Αρτάν	Αρτάν	Rg	RgFw	_	3	Sb	_	_	
+5	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+6	πώς	πώς	Ad	Ad	Ba	7	Adv	_	_	
+7	πήγες	πηγαίνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	4	Adv	_	_	
+8	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	7	AuxP	_	_	
+9	τεστ	τεστ	No	NoCm	Ne|Sg|Ac	8	Adv	_	_	
+10	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Άσ’	άσος	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	χάλια	χάλι	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δεν	δεν	Pt	PtNg	_	4	AuxV	_	_	
+3	είχες	έχω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	4	AuxV	_	_	
+4	διαβάσει	διαβάζω	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Nm|Xx	3	Pnom	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	Σαββατοκύριακο	σαββατοκύριακο	No	NoCm	Ne|Sg|Nm	10	Sb	_	_	
+3	πριν	πριν	Ad	Ad	Ba	2	Atr	_	_	
+4	από	από	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Ac	6	Det	_	_	
+6	τεστ	τεστ	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+7	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+8	πήγα	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+9	εκδρομή	εκδρομή	No	NoCm	Fe|Sg|Ac	8	Adv	_	_	
+10	αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+11	ξέχασα	ξεχνώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+12	να	να	Pt	PtSj	_	13	AuxV	_	_	
+13	πάρω	παίρνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	11	Obj	_	_	
+14	το	ο	At	AtDf	Ne|Sg|Ac	15	Det	_	_	
+15	αδιάβροχο	αδιάβροχος	Aj	Aj	Ba|Ne|Sg|Ac	13	Obj	_	_	
+16	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	15	Pos	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+2	εκδρομή	εκδρομή	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+3	έπιασε	πιάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+4	βροχή	βροχή	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	τα	ο	At	AtDf	Ne|Pl|Nm	7	Det	_	_	
+7	ρούχα	ρούχο	No	NoCm	Ne|Pl|Nm	9	Sb	_	_	
+8	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	7	Pos	_	_	
+9	μούσκεψαν	μουσκεύω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κρύωσα	κρυώνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+2	και	και	Cj	CjCo	_	0	Coord	_	_	
+3	είχα	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+4	πυρετό	πυρετός	No	NoCm	Ma|Sg|Ac	3	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πήγα	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+2	στο	στου	AsPp	AsPpPa	Ma|Sg|Ac	1	AuxP	_	_	
+3	γιατρό	γιατρός	No	NoCm	Ma|Sg|Ac	2	Adv	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	6	IObj	_	_	
+6	είπε	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+7	να	να	Pt	PtSj	_	8	AuxV	_	_	
+8	μείνω	μένω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	6	Obj	_	_	
+9	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	8	AuxP	_	_	
+10	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	9	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έτσι	έτσι	Ad	Ad	Ba	7	Adv	_	_	
+2	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+3	την	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+4	άλλη	άλλος	Pn	PnId	Fe|03|Sg|Ac|Xx	5	Atr	_	_	
+5	μέρα	μέρα	No	NoCm	Fe|Sg|Ac	7	Adv	_	_	
+6	δεν	δεν	Pt	PtNg	_	7	AuxV	_	_	
+7	πήγα	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+8	σχολείο	σχολείο	No	NoCm	Ne|Sg|Ac	7	Obj	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Την	ο	At	AtDf	Fe|Sg|Ac	2	Det	_	_	
+2	ημέρα	ημέρα	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+3	εκείνη	εκείνος	Pn	PnDm	Fe|03|Sg|Ac|Xx	10	Atr	_	_	
+4	όμως	όμως	Cj	CjCo	_	0	ExD	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	αν	αν	Cj	CjSb	_	3	AuxC	_	_	
+7	θυμάσαι	θυμάμαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	6	Adv	_	_	
+8	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+9	ο	ο	At	AtDf	Ma|Sg|Nm	10	Det	_	_	
+10	μαθηματικός	μαθηματικός	No	NoCm	Ma|Sg|Nm	11	Sb	_	_	
+11	έκανε	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Atr	_	_	
+12	επανάληψη	επανάληψη	No	NoCm	Fe|Sg|Ac	11	Obj	_	_	
+13	σε	σε	AsPp	AsPpSp	_	11	AuxP	_	_	
+14	όλο	όλος	Aj	Aj	Ba|Ne|Sg|Ac	16	Atr	_	_	
+15	το	ο	At	AtDf	Ne|Sg|Ac	16	Det	_	_	
+16	κεφάλαιο	κεφάλαιο	No	NoCm	Ne|Sg|Ac	13	Obj	_	_	
+17	κι	και	Cj	CjCo	_	18	AuxY	_	_	
+18	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	11	Sb	_	_	
+19	έλειπα	λείπω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	11	Obj	_	_	
+20	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έτσι	έτσι	Ad	Ad	Ba	7	Adv	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	όταν	όταν	Cj	CjSb	_	7	AuxC	_	_	
+4	γράψαμε	γράφω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Adv	_	_	
+5	τεστ	τεστ	No	NoCm	Ne|Sg|Nm	4	Pnom	_	_	
+6	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+7	ήμουν	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+8	άσχετος	άσχετος	Aj	Aj	Ba|Ma|Sg|Nm	7	Pnom	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

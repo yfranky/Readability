@@ -1,0 +1,92 @@
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Δημήτρης	Δημήτρης	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	λέει	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	πώς	πώς	Ad	Ad	Ba	5	Adv	_	_	
+5	φαντάζεται	φαντάζομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	3	Obj	_	_	
+6	τη	ο	At	AtDf	Fe|Sg|Ac	7	Det	_	_	
+7	ζωή	ζωή	No	NoCm	Fe|Sg|Ac	5	Obj	_	_	
+8	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	7	Pos	_	_	
+9	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+10	μέλλον	μέλλον	No	NoCm	Ne|Sg|Ac	9	Adv	_	_	
+
+1	«	«	OPUNCT	OPUNCT	_	4	AuxG	_	_	
+2	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	4	Sb	_	_	
+3	δε	δεν	Pt	PtNg	_	4	AuxV	_	_	
+4	θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	σπουδάσω	σπουδάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	γίνω	γίνομαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	4	Pred_Co	_	_	
+3	ναυτικός	ναυτικός	Aj	Aj	Ba|Ma|Sg|Nm	2	Pnom	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	θα	θα	Pt	PtFu	_	6	AuxV	_	_	
+6	δουλέψω	δουλεύω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+7	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	6	AuxP	_	_	
+8	καράβια	καράβι	No	NoCm	Ne|Pl|Ac	7	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	ταξιδέψω	ταξιδεύω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	σε	σε	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	πολλές	πολύς	Aj	Aj	Ba|Fe|Pl|Ac	6	Atr	_	_	
+6	χώρες	χώρα	No	NoCm	Fe|Pl|Ac	4	Adv	_	_	
+7	,	,	PUNCT	PUNCT	_	14	AuxX	_	_	
+8	να	να	Pt	PtSj	_	9	AuxV	_	_	
+9	γνωρίσω	γνωρίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	14	Pred_Co	_	_	
+10	παράξενους	παράξενος	Aj	Aj	Ba|Ma|Pl|Ac	11	Atr	_	_	
+11	ανθρώπους	άνθρωπος	No	NoCm	Ma|Pl|Ac	9	Obj	_	_	
+12	και	και	Cj	CjCo	_	14	AuxY	_	_	
+13	καινούρια	καινούριος	Aj	Aj	Ba|Ne|Pl|Nm	14	Atr	_	_	
+14	πράγματα	πράγμα	No	NoCm	Ne|Pl|Nm	3	ExD	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σε	σε	AsPp	AsPpSp	_	5	AuxP	_	_	
+2	ένα	ένας	At	AtId	Ne|Sg|Ac	3	Det	_	_	
+3	ταξίδι	ταξίδι	No	NoCm	Ne|Sg|Ac	1	Adv	_	_	
+4	θα	θα	Pt	PtFu	_	5	AuxV	_	_	
+5	γνωρίσω	γνωρίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	τη	ο	At	AtDf	Fe|Sg|Ac	7	Det	_	_	
+7	γυναίκα	γυναίκα	No	NoCm	Fe|Sg|Ac	5	Obj	_	_	
+8	της	ο	At	AtDf	Fe|Sg|Ge	9	Det	_	_	
+9	ζωής	ζωή	No	NoCm	Fe|Sg|Ge	7	Atr	_	_	
+10	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	9	Pos	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+2	την	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	3	Obj	_	_	
+3	αγαπήσω	αγαπώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	αμέσως	αμέσως	Ad	Ad	Ba	3	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δε	δεν	Pt	PtNg	_	3	AuxV	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	9	Pred_Co	_	_	
+4	ούτε	ούτε	Cj	CjCo	_	6	AuxY	_	_	
+5	ψηλή	ψηλός	Aj	Aj	Ba|Fe|Sg|Nm	6	Pnom_Co	_	_	
+6	ούτε	ούτε	Cj	CjCo	_	3	Coord	_	_	
+7	ξανθιά	ξανθός	Aj	Aj	Ba|Fe|Sg|Nm	6	Pnom_Co	_	_	
+8	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+9	αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+10	θα	θα	Pt	PtFu	_	11	AuxV	_	_	
+11	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+12	έξυπνα	έξυπνα	Ad	Ad	Ba	13	Atr	_	_	
+13	μάτια	μάτι	No	NoCm	Ne|Pl|Ac	14	Obj_Co	_	_	
+14	και	και	Cj	CjCo	_	11	Coord	_	_	
+15	γλυκό	γλυκός	Aj	Aj	Ba|Ne|Sg|Vo	16	Atr	_	_	
+16	χαμόγελο	χαμόγελο	No	NoCm	Ne|Sg|Ac	14	Obj_Co	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	ζήσουμε	ζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	μαζί	μαζί	Ad	Ad	Ba	2	Adv	_	_	
+4	και	και	Cj	CjCo	_	3	Adv	_	_	
+5	θα	θα	Pt	PtFu	_	6	AuxV	_	_	
+6	κάνουμε	κάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+7	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Nm	8	Atr	_	_	
+8	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	6	Sb	_	_	
+9	»	»	CPUNCT	CPUNCT	_	2	AuxG	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

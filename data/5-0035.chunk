@@ -1,0 +1,409 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1	TOK	Ξέρατε	ξέρω	VbMnIdPa02PlXxIpAvXx
+	SYN	/vg]
+1\8	TOK	ότι	ότι	CjSb
+	SYN	[pp
+1\12	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\17	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\23	PTERM_P	…	…	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\26	PTERM_P	…	…	PTERM_P
+	SYN	[cl_q
+	SYN	[np_nm
+1\28	TOK	το	ο	AtDfNeSgNm
+1\31	TOK	κρέας	κρέας	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\37	TOK	που	που	PnReNe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\41	TOK	τρώμε	τρώω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	[vg
+1\47	TOK	προέρχεται	προέρχομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\58	TOK	κυρίως	κυρίως	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\65	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\69	TOK	νεαρά	νεαρός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\75	TOK	ζώα	ζώο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\79	OPUNCT	(	(	OPUNCT
+	SYN	[advp
+1\80	TOK	κάτω	κάτω	AdXxBa
+	SYN	[np_ge
+1\85	TOK	των	ο	AtDfMaPlGe
+1\89	DIG	12	12	DIG
+1\92	TOK	μηνών	μήνας	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/advp]
+1\97	CPUNCT	)	)	CPUNCT
+	SYN	/cl_q]
+1\98	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\101	PTERM_P	…	…	PTERM_P
+	SYN	[cl_q
+	SYN	[vg
+1\103	TOK	δεν	δεν	PtNg
+1\107	TOK	τρώμε	τρώω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\113	TOK	το	ο	AtDfNeSgAc
+1\116	TOK	άλογο	άλογο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\121	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\124	PTERM_P	…	…	PTERM_P
+	SYN	[cl_q
+	SYN	[vg
+1\126	TOK	προτιμάμε	προτιμώ	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\136	TOK	το	ο	AtDfNeSgAc
+1\139	TOK	κρέας	κρέας	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\145	TOK	καλά	καλά	AdXxBa
+	SYN	/advp]
+1\150	TOK	ψημένο	ψημένος	VbMnPpXxXxSgNePePvAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\156	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\159	PTERM_P	…	…	PTERM_P
+	SYN	[cl_q
+	SYN	[vg
+1\161	TOK	τρώμε	τρώω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\167	TOK	το	ο	AtDfNeSgAc
+1\170	TOK	κεφάλι	κεφάλι	NoCmNeSgAc
+	SYN	/np_ac]
+1\177	TOK	και	και	CjCo
+	SYN	[np_ac
+1\181	TOK	τα	ο	AtDfNePlAc
+1\184	TOK	εντόσθια	εντόσθια	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\193	TOK	των	ο	AtDfNePlGe
+1\197	TOK	ζώων	ζώο	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/cl_q]
+1\201	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\204	PTERM_P	…	…	PTERM_P
+	SYN	[cl_q
+	SYN	[vg
+1\206	TOK	τρώμε	τρώω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\212	TOK	χόρτα	χόρτο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\217	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\219	TOK	Η	ο	AtDfFeSgNm
+1\221	TOK	λέξη	λέξη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\226	OPUNCT	«	«	OPUNCT
+1\227	TOK	χόρτα	χόρτο	NoCmNePlAc
+1\232	CPUNCT	»	»	CPUNCT
+	SYN	/np_ac]
+	SYN	[vg
+1\234	TOK	καλύπτει	καλύπτω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\243	TOK	πολλά	πολύς	AjBaNePlAc
+1\249	TOK	και	και	CjCo
+1\253	TOK	διάφορα	διάφορος	AjBaNePlAc
+1\261	TOK	πράσινα	πράσινος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\269	TOK	λαχανικά	λαχανικό	NoCmNePlAc
+	SYN	/np_ac]
+1\278	TOK	και	και	CjCo
+	SYN	[np_ac
+1\282	TOK	βότανα	βότανο	NoCmNePlAc
+	SYN	/np_ac]
+1\288	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\290	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[advp
+1\294	TOK	παλιότερα	παλιός	AdXxCp
+	SYN	/advp]
+	SYN	[np_ac
+1\304	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\307	TOK	συναντούσε	συναντώ	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\318	TOK	κανείς	κανένας	PnIdMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[advp
+1\325	TOK	άγρια	άγρια	AdXxBa
+	SYN	/advp]
+1\330	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\332	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\336	TOK	βουνά	βουνό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\342	TOK	ή	ή	CjCo
+	SYN	[pp
+1\344	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\348	TOK	χωράφια	χωράφι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\355	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\357	TOK	Οι	ο	AtDfMaPlNm
+1\360	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\369	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\372	TOK	μάζευαν	μαζεύω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\380	OPUNCT	(	(	OPUNCT
+	SYN	[cl
+1\381	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_ac
+1\385	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\388	TOK	μαζεύουν	μαζεύω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\396	CPUNCT	)	)	CPUNCT
+	SYN	[advp
+1\398	TOK	όπως	όπως	AdXxBa
+	SYN	[pp
+1\403	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\406	TOK	άλλες	άλλος	PnIdFe03PlAcXx
+1\412	TOK	χώρες	χώρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[vg
+1\418	TOK	μαζεύουν	μαζεύω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\427	TOK	τα	ο	AtDfNePlAc
+1\430	TOK	μανιτάρια	μανιτάρι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\439	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\441	TOK	Σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+1\448	TOK	πολλά	πολύς	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\454	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\458	TOK	αυτά	αυτός	PnDmNe03PlAcXx
+1\463	TOK	τα	ο	AtDfNePlAc
+1\466	TOK	χόρτα	χόρτο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\472	TOK	καλλιεργούνται	καλλιεργώ	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\487	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_ac
+1\491	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\494	TOK	βρίσκουμε	βρίσκω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\504	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\508	TOK	λαϊκή	λαϊκός	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\513	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\516	PTERM_P	…	…	PTERM_P
+	SYN	[cl_q
+	SYN	[vg
+1\518	TOK	μετράμε	μετρώ	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\526	TOK	τη	ο	AtDfFeSgAc
+1\529	TOK	θερμοκρασία	θερμοκρασία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\541	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\544	TOK	βαθμούς	βαθμός	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\552	TOK	Κελσίου	Κελσίου	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\559	PUNCT	,	,	PUNCT
+1\561	TOK	όχι	όχι	PtNg
+1\565	TOK	Φαρενάιτ	Φαρενάιτ	RgFwTr
+	SYN	/cl_q]
+1\573	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_c
+1\575	TOK	Αν	αν	CjSb
+	SYN	[vg
+1\578	TOK	διαβάσετε	διαβάζω	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\588	TOK	λοιπόν	λοιπόν	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\595	TOK	μια	ένας	AtIdFeSgNm
+1\599	TOK	συνταγή	συνταγή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\607	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\611	TOK	ελληνικά	ελληνικός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_c]
+	SYN	[cl
+	SYN	[vg
+1\620	TOK	θα	θα	PtFu
+1\623	TOK	πρέπει	πρέπει	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\630	TOK	να	να	PtSj
+1\633	TOK	κάνετε	κάνω	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\640	TOK	τη	ο	AtDfFeSgAc
+1\643	TOK	μετατροπή	μετατροπή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\653	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\656	TOK	βάση	βάση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+	SYN	[cl_o
+1\661	TOK	ότι	ότι	CjSb
+	SYN	[np_nm
+1\665	DIG	100	100	DIG
+1\669	TOK	βαθμοί	βαθμός	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\676	TOK	Κελσίου	Κελσίου	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\684	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\690	DIG	212	212	DIG
+1\694	TOK	βαθμοί	βαθμός	NoCmMaPlNm
+1\701	TOK	Φαρενάιτ	Φαρενάιτ	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\709	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\712	PTERM_P	…	…	PTERM_P
+	SYN	[cl_q
+	SYN	[advp
+1\714	TOK	αντίθετα	αντίθετα	AdXxBa
+	SYN	[pp
+1\723	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[cl_ri
+	SYN	[np_ac
+1\726	TOK	ό,τι	ό,τι	PnRiNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\731	TOK	λέει	λέγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\736	TOK	η	ο	AtDfFeSgNm
+1\738	TOK	βιολογία	βιολογία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_ri]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\746	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\748	TOK	θεωρούμε	θεωρώ	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\757	TOK	το	ο	AtDfNeSgAc
+1\760	TOK	λεμόνι	λεμόνι	NoCmNeSgAc
+	SYN	/np_ac]
+1\767	TOK	και	και	CjCo
+	SYN	[np_ac
+1\771	TOK	την	ο	AtDfFeSgAc
+1\775	TOK	ντομάτα	ντομάτα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\783	TOK	λαχανικά	λαχανικό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\791	PTERM_P	;	;	PTERM_P
+	)SENT	</S>

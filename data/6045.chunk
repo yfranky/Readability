@@ -1,0 +1,218 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Το	ο	AtDfNeSgNm
+1\4	TOK	χαρτί	χαρτί	NoCmNeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\11	TOK	Το	ο	AtDfNeSgNm
+1\14	TOK	χαρτί	χαρτί	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\20	TOK	κατασκευάστηκε	κατασκευάζω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\35	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\40	TOK	Κίνα	Κίνα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\45	TOK	πριν	πριν	AdXxBa
+	SYN	[pp
+1\50	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\54	TOK	δύο	δύο	NmCdNePlAcAj
+1\58	TOK	χιλιάδες	χιλιάδα	NmCtFePlAcNo
+	SYN	/adjp_ac]
+1\67	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[advp
+1\74	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\81	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\83	TOK	Στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\88	TOK	Ευρώπη	Ευρώπη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\95	TOK	έφτασε	φτάνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\102	TOK	χάρη	χάρη	AdXxBa
+	SYN	[pp
+1\107	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+1\113	TOK	Άραβες	Άραβας	NoPrMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\119	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\121	TOK	Μέχρι	μέχρι	AsPpSp
+	SYN	[advp
+1\127	TOK	πριν	πριν	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	[pp
+1\132	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\136	TOK	πενήντα	πενήντα	NmCdNePlAcAj
+	SYN	/adjp_ac]
+1\144	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\151	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+1\158	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\160	TOK	το	ο	AtDfNeSgNm
+1\163	TOK	χαρτί	χαρτί	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\169	TOK	κατασκευαζόταν	κατασκευάζω	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\184	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\188	TOK	πολτό	πολτός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\194	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\198	TOK	φτιαχνόταν	φτιάχνω	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\209	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\213	TOK	κουρέλια	κουρέλι	NoCmNePlAc
+	SYN	/np_ac]
+1\222	TOK	και	και	CjCo
+	SYN	[np_ac
+1\226	TOK	άλλες	άλλος	PnIdFe03PlAcXx
+1\232	TOK	ουσίες	ουσία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\238	PUNCT	,	,	PUNCT
+1\240	TOK	αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[vg
+1\245	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\250	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+1\255	TOK	ακριβό	ακριβός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\261	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\263	TOK	Οι	ο	AtDfFePlNm
+1\266	TOK	σφήκες	σφήκα	NoCmFePlNm
+	SYN	/np_nm]
+1\272	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\274	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\278	TOK	φτιάχνουν	φτιάχνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\288	TOK	τη	ο	AtDfFeSgAc
+1\291	TOK	φωλιά	φωλιά	NoCmFeSgAc
+	SYN	/np_ac]
+1\297	TOK	τους	ο	AtDfMaPlAc
+	SYN	[cl_g
+	SYN	[vg_g
+1\302	TOK	λιώνοντας	λιώνω	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[np_ac
+1\312	TOK	ίνες	ίνα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\317	TOK	ξύλου	ξύλο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/cl_g]
+	SYN	/cl_r]
+1\322	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\324	TOK	έδωσαν	δίνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\331	TOK	την	ο	AtDfFeSgAc
+1\335	TOK	ιδέα	ιδέα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\340	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\345	TOK	άνθρωπο	άνθρωπος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\353	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\357	TOK	την	ο	AtDfFeSgAc
+1\361	TOK	κατασκευή	κατασκευή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\371	TOK	του	ο	AtDfNeSgGe
+1\375	TOK	χαρτιού	χαρτί	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\382	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\384	TOK	Έτσι	έτσι	AdXxBa
+	SYN	/advp]
+1\388	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\390	TOK	το	ο	AtDfNeSgNm
+1\393	TOK	χαρτί	χαρτί	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\399	TOK	φτιάχνεται	φτιάχνω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\410	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\414	TOK	λιωμένο	λιωμένος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\422	TOK	ξύλο	ξύλο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\426	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

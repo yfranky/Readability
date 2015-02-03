@@ -1,0 +1,177 @@
+1	Στο	στου	AsPp	AsPpPa	Ma|Sg|Ac	0	AuxP	_	_	
+2	Λαβύρινθο	λαβύρινθος	No	NoCm	Ma|Sg|Ac	1	ExD	_	_	
+3	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Πέτρος	Πέτρος	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	κοιμάται	κοιμάμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	ακόμα	ακόμα	Ad	Ad	Ba	3	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ονειρεύεται	ονειρεύομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ότι	ότι	Cj	CjSb	_	1	AuxC	_	_	
+3	μαζί	μαζί	Ad	Ad	Ba	8	Adv	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τη	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	Νικόλ	Νικόλ	No	NoPr	Fe|Sg|Ac	4	Adv	_	_	
+7	Σκοτ	Σκοτ	Rg	RgFw	_	8	Adv	_	_	
+8	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	2	Obj	_	_	
+9	χαμένοι	χαμένος	Vb	VbMn	Pp|Xx|Xx|Pl|Ma|Xx|Pv|Nm	8	Pnom	_	_	
+10	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	9	AuxP	_	_	
+11	παλάτι	παλάτι	No	NoCm	Ne|Sg|Ac	10	Adv	_	_	
+12	του	ο	At	AtDf	Ma|Sg|Ge	13	Det	_	_	
+13	Μίνωα	Μίνωας	No	NoPr	Ma|Sg|Ge	11	Atr	_	_	
+14	,	,	PUNCT	PUNCT	_	15	AuxX	_	_	
+15	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	9	AuxP	_	_	
+16	Κνωσό	Κνωσός	No	NoPr	Fe|Sg|Ac	15	Adv	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πού	πού	Ad	Ad	Ba	3	Adv	_	_	
+3	είμαστε	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μη	μην	Pt	PtNg	_	3	AuxV	_	_	
+3	φοβάσαι	φοβούμαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+5	είμαστε	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	3	Pred_Co	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+7	παλάτι	παλάτι	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+8	που	που	Pn	PnRe	Ne|03|Sg|Ac|Xx	9	Obj	_	_	
+9	έχτισε	χτίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Atr	_	_	
+10	ο	ο	At	AtDf	Ma|Sg|Nm	11	Det	_	_	
+11	Μίνωας	Μίνωας	No	NoPr	Ma|Sg|Nm	9	Sb	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μαζί	μαζί	Ad	Ad	Ba	5	Adv	_	_	
+3	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	5	Obj	_	_	
+4	δε	δεν	Pt	PtNg	_	5	AuxV	_	_	
+5	φοβάμαι	φοβούμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	7	Pred_Co	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+8	δεν	δεν	Pt	PtNg	_	9	AuxV	_	_	
+9	καταλαβαίνω	καταλαβαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+10	πού	πού	Ad	Ad	Ba	11	Adv	_	_	
+11	ακριβώς	ακριβώς	Ad	Ad	Ba	9	Adv	_	_	
+12	είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	9	Obj	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Είμαστε	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	στο	στου	AsPp	AsPpPa	Ma|Sg|Ac	2	AuxP	_	_	
+4	διάδρομο	διάδρομος	No	NoCm	Ma|Sg|Ac	3	Adv	_	_	
+5	του	ο	At	AtDf	Ne|Sg|Ge	6	Det	_	_	
+6	παλατιού	παλάτι	No	NoCm	Ne|Sg|Ge	4	Atr	_	_	
+7	που	που	Pn	PnRe	Ne|03|Sg|Nm|Xx	8	Sb	_	_	
+8	οδηγεί	οδηγώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Atr	_	_	
+9	στο	στου	AsPp	AsPpPa	Ma|Sg|Ac	8	AuxP	_	_	
+10	Λαβύρινθο	λαβύρινθος	No	NoCm	Ma|Sg|Ac	9	IObj	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	AuxG	_	_	
+2	Δηλαδή	δηλαδή	Ad	Ad	Ba	4	Adv	_	_	
+3	θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+4	δούμε	βλέπω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	και	και	Cj	CjCo	_	7	AuxY	_	_	
+6	το	ο	At	AtDf	Ma|Sg|Ac	7	Det	_	_	
+7	Μινώταυρο	Μινώταυρος	No	NoPr	Ma|Sg|Ac	4	Obj	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στο	στου	AsPp	AsPpPa	Ma|Sg|Ac	4	AuxP	_	_	
+2	Λαβύρινθο	λαβύρινθος	No	NoCm	Ma|Sg|Ac	1	Adv	_	_	
+3	δεν	δεν	Pt	PtNg	_	4	AuxV	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	που	που	Pn	PnRe	Fe|03|Sg|Nm|Xx	8	Obj	_	_	
+6	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	8	Obj	_	_	
+7	είχε	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	8	AuxV	_	_	
+8	κλείσει	κλείνω	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Av|Xx	4	Pnom	_	_	
+9	ο	ο	At	AtDf	Ma|Sg|Nm	10	Det	_	_	
+10	Μίνωας	Μίνωας	No	NoPr	Ma|Sg|Nm	8	Sb	_	_	
+11	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	1	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	Πέτρο	Πέτρος	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Λαβύρινθος	λαβύρινθος	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Nm	5	Det	_	_	
+5	υπόγεια	υπόγειος	Ad	Ad	Ba	3	Adv	_	_	
+6	του	ο	At	AtDf	Ne|Sg|Ge	7	Det	_	_	
+7	παλατιού	παλάτι	No	NoCm	Ne|Sg|Ge	5	Atr	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	AuxG	_	_	
+2	Πώς	πώς	Ad	Ad	Ba	4	Adv	_	_	
+3	θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+4	μπούμε	μπαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Ξέρω	ξέρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πώς	πώς	Ad	Ad	Ba	5	Adv	_	_	
+4	θα	θα	Pt	PtFu	_	5	AuxV	_	_	
+5	μπούμε	μπαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	πρόβλημα	πρόβλημα	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	πώς	πώς	Ad	Ad	Ba	6	Adv	_	_	
+5	θα	θα	Pt	PtFu	_	6	AuxV	_	_	
+6	βγούμε	βγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Pnom	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Προχώρα	προχωρώ	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Νικόλ	Νικόλ	Rg	RgFw	_	5	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	μην	μην	Pt	PtNg	_	5	AuxV	_	_	
+5	τρέχεις	τρέχω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Νομίζω	νομίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ότι	ότι	Cj	CjSb	_	1	AuxC	_	_	
+3	χαθήκαμε	χάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	2	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	Atr	_	_	
+2	Θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+3	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ge|We	4	IObj	_	_	
+4	σώσει	σώζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	ο	ο	At	AtDf	Ma|Sg|Nm	6	Det	_	_	
+6	μίτος	μίτος	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+7	της	ο	At	AtDf	Fe|Sg|Ge	8	Det	_	_	
+8	Αριάδνης	Αριάδνη	No	NoPr	Fe|Sg|Ge	6	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	5	AuxG	_	_	
+2	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	5	Sb	_	_	
+3	πάντως	πάντως	Ad	Ad	Ba	5	Adv	_	_	
+4	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	5	IObj	_	_	
+5	λέω	λέγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	πως	πως	Cj	CjSb	_	5	AuxC	_	_	
+7	ό,τι	ό,τι	Pn	PnRi	Ne|03|Sg|Ac|Xx	8	Obj_Co	_	_	
+8	και	και	Cj	CjCo	_	6	Coord	_	_	
+9	να	να	Pt	PtSj	_	10	AuxV	_	_	
+10	κάνουμε	κάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	8	Obj_Co	_	_	
+11	δε	δε	Ad	Ad	Ba	13	Adv	_	_	
+12	θα	θα	Pt	PtFu	_	13	AuxV	_	_	
+13	βγούμε	βγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	10	Obj	_	_	
+14	ποτέ	ποτέ	Ad	Ad	Ba	13	Adv	_	_	
+15	από	από	AsPp	AsPpSp	_	13	AuxP	_	_	
+16	‘	‘	OPUNCT	OPUNCT	_	18	AuxG	_	_	
+17	δώ	δώ	Ad	Ad	Ba	18	Adv	_	_	
+18	μέσα	μέσα	Ad	Ad	Ba	15	ExD	_	_	
+19	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

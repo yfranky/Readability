@@ -1,0 +1,115 @@
+	(SENT	<S>
+	SYN	[cl
+1\1	ENUM	-	-	ENUM
+	SYN	[vg
+1\2	TOK	Κοίτα	κοιτάζω	VbMnMpXx02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\7	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\9	TOK	Μια	ένας	AtIdFeSgNm
+1\13	TOK	φωλιά	φωλιά	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\19	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\22	TOK	πουλιά	πουλί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\28	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\31	ENUM	-	-	ENUM
+	SYN	[vg
+1\32	TOK	Ήρθαν	έρχομαι	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\38	TOK	τα	ο	AtDfNePlAc
+1\41	TOK	χελιδόνια	χελιδόνι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\50	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\53	TOK	Η	ο	AtDfFeSgNm
+1\55	TOK	Μελέκ	Μελέκ	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\61	TOK	μέτρησε	μετρώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+1\69	TOK	μέχρι	μέχρι	AsPpSp
+1\75	TOK	το	ο	AtDfNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\78	TOK	δέκα	δέκα	NmCdNePlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\82	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\84	TOK	Ψάχνει	ψάχνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\91	TOK	να	να	PtSj
+1\94	TOK	βρει	βρίσκω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\99	TOK	τα	ο	AtDfNePlAc
+1\102	TOK	παιδιά	παιδί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\108	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\111	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\112	TOK	Σσσς	Σσσς	NoPrMaSgNm
+	SYN	/np_nm]
+1\116	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\118	TOK	Φασαρία	φασαρία	NoCmFeSgNm
+	SYN	/np_nm]
+1\125	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\127	TOK	μην	μην	PtNg
+1\131	TOK	κάνεις	κάνω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\138	TOK	θόρυβο	θόρυβος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\144	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\147	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\148	TOK	Θωμά	Θωμάς	NoPrMaSgAc
+	SYN	/np_ac]
+1\152	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\154	TOK	Βλέπω	βλέπω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\160	TOK	το	ο	AtDfNeSgAc
+1\163	TOK	καπέλο	καπέλο	NoCmNeSgAc
+1\170	TOK	σου	μου	PnPoMa02SgGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\173	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

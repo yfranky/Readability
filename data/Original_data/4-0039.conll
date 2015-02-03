@@ -1,0 +1,62 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+3	έγινε	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+5	βρε	βρε	Ij	Ij	_	6	Atr	_	_	
+6	μαμά	μαμά	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλη	όλος	Aj	Aj	Ba|Fe|Sg|Nm	3	Atr	_	_	
+2	την	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+3	αγορά	αγορά	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+4	έφερες	φέρω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+6	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+7	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	6	Pos	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	4	Obj	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	κάνω	κάνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είχαμε	έχω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	φοβερές	φοβερός	Aj	Aj	Ba|Fe|Pl|Nm	3	Atr	_	_	
+3	ελλείψεις	έλλειψη	No	NoCm	Fe|Pl|Nm	1	Sb	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	3	AuxY	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	φανταστείτε	φαντάζομαι	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	ότι	ότι	Cj	CjSb	_	3	AuxC	_	_	
+5	δεν	δεν	Pt	PtNg	_	7	AuxV	_	_	
+6	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	7	Obj	_	_	
+7	ψώνισα	ψωνίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Obj	_	_	
+8	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	7	Obj	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πέρασα	περνώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μόνο	μόνο	Ad	Ad	Ba	1	Adv	_	_	
+3	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	τη	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	λαϊκή	λαϊκός	Aj	Aj	Ba|Fe|Sg|Ac	6	Adv_Co	_	_	
+6	και	και	Cj	CjCo	_	3	Coord	_	_	
+7	τον	ο	At	AtDf	Ma|Sg|Ac	8	Det	_	_	
+8	χασάπη	χασάπης	No	NoCm	Ma|Sg|Ac	6	Adv_Co	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μόνο	μόνο	Ad	Ad	Ba	2	Adv	_	_	
+2	τρόφιμα	τρόφιμα	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	ψώνισα	ψωνίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Για	για	AsPp	AsPpSp	_	5	AuxP	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Ac	3	Det	_	_	
+3	υπόλοιπα	υπόλοιπος	Aj	Aj	Ba|Ne|Pl|Ac	1	Adv	_	_	
+4	θα	θα	Pt	PtFu	_	5	AuxV	_	_	
+5	πάω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	απόγευμα	απόγευμα	No	NoCm	Ne|Sg|Ac	5	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

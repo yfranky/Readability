@@ -1,0 +1,27 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	κύριος	κύριος	No	NoCm	Ma|Sg|Nm	1	ExD_Co	_	_	
+4	Πετρίδης	Πετρίδης	No	NoPr	Ma|Sg|Nm	3	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+6	η	ο	At	AtDf	Fe|Sg|Nm	8	Det	_	_	
+7	κυρία	κυρία	No	NoCm	Fe|Sg|Nm	8	Atr	_	_	
+8	Μακρή	Μακρή	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Χαίρομαι	χαίρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Χάρηκα	χαίρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Χαίρω	χαίρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πολύ	πολύ	Ad	Ad	Ba	2	Adv	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Κι	και	Cj	CjCo	_	3	AuxY	_	_	
+3	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	0	ExD	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

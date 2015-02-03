@@ -1,0 +1,55 @@
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	κύριος	κύριος	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+3	Στέλιος	Στέλιος	No	NoPr	Ma|Sg|Nm	2	Atr	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	ο	ο	At	AtDf	Ma|Sg|Nm	6	Det	_	_	
+6	μπαμπάς	μπαμπάς	No	NoCm	Ma|Sg|Nm	4	Pnom	_	_	
+7	του	ο	At	AtDf	Ma|Sg|Ge	8	Det	_	_	
+8	Θωμά	Θωμάς	No	NoPr	Ma|Sg|Ge	6	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κάθεται	κάθομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+3	καφενείο	καφενείο	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+4	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+5	έναν	ένας	At	AtId	Ma|Sg|Ac	6	Det	_	_	
+6	φίλο	φίλος	No	NoCm	Ma|Sg|Ac	4	Adv	_	_	
+7	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	6	Pos	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	καφετζής	καφετζής	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	ψήνει	ψήνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	μελιτζάνες	μελιτζάνα	No	NoCm	Fe|Pl|Ac	3	Obj	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+6	τζάκι	τζάκι	No	NoCm	Ne|Sg|Ac	5	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	κύριος	κύριος	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+3	Στέλιος	Στέλιος	No	NoPr	Ma|Sg|Nm	2	Atr	_	_	
+4	φωνάζει	φωνάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ένα	ένας	At	AtId	Ne|Sg|Nm	3	Det	_	_	
+3	σουτζούκι	σουτζούκι	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	καφετζή	καφετζής	No	NoCm	Ma|Sg|Ac	3	Atr	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φέρε	φέρω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	κι	και	Cj	CjCo	_	4	AuxY	_	_	
+3	ένα	ένας	At	AtId	Ne|Sg|Ac	4	Det	_	_	
+4	τζατζίκι	τζατζίκι	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+5	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	1	AuxP	_	_	
+6	φίλο	φίλος	No	NoCm	Ma|Sg|Ac	5	Adv	_	_	
+7	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	6	Pos	_	_	
+8	τον	ο	At	AtDf	Ma|Sg|Ac	9	Det	_	_	
+9	ταξιτζή	ταξιτζής	No	NoCm	Ma|Sg|Ac	10	Obj_Ap	_	_	
+10	,	,	PUNCT	PUNCT	_	1	Apos	_	_	
+11	τον	ο	At	AtDf	Ma|Sg|Ac	13	Det	_	_	
+12	κύριο	κύριος	Aj	Aj	Ba|Ma|Sg|Ac	13	Atr	_	_	
+13	Χατζίκη	Χατζίκη	No	NoPr	Ne|Sg|Nm	10	Obj_Ap	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

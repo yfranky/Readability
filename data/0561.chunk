@@ -1,0 +1,940 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1	TOK	Μίλα	μιλώ	VbMnMpXx02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\6	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\9	TOK	τα	ο	AtDfNePlAc
+1\12	TOK	χέρια	χέρι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\19	TOK	Χιλιάδες	χιλιάδα	NmCtFePlNmNo
+	SYN	/adjp_nm]
+1\28	TOK	συνάνθρωποί	συνάνθρωπος	NoCmMaPlNm
+1\40	TOK	μας	μου	PnPoMa01PlGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\44	TOK	χρησιμοποιούν	χρησιμοποιώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\58	TOK	τη	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\61	TOK	νοηματική	νοηματικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\71	TOK	γλώσσα	γλώσσα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\78	TOK	για	για	AsPpSp
+1\82	TOK	να	να	PtSj
+1\85	TOK	επικοινωνήσουν	επικοινωνώ	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\99	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\101	TOK	Αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[vg
+1\106	TOK	δεν	δεν	PtNg
+1\110	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\115	TOK	πάντα	πάντα	AdXxBa
+1\121	TOK	τόσο	τόσο	AdXxBa
+	SYN	/advp]
+1\126	TOK	απλό	απλός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\130	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\133	TOK	Η	ο	AtDfFeSgNm
+1\135	TOK	συνεννόηση	συνεννόηση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\146	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\149	TOK	νοήματα	νόημα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\157	TOK	δεν	δεν	PtNg
+1\161	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\167	TOK	σύγχρονη	σύγχρονος	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\176	OPUNCT	«	«	OPUNCT
+1\177	TOK	εφεύρεση	εφεύρεση	NoCmFeSgNm
+1\185	CPUNCT	»	»	CPUNCT
+	SYN	/np_nm]
+	SYN	/cl]
+1\186	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\188	TOK	Κάπως	κάπως	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\194	TOK	έτσι	έτσι	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\199	TOK	πρέπει	πρέπει	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\206	TOK	να	να	PtSj
+1\209	TOK	επικοινωνούσαν	επικοινωνώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\224	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\228	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\231	TOK	προϊστορικοί	προϊστορικός	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\244	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+	SYN	/np_nm]
+1\252	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\254	TOK	πριν	πριν	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\259	TOK	μάθουν	μαθαίνω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\266	TOK	να	να	PtSj
+1\269	TOK	μιλούν	μιλώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\275	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\277	TOK	Αρκετές	αρκετός	PnIdFe03PlAcXx
+1\285	TOK	φυλές	φυλή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\291	TOK	Ινδιάνων	ινδιάνος	NoPrMaPlGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\300	TOK	της	ο	AtDfFeSgGe
+1\304	TOK	Αμερικής	Αμερική	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\313	TOK	είχαν	έχω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\319	TOK	επίσης	επίσης	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\326	TOK	δικές	δικός	AjBaFePlAc
+1\332	TOK	τους	μου	PnPoMa03PlGeXx
+1\337	TOK	νοηματικές	νοηματικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\348	TOK	γλώσσες	γλώσσα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\355	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\357	TOK	Και	και	CjCo
+	SYN	[cl
+	SYN	[pp
+1\361	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\364	TOK	μερικά	μερικοί	PnIdNe03PlAcXx
+1\371	TOK	μοναστήρια	μοναστήριο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\382	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\385	TOK	μοναχοί	μονάχος	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\393	TOK	έπαιρναν	παίρνω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\402	TOK	όρκο	όρκος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\407	TOK	σιωπής	σιωπή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\414	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\418	TOK	χρησιμοποιούσαν	χρησιμοποιώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\434	TOK	νοήματα	νόημα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\442	TOK	για	για	AsPpSp
+1\446	TOK	να	να	PtSj
+1\449	TOK	επικοινωνούν	επικοινωνώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\461	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\464	TOK	Οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\467	TOK	κωφοί	κωφός	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\473	TOK	δεν	δεν	PtNg
+1\477	TOK	ήταν	είμαι	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\482	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+	SYN	[adjp_nm
+	SYN	[advp
+1\491	TOK	λιγότερο	λίγο	AdXxCp
+	SYN	/advp]
+1\500	TOK	ικανοί	ικανός	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\506	PUNCT	,	,	PUNCT
+1\508	TOK	αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[advp
+1\513	TOK	συχνά	συχνά	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\519	TOK	οι	ο	AtDfMaPlNm
+1\522	TOK	άλλοι	άλλος	PnIdMa03PlNmXx
+1\528	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+1\537	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\542	TOK	φέρονταν	φέρω	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\551	TOK	άσχημα	άσχημα	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\557	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\559	TOK	Πριν	πριν	AdXxBa
+	SYN	[pp
+1\564	TOK	από	από	AsPpSp
+	SYN	[advp
+1\568	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[np_ac
+1\576	DIG	250	250	DIG
+1\580	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\587	TOK	ένας	ένας	AtIdMaSgNm
+1\592	TOK	ιερέας	ιερέας	NoCmMaSgNm
+	SYN	/np_nm]
+1\598	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\600	TOK	ο	ο	AtDfMaSgNm
+1\602	TOK	αβάς	αβάς	NoCmMaSgNm
+1\607	TOK	ντε	ντε	RgFwTr
+	SYN	/np_nm]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\611	TOK	λ’	λ’	NmOdNeSgNmAj
+	SYN	/adjp_nm]
+1\614	TOK	Επέ	Επέ	NoPrNeSgNm
+	SYN	/np_nm]
+1\617	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\619	TOK	παρατήρησε	παρατηρώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\630	TOK	τα	ο	AtDfNePlAc
+1\633	TOK	νοήματά	νόημα	NoCmNePlAc
+1\641	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\645	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\647	TOK	Πίστευε	πιστεύω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\655	TOK	πως	πως	CjSb
+	SYN	[cl_c
+1\659	TOK	αν	αν	CjSb
+	SYN	[vg
+1\662	TOK	βελτίωνε	βελτιώνω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\671	TOK	τη	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\674	TOK	νοηματική	νοηματικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\684	TOK	γλώσσα	γλώσσα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_c]
+1\690	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\692	TOK	θα	θα	PtFu
+1\695	TOK	μπορούσε	μπορώ	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\704	TOK	να	να	PtSj
+1\707	TOK	διδάξει	διδάσκω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\715	TOK	τα	ο	AtDfNePlAc
+1\718	TOK	πάντα	πάν	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\723	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\725	TOK	Άρχισε	αρχίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\732	TOK	λοιπόν	λοιπόν	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\739	TOK	να	να	PtSj
+1\742	TOK	ετοιμάζει	ετοιμάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\752	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\756	TOK	λεξικό	λεξικός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\762	PUNCT	,	,	PUNCT
+	SYN	[cl_g
+	SYN	[vg_g
+1\764	TOK	βρίσκοντας	βρίσκω	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[np_ac
+1\775	TOK	ένα	ένας	AtIdNeSgAc
+1\779	TOK	νεύμα	νεύμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\785	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\789	TOK	κάθε	κάθε	PnIdFe03SgAcXx
+1\794	TOK	λέξη	λέξη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_g]
+1\798	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\800	TOK	Ταυτόχρονα	ταυτόχρονα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\811	TOK	τελειοποίησε	τελειοποιώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+1\824	TOK	και	και	CjCo
+	SYN	[np_ac
+1\828	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\832	TOK	νοηματικό	νοηματικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\842	TOK	αλφάβητο	αλφάβητο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\850	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+	SYN	[vg_s
+1\852	TOK	για	για	AsPpSp
+1\856	TOK	να	να	PtSj
+1\859	OPUNCT	«	«	OPUNCT
+1\860	TOK	γράφουν	γράφω	VbMnIdPr03PlXxIpAvXx
+1\867	CPUNCT	»	»	CPUNCT
+	SYN	/vg_s]
+	SYN	[np_ac
+1\869	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\873	TOK	νέες	νέος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\878	TOK	λέξεις	λέξη	NoCmFePlAc
+	SYN	/np_ac]
+1\885	TOK	και	και	CjCo
+	SYN	[np_ac
+1\889	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\892	TOK	κύρια	κύριος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\898	TOK	ονόματα	όνομα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\905	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\908	TOK	Ο	ο	AtDfMaSgNm
+1\910	TOK	αβάς	αβάς	NoCmMaSgNm
+1\915	TOK	ντε	ντε	RgFwTr
+	SYN	/np_nm]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\919	TOK	λ’	λ’	NmOdNeSgNmAj
+	SYN	/adjp_nm]
+1\922	TOK	Επέ	Επέ	NoPrNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\926	TOK	άνοιξε	ανοίγω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\933	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\937	TOK	σπίτι	σπίτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\943	TOK	του	ο	AtDfNeSgGe
+	SYN	[np_nm
+1\947	TOK	ένα	ένας	PnIdNe03SgNmXx
+1\951	TOK	σχολείο	σχολείο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\959	TOK	για	για	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\963	TOK	κωφά	κωφός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\968	TOK	παιδιά	παιδί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\974	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\976	TOK	Η	ο	AtDfFeSgNm
+1\978	TOK	μέθοδός	μέθοδος	NoCmFeSgNm
+1\986	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\990	TOK	έγινε	γίνομαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\996	TOK	σύντομα	σύντομα	AdXxBa
+	SYN	/advp]
+1\1004	TOK	γνωστή	γνωστός	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\1011	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1014	TOK	όλο	όλος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\1018	TOK	το	ο	AtDfNeSgAc
+1\1021	TOK	Παρίσι	Παρίσι	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\1027	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_t
+1\1029	TOK	Όταν	όταν	CjSb
+	SYN	[vg
+1\1034	TOK	πέθανε	πεθαίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+1\1040	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1042	TOK	το	ο	AtDfNeSgAc
+1\1045	DIG	1789	1789	DIG
+	SYN	/np_ac]
+	SYN	/cl_t]
+1\1049	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\1051	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\1056	TOK	ήδη	ήδη	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1060	TOK	διάσημος	διάσημος	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\1068	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\1070	TOK	Από	από	AsPpSp
+	SYN	[advp
+1\1074	TOK	τότε	τότε	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	[np_nm
+1\1079	TOK	σχολεία	σχολείο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1087	TOK	ιδρύθηκαν	ιδρύω	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\1097	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1100	TOK	όλη	όλος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\1104	TOK	τη	ο	AtDfFeSgAc
+1\1107	TOK	Γαλλία	Γαλλία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\1114	TOK	και	και	CjCo
+	SYN	[pp
+1\1118	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1123	TOK	υπόλοιπη	υπόλοιπος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\1132	TOK	Ευρώπη	Ευρώπη	NoPrFeSgAc
+	SYN	/np_ac]
+1\1138	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1140	TOK	πολλά	πολύς	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pp
+1\1146	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\1150	TOK	τα	ο	AtDfNePlAc
+1\1153	TOK	οποία	οποίος	PnReNe03PlAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\1159	TOK	είχαν	έχω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1165	TOK	κωφούς	κωφός	AjBaMaPlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_nm
+1\1172	TOK	διευθυντές	διευθυντής	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	/cl_r]
+	SYN	/cl]
+1\1182	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1185	TOK	Αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[pp
+1\1190	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\1194	TOK	μέσα	μέσο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1199	TOK	του	ο	AtDfMaSgGe
+	SYN	[adjp_ge
+1\1203	TOK	19ου	19ος	NmOdMaSgGeAj
+	SYN	/adjp_ge]
+1\1208	TOK	αιώνα	αιώνας	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[np_nm
+1\1214	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\1216	TOK	νοηματική	νοηματικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\1226	TOK	γλώσσα	γλώσσα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1233	TOK	κινδύνευσε	κινδυνεύω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\1243	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1245	TOK	Πολλοί	πολύς	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\1251	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\1253	TOK	ακόμα	ακόμα	AdXxBa
+	SYN	/advp]
+1\1259	TOK	και	και	CjCo
+	SYN	[np_nm
+1\1263	TOK	γιατροί	γιατρός	NoCmMaPlNm
+	SYN	/np_nm]
+1\1270	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\1272	TOK	έλεγαν	λέγω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\1279	TOK	πως	πως	CjSb
+	SYN	[np_nm
+1\1283	TOK	η	ο	AtDfFeSgNm
+1\1285	TOK	γλώσσα	γλώσσα	NoCmFeSgNm
+1\1292	TOK	αυτή	αυτός	PnDmFe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\1297	TOK	έκανε	κάνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1303	TOK	τους	ο	AtDfMaPlAc
+	SYN	[adjp_ac
+1\1308	TOK	κωφούς	κωφός	AjBaMaPlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1315	TOK	να	να	PtSj
+1\1318	TOK	μοιάζουν	μοιάζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\1327	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1330	TOK	πιθήκους	πίθηκος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\1338	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1340	TOK	Πίστευαν	πιστεύω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\1349	TOK	ότι	ότι	CjSb
+	SYN	[vg_s
+1\1353	TOK	για	για	AsPpSp
+1\1357	TOK	να	να	PtSj
+1\1360	TOK	ενσωματωθούν	ενσωματώνω	VbMnIdXx03PlXxPePvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+1\1373	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\1376	TOK	κωφοί	κωφός	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\1382	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\1387	TOK	κόσμο	κόσμος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1393	TOK	των	ο	AtDfMaPlGe
+1\1397	TOK	ακουόντων	ακούων	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_o]
+	SYN	[cl
+	SYN	[vg
+1\1407	TOK	έπρεπε	πρέπει	VbIsIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\1414	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1417	TOK	το	ο	AtDfNeSgAc
+1\1420	TOK	ζόρι	ζόρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1425	TOK	να	να	PtSj
+1\1428	TOK	μάθουν	μαθαίνω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1435	TOK	να	να	PtSj
+1\1438	TOK	μιλούν	μιλώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\1444	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\1447	TOK	Το	ο	AtDfNeSgAc
+1\1450	DIG	1880	1880	DIG
+	SYN	/np_ac]
+	SYN	[vg
+1\1455	TOK	γίνεται	γίνομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1463	TOK	ένα	ένας	AtIdNeSgNm
+1\1467	TOK	συνέδριο	συνέδριο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\1476	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\1480	TOK	Μιλάνο	μιλάνος	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\1486	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[advp
+1\1488	TOK	όπου	όπου	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\1493	TOK	συγκεντρώθηκαν	συγκεντρώνω	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1508	DIG	256	256	DIG
+	SYN	[adjp_nm
+1\1512	TOK	ειδικοί	ειδικός	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\1520	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1524	TOK	πολλά	πολύς	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1530	TOK	κράτη	κράτος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1536	TOK	της	ο	AtDfFeSgGe
+1\1540	TOK	Ευρώπης	Ευρώπη	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\1547	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\1549	TOK	Μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1554	TOK	τρεις	τρεις	NmCdFePlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1560	TOK	κωφοί	κωφός	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\1566	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1571	TOK	παρόντες	παρών	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\1579	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1581	TOK	Οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\1584	TOK	ειδικοί	ειδικός	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\1592	TOK	πήραν	παίρνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1598	TOK	την	ο	AtDfFeSgAc
+1\1602	TOK	απόφαση	απόφαση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1610	TOK	να	να	PtSj
+1\1613	TOK	απαγορευτεί	απαγορεύω	VbMnIdXx03SgXxPePvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+1\1625	TOK	η	ο	AtDfFeSgNm
+1\1627	TOK	διδασκαλία	διδασκαλία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\1638	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\1642	TOK	νοηματικής	νοηματικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\1652	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1655	TOK	Η	ο	AtDfFeSgNm
+1\1657	TOK	απαγόρευση	απαγόρευση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1668	TOK	άρχισε	αρχίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\1675	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\1679	TOK	το	ο	AtDfNeSgAc
+1\1682	DIG	1880	1880	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\1686	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[cl_ri
+	SYN	[np_nm
+1\1688	TOK	Όσα	όσος	PnRiNe03PlNmXx
+1\1692	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1699	TOK	έκαναν	κάνω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1706	TOK	νοήματα	νόημα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1714	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1718	TOK	κρυφά	κρυφός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_ri]
+	SYN	/np_nm]
+1\1723	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\1725	TOK	τιμωρούνταν	τιμωρώ	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\1737	TOK	αυστηρά	αυστηρά	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\1744	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1746	TOK	Οι	ο	AtDfMaPlNm
+1\1749	TOK	δάσκαλοί	δάσκαλος	NoCmMaPlNm
+1\1758	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_nm]
+	SYN	[np_ac
+1\1763	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\1766	TOK	μάθαιναν	μαθαίνω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1775	TOK	να	να	PtSj
+1\1778	TOK	μιλούν	μιλώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\1785	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\1789	TOK	να	να	PtSj
+1\1792	TOK	διαβάζουν	διαβάζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\1802	TOK	τα	ο	AtDfNePlAc
+1\1805	TOK	χείλη	χείλος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\1810	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1812	TOK	Κι	και	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\1815	TOK	αυτό	αυτός	PnDmNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\1820	TOK	συνεχίστηκε	συνεχίζω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\1832	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\1836	TOK	έναν	ένας	AtIdMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1841	TOK	αιώνα	αιώνας	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[advp
+1\1847	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+1\1854	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\1856	TOK	ως	ως	AdXxBa
+	SYN	[np_ac
+1\1859	TOK	το	ο	AtDfNeSgAc
+1\1862	DIG	1980	1980	DIG
+	SYN	/np_ac]
+	SYN	/advp]
+	SYN	/cl]
+1\1866	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

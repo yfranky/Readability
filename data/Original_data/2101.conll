@@ -1,0 +1,15 @@
+1	Δικηγόρος	δικηγόρος	No	NoCm	Ma|Sg|Nm	2	Sb	_	_	
+2	ζητά	ζητώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	υπεύθυνο	υπεύθυνος	Aj	Aj	Ba|Ne|Sg|Ac	4	Atr	_	_	
+4	άτομο	άτομο	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+5	για	για	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	ταχύρρυθμα	ταχύρρυθμος	Aj	Aj	Ba|Ne|Pl|Ac	7	Atr	_	_	
+7	μαθήματα	μάθημα	No	NoCm	Ne|Pl|Ac	5	Atr	_	_	
+8	χειρισμού	χειρισμός	No	NoCm	Ma|Sg|Ge	7	Atr	_	_	
+9	Η	ο	At	AtDf	Fe|Sg|Nm	10	Det	_	_	
+10	/	/	PUNCT	PUNCT	_	2	Coord	_	_	
+11	Υ.	Υ.	INIT	INIT	_	10	Apos_Ap	_	_	
+
+1	τηλ.	τηλ.	ABBR	ABBR	_	0	ExD	_	_	
+2	2610333967	2610333967	DIG	DIG	_	1	Atr	_	_	
+

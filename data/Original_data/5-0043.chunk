@@ -1,0 +1,328 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\4	TOK	παραδοσιακά	παραδοσιακός	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\17	TOK	Πόσιας	Πόσιας	NoPrFeSgNm
+	SYN	/np_nm]
+1\24	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\26	TOK	κρασοτύρι	κρασοτύρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\36	TOK	της	ο	AtDfFeSgGe
+1\40	TOK	Κω	Κω	NoPrFeSgGe
+	SYN	/np_ge]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\44	TOK	Ο	ο	AtDfMaSgNm
+1\46	TOK	Πόσιας	Πόσιας	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\53	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\59	TOK	τυρί	τυρί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\64	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\67	TOK	ονομασία	ονομασία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\76	TOK	προέλευσης	προέλευση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\87	OPUNCT	(	(	OPUNCT
+	SYN	[cl_t
+1\88	TOK	όταν	όταν	CjSb
+	SYN	[vg
+1\93	TOK	παράγεται	παράγω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\103	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\107	TOK	ντόπια	ντόπιος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\114	TOK	γάλατα	γάλα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\120	CPUNCT	)	)	CPUNCT
+1\121	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\123	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\127	TOK	παρασκευάζεται	παρασκευάζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\142	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\146	TOK	αιγοπρόβειο	αιγοπρόβειος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\158	TOK	γάλα	γάλα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\163	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\168	TOK	Κω	Κω	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl_t]
+	SYN	/cl]
+1\170	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[advp
+1\173	TOK	Πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\177	TOK	παρασκευάζεται	παρασκευάζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\192	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\194	TOK	πόσιας	πόσιας	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl_q]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\202	TOK	Το	ο	AtDfNeSgNm
+1\205	TOK	γάλα	γάλα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\210	TOK	φτάνει	φτάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\217	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\221	TOK	βιοτεχνία	βιοτεχνία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\231	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\235	TOK	ζεσταίνεται	ζεσταίνω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\247	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\250	TOK	μεγάλους	μεγάλος	AjBaMaPlAc
+1\259	TOK	ανοξείδωτους	ανοξείδωτος	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\272	TOK	κάδους	κάδος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\278	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\280	TOK	Παστεριώνεται	παστεριώνω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\294	TOK	και	και	CjCo
+	SYN	[cl
+1\298	TOK	μετά	μετά	AsPpSp
+	SYN	[vg
+1\303	TOK	περνά	περνώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\309	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\312	TOK	ειδικούς	ειδικός	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\321	TOK	κάδους	κάδος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\328	TOK	για	για	AsPpSp
+1\332	TOK	να	να	PtSj
+1\335	TOK	πήξει	πήζω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\340	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\342	TOK	Μετά	μετά	AsPpSp
+	SYN	[vg
+1\347	TOK	μπαίνει	μπαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\355	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\358	TOK	ειδικά	ειδικός	AjBaNePlAc
+1\365	TOK	ψάθινα	ψάθινος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\372	TOK	καλούπια	καλούπι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\380	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[advp
+1\382	TOK	όπου	όπου	AdXxBa
+	SYN	/advp]
+1\387	TOK	και	και	CjCo
+	SYN	[vg
+1\391	TOK	παραμένει	παραμένω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\401	TOK	για	για	AsPpSp
+1\405	TOK	να	να	PtSj
+1\408	TOK	στραγγίξει	στραγγίζω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\419	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[pp
+1\423	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\427	TOK	συνέχεια	συνέχεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\436	TOK	μπαίνει	μπαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\444	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\447	TOK	άλμη	άλμη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\452	OPUNCT	(	(	OPUNCT
+	SYN	[np_nm
+1\453	TOK	νερό	νερό	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\458	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\461	TOK	αλάτι	αλάτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\466	CPUNCT	)	)	CPUNCT
+	SYN	/cl]
+1\467	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\469	TOK	Ακολουθεί	ακολουθώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\479	TOK	η	ο	AtDfFeSgNm
+1\481	TOK	διαδικασία	διαδικασία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\492	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\496	TOK	κάνει	κάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\502	TOK	το	ο	AtDfNeSgAc
+1\505	TOK	τυρί	τυρί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\510	TOK	αυτό	αυτός	PnDmNe03SgAcXx
+	SYN	[adjp_ac
+	SYN	[advp
+1\515	TOK	τόσο	τόσο	AdXxBa
+	SYN	/advp]
+1\520	TOK	ξεχωριστό	ξεχωριστός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\529	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\531	TOK	Για	για	AsPpSp
+	SYN	[np_ac
+1\535	DIG	18-20	18-20	DIG
+1\541	TOK	μέρες	μέρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\547	OPUNCT	«	«	OPUNCT
+1\548	TOK	βαφτίζεται	βαφτίζω	VbMnIdPr03SgXxIpPvXx
+1\558	CPUNCT	»	»	CPUNCT
+	SYN	/vg]
+	SYN	[pp
+1\560	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\563	OPUNCT	«	«	OPUNCT
+1\564	TOK	οινολάσπη	οινολάσπη	NoCmFeSgAc
+1\573	CPUNCT	»	»	CPUNCT
+	SYN	/np_ac]
+	SYN	/pp]
+1\574	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\576	TOK	δηλαδή	δηλαδή	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\583	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\587	TOK	υπολείμματα	υπόλειμμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\599	TOK	που	που	PnReNe03PlAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\603	TOK	δημιουργούνται	δημιουργώ	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\618	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\623	TOK	πάτο	πάτος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\628	TOK	των	ο	AtDfNePlGe
+1\632	TOK	βαρελιών	βαρέλι	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl_t
+1\641	TOK	όταν	όταν	CjSb
+	SYN	[vg
+1\646	TOK	γίνεται	γίνομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\654	TOK	το	ο	AtDfNeSgNm
+1\657	TOK	κρασί	κρασί	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl_t]
+1\662	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,340 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Μια	ένας	AtIdFeSgNm
+	SYN	[adjp_nm
+1\5	TOK	ασύλληπτη	ασύλληπτος	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\15	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\19	TOK	τον	ο	AtDfMaSgAc
+1\23	TOK	νου	νους	NoCmMaSgAc
+1\27	TOK	καταστροφή	καταστροφή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\38	TOK	βύθισε	βυθίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\45	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\49	TOK	πένθος	πένθος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\56	TOK	τον	ο	AtDfMaSgAc
+1\60	TOK	πλανήτη	πλανήτης	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\69	TOK	Όλα	όλος	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\73	TOK	άρχισαν	αρχίζω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\81	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\86	DIG	7	7	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\88	TOK	το	ο	AtDfNeSgAc
+1\91	TOK	πρωί	πρωί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\96	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\100	TOK	26ης	26ος	NmOdFeSgGeAj
+	SYN	/adjp_ge]
+1\105	TOK	Δεκεμβρίου	Δεκέμβριος	NoCmMaSgGe
+1\116	DIG	2004	2004	DIG
+	SYN	/np_ge]
+	SYN	/cl]
+1\120	PUNCT	,	,	PUNCT
+	SYN	[cl_t
+1\122	TOK	όταν	όταν	CjSb
+	SYN	[vg
+1\127	TOK	σημειώθηκε	σημειώνω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\138	TOK	σεισμική	σεισμικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\147	TOK	δόνηση	δόνηση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\154	TOK	μεγέθους	μέγεθος	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\163	DIG	9	9	DIG
+1\165	TOK	Ρίχτερ	ρίχτερ	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\172	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\176	TOK	Σουμάτρα	Σουμάτρα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\185	TOK	της	ο	AtDfFeSgGe
+1\189	TOK	Ινδονησίας	Ινδονησία	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_t]
+1\199	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\201	TOK	Ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\206	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\208	TOK	ισχυρότερος	ισχυρός	AjCpMaSgNm
+	SYN	/adjp_nm]
+1\220	TOK	σεισμός	σεισμός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\228	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\232	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+1\237	TOK	πλήξει	πλήττω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\244	TOK	τον	ο	AtDfMaSgAc
+1\248	TOK	πλανήτη	πλανήτης	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\256	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\259	TOK	τελευταία	τελευταίος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\269	DIG	40	40	DIG
+1\272	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+1\279	TOK	και	και	CjCo
+	SYN	[np_nm
+1\283	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\285	TOK	πέμπτος	πέμπτος	NmOdMaSgNmAj
+1\293	TOK	ισχυρότερος	ισχυρός	AjCpMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\305	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\309	TOK	το	ο	AtDfNeSgAc
+1\312	DIG	1900	1900	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\316	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\319	TOK	Η	ο	AtDfFeSgNm
+1\321	TOK	καταστροφή	καταστροφή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\332	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\336	TOK	τον	ο	AtDfMaSgAc
+1\340	TOK	Εγκέλαδο	Εγκέλαδος	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\349	TOK	τεράστια	τεράστιος	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\357	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\359	TOK	Τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\362	TOK	χειρότερα	κακός	AjCpNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\372	TOK	όμως	όμως	CjCo
+	SYN	[vg
+1\377	TOK	θα	θα	PtFu
+1\380	TOK	έρχονταν	έρχομαι	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\389	TOK	λίγες	λίγος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\395	TOK	ώρες	ώρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[advp
+1\400	TOK	αργότερα	αργά	AdXxCp
+	SYN	/advp]
+	SYN	/cl]
+1\408	PUNCT	,	,	PUNCT
+	SYN	[cl_t
+1\410	TOK	όταν	όταν	CjSb
+	SYN	[pp
+1\415	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\419	TOK	τη	ο	AtDfFeSgAc
+1\422	TOK	δόνηση	δόνηση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\429	OPUNCT	«	«	OPUNCT
+1\430	TOK	σηκώθηκαν	σηκώνω	VbMnIdPa03PlXxPePvXx
+1\439	CPUNCT	»	»	CPUNCT
+	SYN	/vg]
+	SYN	[advp
+1\441	TOK	ισχυρότατα	ισχυρά	AdXxSu
+	SYN	/advp]
+	SYN	[np_ac
+1\452	TOK	τσουνάμι	τσουνάμι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\461	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\464	TOK	κατεύθυνση	κατεύθυνση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\475	TOK	τους	ο	AtDfMaPlAc
+	SYN	[adjp_ac
+1\480	TOK	επίγειους	επίγειος	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\490	TOK	παραδείσους	παράδεισος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\502	TOK	του	ο	AtDfMaSgGe
+1\506	TOK	Ινδικού	Ινδικός	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\514	TOK	Ωκεανού	ωκεανός	NoCmMaSgGe
+	SYN	/np_ge]
+1\521	PTERM_P	:	:	PTERM_P
+	SYN	[np_ac
+1\523	TOK	τα	ο	AtDfNePlAc
+1\526	TOK	νησιά	νησί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\532	TOK	Πουκέτ	Πουκέτ	NoPrNeSgNm
+	SYN	/np_nm]
+1\538	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\540	TOK	τις	ο	AtDfFePlAc
+1\544	TOK	Μαλδίβες	Μαλδίβες	NoPrFePlAc
+	SYN	/np_ac]
+1\552	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\554	TOK	τη	ο	AtDfFeSgAc
+1\557	TOK	Σρι	Σρι	RgFwTr
+1\561	TOK	Λάνκα	Λάνκα	RgFwTr
+	SYN	/np_ac]
+1\567	TOK	και	και	CjCo
+	SYN	[np_ac
+1\571	TOK	τα	ο	AtDfNePlAc
+	SYN	[advp
+1\574	TOK	ανατολικά	ανατολικά	AdXxBa
+	SYN	/advp]
+	SYN	[adjp_ac
+1\584	TOK	παράλια	παράλιος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\592	TOK	της	ο	AtDfFeSgGe
+1\596	TOK	Ινδίας	Ινδία	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/cl_t]
+1\602	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\605	TOK	Εκατοντάδες	εκατοντάδα	NmCtFePlNmNo
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\617	TOK	χιλιάδες	χιλιάδα	NmCtFePlAcNo
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_nm
+1\626	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\629	TOK	νεκροί	νεκρός	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\636	PUNCT	-	-	PUNCT
+	SYN	[vg
+1\637	TOK	υπολογίζεται	υπολογίζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\650	TOK	ότι	ότι	CjSb
+	SYN	[vg
+1\654	TOK	έφτασαν	φτάνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\662	TOK	τους	ο	AtDfMaPlAc
+1\667	DIG	225.000	225.000	DIG
+	SYN	/np_ac]
+1\674	PUNCT	-	-	PUNCT
+1\675	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\677	TOK	εκατομμύρια	εκατομμύριο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\689	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\692	TOK	άστεγοι	άστεγος	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\699	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\701	TOK	χιλιάδες	χιλιάδα	NmCtFePlAcNo
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_nm
+1\710	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\713	TOK	αγνοούμενοι	αγνοούμενος	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\724	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\726	TOK	Τουλάχιστον	τουλάχιστο	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\738	DIG	50.000	50.000	DIG
+1\745	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\752	TOK	έχασαν	χάνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\759	TOK	τη	ο	AtDfFeSgAc
+1\762	TOK	ζωή	ζωή	NoCmFeSgAc
+1\766	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\770	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

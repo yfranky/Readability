@@ -1,0 +1,96 @@
+	(SENT	<S>
+1\1	TOK	Christina	Christina	RgFwOr
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\12	TOK	Έχω	έχω	VbMnIdPr01SgXxIpAvXx
+1\16	TOK	διαβάσει	διαβάζω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\25	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\29	TOK	το	ο	AtDfNeSgAc
+1\32	TOK	θέατρο	θέατρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\38	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\40	TOK	Στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\45	TOK	Αρχαία	αρχαίος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\52	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\59	TOK	γεννήθηκε	γεννώ	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\69	TOK	το	ο	AtDfNeSgNm
+1\72	TOK	θέατρο	θέατρο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\78	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\80	TOK	Μάλιστα	μάλιστα	AdXxBa
+	SYN	/advp]
+1\87	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\89	TOK	τότε	τότε	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\94	TOK	οι	ο	AtDfMaPlNm
+1\97	TOK	Έλληνες	Έλληνας	NoPrMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\105	TOK	έκαναν	κάνω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\112	TOK	διαγωνισμούς	διαγωνισμός	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\125	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\129	TOK	το	ο	AtDfNeSgAc
+1\132	TOK	βραβείο	βραβείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\139	PTERM_P	:	:	PTERM_P
+	SYN	[np_ac
+1\141	TOK	ένα	ένας	AtIdNeSgAc
+1\145	TOK	στεφάνι	στεφάνι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\153	TOK	ελιάς	ελιά	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\158	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\160	TOK	Ή	ή	CjCo
+	SYN	[advp
+1\162	TOK	μήπως	μήπως	AdXxBa
+	SYN	/advp]
+	SYN	[np_ge
+1\168	TOK	δάφνης	δάφνη	NoCmFeSgGe
+	SYN	/np_ge]
+1\174	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\176	TOK	Δε	δεν	PtNg
+1\179	TOK	θυμάμαι	θυμάμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\186	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

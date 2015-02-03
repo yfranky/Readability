@@ -1,0 +1,60 @@
+1	Πότε	πότε	Ad	Ad	Ba	2	Adv	_	_	
+2	γιορτάζουν	γιορτάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+3	οι	ο	At	AtDf	Ma|Pl|Nm	4	Det	_	_	
+4	φίλοι	φίλος	No	NoCm	Ma|Pl|Nm	2	Sb	_	_	
+5	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	4	Pos	_	_	
+6	κι	και	Cj	CjCo	_	0	Coord	_	_	
+7	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	6	Pred_Co	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	γιορτή	γιορτή	No	NoCm	Fe|Sg|Nm	5	ExD_Co	_	_	
+3	του	ο	At	AtDf	Ma|Sg|Ge	4	Det	_	_	
+4	Βασίλη	Βασίλης	No	NoPr	Ma|Sg|Ge	2	Atr	_	_	
+5	:	:	PTERM_P	PTERM_P	_	0	Coord	_	_	
+6	Την	ο	At	AtDf	Fe|Sg|Ac	8	Det	_	_	
+7	πρώτη	πρώτος	Nm	NmOd	Fe|Sg|Ac|Aj	8	Atr	_	_	
+8	Ιανουαρίου	Ιανουάριος	No	NoCm	Ma|Sg|Ge	5	ExD_Co	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	γιορτή	γιορτή	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	του	ο	At	AtDf	Ma|Sg|Ge	4	Det	_	_	
+4	Αντώνη	Αντώνης	No	NoPr	Ma|Sg|Ge	2	Atr	_	_	
+5	:	:	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+6	Στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	2	AuxP	_	_	
+7	δεκαεφτά	δεκαεπτά	Nm	NmCd	Ma|Pl|Ac|Aj	8	Atr	_	_	
+8	Ιανουαρίου	Ιανουάριος	No	NoCm	Ma|Sg|Ge	6	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	γιορτή	γιορτή	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	της	ο	At	AtDf	Fe|Sg|Ge	4	Det	_	_	
+4	Ευαγγελίας	Ευαγγελία	No	NoPr	Fe|Sg|Ge	2	Atr	_	_	
+5	:	:	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+6	Στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	2	AuxP	_	_	
+7	είκοσι	είκοσι	Nm	NmCd	Ma|Pl|Nm|Aj	6	Atr	_	_	
+8	πέντε	πέντε	Nm	NmCd	Ma|Pl|Nm|Aj	9	Atr	_	_	
+9	Μαρτίου	Μάρτιος	No	NoCm	Ma|Sg|Ge	7	Atr	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	γιορτή	γιορτή	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	της	ο	At	AtDf	Fe|Sg|Ge	4	Det	_	_	
+4	Ελένης	Ελένη	No	NoPr	Fe|Sg|Ge	2	Atr	_	_	
+5	:	:	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+6	Στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	2	AuxP	_	_	
+7	είκοσι	είκοσι	Nm	NmCd	Ma|Pl|Nm|Aj	9	Atr	_	_	
+8	μία	ένας	At	AtId	Fe|Sg|Ac	9	Det	_	_	
+9	Μαΐου	Μάιος	No	NoCm	Ma|Sg|Ge	6	Atr	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	γιορτή	γιορτή	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	2	Pos	_	_	
+4	:	:	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+5	Στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	2	AuxP	_	_	
+6	είκοσι	είκοσι	Nm	NmCd	Ma|Pl|Nm|Aj	8	Atr	_	_	
+7	πέντε	πέντε	Nm	NmCd	Ma|Pl|Nm|Aj	8	Atr	_	_	
+8	Δεκεμβρίου	Δεκέμβριος	No	NoCm	Ma|Sg|Ge	5	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,374 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Διαγώνισμα	διαγώνισμα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\12	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\16	TOK	φυσική	φυσικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\24	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\25	TOK	Ο	ο	AtDfMaSgNm
+1\27	TOK	αστροναύτης	αστροναύτης	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\39	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\43	TOK	φεγγάρι	φεγγάρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\51	TOK	και	και	CjCo
+	SYN	[pp
+1\55	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\59	TOK	γη	γη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\62	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\67	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\71	TOK	ίδια	ίδιος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\76	TOK	μάζα	μάζα	NoCmFeSgAc
+	SYN	/np_ac]
+1\80	PUNCT	,	,	PUNCT
+1\82	TOK	αλλά	αλλά	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\87	TOK	διαφορετικό	διαφορετικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\99	TOK	βάρος	βάρος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\104	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\106	TOK	Πού	πού	AdXxBa
+	SYN	[vg
+1\110	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\116	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\120	TOK	βαρύς	βαρύς	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\125	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\128	ENUM	-	-	ENUM
+	SYN	[pp
+1\129	TOK	Στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\133	TOK	γη	γη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\135	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\137	TOK	Στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\141	TOK	φεγγάρι	φεγγάρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\149	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\155	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\159	TOK	ελαφρύς	ελαφρύς	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\166	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\168	TOK	Είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\174	TOK	σαν	σαν	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\178	TOK	να	να	PtSj
+1\181	TOK	πετάει	πετώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\187	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\189	TOK	Γιατί	γιατί	AdXxBa
+1\194	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\197	ENUM	-	-	ENUM
+	SYN	[cl_o
+1\198	TOK	Γιατί	γιατί	AdXxBa
+	SYN	[np_nm
+1\204	TOK	το	ο	AtDfNeSgNm
+1\207	TOK	φεγγάρι	φεγγάρι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\215	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\221	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\225	TOK	μικρό	μικρός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\231	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\235	TOK	τη	ο	AtDfFeSgAc
+1\238	TOK	γη	γη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\240	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\242	TOK	Έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\247	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\251	TOK	μικρή	μικρός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\257	TOK	μάζα	μάζα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\261	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\263	TOK	Άρα	άρα	CjCo
+	SYN	[cl
+	SYN	[vg
+1\267	TOK	τραβάει	τραβώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\275	TOK	τον	ο	AtDfMaSgAc
+1\279	TOK	άνθρωπο	άνθρωπος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\287	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\290	TOK	μικρότερη	μικρός	AjCpFeSgAc
+	SYN	/adjp_ac]
+1\300	TOK	δύναμη	δύναμη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\306	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\309	ENUM	-	-	ENUM
+1\310	TOK	Ενώ	ενώ	CjCo
+	SYN	[np_nm
+1\314	TOK	η	ο	AtDfFeSgNm
+1\316	TOK	γη	γη	NoCmFeSgNm
+	SYN	/np_nm]
+1\318	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\320	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\324	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\330	TOK	μεγαλύτερη	μεγάλος	AjCpFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\341	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\345	TOK	το	ο	AtDfNeSgAc
+1\348	TOK	φεγγάρι	φεγγάρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\355	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[vg
+1\357	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\362	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\366	TOK	μεγάλη	μεγάλος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\373	TOK	μάζα	μάζα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+1\378	TOK	και	και	CjCo
+	SYN	[cl_r
+	SYN	[vg
+1\382	TOK	τραβάει	τραβώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\390	TOK	τον	ο	AtDfMaSgAc
+1\394	TOK	άνθρωπο	άνθρωπος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\402	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\405	TOK	μεγαλύτερη	μεγάλος	AjCpFeSgAc
+	SYN	/adjp_ac]
+1\416	TOK	δύναμη	δύναμη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\422	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\424	TOK	Ο	ο	AtDfMaSgNm
+1\426	TOK	άνθρωπος	άνθρωπος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\435	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\439	TOK	γη	γη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\442	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\447	TOK	μεγαλύτερο	μεγάλος	AjCpNeSgAc
+	SYN	/adjp_ac]
+1\458	TOK	βάρος	βάρος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\464	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\468	TOK	ό,τι	ό,τι	PnRiNe03SgAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\473	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\477	TOK	φεγγάρι	φεγγάρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\484	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\486	TOK	Κατάλαβα	καταλαβαίνω	VbMnIdPa01SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\494	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\497	ENUM	-	-	ENUM
+	SYN	[vg
+1\498	TOK	Ξέρεις	ξέρω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_ir
+	SYN	[advp
+1\505	TOK	πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\509	TOK	λέγεται	λέγω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\517	TOK	αυτή	αυτός	PnDmFe03SgNmXx
+1\522	TOK	η	ο	AtDfFeSgNm
+1\524	TOK	δύναμη	δύναμη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\531	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\535	TOK	τραβάει	τραβώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\543	TOK	τα	ο	AtDfNePlAc
+1\546	TOK	σώματα	σώμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+1\552	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\554	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[np_ge
+1\558	TOK	μας	εγώ	PnPeMa01PlGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\562	TOK	δείχνει	δείχνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl_ir]
+	SYN	[cl_q
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\570	TOK	πόσο	πόσο	AdXxBa
+	SYN	/advp]
+1\575	TOK	βαριά	βαρύς	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[vg
+1\581	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\586	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\589	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\590	TOK	Βαρρρ	Βαρρρ	NoPrMaSgNm
+	SYN	/np_nm]
+1\595	PTERM_P	....	....	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\601	ENUM	-	-	ENUM
+1\602	PTERM_P	...	...	PTERM_P
+	SYN	[np_ac
+1\605	TOK	ύτητα	ύτητα	NoCmFeSgAc
+	SYN	/np_ac]
+1\610	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

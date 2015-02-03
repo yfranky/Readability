@@ -1,0 +1,277 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1	TOK	Ξέρετε	ξέρω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+1\8	TOK	ότι	ότι	CjSb
+1\11	PTERM_P	...	...	PTERM_P
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\16	PTERM_P	...	...	PTERM_P
+	SYN	[np_nm
+1\19	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\22	TOK	πρώτοι	πρώτος	NmOdMaPlNmAj
+	SYN	/adjp_nm]
+1\29	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\38	TOK	ζούσαν	ζω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\45	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\48	TOK	σπηλιές	σπηλιά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_q]
+1\55	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\57	TOK	Εκεί	εκεί	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\62	TOK	έβρισκαν	βρίσκω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\71	TOK	καταφύγιο	καταφύγιο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\81	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\85	TOK	το	ο	AtDfNeSgAc
+1\88	TOK	κρύο	κρύο	NoCmNeSgAc
+	SYN	/np_ac]
+1\93	TOK	και	και	CjCo
+	SYN	[np_ac
+1\97	TOK	τη	ο	AtDfFeSgAc
+1\100	TOK	βροχή	βροχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\105	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\107	TOK	Μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\112	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\117	TOK	σπηλιές	σπηλιά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[vg
+1\125	TOK	φύλαγαν	φυλάω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+1\133	TOK	και	και	CjCo
+	SYN	[np_ac
+1\137	TOK	την	ο	AtDfFeSgAc
+1\141	TOK	τροφή	τροφή	NoCmFeSgAc
+1\147	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\151	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\155	PTERM_P	...	...	PTERM_P
+	SYN	[cl_o
+1\158	TOK	καθώς	καθώς	AdXxBa
+	SYN	[vg
+1\164	TOK	περνούσε	περνώ	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\173	TOK	ο	ο	AtDfMaSgNm
+1\175	TOK	καιρός	καιρός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\181	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\183	TOK	οι	ο	AtDfMaPlNm
+1\186	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\195	TOK	χρησιμοποιούσαν	χρησιμοποιώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\211	TOK	διάφορα	διάφορος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\219	TOK	υλικά	υλικό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\225	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\229	TOK	έβρισκαν	βρίσκω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\238	TOK	πιο	πιο	AdXxBa
+1\242	TOK	εύκολα	εύκολα	AdXxBa
+	SYN	/advp]
+1\248	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\250	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\255	TOK	ξύλο	ξύλο	NoCmNeSgAc
+	SYN	/np_ac]
+1\259	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\261	TOK	πέτρα	πέτρα	NoCmFeSgAc
+	SYN	/np_ac]
+1\267	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\269	TOK	χώμα	χώμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\273	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\276	PTERM_P	...	...	PTERM_P
+	SYN	[advp
+1\279	TOK	όχι	όχι	PtNg
+1\283	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\288	TOK	τα	ο	AtDfNePlAc
+1\291	TOK	υλικά	υλικό	NoCmNePlAc
+	SYN	/np_ac]
+1\296	PUNCT	,	,	PUNCT
+1\298	TOK	αλλά	αλλά	CjCo
+1\303	TOK	και	και	CjCo
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\307	TOK	πολλοί	πολύς	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\314	TOK	άλλοι	άλλος	PnIdMa03PlNmXx
+1\320	TOK	λόγοι	λόγος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\326	TOK	κάνουν	κάνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\333	TOK	ένα	ένας	AtIdNeSgAc
+1\337	TOK	σπίτι	σπίτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\343	TOK	να	να	PtSj
+1\346	TOK	πάρει	παίρνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\352	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\355	TOK	τελικό	τελικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\362	TOK	του	ο	AtDfNeSgGe
+	SYN	[np_ac
+1\366	TOK	σχήμα	σχήμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\371	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[advp
+1\373	TOK	Όπως	όπως	AdXxBa
+	SYN	[pp
+1\378	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\382	TOK	παράδειγμα	παράδειγμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\392	PUNCT	,	,	PUNCT
+	SYN	[cl_c
+1\394	TOK	αν	αν	CjSb
+	SYN	[np_nm
+1\397	TOK	οι	ο	AtDfMaPlNm
+1\400	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\409	TOK	θα	θα	PtFu
+1\412	TOK	μείνουν	μένω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\420	TOK	σ'	σε	AsPpSp
+	SYN	[np_ac
+1\423	TOK	αυτό	αυτός	PnDmNe03SgAcXx
+1\428	TOK	το	ο	AtDfNeSgAc
+1\431	TOK	μέρος	μέρος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\437	TOK	για	για	AsPpSp
+	SYN	[advp
+1\441	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	/cl_c]
+1\445	PUNCT	,	,	PUNCT
+	SYN	[cl_c
+1\447	TOK	αν	αν	CjSb
+	SYN	[advp
+1\450	TOK	εκεί	εκεί	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\455	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\460	TOK	κρύο	κρύο	NoCmNeSgAc
+	SYN	/np_ac]
+1\465	TOK	ή	ή	CjCo
+	SYN	[np_nm
+1\467	TOK	ζέστη	ζέστη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_c]
+1\472	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\474	TOK	Έτσι	έτσι	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\479	TOK	οι	ο	AtDfMaPlNm
+1\482	TOK	Ινδιάνοι	ινδιάνος	NoPrMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\491	TOK	έμεναν	μένω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\498	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\501	TOK	σκηνές	σκηνή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\508	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\512	TOK	δέρμα	δέρμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\518	TOK	και	και	CjCo
+	SYN	[np_nm
+1\522	TOK	οι	ο	AtDfMaPlNm
+1\525	TOK	Εσκιμώοι	Εσκιμώος	NoPrMaPlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\534	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\537	TOK	ιγκλού	ιγκλού	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\543	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

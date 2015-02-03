@@ -1,0 +1,155 @@
+1	Μένω	μένω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+3	πλατεία	πλατεία	No	NoCm	Fe|Sg|Ac	2	Adv	_	_	
+4	Αριστοτέλους	Αριστοτέλους	No	NoPr	Ma|Sg|Ge	3	Atr	_	_	
+5	…	…	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ονομάζομαι	ονομάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	Καταλίνα	Καταλίνα	Rg	RgFw	_	3	Atr	_	_	
+3	Λόπεζ	Λόπεζ	No	NoPr	Ma|Sg|Nm	1	Pnom	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	4	Pred_Co	_	_	
+2	δώδεκα	δώδεκα	Nm	NmCd	Ma|Pl|Nm|Aj	3	Atr	_	_	
+3	χρoνών	χρονών	No	NoCm	Ma|Pl|Ge	1	Pnom	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	πηγαίνω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+6	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	5	AuxP	_	_	
+7	έκτη	έκτος	Nm	NmOd	Fe|Sg|Ac|Aj	8	Atr	_	_	
+8	τάξη	τάξη	No	NoCm	Fe|Sg|Ac	6	Adv	_	_	
+9	του	ο	At	AtDf	Ne|Sg|Ge	10	Det	_	_	
+10	δημοτικού	δημοτικός	No	NoCm	Ne|Sg|Ge	8	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γεννήθηκα	γεννώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+3	Χιλή	Χιλή	No	NoPr	Fe|Sg|Ac	2	Adv	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	πατέρας	πατέρας	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+3	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	2	Pos	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	8	Pred_Co	_	_	
+5	από	από	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	τη	ο	At	AtDf	Fe|Sg|Ac	7	Det	_	_	
+7	Χιλή	Χιλή	No	NoPr	Fe|Sg|Ac	5	Adv	_	_	
+8	και	και	Cj	CjCo	_	0	Coord	_	_	
+9	η	ο	At	AtDf	Fe|Sg|Nm	10	Det	_	_	
+10	μητέρα	μητέρα	No	NoCm	Fe|Sg|Nm	12	Sb	_	_	
+11	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	10	Pos	_	_	
+12	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	8	Pred_Co	_	_	
+13	από	από	AsPp	AsPpSp	_	12	AuxP	_	_	
+14	το	ο	At	AtDf	Ne|Sg|Ac	15	Det	_	_	
+15	Μεξικό	Μεξικό	No	NoPr	Ne|Sg|Ac	13	Adv	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τον	ο	At	AtDf	Ma|Sg|Ac	2	Det	_	_	
+2	πατέρα	πατέρας	No	NoCm	Ma|Sg|Ac	7	Sb	_	_	
+3	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	2	Pos	_	_	
+4	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	5	Obj	_	_	
+5	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+6	Πιέρο	Πιέρο	No	NoPr	Ma|Sg|Nm	5	Sb	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	7	Pred_Co	_	_	
+9	σαράντα	σαράντα	Nm	NmCd	Ma|Pl|Ac|Aj	10	Atr	_	_	
+10	χρονών	χρονών	No	NoCm	Ma|Pl|Ge	8	Pnom	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	μηχανολόγος	μηχανολόγος	No	NoCm	Ma|Sg|Nm	1	Pnom	_	_	
+3	μηχανικός	μηχανικός	Aj	Aj	Ba|Ma|Sg|Nm	4	Atr	_	_	
+4	και	και	Cj	CjCo	_	2	Coord	_	_	
+5	δουλεύει	δουλεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Atr_Co	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+7	αεροδρόμιο	αεροδρόμιο	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+8	«	«	OPUNCT	OPUNCT	_	9	AuxG	_	_	
+9	Μακεδονία	Μακεδονία	No	NoPr	Fe|Sg|Ac	7	Atr	_	_	
+10	»	»	CPUNCT	CPUNCT	_	9	AuxG	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τη	ο	At	AtDf	Fe|Sg|Ac	2	Det	_	_	
+2	μητέρα	μητέρα	No	NoCm	Fe|Sg|Ac	7	Sb	_	_	
+3	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	2	Pos	_	_	
+4	τη	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	5	Obj	_	_	
+5	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+6	Πάολα	Πάολα	No	NoPr	Ma|Sg|Nm	5	Sb	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	7	Pred_Co	_	_	
+9	τριάντα	τριάντα	Nm	NmCd	Ma|Pl|Nm|Aj	11	Atr	_	_	
+10	οχτώ	οκτώ	Nm	NmCd	Ne|Pl|Ac|Aj	11	Atr	_	_	
+11	χρονών	χρονών	No	NoCm	Ma|Pl|Ge	8	Pnom	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	3	Pred_Co	_	_	
+2	γιατρός	γιατρός	No	NoCm	Ma|Sg|Nm	1	Pnom	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	δουλεύει	δουλεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+5	σε	σε	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	ιδιωτική	ιδιωτικός	Aj	Aj	Ba|Fe|Sg|Ac	7	Atr	_	_	
+7	κλινική	κλινική	No	NoCm	Fe|Sg|Ac	5	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	δύο	δύο	Nm	NmCd	Ne|Pl|Ac|Aj	3	Atr	_	_	
+3	αδέρφια	αδέρφι	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έναν	ένας	At	AtId	Ma|Sg|Ac	2	Det	_	_	
+2	αδερφό	αδερφός	No	NoCm	Ma|Sg|Ac	9	Obj_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+4	τον	ο	At	AtDf	Ma|Sg|Ac	5	Det	_	_	
+5	Ραμίρο	Ραμίρο	No	NoPr	Ma|Sg|Ac	9	Atr_Co	_	_	
+6	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+7	πέντε	πέντε	Nm	NmCd	Ma|Pl|Nm|Aj	8	Atr	_	_	
+8	χρονών	χρονών	No	NoCm	Ma|Pl|Ge	9	Atr_Co	_	_	
+9	και	και	Cj	CjCo	_	0	Coord	_	_	
+10	μία	ένας	At	AtId	Fe|Sg|Ac	11	Det	_	_	
+11	αδερφή	αδερφή	No	NoCm	Fe|Sg|Ac	9	Atr_Co	_	_	
+12	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+13	την	ο	At	AtDf	Fe|Sg|Ac	14	Det	_	_	
+14	Τερέζα	Τερέζα	No	NoPr	Fe|Sg|Ac	9	Obj_Co	_	_	
+15	,	,	PUNCT	PUNCT	_	17	AuxX	_	_	
+16	έντεκα	ένδεκα	Nm	NmCd	Fe|Pl|Ac|Aj	17	Atr	_	_	
+17	χρονών	χρονών	No	NoCm	Ma|Pl|Ge	14	Atr	_	_	
+18	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+2	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	1	Adv	_	_	
+3	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	2	Pos	_	_	
+4	μιλάμε	μιλώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	ισπανικά	ισπανικός	Aj	Aj	Ba|Ne|Pl|Ac	6	Atr_Co	_	_	
+6	και	και	Cj	CjCo	_	4	Coord	_	_	
+7	ελληνικά	ελληνικός	Aj	Aj	Ba|Ne|Pl|Ac	6	Atr_Co	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κάθε	κάθε	Pn	PnId	Ne|03|Sg|Nm|Xx	2	Atr	_	_	
+2	Σάββατο	Σάββατο	No	NoCm	Ne|Sg|Nm	5	Sb_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	5	Sb_Co	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	τα	ο	At	AtDf	Ne|Pl|Ac	7	Det	_	_	
+7	αδέρφια	αδέρφι	No	NoCm	Ne|Pl|Ac	9	Obj	_	_	
+8	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	7	Pos	_	_	
+9	πηγαίνουμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+10	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	9	AuxP	_	_	
+11	ισπανικό	ισπανικός	Aj	Aj	Ba|Ne|Sg|Ac	12	Atr	_	_	
+12	σχολείο	σχολείο	No	NoCm	Ne|Sg|Ac	10	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μένουμε	μένω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	σε	σε	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	ένα	ένας	At	AtId	Ne|Sg|Ac	5	Det	_	_	
+4	νεοκλασικό	νεοκλασικός	Aj	Aj	Ba|Ne|Sg|Ac	5	Atr	_	_	
+5	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	10	AuxP	_	_	
+8	πλατεία	πλατεία	No	NoCm	Fe|Sg|Ac	7	Adv	_	_	
+9	Αριστοτέλους	Αριστοτέλους	No	NoPr	Ma|Sg|Ge	8	Atr	_	_	
+10	και	και	Cj	CjCo	_	1	Coord	_	_	
+11	το	ο	At	AtDf	Ne|Sg|Nm	12	Det	_	_	
+12	τηλέφωνό	τηλέφωνο	No	NoCm	Ne|Sg|Nm	14	Sb	_	_	
+13	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	12	Pos	_	_	
+14	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	10	Adv_Co	_	_	
+15	2310-568793	2310-568793	DIG	DIG	_	14	Pnom	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

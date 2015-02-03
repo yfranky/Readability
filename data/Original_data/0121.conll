@@ -1,0 +1,99 @@
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Nm	5	Sb	_	_	
+3	του	ο	At	AtDf	Ma|Sg|Ge	4	Det	_	_	
+4	Θωμά	Θωμάς	No	NoPr	Ma|Sg|Ge	2	Atr	_	_	
+5	ψώνισε	ψωνίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	αλεύρι	αλεύρι	No	NoCm	Ne|Sg|Ac	5	Obj	_	_	
+7	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+8	ζάχαρη	ζάχαρη	No	NoCm	Fe|Sg|Ac	6	Atr	_	_	
+9	βούτυρο	βούτυρο	No	NoCm	Ne|Sg|Ac	10	Atr_Co	_	_	
+10	και	και	Cj	CjCo	_	8	Coord	_	_	
+11	αυγά	αυγό	No	NoCm	Ne|Pl|Ac	10	Atr_Co	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	φτιάξει	φτιάχνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	κουλουράκια	κουλουράκι	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Θωμάς	Θωμάς	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	κάλεσε	καλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	παιδιά	παιδί	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+7	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+8	της	ο	At	AtDf	Fe|Sg|Ge	9	Det	_	_	
+9	γιαγιάς	γιαγιά	No	NoCm	Fe|Sg|Ge	7	Atr	_	_	
+10	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	9	Pos	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	2	Sb	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	6	Pred_Co	_	_	
+3	μέσα	μέσα	Ad	Ad	Ba	2	Adv	_	_	
+4	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+5	κουζίνα	κουζίνα	No	NoCm	Fe|Sg|Ac	4	Adv	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	βοηθάνε	βοηθώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+8	τη	ο	At	AtDf	Fe|Sg|Ac	9	Det	_	_	
+9	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Ac	7	Obj	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	ζύμη	ζύμη	No	NoCm	Fe|Sg|Nm	4	Sb	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	μαλακή	μαλακός	Aj	Aj	Ba|Fe|Sg|Nm	4	Pnom	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εύη	Εύη	No	NoPr	Fe|Sg|Ac	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	βάλε	βάζω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	1	Pred_Co	_	_	
+4	λίγο	λίγος	Aj	Aj	Ba|Ne|Sg|Ac	5	Atr	_	_	
+5	αλεύρι	αλεύρι	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Εμείς	εγώ	Pn	PnPe	Ma|01|Pl|Nm|St	4	Sb	_	_	
+3	δε	δεν	Pt	PtNg	_	4	AuxV	_	_	
+4	θέλουμε	θέλω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	αλεύρι	αλεύρι	No	NoCm	Ne|Sg|Ac	4	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+2	δική	δικός	Aj	Aj	Ba|Fe|Sg|Nm	4	Atr	_	_	
+3	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	4	Pos	_	_	
+4	ζύμη	ζύμη	No	NoCm	Fe|Sg|Nm	5	Sb	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	σκληρή	σκληρός	Aj	Aj	Ba|Fe|Sg|Nm	5	Pnom	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Μελέκ	Μελέκ	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	φέρε	φέρω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	2	Atr	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+6	μεγάλο	μεγάλος	Aj	Aj	Ba|Ne|Sg|Ac	8	Atr	_	_	
+7	τετράγωνο	τετράγωνος	Aj	Aj	Ba|Ne|Sg|Ac	8	Atr	_	_	
+8	ταψί	ταψί	No	NoCm	Ne|Sg|Ac	4	Obj	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Θωμά	Θωμάς	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	άναψε	ανάβω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Atr	_	_	
+5	τον	ο	At	AtDf	Ma|Sg|Ac	6	Det	_	_	
+6	φούρνο	φούρνος	No	NoCm	Ma|Sg|Ac	4	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Αχμέτ	Αχμέτ	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μην	μην	Pt	PtNg	_	2	AuxV	_	_	
+2	παίζεις	παίζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	με	με	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	αλεύρι	αλεύρι	No	NoCm	Ne|Sg|Ac	3	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

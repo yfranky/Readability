@@ -1,0 +1,79 @@
+	(SENT	<S>
+	SYN	[cl
+1\1	ENUM	-	-	ENUM
+	SYN	[advp
+1\2	TOK	Εδώ	εδώ	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\6	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\12	TOK	το	ο	AtDfNeSgNm
+1\15	TOK	μπάνιο	μπάνιο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\21	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\24	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\25	TOK	Μια	ένας	AtIdFeSgNm
+1\29	TOK	κατσίκα	κατσίκα	NoCmFeSgNm
+	SYN	/np_nm]
+1\36	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\39	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\40	TOK	Μια	ένας	AtIdFeSgNm
+1\44	TOK	κατσίκα	κατσίκα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\52	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\58	TOK	μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\63	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\68	TOK	κουζίνα	κουζίνα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\75	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\78	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\79	TOK	Σσσς	Σσσς	NoPrMaSgNm
+	SYN	/np_nm]
+1\83	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\85	TOK	Ακούω	ακούω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\91	TOK	θόρυβο	θόρυβος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\97	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\100	ENUM	-	-	ENUM
+	SYN	[vg
+1\101	TOK	Πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\106	TOK	να	να	PtSj
+1\109	TOK	δούμε	βλέπω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\114	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,358 @@
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	ΜΗΝΙΑΙΑ	μηνιαίος	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\10	TOK	ΚΟΚΚΙΝΟ	κόκκινος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\18	TOK	ΚΡΕΑΣ	κρέας	NoCmNeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\25	DIG	4	4	DIG
+1\27	TOK	μικρομερίδες	μικρομερίδα	NoCmFePlAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\43	TOK	ΕΒΔΟΜΑΔΙΑΙΑ	εβδομαδιαίος	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[advp
+1\56	TOK	ΓΛΥΚΑ	γλυκά	AdXxBa
+	SYN	/advp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\63	DIG	3	3	DIG
+1\65	TOK	μικρομερίδες	μικρομερίδα	NoCmFePlAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\79	TOK	ΑΥΓΑ	αυγό	NoCmNePlNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\85	DIG	3	3	DIG
+1\87	TOK	μικρομερίδες	μικρομερίδα	NoCmFePlAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\101	TOK	ΠΑΤΑΤΕΣ	πατάτα	NoCmFePlNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\110	DIG	3	3	DIG
+1\112	TOK	μικρομερίδες	μικρομερίδα	NoCmFePlAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\126	TOK	ΕΛΙΕΣ	ελιά	NoCmFePlNm
+	SYN	/np_nm]
+1\131	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\133	TOK	ΟΣΠΡΙΑ	όσπριο	NoCmNePlAc
+	SYN	/np_ac]
+1\139	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\141	TOK	ΞΗΡΟΙ	ξηρός	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\147	TOK	ΚΑΡΠΟΙ	καρπός	NoCmMaPlNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\155	DIG	3-4	3-4	DIG
+1\159	TOK	μικρομερίδες	μικρομερίδα	NoCmFePlAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\173	TOK	ΠΟΥΛΕΡΙΚΑ	πουλερικό	NoCmNePlNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\184	DIG	4	4	DIG
+1\186	TOK	μικρομερίδες	μικρομερίδα	NoCmFePlAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\200	TOK	ΨΑΡΙΑ	ψαριά	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\207	DIG	5-6	5-6	DIG
+1\211	TOK	μικρομερίδες	μικρομερίδα	NoCmFePlAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[advp
+1\227	TOK	ΚΑΘΗΜΕΡΙΝΑ	καθημερινά	AdXxBa
+	SYN	/advp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\239	TOK	ΓΑΛΑΚΤΟΚΟΜΙΚΑ	γαλακτοκομικός	AjBaNePlNm
+	SYN	/adjp_nm]
+1\253	TOK	ΠΡΟΪΟΝΤΑ	προϊόν	NoCmNePlNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\263	DIG	2	2	DIG
+1\265	TOK	μικρομερίδες	μικρομερίδα	NoCmFePlAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\279	TOK	ΕΛΑΙΟΛΑΔΟ	ελαιόλαδο	NoCmNeSgNm
+	SYN	/np_nm]
+1\289	OPUNCT	(	(	OPUNCT
+	SYN	[advp
+1\290	TOK	ως	ως	AdXxBa
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\293	TOK	κύριο	κύριος	AjBaNeSgAc
+1\299	TOK	προστιθέμενο	προστιθέμενος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\312	TOK	λιπίδιο	λιπίδιο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/advp]
+1\319	CPUNCT	)	)	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\322	TOK	ΦΡΟΥΤΑ	φρούτο	NoCmNePlNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\330	DIG	3	3	DIG
+1\332	TOK	μικρομερίδες	μικρομερίδα	NoCmFePlAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\346	TOK	ΛΑΧΑΝΙΚΑ	λαχανικό	NoCmNePlNm
+	SYN	/np_nm]
+1\355	OPUNCT	(	(	OPUNCT
+	SYN	[cl
+	SYN	[vg
+1\356	TOK	μη	μην	PtNg
+1\359	TOK	ξεχνάτε	ξεχνώ	VbMnMpXx02PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\367	TOK	τα	ο	AtDfNePlAc
+1\370	TOK	χόρτα	χόρτο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\375	CPUNCT	)	)	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\378	DIG	6	6	DIG
+1\380	TOK	μικρομερίδες	μικρομερίδα	NoCmFePlAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\394	TOK	Αδρά	αδρά	AdXxBa
+	SYN	/advp]
+1\399	TOK	επεξεργασμένα	επεξεργασμένος	AjBaNePlNm
+	SYN	/adjp_nm]
+1\413	TOK	ΔΗΜΗΤΡΙΑΚΑ	δημητριακά	NoCmNePlNm
+	SYN	/np_nm]
+1\424	TOK	και	και	CjCo
+	SYN	[np_ac
+1\428	TOK	προϊόντα	προϊόν	NoCmNePlAc
+1\437	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+1\442	OPUNCT	(	(	OPUNCT
+	SYN	[np_ac
+1\443	TOK	ψωμί	ψωμί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\448	TOK	ολικής	ολικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\455	TOK	αλέσεως	άλεση	NoCmFeSgGe
+	SYN	/np_ge]
+1\462	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\464	TOK	ζυμαρικά	ζυμαρικό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\473	TOK	ολικής	ολικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\480	TOK	αλέσεως	άλεση	NoCmFeSgGe
+	SYN	/np_ge]
+1\487	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\489	TOK	μη	μην	PtNg
+1\492	TOK	αποφλοιωμένο	αποφλοιωμένος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\505	TOK	ρύζι	ρύζι	NoCmNeSgAc
+	SYN	/np_ac]
+1\509	PUNCT	,	,	PUNCT
+1\511	ABBR	κ.α.	κ.α.	ABBR
+1\515	CPUNCT	)	)	CPUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\518	DIG	8	8	DIG
+1\520	TOK	μικρομερίδες	μικρομερίδα	NoCmFePlAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\534	TOK	Σωματική	σωματικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\543	TOK	άσκηση	άσκηση	NoCmFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\551	TOK	Κρασί	κρασί	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\557	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\560	TOK	μέτρο	μέτρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\569	TOK	Μια	ένας	AtIdFeSgNm
+1\573	TOK	μικρομερίδα	μικρομερίδα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\585	TOK	αντιστοιχεί	αντιστοιχώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\597	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\605	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\609	TOK	μισό	μισός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\614	TOK	μιας	ένας	AtIdFeSgGe
+1\619	TOK	μερίδας	μερίδα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\627	TOK	εστιατορίου	εστιατόριο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\638	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\641	TOK	Θυμηθείτε	θυμάμαι	VbMnMpXx02PlXxPePvXx
+	SYN	/vg]
+	SYN	[advp
+1\651	TOK	επίσης	επίσης	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\657	PTERM_P	:	:	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+	SYN	[vg_s
+1\660	TOK	Να	να	PtSj
+1\663	TOK	πίνετε	πίνω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\670	TOK	άφθονο	άφθονος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\677	TOK	νερό	νερό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\681	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+	SYN	[vg_s
+1\684	TOK	Να	να	PtSj
+1\687	TOK	αποφεύγετε	αποφεύγω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\698	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\701	TOK	υπερβολικό	υπερβολικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\712	TOK	αλάτι	αλάτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\718	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\722	TOK	φαγητό	φαγητό	NoCmNeSgAc
+1\729	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\732	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\735	TOK	Αντί	αντί	NoPrNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\740	TOK	γι’	για	AsPpSp
+	SYN	[np_ac
+1\744	TOK	αυτό	αυτός	PnDmNe03SgAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\749	TOK	μπορείτε	μπορώ	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\758	TOK	να	να	PtSj
+1\761	TOK	χρησιμοποιείτε	χρησιμοποιώ	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\776	TOK	μπαχαρικά	μπαχαρικό	NoCmNePlAc
+	SYN	/np_ac]
+1\786	TOK	και	και	CjCo
+	SYN	[np_ac
+1\790	TOK	βότανα	βότανο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\796	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

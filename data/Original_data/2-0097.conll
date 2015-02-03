@@ -1,0 +1,71 @@
+1	Συζητώντας	συζητώ	Vb	VbMn	Pp|Xx|Xx|Xx|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+3	τάξη	τάξη	No	NoCm	Fe|Sg|Ac	2	Adv	_	_	
+4	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	AuxG	_	_	
+2	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	4	Sb	_	_	
+3	θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+4	ντυθώ	ντύνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	Μπάτμαν	Μπάτμαν	Rg	RgFw	_	4	AuxG	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	1	Sb	_	_	
+3	θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+4	είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	1	Pred_Co	_	_	
+5	μάγισσα	μάγισσα	No	NoCm	Fe|Sg|Ac	4	Pnom	_	_	
+6	έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Sb	_	_	
+7	και	και	Cj	CjCo	_	9	AuxY	_	_	
+8	μια	ένας	At	AtId	Fe|Sg|Ac	9	Det	_	_	
+9	σκούπα	σκούπα	No	NoCm	Fe|Sg|Ac	6	Obj	_	_	
+10	για	για	AsPp	AsPpSp	_	6	AuxP	_	_	
+11	να	να	Pt	PtSj	_	12	AuxV	_	_	
+12	πετάω	πετώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	10	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxY	_	_	
+2	Κι	και	Cj	CjCo	_	3	AuxY	_	_	
+3	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	0	ExD	_	_	
+4	γάτα	γάτα	No	NoCm	Fe|Sg|Ac	3	Atr	_	_	
+5	με	με	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	μακριά	μακριά	Ad	Ad	Ba	7	Adv	_	_	
+7	ουρά	ουρά	No	NoCm	Fe|Sg|Ac	5	Atr	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	6	AuxG	_	_	
+2	Εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	6	Sb	_	_	
+3	Γιάννη	Γιάννης	No	NoPr	Ma|Sg|Ge	2	Atr	_	_	
+4	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	6	Obj	_	_	
+5	θα	θα	Pt	PtFu	_	6	AuxV	_	_	
+6	ντυθείς	ντύνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Φάντασμα	φάντασμα	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	βγούμε	βγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	βράδυ	βράδυ	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+5	με	με	AsPp	AsPpSp	_	2	AuxP	_	_	
+6	τον	ο	At	AtDf	Ma|Sg|Ac	7	Det	_	_	
+7	μπαμπά	μπαμπάς	No	NoCm	Ma|Sg|Ac	5	Adv	_	_	
+8	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	7	Pos	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Κι	και	Cj	CjCo	_	0	Coord	_	_	
+3	εμείς	εγώ	Pn	PnPe	Ma|01|Pl|Nm|St	2	ExD_Co	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	ίδιο	ίδιος	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ελπίζω	ελπίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	μαζέψω	μαζεύω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	πολλές	πολύς	Aj	Aj	Ba|Fe|Pl|Ac	5	Atr	_	_	
+5	καραμέλες	καραμέλα	No	NoCm	Fe|Pl|Ac	3	Obj	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

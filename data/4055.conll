@@ -1,0 +1,114 @@
+1	ΟΘΟΝΗ	οθόνη	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	οθόνη	οθόνη	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	7	Pred_Co	_	_	
+4	μέρος	μέρος	No	NoCm	Ne|Sg|Nm	3	Pnom	_	_	
+5	ενός	ένας	At	AtId	Ma|Sg|Ge	6	Det	_	_	
+6	υπολογιστή	υπολογιστής	No	NoCm	Ma|Sg|Ac	4	Atr	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	μοιάζει	μοιάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+9	με	με	AsPp	AsPpSp	_	8	AuxP	_	_	
+10	τηλεόραση	τηλεόραση	No	NoCm	Fe|Sg|Ac	9	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	ΠΛΗΚΤΡΟΛΟΓΙΟ	πληκτρολόγιο	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+
+1	Αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Nm|Xx	2	Sb	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	ένα	ένας	At	AtId	Ne|Sg|Nm	4	Det	_	_	
+4	πληκτρολόγιο	πληκτρολόγιο	No	NoCm	Ne|Sg|Nm	2	Pnom	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	τμήμα	τμήμα	No	NoCm	Ne|Sg|Nm	1	Pnom	_	_	
+3	ενός	ένας	At	AtId	Ma|Sg|Ge	4	Det	_	_	
+4	υπολογιστή	υπολογιστής	No	NoCm	Ma|Sg|Ac	2	Atr	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	'Έχει	'Έχει	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Ac	3	Atr	_	_	
+3	κουμπιά	κουμπί	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+4	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+5	που	που	Pn	PnRe	Ne|03|Pl|Nm|Xx	6	Sb	_	_	
+6	ονομάζονται	ονομάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	3	Atr	_	_	
+7	πλήκτρα	πλήκτρο	No	NoCm	Ne|Pl|Nm	6	Pnom	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	πληκτρολόγιο	πληκτρολόγιο	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+4	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	6	Atr	_	_	
+5	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+6	γράμματα	γράμμα	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+7	του	ο	At	AtDf	Ne|Sg|Ge	8	Det	_	_	
+8	αλφαβήτου	αλφάβητο	No	NoCm	Ne|Sg|Ge	6	Atr	_	_	
+9	,	,	PUNCT	PUNCT	_	10	AuxX	_	_	
+10	αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+11	όχι	όχι	Pt	PtNg	_	10	ExD_Co	_	_	
+12	σε	σε	AsPp	AsPpSp	_	11	AuxP	_	_	
+13	αλφαβητική	αλφαβητικός	Aj	Aj	Ba|Fe|Sg|Ac	14	Atr	_	_	
+14	σειρά	σειρά	No	NoCm	Fe|Sg|Ac	12	Adv	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	ΠΟΝΤΙΚΙ	ποντίκι	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+
+1	Αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Nm|Xx	2	Sb	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	ένα	ένας	At	AtId	Ma|Sg|Ac	4	Det	_	_	
+4	ποντίκι	ποντίκι	No	NoCm	Ne|Sg|Nm	2	Pnom	_	_	
+5	υπολογιστή	υπολογιστής	No	NoCm	Ma|Sg|Ac	4	Atr	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	2	Obj	_	_	
+2	χρησιμοποιείς	χρησιμοποιώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	για	για	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	πεις	λέγω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	3	Adv	_	_	
+6	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	5	AuxP	_	_	
+7	υπολογιστή	υπολογιστής	No	NoCm	Ma|Sg|Ac	6	Obj	_	_	
+8	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	10	Obj	_	_	
+9	να	να	Pt	PtSj	_	10	AuxV	_	_	
+10	κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Obj	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μετακινείς	μετακινώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	3	Det	_	_	
+3	ποντίκι	ποντίκι	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	πάνω	πάνω	Ad	Ad	Ba	1	Adv	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+6	γραφείο	γραφείο	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Nm|Xx	9	Sb	_	_	
+9	μετακινεί	μετακινώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+10	ένα	ένας	At	AtId	Ne|Sg|Ac	11	Det	_	_	
+11	βελάκι	βελάκι	No	NoCm	Ne|Sg|Nm	9	Pnom	_	_	
+12	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	11	AuxP	_	_	
+13	οθόνη	οθόνη	No	NoCm	Fe|Sg|Ac	12	Atr	_	_	
+14	του	ο	At	AtDf	Ma|Sg|Ge	15	Det	_	_	
+15	υπολογιστή	υπολογιστής	No	NoCm	Ma|Sg|Ge	13	Atr	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	ΕΚΤΥΠΩΤΗΣ	εκτυπωτής	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	εκτυπωτής	εκτυπωτής	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	μια	ένας	At	AtId	Fe|Sg|Nm	5	Det	_	_	
+5	συσκευή	συσκευή	No	NoCm	Fe|Sg|Nm	3	Pnom	_	_	
+6	που	που	Pn	PnRe	Fe|03|Sg|Ac|Xx	7	Obj	_	_	
+7	χρησιμοποιούμε	χρησιμοποιώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	5	Atr	_	_	
+8	για	για	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	να	να	Pt	PtSj	_	10	AuxV	_	_	
+10	τυπώσουμε	τυπώνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	8	Adv	_	_	
+11	αυτά	αυτός	Pn	PnDm	Ne|03|Pl|Ac|Xx	10	Obj	_	_	
+12	που	που	Pn	PnRe	Ne|03|Pl|Ac|Xx	13	Obj	_	_	
+13	γράφουμε	γράφω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	14	Atr_Co	_	_	
+14	ή	ή	Cj	CjCo	_	11	Coord	_	_	
+15	σχεδιάζουμε	σχεδιάζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	14	Atr_Co	_	_	
+16	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	15	AuxP	_	_	
+17	οθόνη	οθόνη	No	NoCm	Fe|Sg|Ac	16	Adv	_	_	
+18	του	ο	At	AtDf	Ma|Sg|Ge	19	Det	_	_	
+19	υπολογιστή	υπολογιστής	No	NoCm	Ma|Sg|Ge	17	Atr	_	_	
+20	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

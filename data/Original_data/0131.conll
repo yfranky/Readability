@@ -1,0 +1,254 @@
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	παππούς	παππούς	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+4	είχε	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	ένα	ένας	At	AtId	Ne|Sg|Ac	7	Det	_	_	
+6	μεγάλο	μεγάλος	Aj	Aj	Ba|Ne|Sg|Ac	7	Atr	_	_	
+7	καΐκι	καΐκι	No	NoCm	Ne|Sg|Ac	4	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	12	AuxP	_	_	
+2	καΐκι	καΐκι	No	NoCm	Ne|Sg|Ac	1	Adv	_	_	
+3	του	ο	At	AtDf	Ne|Sg|Ge	5	Det	_	_	
+4	κάθε	κάθε	Pn	PnId	Ne|03|Sg|Ac|Xx	5	Atr	_	_	
+5	βράδυ	βράδυ	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+6	οι	ο	At	AtDf	Ma|Pl|Nm	7	Det	_	_	
+7	ψαράδες	ψαράς	No	NoCm	Ma|Pl|Nm	12	Sb	_	_	
+8	,	,	PUNCT	PUNCT	_	10	AuxX	_	_	
+9	πριν	πριν	Ad	Ad	Ba	10	Adv	_	_	
+10	κοιμηθούν	κοιμάμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	7	Atr	_	_	
+11	,	,	PUNCT	PUNCT	_	10	AuxX	_	_	
+12	έλεγαν	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+13	ιστορίες	ιστορία	No	NoCm	Fe|Pl|Ac	12	Obj	_	_	
+14	για	για	AsPp	AsPpSp	_	13	AuxP	_	_	
+15	τη	ο	At	AtDf	Fe|Sg|Ac	16	Det	_	_	
+16	θάλασσα	θάλασσα	No	NoCm	Fe|Sg|Ac	14	Atr	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	AuxG	_	_	
+2	Θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+3	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ge|We	4	IObj	_	_	
+4	πείτε	λέγω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	μια	ένας	At	AtId	Fe|Sg|Ac	6	Det	_	_	
+6	ιστορία	ιστορία	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	AuxG	_	_	
+2	Θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+3	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ge|We	4	IObj	_	_	
+4	πω	λέγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	ένα	ένας	At	AtId	Ne|Sg|Nm	6	Det	_	_	
+6	παραμύθι	παραμύθι	No	NoCm	Ne|Sg|Ac	4	Obj	_	_	
+7	που	που	Pn	PnRe	Ne|03|Sg|Ac|Xx	8	Obj	_	_	
+8	λέει	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Atr	_	_	
+9	γιατί	γιατί	Cj	CjSb	_	8	AuxC	_	_	
+10	η	ο	At	AtDf	Fe|Sg|Nm	11	Det	_	_	
+11	θάλασσα	θάλασσα	No	NoCm	Fe|Sg|Nm	12	Sb	_	_	
+12	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	9	Adv	_	_	
+13	αλμυρή	αλμυρός	Aj	Aj	Ba|Fe|Sg|Nm	12	Pnom	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μια	ένας	At	AtId	Fe|Sg|Nm	2	Det	_	_	
+2	φορά	φορά	No	NoCm	Fe|Sg|Nm	6	Sb	_	_	
+3	κι	και	Cj	CjCo	_	5	AuxY	_	_	
+4	έναν	ένας	At	AtId	Ma|Sg|Ac	5	Det	_	_	
+5	καιρό	καιρός	No	NoCm	Ma|Sg|Ac	2	Atr	_	_	
+6	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	ένας	ένας	At	AtId	Ma|Sg|Nm	9	Det	_	_	
+8	φτωχός	φτωχός	Aj	Aj	Ba|Ma|Sg|Nm	9	Atr	_	_	
+9	ναυτικός	ναυτικός	No	NoCm	Ma|Sg|Nm	6	Pnom	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	είχε	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+3	λεφτά	λεφτά	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	πεινούσε	πεινώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+6	πολύ	πολύ	Ad	Ad	Ba	5	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σε	σε	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	μια	ένας	At	AtId	Fe|Sg|Ac	4	Det	_	_	
+3	παραλία	παράλιος	Aj	Aj	Ba|Fe|Sg|Ac	4	Obj	_	_	
+4	βρήκε	βρίσκω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+5	ένα	ένας	At	AtId	Ne|Sg|Nm	7	Det	_	_	
+6	παλιό	παλιός	Aj	Aj	Ba|Ne|Sg|Nm	7	Atr	_	_	
+7	κουτί	κουτί	No	NoCm	Ne|Sg|Nm	4	Sb	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	"	"	OPUNCT	OPUNCT	_	4	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	4	Obj	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	8	Obj	_	_	
+5	μέσα	μέσα	Ad	Ad	Ba	4	AuxP	_	_	
+6	;	;	PTERM_P	PTERM_P	_	5	AuxG	_	_	
+7	"	"	CPUNCT	CPUNCT	_	4	AuxG	_	_	
+8	σκέφτηκε	σκέφτομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	"	"	OPUNCT	OPUNCT	_	3	AuxG	_	_	
+2	Μήπως	μήπως	Ad	Ad	Ba	3	Adv	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	φαγητό	φαγητό	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+6	"	"	CPUNCT	CPUNCT	_	3	AuxG	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	ναυτικός	ναυτικός	Aj	Aj	Ba|Ma|Sg|Nm	3	Sb	_	_	
+3	άνοιξε	ανοίγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	κουτί	κουτί	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	άδειο	άδειος	Aj	Aj	Ba|Ne|Sg|Nm	1	Pnom	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	"	"	OPUNCT	OPUNCT	_	2	AuxG	_	_	
+2	Αχ	αχ	Ij	Ij	_	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+
+1	Πόσο	πόσο	Ad	Ad	Ba	2	Adv	_	_	
+2	πεινάω	πεινώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	5	Obj	_	_	
+2	ένα	ένας	At	AtId	Ne|Sg|Ac	3	Det	_	_	
+3	μήλο	μήλο	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	"	"	CPUNCT	CPUNCT	_	1	AuxG	_	_	
+5	είπε	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	ο	ο	At	AtDf	Ma|Sg|Nm	7	Det	_	_	
+7	ναυτικός	ναυτικός	Aj	Aj	Ba|Ma|Sg|Nm	5	Sb	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αμέσως	αμέσως	Ad	Ad	Ba	2	Adv	_	_	
+2	βγήκε	βγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	κουτί	κουτί	No	NoCm	Ne|Sg|Ac	3	Adv	_	_	
+6	ένα	ένας	At	AtId	Ne|Sg|Ac	9	Det	_	_	
+7	μεγάλο	μεγάλος	Aj	Aj	Ba|Ne|Sg|Ac	9	Atr	_	_	
+8	κόκκινο	κόκκινος	Aj	Aj	Ba|Ne|Sg|Ac	9	Atr	_	_	
+9	μήλο	μήλο	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	κουτί	κουτί	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+3	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	μαγικό	μαγικός	Aj	Aj	Ba|Ne|Sg|Nm	3	Pnom	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	ναυτικός	ναυτικός	Aj	Aj	Ba|Ma|Sg|Nm	6	Sb	_	_	
+3	έφαγε	τρώω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	μήλο	μήλο	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	είπε	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+8	:	:	PTERM_P	PTERM_P	_	11	AuxG	_	_	
+9	"	"	OPUNCT	OPUNCT	_	11	AuxG	_	_	
+10	Τώρα	τώρα	Ad	Ad	Ba	11	Adv	_	_	
+11	θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+12	ένα	ένας	At	AtId	Ne|Sg|Ac	13	Det	_	_	
+13	καΐκι	καΐκι	No	NoCm	Ne|Sg|Ac	11	Obj	_	_	
+14	για	για	AsPp	AsPpSp	_	11	AuxP	_	_	
+15	να	να	Pt	PtSj	_	16	AuxV	_	_	
+16	ταξιδεύω	ταξιδεύω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	14	Adv	_	_	
+17	"	"	CPUNCT	CPUNCT	_	11	AuxG	_	_	
+18	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αμέσως	αμέσως	Ad	Ad	Ba	2	Adv	_	_	
+2	βγήκε	βγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	κουτί	κουτί	No	NoCm	Ne|Sg|Ac	3	Adv	_	_	
+6	ένα	ένας	At	AtId	Ne|Sg|Ac	8	Det	_	_	
+7	μεγάλο	μεγάλος	Aj	Aj	Ba|Ne|Sg|Ac	8	Atr	_	_	
+8	καΐκι	καΐκι	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	ναυτικός	ναυτικός	Aj	Aj	Ba|Ma|Sg|Nm	3	Sb	_	_	
+3	μπήκε	μπαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+5	καΐκι	καΐκι	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πήρε	παίρνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+2	μαζί	μαζί	Ad	Ad	Ba	1	Adv	_	_	
+3	του	εγώ	Pn	PnPe	Ma|03|Sg|Ge|We	2	Adv	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Nm	7	Det	_	_	
+6	μαγικό	μαγικός	Aj	Aj	Ba|Ne|Sg|Nm	7	Atr	_	_	
+7	κουτί	κουτί	No	NoCm	Ne|Sg|Nm	4	ExD_Co	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Την	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+2	τρίτη	τρίτος	Nm	NmOd	Fe|Sg|Ac|Aj	3	Atr	_	_	
+3	μέρα	μέρα	No	NoCm	Fe|Sg|Ac	8	Adv	_	_	
+4	του	ο	At	AtDf	Ne|Sg|Ge	5	Det	_	_	
+5	ταξιδιού	ταξίδι	No	NoCm	Ne|Sg|Ge	3	Atr	_	_	
+6	ο	ο	At	AtDf	Ma|Sg|Nm	7	Det	_	_	
+7	ναυτικός	ναυτικός	Aj	Aj	Ba|Ma|Sg|Nm	8	Sb	_	_	
+8	έψησε	ψήνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+9	ψάρια	ψάρι	No	NoCm	Ne|Pl|Ac	8	Obj	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+11	"	"	CPUNCT	CPUNCT	_	0	AuxG	_	_	
+
+1	Θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	9	Obj	_	_	
+2	αλάτι	αλάτι	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+3	για	για	AsPp	AsPpSp	_	1	AuxP	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	βάλω	βάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Adv	_	_	
+6	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	5	AuxP	_	_	
+7	ψάρια	ψάρι	No	NoCm	Ne|Pl|Ac	6	Adv	_	_	
+8	"	"	CPUNCT	CPUNCT	_	1	AuxG	_	_	
+9	είπε	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+10	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	9	AuxP	_	_	
+11	κουτί	κουτί	No	NoCm	Ne|Sg|Ac	10	Adv	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	κουτί	κουτί	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+3	άρχισε	αρχίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	αμέσως	αμέσως	Ad	Ad	Ba	3	Adv	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	βγάζει	βγάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+7	αλάτι	αλάτι	No	NoCm	Ne|Sg|Ac	6	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ξαφνικά	ξαφνικά	Ad	Ad	Ba	2	Adv	_	_	
+2	φύσηξε	φυσάω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+3	δυνατός	δυνατός	Aj	Aj	Ba|Ma|Sg|Nm	4	Atr	_	_	
+4	αέρας	αέρας	No	NoCm	Ma|Sg|Nm	2	Sb	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	έριξε	ρίχνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	κουτί	κουτί	No	NoCm	Ne|Sg|Ac	6	Obj	_	_	
+9	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	6	AuxP	_	_	
+10	θάλασσα	θάλασσα	No	NoCm	Fe|Sg|Ac	9	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Από	από	AsPp	AsPpSp	_	5	AuxP	_	_	
+2	τότε	τότε	Ad	Ad	Ba	1	Adv	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	κουτί	κουτί	No	NoCm	Ne|Sg|Ac	5	Sb	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	10	Pred_Co	_	_	
+6	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	5	AuxP	_	_	
+7	βυθό	βυθός	No	NoCm	Ma|Sg|Ac	6	Adv	_	_	
+8	της	ο	At	AtDf	Fe|Sg|Ge	9	Det	_	_	
+9	θάλασσας	θάλασσα	No	NoCm	Fe|Sg|Ge	7	Atr	_	_	
+10	και	και	Cj	CjCo	_	0	Coord	_	_	
+11	βγάζει	βγάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+12	συνέχεια	συνέχεια	No	NoCm	Fe|Sg|Ac	11	Obj	_	_	
+13	αλάτι	αλάτι	No	NoCm	Ne|Sg|Ac	12	Atr	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γι'	για	AsPp	AsPpSp	_	5	AuxP	_	_	
+2	αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Ac|Xx	4	Atr	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	θάλασσα	θάλασσα	No	NoCm	Fe|Sg|Nm	1	Adv	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	αλμυρή	αλμυρός	Aj	Aj	Ba|Fe|Sg|Nm	5	Pnom	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

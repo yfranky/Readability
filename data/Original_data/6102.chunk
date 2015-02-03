@@ -1,0 +1,77 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1	TOK	Ξέρεις	ξέρω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+1\8	TOK	ότι	ότι	CjSb
+1\11	PTERM_P	...	...	PTERM_P
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\16	PTERM_P	...	...	PTERM_P
+	SYN	[np_nm
+1\19	TOK	η	ο	AtDfFeSgNm
+1\21	TOK	ημερομηνία	ημερομηνία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\32	TOK	λήξης	λήξη	NoCmFeSgGe
+1\38	TOK	μας	μου	PnPoMa01PlGeXx
+	SYN	/np_ge]
+	SYN	[vg
+1\42	TOK	λέει	λέγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\47	TOK	πότε	πότε	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\52	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_q
+	SYN	[vg
+1\60	TOK	χαλάει	χαλώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\67	TOK	το	ο	AtDfNeSgAc
+1\70	TOK	προϊόν	προϊόν	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\77	TOK	που	που	PnReNe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\81	TOK	αγοράζουμε	αγοράζω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl_q]
+1\91	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\93	TOK	Δεν	δεν	PtNg
+1\97	TOK	πρέπει	πρέπει	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\104	TOK	να	να	PtSj
+	SYN	[np_ac
+1\107	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+1\110	TOK	χρησιμοποιούμε	χρησιμοποιώ	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\125	TOK	μετά	μετά	AsPpSp
+	SYN	[np_ac
+1\130	TOK	την	ο	AtDfFeSgAc
+1\134	TOK	ημερομηνία	ημερομηνία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\145	TOK	λήξης	λήξη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_o]
+1\150	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,110 @@
+	(SENT	<S>
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1	TOK	Αρχιτεκτονικό	αρχιτεκτονικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\15	TOK	κτίσμα	κτίσμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[advp
+1\22	TOK	όπου	όπου	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\27	TOK	βάσεις	βάση	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\34	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\38	TOK	πέτρες	πέτρα	NoCmFePlAc
+	SYN	/np_ac]
+1\45	TOK	και	και	CjCo
+	SYN	[np_ac
+1\49	TOK	πλίνθους	πλίνθος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\58	TOK	στηρίζουν	στηρίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\68	TOK	μία	ένας	PnIdFe03SgNmXx
+	SYN	/np_nm]
+	SYN	/cl_r]
+1\72	TOK	ή	ή	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\74	TOK	περισσότερες	πολύς	AjCpFePlAc
+	SYN	/adjp_ac]
+1\87	TOK	καμπύλες	καμπύλη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\96	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\100	TOK	σχηματίζουν	σχηματίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\112	TOK	καμάρες	καμάρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+1\119	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\121	TOK	Οι	ο	AtDfMaPlNm
+1\124	TOK	Ρωμαίοι	Ρωμαίος	NoPrMaPlNm
+	SYN	/np_nm]
+1\131	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\133	TOK	μετά	μετά	AdXxBa
+	SYN	[pp
+1\138	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\142	TOK	κάθε	κάθε	PnIdFe03SgAcXx
+	SYN	[adjp_ac
+1\147	TOK	μεγάλη	μεγάλος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\154	TOK	νίκη	νίκη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[pp
+1\159	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\162	TOK	μάχη	μάχη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\166	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\168	TOK	ήθελαν	θέλω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\175	TOK	να	να	PtSj
+1\178	TOK	περνούν	περνώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\186	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\191	TOK	πόλη	πόλη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\196	TOK	μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\201	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\205	TOK	μια	ένας	AtIdFeSgAc
+1\209	TOK	τέτοια	τέτοιος	PnDmFe03SgAcXx
+1\216	TOK	πόρτα	πόρτα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\222	TOK	θριάμβου	θρίαμβος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl_o]
+1\230	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

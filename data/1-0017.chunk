@@ -1,0 +1,64 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Μια	ένας	AtIdFeSgNm
+	SYN	[adjp_nm
+1\5	TOK	όμορφη	όμορφος	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\12	TOK	γειτονιά	γειτονιά	NoCmFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\22	TOK	Η	ο	AtDfFeSgNm
+1\24	TOK	Γωγώ	Γωγώ	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\29	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\31	TOK	γκρίζα	γκρίζος	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\38	TOK	γάτα	γάτα	NoCmFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\44	TOK	αγαπάει	αγαπώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\52	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\57	TOK	το	ο	AtDfNeSgNm
+1\60	TOK	γάλα	γάλα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\64	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\67	TOK	Η	ο	AtDfFeSgNm
+1\69	TOK	Γωγώ	Γωγώ	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\74	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\78	TOK	γειτονιά	γειτονιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\88	TOK	φίλους	φίλος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[vg
+1\95	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\100	TOK	τα	ο	AtDfNePlAc
+1\103	TOK	παιδιά	παιδί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\109	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,230 @@
+1	O	O	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+2	“	“	OPUNCT	OPUNCT	_	3	AuxG	_	_	
+3	βιβλιοφάγος	βιβλιοφάγος	No	NoCm	Ma|Sg|Nm	1	Atr_Pa	_	_	
+4	”	”	CPUNCT	CPUNCT	_	3	AuxG	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Μπογιάν	μπογιά	No	NoCm	Fe|Sg|Ac	3	Adv_Co	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	Αλί	Αλί	Rg	RgFw	_	6	Obj	_	_	
+6	κέρδισαν	κερδίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Nm	8	Det	_	_	
+8	βραβείο	βραβείο	No	NoCm	Ne|Sg|Nm	6	Sb	_	_	
+9	του	ο	At	AtDf	Ma|Sg|Ge	11	Det	_	_	
+10	«	«	OPUNCT	OPUNCT	_	11	AuxG	_	_	
+11	βιβλιοφάγου	βιβλιοφάγος	No	NoCm	Ma|Sg|Ge	8	Atr	_	_	
+12	»	»	CPUNCT	CPUNCT	_	11	AuxG	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σήμερα	σήμερα	Ad	Ad	Ba	4	Adv	_	_	
+2	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+3	σχολείο	σχολείο	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+4	απονέμονται	απονέμω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	τα	ο	At	AtDf	Ne|Pl|Nm	6	Det	_	_	
+6	βραβεία	βραβείο	No	NoCm	Ne|Pl|Nm	4	Sb	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Οι	ο	At	AtDf	Ma|Pl|Nm	2	Det	_	_	
+2	γονείς	γονέας	No	NoCm	Ma|Pl|Nm	8	Sb_Co	_	_	
+3	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	2	Pos	_	_	
+4	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+5	η	ο	At	AtDf	Fe|Sg|Nm	7	Det	_	_	
+6	κυρία	κυρία	No	NoCm	Fe|Sg|Nm	7	Atr	_	_	
+7	Σίμου	Σίμος	No	NoPr	Ma|Sg|Ge	8	Atr_Co	_	_	
+8	και	και	Cj	CjCo	_	11	Coord	_	_	
+9	οι	ο	At	AtDf	Ma|Pl|Nm	10	Det	_	_	
+10	φίλοι	φίλος	No	NoCm	Ma|Pl|Nm	8	Sb_Co	_	_	
+11	μιλούν	μιλώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+12	γι’	για	AsPp	AsPpSp	_	11	AuxP	_	_	
+13	αυτούς	αυτός	Pn	PnDm	Ma|03|Pl|Ac|Xx	12	Adv	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Για	για	AsPp	AsPpSp	_	0	ExD	_	_	
+2	τον	ο	At	AtDf	Ma|Sg|Ac	3	Det	_	_	
+3	Μπογιάν	μπογιά	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	4	Obj	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	πω	λέγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	για	για	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	τον	ο	At	AtDf	Ma|Sg|Ac	7	Det	_	_	
+7	Μπογιάν	μπογιά	No	NoCm	Fe|Sg|Ac	5	Adv	_	_	
+8	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	πολύ	πολύ	Ad	Ad	Ba	3	Adv	_	_	
+3	καλός	καλός	Aj	Aj	Ba|Ma|Sg|Nm	4	Atr	_	_	
+4	μαθητής	μαθητής	No	NoCm	Ma|Sg|Nm	1	Pnom	_	_	
+5	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+6	πάντα	πάντα	Ad	Ad	Ba	7	Adv	_	_	
+7	κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Sb	_	_	
+8	τις	ο	At	AtDf	Fe|Pl|Ac	9	Det	_	_	
+9	εργασίες	εργασία	No	NoCm	Fe|Pl|Ac	7	Obj	_	_	
+10	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	9	Pos	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	1	Pred_Co	_	_	
+3	μεγάλος	μεγάλος	Aj	Aj	Ba|Ma|Sg|Nm	4	Atr	_	_	
+4	φαγάς	φαγάς	No	NoCm	Ma|Sg|Nm	2	Pnom	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εννοώ	εννοώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	5	Obj	_	_	
+2	τρώει	τρώω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+3	βιβλία	βιβλίο	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+4	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+5	διαβάζει	διαβάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Α	α	No	NoCm	Ne|Sg|Nm	3	Sb_Ap	_	_	
+3	,	,	PUNCT	PUNCT	_	6	Apos	_	_	
+4	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	3	Sb_Ap	_	_	
+5	δεν	δεν	Pt	PtNg	_	6	AuxV	_	_	
+6	ξέρω	ξέρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	8	Obj	_	_	
+7	πότε	πότε	Ad	Ad	Ba	6	Adv	_	_	
+8	διαβάζει	διαβάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πωρωμένος	πωρωμένος	Aj	Aj	Ba|Ma|Sg|Nm	0	ExD	_	_	
+2	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	κομπιούτερ	κομπιούτερ	Rg	RgFw	_	5	Sb	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	2	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Καρφώνεται	καρφώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	4	Pred_Co	_	_	
+2	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+3	οθόνη	οθόνη	No	NoCm	Fe|Sg|Ac	2	Adv	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	τρελαίνεται	τρελαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	4	Pred_Co	_	_	
+6	με	με	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	Ίντερνετ	Ίντερνετ	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Τώρα	τώρα	Ad	Ad	Ba	1	Adv	_	_	
+3	καταλαβαίνω	καταλαβαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	γιατί	γιατί	Cj	CjSb	_	3	AuxC	_	_	
+5	ο	ο	At	AtDf	Ma|Sg|Nm	6	Det	_	_	
+6	φίλος	φίλος	No	NoCm	Ma|Sg|Nm	22	Sb	_	_	
+7	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	6	Pos	_	_	
+8	ο	ο	At	AtDf	Ma|Sg|Nm	9	Det	_	_	
+9	Μπογιάν	μπογιά	No	NoCm	Ma|Sg|Nm	6	Atr	_	_	
+10	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+11	όταν	όταν	Cj	CjSb	_	22	AuxC	_	_	
+12	έρχεται	έρχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	11	Adv	_	_	
+13	σε	σε	AsPp	AsPpSp	_	12	AuxP	_	_	
+14	πάρτι	πάρτι	No	NoCm	Ne|Pl|Ac	15	Obj_Co	_	_	
+15	ή	ή	Cj	CjCo	_	13	Coord	_	_	
+16	βόλτα	βόλτα	No	NoCm	Fe|Sg|Ac	15	Obj_Co	_	_	
+17	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+18	όλο	όλο	Ad	Ad	Ba	22	Adv	_	_	
+19	για	για	AsPp	AsPpSp	_	18	AuxP	_	_	
+20	βιβλία	βιβλίο	No	NoCm	Ne|Pl|Ac	19	Adv	_	_	
+21	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	20	Pos	_	_	
+22	μιλάει	μιλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Adv	_	_	
+23	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Για	για	AsPp	AsPpSp	_	0	ExD	_	_	
+2	τον	ο	At	AtDf	Ma|Sg|Ac	3	Det	_	_	
+3	Αλί	Αλί	Rg	RgFw	_	1	Adv	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Του	εγώ	Pn	PnPe	Ma|03|Sg|Ge|We	3	IObj	_	_	
+3	αρέσει	αρέσω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	ονειρεύεται	ονειρεύομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	6	IObj_Co	_	_	
+6	και	και	Cj	CjCo	_	3	Coord	_	_	
+7	να	να	Pt	PtSj	_	8	AuxV	_	_	
+8	φαντάζεται	φαντάζομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	6	IObj_Co	_	_	
+9	διάφορα	διάφορος	Aj	Aj	Ba|Ne|Pl|Nm	10	Atr	_	_	
+10	πράγματα	πράγμα	No	NoCm	Ne|Pl|Nm	8	Sb	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	τόσο	τόσο	Ad	Ad	Ba	3	Adv	_	_	
+3	ντροπαλός	ντροπαλός	Aj	Aj	Ba|Ma|Sg|Nm	1	Pnom	_	_	
+4	που	που	Pn	PnRe	Fe|03|Sg|Nm|Xx	5	Sb	_	_	
+5	κοκκινίζει	κοκκινίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Atr	_	_	
+6	όταν	όταν	Cj	CjSb	_	5	AuxC	_	_	
+7	του	εγώ	Pn	PnPe	Ma|03|Sg|Ge|We	8	IObj	_	_	
+8	λες	λέγω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	6	Adv	_	_	
+9	κάτι	κάτι	Pn	PnId	Ne|03|Sg|Ac|Xx	8	Obj	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Και	και	Cj	CjCo	_	0	Coord	_	_	
+3	σοβαρός	σοβαρός	Aj	Aj	Ba|Ma|Sg|Nm	2	Pnom_Co	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	3	Sb	_	_	
+2	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	3	Obj	_	_	
+3	φωνάζω	φωνάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	κατσούφη	κατσούφης	Aj	Aj	Ba|Ma|Sg|Ac	3	Pnom	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θυμώνει	θυμώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+2	αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+3	δεν	δεν	Pt	PtNg	_	4	AuxV	_	_	
+4	πειράζει	πειράζω	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	2	Obj	_	_	
+2	αγαπάμε	αγαπώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πολύ	πολύ	Ad	Ad	Ba	2	Adv	_	_	
+4	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+5	παρέα	παρέα	No	NoCm	Fe|Sg|Ac	4	Adv	_	_	
+6	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	5	Pos	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	5	Atr	_	_	
+2	Ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+3	Αλί	Αλί	Rg	RgFw	_	5	Atr	_	_	
+4	πολλές	πολύς	Aj	Aj	Ba|Fe|Pl|Ac	5	Atr	_	_	
+5	φορές	φορά	No	NoCm	Fe|Pl|Ac	6	Adv	_	_	
+6	παίρνει	παίρνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	βιβλίο	βιβλίο	No	NoCm	Ne|Sg|Ac	6	Obj	_	_	
+9	και	και	Cj	CjCo	_	0	Coord	_	_	
+10	κλείνεται	κλείνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	9	Pred_Co	_	_	
+11	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	10	AuxP	_	_	
+12	δωμάτιό	δωμάτιο	No	NoCm	Ne|Sg|Ac	11	Adv	_	_	
+13	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	12	Pos	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	3	Sb	_	_	
+2	του	εγώ	Pn	PnPe	Ma|03|Sg|Ge|We	3	IObj	_	_	
+3	φωνάζω	φωνάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	σταμάτα	σταματώ	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	3	Adv_Pa	_	_	
+6	Αλί	Αλί	Rg	RgFw	_	5	Obj	_	_	
+7	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+8	μη	μην	Pt	PtNg	_	9	AuxV	_	_	
+9	διαβάζεις	διαβάζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+10	άλλο	άλλος	Pn	PnId	Ne|03|Sg|Ac|Xx	9	Obj	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πάντα	πάντα	Ad	Ad	Ba	5	Adv	_	_	
+2	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	1	AuxP	_	_	
+3	γιορτές	γιορτή	No	NoCm	Fe|Pl|Ac	2	Adv	_	_	
+4	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	3	Pos	_	_	
+5	γράφει	γράφω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	12	Adv	_	_	
+6	καρτούλες	καρτούλα	No	NoCm	Fe|Pl|Ac	5	Obj	_	_	
+7	:	:	PTERM_P	PTERM_P	_	5	AuxG	_	_	
+8	“	“	OPUNCT	OPUNCT	_	9	AuxG	_	_	
+9	Μπαμπάκα	μπαμπάκας	No	NoCm	Ma|Sg|Ac	5	Obj	_	_	
+10	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+11	σ’	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	12	Obj	_	_	
+12	αγαπώ	αγαπώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+13	”	”	CPUNCT	CPUNCT	_	12	AuxG	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	τόσο	τόσο	Ad	Ad	Ba	3	Adv	_	_	
+3	αγαπησιάρης	αγαπησιάρης	Aj	Aj	Ba|Ma|Sg|Nm	1	Pnom	_	_	
+4	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

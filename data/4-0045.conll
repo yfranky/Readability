@@ -1,0 +1,154 @@
+1	Θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	επιστρέψω	επιστρέφω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	αυτή	αυτός	Pn	PnDm	Fe|03|Sg|Ac|Xx	6	Atr	_	_	
+5	τη	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	ζώνη	ζώνη	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+7	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Ντόροθι	Ντόροθι	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+3	αγόρασε	αγοράζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	μια	ένας	At	AtId	Fe|Sg|Ac	5	Det	_	_	
+5	μέρα	μέρα	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+6	μια	ένας	At	AtId	Fe|Sg|Ac	8	Det	_	_	
+7	ωραία	ωραίος	Aj	Aj	Ba|Fe|Sg|Ac	8	Atr	_	_	
+8	ζώνη	ζώνη	No	NoCm	Fe|Sg|Ac	5	Atr	_	_	
+9	για	για	AsPp	AsPpSp	_	8	AuxP	_	_	
+10	το	ο	At	AtDf	Ne|Sg|Ac	11	Det	_	_	
+11	καλό	καλός	Aj	Aj	Ba|Ne|Sg|Ac	9	Atr	_	_	
+12	της	ο	At	AtDf	Fe|Sg|Ge	13	Det	_	_	
+13	παντελόνι	παντελόνι	No	NoCm	Ne|Sg|Ac	11	Atr	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+2	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	1	Adv	_	_	
+3	όμως	όμως	Cj	CjCo	_	0	Coord	_	_	
+4	διαπίστωσε	διαπιστώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+5	ότι	ότι	Cj	CjSb	_	4	AuxC	_	_	
+6	η	ο	At	AtDf	Fe|Sg|Nm	7	Det	_	_	
+7	ζώνη	ζώνη	No	NoCm	Fe|Sg|Nm	9	Sb	_	_	
+8	αυτή	αυτός	Pn	PnDm	Fe|03|Sg|Nm|Xx	7	Atr	_	_	
+9	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	5	Obj	_	_	
+10	πολύ	πολύ	Ad	Ad	Ba	11	Adv	_	_	
+11	φαρδιά	φαρδιά	Ad	Ad	Ba	9	Adv	_	_	
+12	για	για	AsPp	AsPpSp	_	9	AuxP	_	_	
+13	το	ο	At	AtDf	Ne|Sg|Ac	14	Det	_	_	
+14	παντελόνι	παντελόνι	No	NoCm	Ne|Sg|Ac	12	Adv	_	_	
+15	της	μου	Pn	PnPo	Fe|03|Sg|Ge|Xx	14	Pos	_	_	
+16	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Ειρήνη	Ειρήνη	Aj	Aj	Ba|Fe|Sg|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	μπορούμε	μπορώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Atr	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	4	Obj	_	_	
+7	αύριο	αύριο	Ad	Ad	Ba	6	Adv	_	_	
+8	να	να	Pt	PtSj	_	9	AuxV	_	_	
+9	επιστρέψουμε	επιστρέφω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	6	Obj	_	_	
+10	τη	ο	At	AtDf	Fe|Sg|Ac	11	Det	_	_	
+11	ζώνη	ζώνη	No	NoCm	Fe|Sg|Ac	9	Obj	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Γιατί	γιατί	Ad	Ad	Ba	0	ExD	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+2	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	3	IObj	_	_	
+3	αρέσει	αρέσω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	3	IObj	_	_	
+3	αρέσει	αρέσω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+6	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	5	Pred_Co	_	_	
+7	φαρδιά	φαρδιά	Ad	Ad	Ba	6	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Είχες	έχω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	3	AuxV	_	_	
+3	δει	βλέπω	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τουλάχιστον	τουλάχιστο	Ad	Ad	Ba	3	Adv	_	_	
+5	κάποια	κάποιος	Pn	PnId	Fe|03|Sg|Ac|Xx	3	Obj	_	_	
+6	άλλη	άλλος	Pn	PnId	Fe|03|Sg|Ac|Xx	5	Atr	_	_	
+7	που	που	Pn	PnRe	Fe|03|Sg|Nm|Xx	9	Sb	_	_	
+8	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	9	IObj	_	_	
+9	άρεσε	αρέσω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Atr	_	_	
+10	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+11	για	για	AsPp	AsPpSp	_	9	AuxP	_	_	
+12	να	να	Pt	PtSj	_	14	AuxV	_	_	
+13	την	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	14	Obj	_	_	
+14	αλλάξεις	αλλάζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	11	Adv	_	_	
+15	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	10	AuxG	_	_	
+2	Όχι	όχι	Ad	Ad	Ba	1	AuxY	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	από	από	AsPp	AsPpSp	_	10	AuxP	_	_	
+5	τις	ο	At	AtDf	Fe|Pl|Ac	6	Det	_	_	
+6	ζώνες	ζώνη	No	NoCm	Fe|Pl|Ac	4	Adv	_	_	
+7	μόνο	μόνο	Ad	Ad	Ba	8	Adv	_	_	
+8	αυτή	αυτός	Pn	PnDm	Fe|03|Sg|Nm|Xx	10	Sb	_	_	
+9	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	10	Obj	_	_	
+10	άρεσε	αρέσω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σκεφτόμουν	σκέφτομαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	4	AuxV	_	_	
+3	την	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	4	Obj	_	_	
+4	επιστρέψω	επιστρέφω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+5	και	και	Cj	CjCo	_	8	AuxY	_	_	
+6	να	να	Pt	PtSj	_	8	AuxV	_	_	
+7	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	8	IObj	_	_	
+8	γυρίσουν	γυρίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	4	Obj	_	_	
+9	τα	ο	At	AtDf	Ne|Pl|Ac	10	Det	_	_	
+10	χρήματα	χρήμα	No	NoCm	Ne|Pl|Ac	8	Obj	_	_	
+11	πίσω	πίσω	Ad	Ad	Ba	8	Adv	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	6	AuxP	_	_	
+3	Ελλάδα	Ελλάδα	No	NoPr	Fe|Sg|Ac	2	Adv	_	_	
+4	αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Nm|Xx	6	Sb	_	_	
+5	δεν	δεν	Pt	PtNg	_	6	AuxV	_	_	
+6	γίνεται	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ποτέ	ποτέ	Ad	Ad	Ba	4	Adv	_	_	
+2	δεν	δεν	Pt	PtNg	_	4	AuxV	_	_	
+3	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	4	IObj	_	_	
+4	επιστρέφουν	επιστρέφω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+6	χρήματα	χρήμα	No	NoCm	Ne|Pl|Ac	4	Obj	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μπορείς	μπορώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μόνο	μόνο	Ad	Ad	Ba	1	Adv	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	πάρεις	παίρνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+5	κάτι	κάτι	Pn	PnId	Ne|03|Sg|Ac|Xx	6	Atr	_	_	
+6	άλλο	άλλος	Pn	PnId	Ne|03|Sg|Ac|Xx	4	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Σοβαρά	σοβαρά	Ad	Ad	Ba	0	ExD	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πολύ	πολύ	Ad	Ad	Ba	2	Adv	_	_	
+2	κακό	κακός	Aj	Aj	Ba|Ne|Sg|Nm	3	Atr	_	_	
+3	αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Ac|Xx	0	ExD	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	κάνω	κάνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	3	Sb	_	_	
+5	τώρα	τώρα	Ad	Ad	Ba	3	Adv	_	_	
+6	τη	ο	At	AtDf	Fe|Sg|Ac	7	Det	_	_	
+7	ζώνη	ζώνη	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

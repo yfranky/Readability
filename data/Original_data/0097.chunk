@@ -1,0 +1,82 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\2	TOK	Τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\5	TOK	έκανες	κάνω	VbMnIdPa02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\12	TOK	χτες	χθες	AdXxBa
+	SYN	/advp]
+1\16	PUNCT	,	,	PUNCT
+1\18	TOK	Τζεμάλ	Τζεμάλ	RgFwTr
+	SYN	/cl_q]
+1\24	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\27	ENUM	-	-	ENUM
+	SYN	[advp
+1\28	TOK	Χτες	χθες	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\33	TOK	πήγα	πηγαίνω	VbMnIdPa01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\38	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\42	TOK	δάσος	δάσος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\47	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\50	TOK	Είδα	βλέπω	VbMnIdPa01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\55	TOK	τα	ο	AtDfNePlAc
+1\58	TOK	ζώα	ζώο	NoCmNePlAc
+	SYN	/np_ac]
+1\61	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\63	TOK	τα	ο	AtDfNePlAc
+1\66	TOK	δέντρα	δέντρο	NoCmNePlAc
+	SYN	/np_ac]
+1\72	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\74	TOK	τα	ο	AtDfNePlAc
+1\77	TOK	λουλούδια	λουλούδι	NoCmNePlAc
+	SYN	/np_ac]
+1\87	TOK	και	και	CjCo
+	SYN	[np_ac
+1\91	TOK	τα	ο	AtDfNePlAc
+1\94	TOK	πουλιά	πουλί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\100	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\103	TOK	Έκοψα	κόβω	VbMnIdPa01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\109	TOK	ξύλα	ξύλο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\114	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\118	TOK	γύρισα	γυρίζω	VbMnIdPa01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\125	TOK	σπίτι	σπίτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\130	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

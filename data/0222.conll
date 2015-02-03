@@ -1,0 +1,68 @@
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	Πανεπιστήμιο	πανεπιστήμιο	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+3	Αιγαίου	Αιγαίο	No	NoPr	Ne|Sg|Ge	2	Atr	_	_	
+4	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	2	AuxP	_	_	
+5	Μυτιλήνη	Μυτιλήνη	No	NoPr	Fe|Sg|Ac	4	Atr	_	_	
+
+1	Μυτιλήνη	Μυτιλήνη	No	NoPr	Fe|Sg|Ac	2	ExD_Co	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	Coord	_	_	
+3	μια	ένας	At	AtId	Fe|Sg|Ac	4	Det	_	_	
+4	πόλη-πανεπιστήμιο	πόλη-πανεπιστήμιο	No	NoCm	Ne|Sg|Ac	2	ExD_Co	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	Πανεπιστήμιο	πανεπιστήμιο	No	NoCm	Ne|Sg|Nm	4	Sb	_	_	
+3	Αιγαίου	Αιγαίο	No	NoPr	Ne|Sg|Ge	2	Atr	_	_	
+4	λειτουργεί	λειτουργώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	από	από	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	1984	1984	DIG	DIG	_	5	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ένα	ένας	At	AtId	Ne|Sg|Nm	4	Det	_	_	
+3	νέο	νέος	Aj	Aj	Ba|Ne|Sg|Nm	4	Atr	_	_	
+4	πανεπιστήμιο	πανεπιστήμιο	No	NoCm	Ne|Sg|Nm	1	Pnom	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	με	με	AsPp	AsPpSp	_	4	AuxP	_	_	
+7	σχολές	σχολή	No	NoCm	Fe|Pl|Ac	6	Atr	_	_	
+8	σκορπισμένες	σκορπισμένος	Aj	Aj	Ba|Fe|Pl|Ac	7	Atr	_	_	
+9	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	7	AuxP	_	_	
+10	όμορφα	όμορφος	Aj	Aj	Ba|Ne|Pl|Ac	11	Atr	_	_	
+11	νησιά	νησί	No	NoCm	Ne|Pl|Ac	9	Atr	_	_	
+12	του	ο	At	AtDf	Ne|Sg|Ge	15	Det	_	_	
+13	ανατολικού	ανατολικός	Aj	Aj	Ba|Ne|Sg|Ge	15	Atr	_	_	
+14	Αιγαίου	Αιγαίο	No	NoPr	Ne|Sg|Ge	15	Atr	_	_	
+15	πελάγους	πέλαγος	No	NoCm	Ne|Sg|Ge	11	Atr	_	_	
+16	:	:	PTERM_P	PTERM_P	_	22	AuxG	_	_	
+17	Μυτιλήνη	Μυτιλήνη	No	NoPr	Fe|Sg|Ac	22	Atr_Co	_	_	
+18	,	,	PUNCT	PUNCT	_	22	AuxX	_	_	
+19	Χίο	Χίος	No	NoPr	Ma|Sg|Ac	22	Atr_Co	_	_	
+20	,	,	PUNCT	PUNCT	_	22	AuxX	_	_	
+21	Σάμο	Σάμος	No	NoPr	Fe|Sg|Ac	22	Atr_Co	_	_	
+22	,	,	PUNCT	PUNCT	_	7	Coord	_	_	
+23	Ρόδο	Ρόδος	No	NoPr	Fe|Sg|Ac	22	Atr_Co	_	_	
+24	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	5	AuxP	_	_	
+2	Μυτιλήνη	Μυτιλήνη	No	NoPr	Fe|Sg|Ac	1	Adv	_	_	
+3	οι	ο	At	AtDf	Fe|Pl|Nm	4	Det	_	_	
+4	σχολές	σχολή	No	NoCm	Fe|Pl|Nm	5	Sb	_	_	
+5	βρίσκονται	βρίσκω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+7	κέντρο	κέντρο	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+8	της	ο	At	AtDf	Fe|Sg|Ge	9	Det	_	_	
+9	πόλης	πόλη	No	NoCm	Fe|Sg|Ge	7	Atr	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δε	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	στεγάζονται	στεγάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	σε	σε	AsPp	AsPpSp	_	6	AuxP	_	_	
+4	καινούρια	καινούριος	Aj	Aj	Ba|Ne|Pl|Ac	5	Atr	_	_	
+5	κτίρια	κτίριο	No	NoCm	Ne|Pl|Ac	3	Adv_Co	_	_	
+6	αλλά	αλλά	Cj	CjCo	_	2	Coord	_	_	
+7	σε	σε	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	παλιά	παλιός	Aj	Aj	Ba|Ne|Pl|Ac	7	ExD_Co	_	_	
+9	αρχοντικά	αρχοντικά	Ad	Ad	Ba	8	Adv	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

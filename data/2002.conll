@@ -1,0 +1,23 @@
+1	Άννα	Άννα	No	NoPr	Fe|Sg|Ac	0	ExD	_	_	
+2	Αντωνίου	Αντώνιος	No	NoPr	Ma|Sg|Ge	1	Atr	_	_	
+
+1	Μετσόβου	Μέτσοβο	No	NoPr	Ne|Sg|Ge	0	ExD	_	_	
+2	45	45	DIG	DIG	_	1	Atr	_	_	
+
+1	Γιάννενα	Γιάννενα	No	NoPr	Ne|Pl|Ac	0	ExD	_	_	
+
+1	προς	προς	AsPp	AsPpSp	_	0	ExD	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δημήτρη	Δημήτρης	No	NoPr	Ma|Sg|Ac	2	Atr	_	_	
+2	Βασιλάκη	Βασιλάκης	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+
+1	Αδριανού	Αδριανός	No	NoPr	Ma|Sg|Ge	0	ExD	_	_	
+2	38	38	DIG	DIG	_	1	Atr	_	_	
+
+1	151	151	DIG	DIG	_	2	ExD_Co	_	_	
+2	25	25	DIG	DIG	_	0	Coord	_	_	
+3	Μαρούσι	Μαρούσι	No	NoPr	Ne|Sg|Nm	2	ExD_Co	_	_	
+
+1	Αθήνα	Αθήνα	No	NoPr	Fe|Sg|Ac	0	ExD	_	_	
+

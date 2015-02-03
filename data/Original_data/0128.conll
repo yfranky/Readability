@@ -1,0 +1,90 @@
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	έφτασαν	φτάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+5	παραλία	παράλιος	Aj	Aj	Ba|Fe|Sg|Ac	4	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τώρα	τώρα	Ad	Ad	Ba	2	Adv	_	_	
+2	τρέχουν	τρέχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	ξυπόλυτα	ξυπόλυτος	Aj	Aj	Ba|Ne|Pl|Ac	2	Obj	_	_	
+4	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+5	άμμο	άμμος	No	NoCm	Fe|Sg|Ac	4	Atr	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Χουσεΐν	Χουσεΐν	Rg	RgFw	_	3	Sb	_	_	
+3	ετοιμάζει	ετοιμάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	καλάμι	καλάμι	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	5	Pos	_	_	
+7	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+8	να	να	Pt	PtSj	_	9	AuxV	_	_	
+9	ψαρέψει	ψαρεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Adv	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Είμαστε	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	μόνοι	μόνος	Aj	Aj	Ba|Ma|Pl|Nm	2	Pnom	_	_	
+4	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	3	Pos	_	_	
+5	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+6	παραλία	παράλιος	Aj	Aj	Ba|Fe|Sg|Ac	5	ExD	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+3	καλοκαίρι	καλοκαίρι	No	NoCm	Ne|Sg|Nm	6	Sb	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	παραλία	παράλιος	Aj	Aj	Ba|Fe|Sg|Nm	3	Atr	_	_	
+6	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	γεμάτη	γεμάτος	Aj	Aj	Ba|Fe|Sg|Nm	6	Pnom	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έρχονται	έρχομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	πολλοί	πολύς	Aj	Aj	Ba|Ma|Pl|Nm	3	Atr	_	_	
+3	άνθρωποι	άνθρωπος	No	NoCm	Ma|Pl|Nm	1	Sb	_	_	
+4	για	για	AsPp	AsPpSp	_	1	AuxP	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	κολυμπήσουν	κολυμπώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	4	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Την	ο	At	AtDf	Fe|Sg|Ac	2	Det	_	_	
+2	άνοιξη	άνοιξη	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+3	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	2	AuxP	_	_	
+4	παραλία	παράλιος	Aj	Aj	Ba|Fe|Sg|Ac	5	Pnom	_	_	
+5	έρχονται	έρχομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	3	Obj	_	_	
+6	λίγοι	λίγος	Aj	Aj	Ba|Ma|Pl|Nm	7	Atr	_	_	
+7	άνθρωποι	άνθρωπος	No	NoCm	Ma|Pl|Nm	5	Sb	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	παίξουμε	παίζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	4	AuxP	_	_	
+6	βάρκες	βάρκα	No	NoCm	Fe|Pl|Ac	5	Adv	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxV	_	_	
+2	Μήπως	μήπως	Ad	Ad	Ba	3	Adv	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	και	και	Cj	CjCo	_	6	AuxY	_	_	
+5	ο	ο	At	AtDf	Ma|Sg|Nm	6	Det	_	_	
+6	κύριος	κύριος	No	NoCm	Ma|Sg|Nm	3	Pnom	_	_	
+7	Νικήτας	Νικήτας	No	NoPr	Ma|Sg|Nm	6	Atr	_	_	
+8	εκεί	εκεί	Ad	Ad	Ba	7	Adv	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έρχεται	έρχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	6	Pred_Co	_	_	
+2	κι	και	Cj	CjCo	_	1	Coord	_	_	
+3	αυτός	αυτός	Pn	PnDm	Ma|03|Sg|Nm|Xx	5	Atr	_	_	
+4	τις	ο	At	AtDf	Fe|Pl|Ac	5	Det	_	_	
+5	Κυριακές	Κυριακή	No	NoPr	Fe|Pl|Ac	2	Obj	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	ψαρεύει	ψαρεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+8	με	με	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	τη	ο	At	AtDf	Fe|Sg|Ac	10	Det	_	_	
+10	βάρκα	βάρκα	No	NoCm	Fe|Sg|Ac	8	Adv	_	_	
+11	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	10	Pos	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

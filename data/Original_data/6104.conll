@@ -1,0 +1,76 @@
+1	ΜΙΛΚ	ΜΙΛΚ	ABBR	ABBR	_	2	Atr	_	_	
+2	ΣΕΙΚ	ΣΕΙΚ	ABBR	ABBR	_	0	ExD	_	_	
+
+1	1	1	DIG	DIG	_	2	Atr	_	_	
+2	μπανάνα	μπανάνα	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+
+1	275	275	DIG	DIG	_	2	Atr	_	_	
+2	γρ	γρ	ABBR	ABBR	_	5	Coord	_	_	
+3	.	.	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+4	παγωμένο	παγωμένος	Vb	VbMn	Pp|Xx|Xx|Sg|Ne|Xx|Pv|Ac	5	Atr	_	_	
+5	γάλα	γάλα	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+
+1	1	1	DIG	DIG	_	2	Atr	_	_	
+2	κουταλάκι	κουταλάκι	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+3	μέλι	μέλι	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+
+1	1	1	DIG	DIG	_	2	Atr	_	_	
+2	αβγό	αβγό	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+
+1	λίγα	λίγος	Aj	Aj	Ba|Ne|Pl|Nm	2	Atr	_	_	
+2	παγάκια	παγάκι	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+
+1	Χτυπάς	χτυπώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	3	Det	_	_	
+3	αβγό	αβγό	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Διαλύεις	διαλύω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	3	Det	_	_	
+3	μέλι	μέλι	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+5	αβγό	αβγό	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	ανακατεύεις	ανακατεύω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+8	καλά	καλά	Ad	Ad	Ba	7	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Λιώνεις	λιώνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	την	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+3	μπανάνα	μπανάνα	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	2	Obj	_	_	
+2	προσθέτεις	προσθέτω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+3	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	2	Obj	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+5	γάλα	γάλα	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	συνεχίζεις	συνεχίζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+8	το	ο	At	AtDf	Ne|Sg|Ac	9	Det	_	_	
+9	ανακάτεμα	ανακάτεμα	No	NoCm	Ne|Sg|Ac	7	Obj	_	_	
+10	μέχρι	μέχρι	AsPp	AsPpSp	_	7	AuxP	_	_	
+11	να	να	Pt	PtSj	_	12	AuxV	_	_	
+12	κάνουν	κάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	10	Adv	_	_	
+13	αφρό	αφρός	No	NoCm	Ma|Sg|Ac	12	Obj	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σερβίρεις	σερβίρω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+2	σε	σε	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	ψηλό	ψηλός	Aj	Aj	Ba|Ne|Sg|Ac	4	Atr	_	_	
+4	ποτήρι	ποτήρι	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	ρίχνεις	ρίχνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+7	λίγα	λίγος	Aj	Aj	Ba|Ne|Pl|Ac	8	Atr	_	_	
+8	παγάκια	παγάκι	No	NoCm	Ne|Pl|Ac	6	Obj	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βάζεις	βάζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+2	και	και	Cj	CjCo	_	4	AuxY	_	_	
+3	ένα	ένας	At	AtId	Ne|Sg|Ac	4	Det	_	_	
+4	καλαμάκι	καλαμάκι	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	είσαι	είμαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	5	Pred_Co	_	_	
+7	έτοιμος	έτοιμος	Aj	Aj	Ba|Fe|Sg|Nm	6	Pnom	_	_	
+8	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

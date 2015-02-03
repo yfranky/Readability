@@ -1,0 +1,89 @@
+	(SENT	<S>
+1\1	ENUM	-	-	ENUM
+	SYN	[advp
+1\2	TOK	Καλά	καλά	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\7	TOK	Χριστούγεννα	Χριστούγεννα	NoPrNePlAc
+	SYN	/np_ac]
+1\19	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\21	TOK	Χαρούμενη	χαρούμενος	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\31	TOK	Πρωτοχρονιά	πρωτοχρονιά	NoCmFeSgNm
+	SYN	/np_nm]
+1\42	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\45	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\46	TOK	Γεια	γεια	NoCmFeSgNm
+1\51	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_nm]
+1\54	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\56	TOK	Καλές	καλός	AjBaFePlNm
+	SYN	/adjp_nm]
+1\62	TOK	διακοπές	διακοπή	NoCmFePlNm
+	SYN	/np_nm]
+1\70	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\73	ENUM	-	-	ENUM
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\74	TOK	Καλές	καλός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\80	TOK	γιορτές	γιορτή	NoCmFePlAc
+	SYN	/np_ac]
+1\87	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\90	ENUM	-	-	ENUM
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\91	TOK	Καλή	καλός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\96	TOK	Χρονιά	χρονιά	NoCmFeSgNm
+	SYN	/np_nm]
+1\102	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\105	ENUM	-	-	ENUM
+1\106	TOK	Και	και	CjCo
+	SYN	[np_ge
+1\110	TOK	του	ο	AtDfMaSgGe
+1\114	TOK	χρόνου	χρόνος	NoCmMaSgGe
+	SYN	/np_ge]
+1\120	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\123	ENUM	-	-	ENUM
+	SYN	[advp
+1\124	TOK	Τέλος	τέλος	AdXxBa
+	SYN	/advp]
+1\129	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\132	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\133	TOK	Γεια	γεια	NoCmFeSgNm
+1\138	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_nm]
+1\141	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+	SYN	[vg_s
+1\143	TOK	να	να	PtSj
+1\146	TOK	μη	μην	PtNg
+1\149	TOK	χαθούμε	χάνω	VbMnIdXx01PlXxPePvXx
+	SYN	/vg_s]
+1\156	PTERM_P	!	!	PTERM_P
+1\157	PTERM_P	...	...	PTERM_P
+	SYN	/cl_o]
+	)SENT	</S>

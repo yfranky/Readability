@@ -1,0 +1,122 @@
+1	Και	και	Cj	CjCo	_	2	AuxY	_	_	
+2	μετά	μετά	AsPp	AsPpSp	_	0	ExD	_	_	
+3	τη	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	συνέντευξη	συνέντευξη	No	NoCm	Fe|Sg|Ac	2	Adv	_	_	
+5	....	....	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxV	_	_	
+2	Έλα	έλα	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	Χριστίνα	Χριστίνα	No	NoPr	Fe|Sg|Nm	2	ExD	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Την	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	2	Obj	_	_	
+2	πήρα	παίρνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τη	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	δουλειά	δουλειά	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μπράβο	μπράβο	Ij	Ij	_	4	Atr	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	μαμά	μαμά	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Και	και	Cj	CjCo	_	3	AuxY	_	_	
+3	λέω	λέγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	κάνουμε	κάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Obj	_	_	
+6	ένα	ένας	At	AtId	Ne|Sg|Ac	7	Det	_	_	
+7	πάρτι	πάρτι	No	NoCm	Ne|Pl|Ac	5	Obj	_	_	
+8	το	ο	At	AtDf	Ne|Sg|Ac	9	Det	_	_	
+9	βράδυ	βράδυ	No	NoCm	Ne|Sg|Ac	5	IObj	_	_	
+10	να	να	Pt	PtSj	_	12	AuxV	_	_	
+11	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	12	Obj	_	_	
+12	γιορτάσουμε	γιορτάζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	5	Obj	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πάω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	ψωνίσω	ψωνίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	φτιάξω	φτιάχνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	παγωτό	παγωτό	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+4	σοκολάτα	σοκολάτα	No	NoCm	Fe|Sg|Nm	3	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+6	που	που	Pn	PnRe	Ne|03|Sg|Nm|Xx	8	Sb	_	_	
+7	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ac|We	8	Obj	_	_	
+8	αρέσει	αρέσω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Καλύτερα	καλά	Ad	Ad	Cp	0	ExD	_	_	
+3	όχι	όχι	Pt	PtNg	_	2	ExD_Co	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δε	δεν	Pt	PtNg	_	3	AuxV	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	παγώσει	παγώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+5	μέχρι	μέχρι	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	βράδυ	βράδυ	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φτιάξε	φτιάχνω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	καλύτερα	καλός	Aj	Aj	Cp|Ne|Pl|Ac	3	Atr	_	_	
+3	μηλόπιτα	μηλόπιτα	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Από	από	AsPp	AsPpSp	_	4	AuxP	_	_	
+3	φαγητό	φαγητό	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+4	είμαστε	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	7	Pred_Co	_	_	
+5	εντάξει	εντάξει	Ad	Ad	Ba	4	Adv	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+8	το	ο	At	AtDf	Ne|Sg|Nm	9	Det	_	_	
+9	σπίτι	σπίτι	No	NoCm	Ne|Sg|Nm	10	Sb	_	_	
+10	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	7	Pred_Co	_	_	
+11	χάλια	χάλι	No	NoCm	Ne|Pl|Nm	10	Pnom	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μην	μην	Pt	PtNg	_	3	AuxV	_	_	
+3	ανησυχείς	ανησυχώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ώσπου	ώσπου	Cj	CjSb	_	6	AuxC	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	έρθεις	έρχομαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	1	Adv	_	_	
+4	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	3	Sb	_	_	
+5	θα	θα	Pt	PtFu	_	6	AuxV	_	_	
+6	έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+7	πλύνει	πλένω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+8	τα	ο	At	AtDf	Ne|Pl|Ac	9	Det	_	_	
+9	πιάτα	πιάτο	No	NoCm	Ne|Pl|Ac	7	Obj	_	_	
+10	και	και	Cj	CjCo	_	0	Coord	_	_	
+11	θα	θα	Pt	PtFu	_	13	AuxV	_	_	
+12	έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	13	AuxV	_	_	
+13	φτιάξει	φτιάχνω	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+14	το	ο	At	AtDf	Ne|Sg|Ac	15	Det	_	_	
+15	σαλόνι	σαλόνι	No	NoCm	Ne|Sg|Ac	13	Obj	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+2	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	3	Obj	_	_	
+3	βοηθήσει	βοηθώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	και	και	Cj	CjCo	_	6	AuxY	_	_	
+5	ο	ο	At	AtDf	Ma|Sg|Nm	6	Det	_	_	
+6	Δημήτρης	Δημήτρης	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Εντάξει	εντάξει	Ad	Ad	Ba	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φιλιά	φιλί	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

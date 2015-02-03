@@ -1,0 +1,167 @@
+	(SENT	<S>
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1	TOK	Δύο	δύο	NmCdFePlAcAj
+	SYN	/adjp_ac]
+1\5	TOK	κότες	κότα	NoCmFePlAc
+	SYN	/np_ac]
+1\10	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\12	TOK	δύο	δύο	NmCdFePlAcAj
+1\16	TOK	άσπρες	άσπρος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\23	TOK	κότες	κότα	NoCmFePlAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\30	TOK	μπαίνουν	μπαίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\39	TOK	μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\44	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\49	TOK	μπλε	μπλε	AjBaNeSgAc
+1\54	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[np_ac
+1\58	TOK	μπότες	μπότα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\64	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\67	TOK	Κοίτα	κοιτάζω	VbMnMpXx02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\72	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[advp
+1\74	TOK	Μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\79	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\83	TOK	μία	ένας	AtIdFeSgAc
+1\87	TOK	μπότα	μπότα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\94	TOK	η	ο	AtDfFeSgNm
+1\96	TOK	μία	ένας	PnIdFe03SgNmXx
+1\100	TOK	κότα	κότα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\105	TOK	τρώει	τρώω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\111	TOK	μπισκότα	μπισκότο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\119	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\122	TOK	Τρώει	τρώω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\128	TOK	μπισκότα	μπισκότο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\136	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\138	TOK	τρώει	τρώω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+1\144	TOK	και	και	CjCo
+	SYN	[np_ac
+1\148	TOK	ρύζι	ρύζι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\152	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\155	TOK	Μπουμ	μπουμ	NoCmNePlNm
+	SYN	/np_nm]
+1\160	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\162	TOK	Μπουμ	μπουμ	NoCmNePlNm
+	SYN	/np_nm]
+1\167	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\169	TOK	Μπουμ	μπουμ	NoCmNePlNm
+	SYN	/np_nm]
+1\174	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\177	TOK	Βρέχει	βρέχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\184	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\188	TOK	μπουμπουνίζει	μπουμπουνίζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+1\203	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\207	TOK	κάνει	κάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\213	TOK	μπάνιο	μπάνιο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\220	TOK	η	ο	AtDfFeSgNm
+1\222	TOK	άλλη	άλλος	PnIdFe03SgNmXx
+1\227	TOK	κότα	κότα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[advp
+1\233	TOK	μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\238	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\243	TOK	μπλε	μπλε	AjBaNeSgAc
+1\248	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\251	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\253	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\257	TOK	μπλε	μπλε	AjBaFeSgAc
+1\262	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/adjp_ac]
+1\266	TOK	μπότα	μπότα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\271	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

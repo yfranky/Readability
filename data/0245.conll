@@ -1,0 +1,30 @@
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	χαλάζι	χαλάζι	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	συνήθως	συνήθως	Ad	Ad	Ba	3	Adv	_	_	
+5	μέγεθος	μέγεθος	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	μπιζελιού	μπιζέλι	No	NoCm	Ne|Sg|Ge	5	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όμως	όμως	Ad	Ad	Ba	17	Sb	_	_	
+2	σε	σε	AsPp	AsPpSp	_	11	AuxP	_	_	
+3	μια	ένας	At	AtId	Fe|Sg|Ac	4	Det	_	_	
+4	πόλη	πόλη	No	NoCm	Fe|Sg|Ac	2	Adv	_	_	
+5	της	ο	At	AtDf	Fe|Sg|Ge	6	Det	_	_	
+6	Αμερικής	Αμερική	No	NoPr	Fe|Sg|Ge	4	Atr	_	_	
+7	πριν	πριν	Ad	Ad	Ba	4	Atr	_	_	
+8	από	από	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	μερικά	μερικοί	Pn	PnId	Ne|03|Pl|Ac|Xx	10	Atr	_	_	
+10	χρόνια	χρόνος	No	NoCm	Ne|Pl|Ac	8	Adv	_	_	
+11	έπεσε	πέφτω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	17	Adv	_	_	
+12	χαλάζι	χαλάζι	No	NoCm	Ne|Sg|Ac	11	Obj	_	_	
+13	που	που	Pn	PnRe	Ne|03|Pl|Nm|Xx	15	Atr	_	_	
+14	το	ο	At	AtDf	Ne|Sg|Ac	15	Det	_	_	
+15	μέγεθος	μέγεθος	No	NoCm	Ne|Sg|Ac	12	Atr	_	_	
+16	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	15	Pos	_	_	
+17	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+18	όσο	όσο	Ad	Ad	Ba	19	Adv	_	_	
+19	ένα	ένας	At	AtId	Ne|Sg|Ac	20	Det	_	_	
+20	πεπόνι	πεπόνι	No	NoCm	Ne|Sg|Ac	17	Pnom	_	_	
+21	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

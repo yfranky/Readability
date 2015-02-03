@@ -1,0 +1,119 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Ο	ο	AtDfMaSgNm
+1\3	TOK	Φασαρίας	φασαρίας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\12	TOK	έφυγε	φεύγω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\18	TOK	πάλι	πάλι	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\22	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\25	TOK	Τα	ο	AtDfNePlNm
+1\28	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\35	TOK	τρέχουν	τρέχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\43	TOK	να	να	PtSj
+	SYN	[np_ac
+1\46	TOK	τον	εγώ	PnPeMa03SgAcWe
+	SYN	/np_ac]
+1\50	TOK	βρουν	βρίσκω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\55	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\58	TOK	Δε	δεν	PtNg
+1\61	TOK	θέλουν	θέλω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\68	TOK	να	να	PtSj
+	SYN	[np_ac
+1\71	TOK	τον	εγώ	PnPeMa03SgAcWe
+	SYN	/np_ac]
+1\75	TOK	χάσουν	χάνω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\81	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\84	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\85	TOK	Ο	ο	AtDfMaSgNm
+1\87	TOK	Φασαρίας	φασαρίας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\96	TOK	κυνηγάει	κυνηγώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\105	TOK	έναν	ένας	AtIdMaSgAc
+1\110	TOK	λαγό	λαγός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\114	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\117	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\118	TOK	Φασαρία	φασαρία	NoCmFeSgNm
+	SYN	/np_nm]
+1\125	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\127	TOK	σταμάτα	σταματώ	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\134	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\137	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\138	TOK	Ο	ο	AtDfMaSgNm
+1\140	TOK	λαγός	λαγός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\146	TOK	τρέχει	τρέχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\153	TOK	πολύ	πολύ	AdXxBa
+1\158	TOK	γρήγορα	γρήγορα	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\165	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\167	TOK	Δεν	δεν	PtNg
+1\171	TOK	μπορείς	μπορώ	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\179	TOK	να	να	PtSj
+	SYN	[np_ac
+1\182	TOK	τον	εγώ	PnPeMa03SgAcWe
+	SYN	/np_ac]
+1\186	TOK	πιάσεις	πιάνω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\193	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

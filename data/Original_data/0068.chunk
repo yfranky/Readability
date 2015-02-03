@@ -1,0 +1,130 @@
+	(SENT	<S>
+	SYN	[cl
+1\1	ENUM	-	-	ENUM
+	SYN	[vg
+1\2	TOK	Πετάω	πετώ	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\8	TOK	πάνω	πάνω	AdXxBa
+	SYN	[pp
+1\13	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\17	TOK	τα	ο	AtDfNePlAc
+1\20	TOK	βουνά	βουνό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\25	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\27	TOK	Πετάω	πετώ	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\33	TOK	πάνω	πάνω	AdXxBa
+	SYN	[pp
+1\38	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\42	TOK	τη	ο	AtDfFeSgAc
+1\45	TOK	θάλασσα	θάλασσα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\52	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\55	ENUM	-	-	ENUM
+	SYN	[pp
+1\56	TOK	Σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\59	TOK	λίγη	λίγος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\64	TOK	ώρα	ώρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\68	TOK	φτάνω	φτάνω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\74	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\79	TOK	Αφρική	Αφρική	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\85	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\88	ENUM	-	-	ENUM
+	SYN	[vg
+1\89	TOK	Πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\94	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\98	TOK	ποτάμι	ποτάμι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_q]
+	SYN	[cl_o
+	SYN	[vg_s
+1\105	TOK	να	να	PtSj
+1\108	TOK	παίξουμε	παίζω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\117	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\120	TOK	τα	ο	AtDfNePlAc
+1\123	TOK	καραβάκια	καραβάκι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\132	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\135	ENUM	-	-	ENUM
+	SYN	[advp
+1\136	TOK	Όχι	όχι	AdXxBa
+1\140	TOK	τώρα	τώρα	AdXxBa
+	SYN	/advp]
+1\144	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\146	TOK	Θα	θα	PtFu
+1\149	TOK	πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\154	TOK	αύριο	αύριο	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\160	TOK	μετά	μετά	AsPpSp
+	SYN	[np_ac
+1\165	TOK	το	ο	AtDfNeSgAc
+1\168	TOK	σχολείο	σχολείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\175	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\178	TOK	Τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\183	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\189	TOK	νύχτα	νύχτα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\194	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

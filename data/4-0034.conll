@@ -1,0 +1,65 @@
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	Αλέκα	Αλέκα	No	NoPr	Fe|Sg|Nm	4	Sb_Co	_	_	
+4	και	και	Cj	CjCo	_	7	Coord	_	_	
+5	η	ο	At	AtDf	Fe|Sg|Nm	6	Det	_	_	
+6	Βέρα	βέρος	Aj	Aj	Ba|Fe|Sg|Nm	4	Sb_Co	_	_	
+7	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+8	συνομήλικες	συνομήλικος	Aj	Aj	Ba|Fe|Pl|Nm	7	Pnom	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Έτσι	έτσι	Ad	Ad	Ba	3	Adv	_	_	
+3	νομίζω	νομίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	πήγαιναν	πηγαίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	2	AuxP	_	_	
+4	ίδια	ίδιος	Aj	Aj	Ba|Fe|Sg|Ac	5	Atr	_	_	
+5	τάξη	τάξη	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+7	Δημοτικό	δημοτικός	Aj	Aj	Ba|Ne|Sg|Ac	6	Atr	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Όχι	όχι	Ad	Ad	Ba	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	Βέρα	βέρος	Aj	Aj	Ba|Fe|Sg|Nm	6	Sb	_	_	
+6	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	μια	ένας	At	AtId	Fe|Sg|Nm	8	Det	_	_	
+8	τάξη	τάξη	No	NoCm	Fe|Sg|Nm	6	Pnom	_	_	
+9	μικρότερη	μικρός	Aj	Aj	Cp|Fe|Sg|Ac	8	Atr	_	_	
+10	από	από	AsPp	AsPpSp	_	9	AuxP	_	_	
+11	την	ο	At	AtDf	Fe|Sg|Ac	12	Det	_	_	
+12	Αλέκα	Αλέκα	No	NoPr	Fe|Sg|Ac	10	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Νομίζω	νομίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+2	όμως	όμως	Cj	CjCo	_	0	Coord	_	_	
+3	ότι	ότι	Cj	CjSb	_	1	AuxC	_	_	
+4	έχουν	έχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	5	AuxV	_	_	
+5	γεννηθεί	γεννώ	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Pv|Xx	3	Obj_Co	_	_	
+6	τον	ο	At	AtDf	Ma|Sg|Ac	8	Det	_	_	
+7	ίδιο	ίδιος	Aj	Aj	Ba|Ma|Sg|Ac	8	Atr	_	_	
+8	χρόνο	χρόνος	No	NoCm	Ma|Sg|Ac	5	Obj	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μπορεί	μπορώ	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+3	να	να	Pt	PtSj	_	5	AuxV	_	_	
+4	έχουν	έχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	5	AuxV	_	_	
+5	γεννηθεί	γεννώ	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Pv|Xx	2	Sb	_	_	
+6	τον	ο	At	AtDf	Ma|Sg|Ac	8	Det	_	_	
+7	ίδιο	ίδιος	Aj	Aj	Ba|Ma|Sg|Ac	8	Atr	_	_	
+8	χρόνο	χρόνος	No	NoCm	Ma|Sg|Ac	5	Obj	_	_	
+9	,	,	PUNCT	PUNCT	_	10	AuxX	_	_	
+10	αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+11	η	ο	At	AtDf	Fe|Sg|Nm	12	Det	_	_	
+12	Αλέκα	Αλέκα	No	NoPr	Fe|Sg|Nm	14	Sb	_	_	
+13	να	να	Pt	PtSj	_	14	AuxV	_	_	
+14	κέρδισε	κερδίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+15	χρονιά	χρονιά	No	NoCm	Fe|Sg|Ac	14	Obj	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

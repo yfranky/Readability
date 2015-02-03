@@ -1,0 +1,78 @@
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	ΧΡΗΣΙΜΕΣ	χρήσιμος	AjBaFePlNm
+	SYN	/adjp_nm]
+1\10	TOK	ΠΛΗΡΟΦΟΡΙΕΣ	πληροφορία	NoCmFePlNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\23	TOK	Ο	ο	AtDfMaSgNm
+1\25	TOK	Ήλιος	ήλιος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\31	TOK	απέχει	απέχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\38	DIG	93.000.000	93.000.000	DIG
+1\49	TOK	μίλια	μίλι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\55	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\59	TOK	τη	ο	AtDfFeSgAc
+1\62	TOK	Γη	γη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\64	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\67	TOK	Το	ο	AtDfNeSgNm
+1\70	TOK	φεγγάρι	φεγγάρι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\78	TOK	απέχει	απέχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\85	DIG	240.000	240.000	DIG
+1\93	TOK	μίλια	μίλι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\99	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\103	TOK	τη	ο	AtDfFeSgAc
+1\106	TOK	Γη	γη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\108	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[advp
+1\110	TOK	δηλαδή	δηλαδή	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\117	TOK	βρίσκεται	βρίσκω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\127	DIG	400	400	DIG
+1\131	TOK	φορές	φορά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[advp
+1\137	TOK	πιο	πιο	AdXxBa
+1\141	TOK	κοντά	κοντά	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\147	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\151	TOK	τον	ο	AtDfMaSgAc
+1\155	TOK	Ήλιο	ήλιος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\159	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,342 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\4	TOK	δύο	δύο	NmCdMaPlNmAj
+	SYN	/adjp_nm]
+1\8	TOK	αιώνες	αιώνας	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[advp
+1\15	TOK	ανάμεσα	ανάμεσα	AdXxBa
+	SYN	[pp
+1\23	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\27	DIG	750	750	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\31	TOK	και	και	CjCo
+	SYN	[pp
+1\35	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\39	DIG	550	550	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+1\43	ABBR	π.Χ.	π.Χ.	ABBR
+	SYN	[vg
+1\48	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\54	TOK	η	ο	AtDfFeSgNm
+1\56	TOK	εποχή	εποχή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\62	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\66	TOK	αποικιακής	αποικιακός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\77	TOK	επέκτασης	επέκταση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\86	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\88	TOK	Οι	ο	AtDfMaPlNm
+1\91	TOK	Έλληνες	Έλληνας	NoPrMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\99	TOK	δημιουργούν	δημιουργώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\111	TOK	αποικίες	αποικία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\120	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\124	TOK	παράλια	παράλιος	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\132	TOK	της	ο	AtDfFeSgGe
+1\136	TOK	Μεσογείου	Μεσόγειος	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\146	TOK	αλλά	αλλά	CjCo
+1\151	TOK	και	και	CjCo
+	SYN	[pp
+1\155	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\159	TOK	Μαύρη	μαύρος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\165	TOK	Θάλασσα	θάλασσα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\172	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\174	TOK	Οι	ο	AtDfFePlNm
+1\177	TOK	αποικίες	αποικία	NoCmFePlNm
+	SYN	/np_nm]
+1\185	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\187	TOK	μετά	μετά	AsPpSp
+	SYN	[np_ac
+1\192	TOK	την	ο	AtDfFeSgAc
+1\196	TOK	ίδρυσή	ίδρυση	NoCmFeSgAc
+1\203	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+1\207	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\209	TOK	αναπτύσσουν	αναπτύσσω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\221	TOK	ιδιαίτερες	ιδιαίτερος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\232	TOK	σχέσεις	σχέση	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\240	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\243	TOK	την	ο	AtDfFeSgAc
+1\247	TOK	πόλη	πόλη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\252	TOK	που	που	PnReFe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[np_ac
+1\256	TOK	τις	εγώ	PnPeFe03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\260	TOK	ίδρυσε	ιδρύω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+1\267	OPUNCT	(	(	OPUNCT
+1\268	TOK	τη	ο	AtDfFeSgAc
+	SYN	[np_nm
+1\271	TOK	μητρόπολη	μητρόπολη	NoCmFeSgNm
+	SYN	/np_nm]
+1\280	CPUNCT	)	)	CPUNCT
+	SYN	/cl_r]
+1\281	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\283	TOK	σαν	σαν	AdXxBa
+	SYN	[np_nm
+1\287	TOK	αυτές	αυτός	PnDmFe03PlNmXx
+	SYN	/np_nm]
+	SYN	/advp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\293	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\297	TOK	συνδέουν	συνδέω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\306	TOK	τα	ο	AtDfNePlNm
+1\309	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\316	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\319	TOK	τους	ο	AtDfMaPlAc
+1\324	TOK	γονείς	γονέας	NoCmMaPlAc
+1\331	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\335	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\339	TOK	Ο	ο	AtDfMaSgNm
+1\341	TOK	αποικισμός	αποικισμός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\352	TOK	έδωσε	δίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\358	TOK	απάντηση	απάντηση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\367	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\370	TOK	μια	ένας	AtIdFeSgAc
+1\374	TOK	σειρά	σειρά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\380	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\384	TOK	προβλήματα	πρόβλημα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\395	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\399	TOK	αντιμετώπιζε	αντιμετωπίζω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\412	TOK	η	ο	AtDfFeSgNm
+1\414	TOK	μητρόπολη	μητρόπολη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_r]
+	SYN	/cl]
+1\423	PTERM_P	:	:	PTERM_P
+	SYN	[cl
+	SYN	[np_nm
+1\425	TOK	η	ο	AtDfFeSgNm
+1\427	TOK	ίδρυση	ίδρυση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\434	TOK	μιας	ένας	AtIdFeSgGe
+	SYN	[adjp_ge
+1\439	TOK	νέας	νέος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\444	TOK	αποικίας	αποικία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\453	TOK	σήμαινε	σημαίνω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\461	TOK	ότι	ότι	CjSb
+	SYN	[np_nm
+1\466	TOK	οι	ο	AtDfMaPlNm
+1\469	TOK	κάτοικοι	κάτοικος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\478	TOK	που	που	PnReMa03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\482	TOK	περίσσευαν	περισσεύω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	[vg
+1\493	TOK	θα	θα	PtFu
+1\496	TOK	είχαν	έχω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\502	TOK	πια	πια	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\506	TOK	κάπου	κάπου	AdXxBa
+1\512	TOK	αλλού	αλλού	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\518	TOK	να	να	PtSj
+1\521	TOK	πάνε	πηγαίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\525	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\527	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\530	TOK	φτωχοί	φτωχός	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\537	TOK	θα	θα	PtFu
+1\540	TOK	αποκτούσαν	αποκτώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\551	TOK	γη	γη	NoCmFeSgAc
+	SYN	/np_ac]
+1\554	TOK	και	και	CjCo
+	SYN	[np_ac
+1\558	TOK	το	ο	AtDfNeSgAc
+1\561	TOK	εμπόριο	εμπόριο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\569	TOK	θα	θα	PtFu
+1\572	TOK	γνώριζε	γνωρίζω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\580	TOK	μεγάλη	μεγάλος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\587	TOK	ανάπτυξη	ανάπτυξη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\595	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\597	TOK	Σήμαινε	σημαίνω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\605	TOK	ακόμη	ακόμα	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+1\611	TOK	ότι	ότι	CjSb
+	SYN	[np_nm
+1\615	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\617	TOK	ελληνικός	ελληνικός	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\627	TOK	πολιτισμός	πολιτισμός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\638	TOK	θα	θα	PtFu
+1\641	TOK	ξεπερνούσε	ξεπερνώ	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\652	TOK	τα	ο	AtDfNePlAc
+1\655	TOK	όρια	όριο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\660	TOK	του	ο	AtDfMaSgGe
+	SYN	[adjp_ge
+1\664	TOK	ελλαδικού	ελλαδικός	AjBaMaSgGe
+	SYN	/adjp_ge]
+1\674	TOK	χώρου	χώρος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\679	PUNCT	,	,	PUNCT
+1\681	TOK	αλλά	αλλά	CjCo
+1\686	TOK	και	και	CjCo
+	SYN	[cl_o
+1\690	TOK	ότι	ότι	CjSb
+	SYN	[vg
+1\694	TOK	θα	θα	PtFu
+1\697	TOK	συναντούσε	συναντώ	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\708	TOK	νέες	νέος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\713	TOK	ιδέες	ιδέα	NoCmFePlAc
+	SYN	/np_ac]
+1\718	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\720	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\724	TOK	άλλους	άλλος	PnIdMa03PlAcXx
+1\731	TOK	πολιτισμούς	πολιτισμός	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\742	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,13 @@
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+2	Ντέμης	Ντέμης	No	NoPr	Ma|Sg|Nm	3	Atr	_	_	
+3	Ρούσσος	Ρούσσος	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+
+1	Γεννήθηκε	γεννώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	1	AuxP	_	_	
+3	17	17	DIG	DIG	_	2	Adv	_	_	
+4	Ιουνίου	Ιούνιος	No	NoCm	Ma|Sg|Ge	3	Atr	_	_	
+5	1947	1947	DIG	DIG	_	4	Atr	_	_	
+6	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+7	Αίγυπτο	Αίγυπτος	No	NoPr	Fe|Sg|Ac	6	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

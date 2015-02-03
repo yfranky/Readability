@@ -1,0 +1,110 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Ο	ο	AtDfMaSgNm
+1\3	TOK	Σάκης	Σάκης	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\9	TOK	ζει	ζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\13	TOK	μαζί	μαζί	AdXxBa
+	SYN	[pp
+1\18	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\21	TOK	τον	ο	AtDfMaSgAc
+1\25	TOK	παππού	παππούς	NoCmMaSgAc
+	SYN	/np_ac]
+1\31	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\33	TOK	τη	ο	AtDfFeSgAc
+1\36	TOK	γιαγιά	γιαγιά	NoCmFeSgAc
+	SYN	/np_ac]
+1\42	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\44	TOK	τους	ο	AtDfMaPlAc
+1\49	TOK	γονείς	γονέας	NoCmMaPlAc
+1\56	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+1\60	TOK	και	και	CjCo
+	SYN	[np_ac
+1\64	TOK	τα	ο	AtDfNePlAc
+1\67	TOK	αδέλφια	αδέρφι	NoCmNePlAc
+1\75	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\78	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\80	TOK	Δεν	δεν	PtNg
+1\84	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\91	TOK	να	να	PtSj
+1\94	TOK	βλέπει	βλέπω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\101	TOK	τηλεόραση	τηλεόραση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\111	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\115	TOK	σαλόνι	σαλόνι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\121	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\123	TOK	γιατί	γιατί	CjSb
+	SYN	[advp
+1\129	TOK	εκεί	εκεί	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\134	TOK	κοιμούνται	κοιμάμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\145	TOK	ο	ο	AtDfMaSgNm
+1\147	TOK	παππούς	παππούς	NoCmMaSgNm
+	SYN	/np_nm]
+1\155	TOK	και	και	CjCo
+	SYN	[np_nm
+1\159	TOK	η	ο	AtDfFeSgNm
+1\161	TOK	γιαγιά	γιαγιά	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\167	PUNCT	,	,	PUNCT
+1\169	TOK	αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[vg
+1\174	TOK	τρελαίνεται	τρελαίνω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\186	TOK	να	να	PtSj
+1\189	TOK	ακούει	ακούω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\196	TOK	τις	ο	AtDfFePlAc
+1\200	TOK	ιστορίες	ιστορία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\209	TOK	του	ο	AtDfMaSgGe
+1\213	TOK	παππού	παππούς	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	[pp
+1\220	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\224	TOK	τον	ο	AtDfMaSgAc
+1\228	TOK	πόλεμο	πόλεμος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\234	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

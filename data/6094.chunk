@@ -1,0 +1,139 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1	TOK	Πρέπει	πρέπει	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\8	TOK	πάντα	πάντα	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\14	TOK	να	να	PtSj
+1\17	TOK	έχετε	έχω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\23	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\27	TOK	μυαλό	μυαλό	NoCmNeSgAc
+1\33	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+1\37	TOK	ότι	ότι	CjSb
+	SYN	/cl_o]
+1\40	PTERM_P	:	:	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\43	TOK	οι	ο	AtDfFePlNm
+	SYN	[np_ac
+1\46	TOK	οριζόντιες	οριζόντιος	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\57	TOK	γραμμές	γραμμή	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\65	TOK	δίνουν	δίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\72	TOK	την	ο	AtDfFeSgAc
+1\76	TOK	εντύπωση	εντύπωση	NoCmFeSgAc
+	SYN	/np_ac]
+1\85	TOK	τον	ο	AtDfMaSgAc
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\89	TOK	κοντού	κοντός	AjBaMaSgGe
+1\96	TOK	και	και	CjCo
+1\100	TOK	φαρδιού	φαρδύς	AjBaMaSgGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	/cl]
+1\107	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\110	TOK	οι	ο	AtDfFePlNm
+	SYN	[adjp_nm
+1\113	TOK	κάθετες	κάθετος	AjBaFePlNm
+	SYN	/adjp_nm]
+1\121	TOK	γραμμές	γραμμή	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\129	TOK	δίνουν	δίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\136	TOK	την	ο	AtDfFeSgAc
+1\140	TOK	εντύπωση	εντύπωση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\149	TOK	ψηλού	ψηλός	AjBaMaSgGe
+1\155	TOK	και	και	CjCo
+1\159	TOK	αδύνατου	αδύνατος	AjBaMaSgGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	/cl]
+1\167	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\170	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\173	TOK	μεγάλα	μεγάλος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\180	TOK	σχέδια	σχέδιο	NoCmNePlAc
+	SYN	/np_ac]
+1\187	OPUNCT	(	(	OPUNCT
+	SYN	[pp
+1\188	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\192	TOK	ύφασμα	ύφασμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\198	CPUNCT	)	)	CPUNCT
+	SYN	[vg
+1\200	TOK	χοντραίνουν	χοντραίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\211	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\214	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\217	TOK	μικρά	μικρός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\223	TOK	σχέδια	σχέδιο	NoCmNePlAc
+	SYN	/np_ac]
+1\230	OPUNCT	(	(	OPUNCT
+	SYN	[pp
+1\231	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\235	TOK	ύφασμα	ύφασμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\241	CPUNCT	)	)	CPUNCT
+	SYN	[vg
+1\243	TOK	λεπταίνουν	λεπταίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\253	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\256	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\259	TOK	μεγάλα	μεγάλος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\266	TOK	καπέλα	καπέλο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[vg
+1\273	TOK	κονταίνουν	κονταίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\283	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

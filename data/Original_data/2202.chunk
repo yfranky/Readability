@@ -1,0 +1,267 @@
+	(SENT	<S>
+	SYN	[cl
+1\1	TOK	Αγαπητοί	αγαπητός	AjBaMaPlVo
+	SYN	[np_ac
+1\10	TOK	ακροατές	ακροατής	NoCmMaPlAc
+	SYN	/np_ac]
+1\18	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\20	TOK	ακούτε	ακούω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\27	TOK	το	ο	AtDfNeSgAc
+1\30	TOK	δελτίο	δελτίο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\37	TOK	καιρού	καιρός	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\43	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\46	TOK	Από	από	AsPpSp
+1\50	TOK	τις	ο	AtDfFePlAc
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\54	TOK	πρώτες	πρώτος	NmOdFePlNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\61	TOK	πρωινές	πρωινός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\69	TOK	ώρες	ώρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\74	TOK	ο	ο	AtDfMaSgNm
+1\76	TOK	καιρός	καιρός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\83	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\89	TOK	καλός	καλός	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\95	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\98	TOK	αραιή	αραιός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\104	TOK	συννεφιά	συννεφιά	NoCmFeSgAc
+	SYN	/np_ac]
+1\113	TOK	και	και	CjCo
+	SYN	[np_ac
+1\117	TOK	ομίχλη	ομίχλη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\123	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\125	TOK	Προς	προς	AsPpSp
+	SYN	[np_ac
+1\130	TOK	το	ο	AtDfNeSgAc
+1\133	TOK	μεσημέρι	μεσημέρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\142	TOK	θα	θα	PtFu
+1\145	TOK	έχουμε	έχω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\152	TOK	λιακάδα	λιακάδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\160	TOK	σ'	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\163	TOK	όλη	όλος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\167	TOK	τη	ο	AtDfFeSgAc
+1\170	TOK	χώρα	χώρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\174	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\176	TOK	Το	ο	AtDfNeSgNm
+1\179	TOK	απόγευμα	απόγευμα	NoCmNeSgNm
+	SYN	/np_nm]
+1\187	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\189	TOK	η	ο	AtDfFeSgNm
+1\191	TOK	πτώση	πτώση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\197	TOK	της	ο	AtDfFeSgGe
+1\201	TOK	θερμοκρασίας	θερμοκρασία	NoCmFeSgGe
+	SYN	/np_ge]
+1\214	TOK	και	και	CjCo
+	SYN	[np_nm
+1\218	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\221	TOK	δυνατοί	δυνατός	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\229	TOK	άνεμοι	άνεμος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\236	TOK	θα	θα	PtFu
+1\239	TOK	προκαλέσουν	προκαλώ	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\251	TOK	μεταβολή	μεταβολή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\260	TOK	του	ο	AtDfMaSgGe
+1\264	TOK	καιρού	καιρός	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\270	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\272	TOK	Βροχές	βροχή	NoCmFePlNm
+	SYN	/np_nm]
+1\279	TOK	και	και	CjCo
+	SYN	[np_nm
+1\283	TOK	καταιγίδες	καταιγίδα	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\294	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\297	TOK	χαλάζι	χαλάζι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\304	TOK	αναμένονται	αναμένω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\316	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\320	TOK	Θεσσαλία	Θεσσαλία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\328	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\330	TOK	Στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\334	TOK	Μακεδονία	Μακεδονία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\344	TOK	θα	θα	PtFu
+1\347	TOK	έχουμε	έχω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\354	TOK	χιόνια	χιόνι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\360	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\362	TOK	Η	ο	AtDfFeSgNm
+1\364	TOK	θάλασσα	θάλασσα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\372	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\376	TOK	Αιγαίο	Αιγαίο	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\383	TOK	θα	θα	PtFu
+1\386	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+1\392	TOK	ταραγμένη	ταραγμένος	VbMnPpXxXxSgFePePvNm
+	SYN	/vg]
+	SYN	/cl]
+1\401	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\403	TOK	Αύριο	αύριο	AdXxBa
+	SYN	/advp]
+1\408	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\410	TOK	Τετάρτη	Τετάρτη	NoCmFeSgAc
+	SYN	/np_ac]
+1\418	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\422	TOK	Πέμπτη	Πέμπτη	NmOdFeSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_nm
+1\429	TOK	η	ο	AtDfFeSgNm
+1\431	TOK	κακοκαιρία	κακοκαιρία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\442	TOK	θα	θα	PtFu
+1\445	TOK	συνεχιστεί	συνεχίζω	VbMnIdXx03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\456	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\459	TOK	κρύο	κρύο	NoCmNeSgAc
+	SYN	/np_ac]
+1\464	TOK	και	και	CjCo
+	SYN	[np_ac
+1\468	TOK	παγωνιά	παγωνιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\476	TOK	σ'	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\479	TOK	όλη	όλος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\483	TOK	τη	ο	AtDfFeSgAc
+1\486	TOK	χώρα	χώρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\490	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\492	TOK	Το	ο	AtDfNeSgNm
+1\495	TOK	Σαββατοκύριακο	σαββατοκύριακο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\510	TOK	θα	θα	PtFu
+1\513	TOK	έχουμε	έχω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\520	TOK	καλό	καλός	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\525	TOK	καιρό	καιρός	NoCmMaSgAc
+	SYN	/np_ac]
+1\531	TOK	και	και	CjCo
+	SYN	[np_ac
+1\535	TOK	άνοδο	άνοδος	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\541	TOK	της	ο	AtDfFeSgGe
+1\545	TOK	θερμοκρασίας	θερμοκρασία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\557	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

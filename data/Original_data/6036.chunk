@@ -1,0 +1,142 @@
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_nm
+1\1	TOK	Ποιος	ποιος	PnIrMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\7	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\13	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+	SYN	[advp
+1\15	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\19	TOK	ζεστός	ζεστός	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\26	TOK	πλανήτης	πλανήτης	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\34	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\37	TOK	Η	ο	AtDfFeSgNm
+1\39	TOK	Αφροδίτη	Αφροδίτη	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\48	TOK	δεν	δεν	PtNg
+1\52	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\58	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\60	TOK	κοντινότερος	κοντινός	AjCpMaSgNm
+	SYN	/adjp_nm]
+1\73	TOK	πλανήτης	πλανήτης	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\82	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\87	TOK	Ήλιο	ήλιος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\91	PUNCT	,	,	PUNCT
+1\93	TOK	αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[vg
+1\98	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\104	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\106	TOK	ζεστότερος	ζεστός	AjCpMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\116	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\119	TOK	Η	ο	AtDfFeSgNm
+1\121	TOK	θερμοκρασία	θερμοκρασία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[advp
+1\133	TOK	εκεί	εκεί	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\138	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\145	TOK	να	να	PtSj
+1\148	TOK	φτάσει	φτάνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\155	TOK	τους	ο	AtDfMaPlAc
+1\160	DIG	500	500	DIG
+1\164	TOK	βαθμούς	βαθμός	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\172	TOK	Κελσίου	Κελσίου	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\179	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[advp
+1\181	TOK	δηλαδή	δηλαδή	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\188	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\194	TOK	οκτώ	οκτώ	NmCdFePlAcAj
+	SYN	/adjp_ac]
+1\199	TOK	φορές	φορά	NoCmFePlAc
+	SYN	[adjp_ac
+	SYN	[advp
+1\205	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\209	TOK	υψηλή	ψηλός	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\215	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\219	TOK	τη	ο	AtDfFeSgAc
+1\222	TOK	Σαχάρα	Σαχάρα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\228	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\230	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\234	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+1\240	TOK	το	ο	AtDfNeSgNm
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\243	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\247	TOK	ζεστό	ζεστός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\253	TOK	μέρος	μέρος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\259	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\263	TOK	Γη	γη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\265	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

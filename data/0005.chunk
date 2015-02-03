@@ -1,0 +1,58 @@
+	(SENT	<S>
+	SYN	[cl
+1\1	ENUM	-	-	ENUM
+	SYN	[vg
+1\2	TOK	Έπεσε	πέφτω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\8	TOK	ο	ο	AtDfMaSgNm
+1\10	TOK	τενεκές	τενεκές	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\17	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\20	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\21	TOK	Ένας	ένας	AtIdMaSgNm
+1\26	TOK	σκύλος	σκύλος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\33	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\39	TOK	μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\44	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\49	TOK	τενεκέ	τενεκές	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\55	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\58	ENUM	-	-	ENUM
+	SYN	[np_ge
+1\59	TOK	Παππού	παππούς	NoCmMaSgGe
+	SYN	/np_ge]
+1\65	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\67	TOK	Ο	ο	AtDfMaSgNm
+1\69	TOK	σκύλος	σκύλος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\76	TOK	πήρε	παίρνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\81	TOK	την	ο	AtDfFeSgAc
+1\85	TOK	μπογιά	μπογιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\91	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

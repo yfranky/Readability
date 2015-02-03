@@ -1,0 +1,139 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Το	ο	AtDfNeSgNm
+1\4	TOK	μυρμήγκι	μυρμήγκι	NoCmNeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\14	TOK	Τα	ο	AtDfNePlNm
+1\17	TOK	μυρμήγκια	μυρμήγκι	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\27	TOK	ζούνε	ζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\33	TOK	πολλά	πολύς	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[advp
+1\39	TOK	μαζί	μαζί	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\43	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\46	TOK	Τρώνε	τρώω	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\52	TOK	σπόρους	σπόρος	NoCmMaPlAc
+	SYN	/np_ac]
+1\59	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\61	TOK	φύλλα	φύλλο	NoCmNePlAc
+	SYN	/np_ac]
+1\66	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\68	TOK	έντομα	έντομο	NoCmNePlAc
+	SYN	/np_ac]
+1\75	TOK	και	και	CjCo
+	SYN	[np_ac
+1\79	TOK	φρούτα	φρούτο	NoCmNePlAc
+	SYN	/np_ac]
+1\85	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\88	TOK	Φτιάχνουν	φτιάχνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\98	TOK	το	ο	AtDfNeSgAc
+1\101	TOK	σπίτι	σπίτι	NoCmNeSgAc
+1\107	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	[pp
+1\112	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\116	TOK	χώμα	χώμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\120	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\123	TOK	Η	ο	AtDfFeSgNm
+1\125	TOK	μυρμηγκοφωλιά	μυρμηγκοφωλιά	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\139	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\144	TOK	πολλά	πολύς	AjBaNePlAc
+	SYN	/adjp_ac]
+1\150	TOK	δωμάτια	δωμάτιο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\157	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\160	TOK	Τα	ο	AtDfNePlNm
+1\163	TOK	μυρμήγκια	μυρμήγκι	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\173	TOK	μαζεύουν	μαζεύω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\182	TOK	το	ο	AtDfNeSgAc
+1\185	TOK	φαγητό	φαγητό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\192	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_ac
+1\196	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\199	TOK	βάζουν	βάζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\206	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\210	TOK	δωμάτια	δωμάτιο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\217	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_t
+1\220	TOK	Όταν	όταν	CjSb
+	SYN	[vg
+1\225	TOK	κάνει	κάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\231	TOK	κρύο	κρύο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_t]
+1\235	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\237	TOK	μένουν	μένω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\244	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\248	TOK	μυρμηγκοφωλιά	μυρμηγκοφωλιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\261	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

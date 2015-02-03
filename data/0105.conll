@@ -1,0 +1,61 @@
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Θωμάς	Θωμάς	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	κοιτάζει	κοιτάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	την	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+5	καινούρια	καινούριος	Aj	Aj	Ba|Fe|Sg|Ac	6	Atr	_	_	
+6	γειτονιά	γειτονιά	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+7	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	6	Pos	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βλέπει	βλέπω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	πολυκατοικίες	πολυκατοικία	No	NoCm	Fe|Pl|Ac	1	Obj	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μακριά	μακριά	Ad	Ad	Ba	2	Adv	_	_	
+2	βλέπει	βλέπω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	ένα	ένας	At	AtId	Ne|Sg|Nm	4	Det	_	_	
+4	πάρκο	πάρκο	No	NoCm	Ne|Sg|Nm	5	Obj_Co	_	_	
+5	και	και	Cj	CjCo	_	2	Coord	_	_	
+6	τη	ο	At	AtDf	Fe|Sg|Ac	7	Det	_	_	
+7	θάλασσα	θάλασσα	No	NoCm	Fe|Sg|Ac	5	Obj_Co	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	δρόμος	δρόμος	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Ac	5	Atr	_	_	
+5	αυτοκίνητα	αυτοκίνητο	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Φασαρία	φασαρία	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	θα	θα	Pt	PtFu	_	5	AuxV	_	_	
+5	πηγαίνουμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Atr	_	_	
+6	βόλτα	βόλτα	No	NoCm	Fe|Sg|Ac	5	Adv	_	_	
+7	κάθε	κάθε	Pn	PnId	Fe|03|Sg|Ac|Xx	8	Atr	_	_	
+8	μέρα	μέρα	No	NoCm	Fe|Sg|Ac	5	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	βρούμε	βρίσκω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	καινούριους	καινούριος	Aj	Aj	Ba|Ma|Pl|Ac	4	Atr	_	_	
+4	φίλους	φίλος	No	NoCm	Ma|Pl|Ac	2	Obj	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	2	Obj	_	_	
+2	κάνουν	κάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τώρα	τώρα	Ad	Ad	Ba	2	Adv	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	Αγγέλα	Αγγέλα	No	NoPr	Fe|Sg|Nm	12	Sb_Co	_	_	
+6	,	,	PUNCT	PUNCT	_	12	AuxX	_	_	
+7	ο	ο	At	AtDf	Ma|Sg|Nm	8	Det	_	_	
+8	Αχμέτ	Αχμέτ	No	NoPr	Ma|Sg|Nm	12	ExD_Co	_	_	
+9	,	,	PUNCT	PUNCT	_	12	AuxX	_	_	
+10	η	ο	At	AtDf	Fe|Sg|Nm	11	Det	_	_	
+11	Γιοντζά	Γιοντζά	No	NoPr	Fe|Sg|Nm	12	ExD_Co	_	_	
+12	και	και	Cj	CjCo	_	2	Coord	_	_	
+13	η	ο	At	AtDf	Fe|Sg|Nm	14	Det	_	_	
+14	Μελέκ	Μελέκ	No	NoPr	Fe|Sg|Nm	12	Sb_Co	_	_	
+15	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,555 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1	TOK	Γνωρίζουμε	γνωρίζω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\12	TOK	το	ο	AtDfNeSgAc
+1\15	TOK	περιβάλλον	περιβάλλον	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\26	TOK	της	ο	AtDfFeSgGe
+1\30	TOK	Θράκης	Θράκη	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\38	TOK	Οι	ο	AtDfFePlNm
+	SYN	[adjp_nm
+1\41	TOK	φετινές	φετινός	AjBaFePlNm
+	SYN	/adjp_nm]
+1\49	TOK	καταιγίδες	καταιγίδα	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\60	TOK	είχαν	έχω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\66	TOK	ως	ως	AdXxBa
+	SYN	[np_ac
+1\69	TOK	αποτέλεσμα	αποτέλεσμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\80	TOK	να	να	PtSj
+1\83	TOK	καταστραφούν	καταστρέφω	VbMnIdXx03PlXxPePvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\96	TOK	πολλές	πολύς	AjBaFePlNm
+	SYN	/adjp_nm]
+1\103	TOK	φωλιές	φωλιά	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[advp
+1\110	TOK	όπου	όπου	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\115	TOK	μεγαλώνανε	μεγαλώνω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\126	TOK	μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\131	TOK	σε	σε	AsPpSp
+	SYN	[np_nm
+1\134	TOK	αυτές	αυτός	PnDmFe03PlNmXx
+1\140	TOK	νεοσσοί	νεοσσός	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[np_ge
+1\148	TOK	πουλιών	πουλί	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\155	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\157	TOK	Στα	στου	AsPpPaNePlAc
+	SYN	[np_nm
+1\161	TOK	Βαφαίικα	Βαφαίικα	NoPrNeSgNm
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	[np_ge
+1\170	TOK	Ξάνθης	Ξάνθη	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\177	TOK	την	ο	AtDfFeSgAc
+1\181	TOK	Κυριακή	Κυριακή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\189	DIG	20	20	DIG
+1\192	TOK	Ιουνίου	Ιούνιος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\200	TOK	μια	ένας	AtIdFeSgAc
+1\204	TOK	φωλιά	φωλιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\210	TOK	πελαργών	πελαργός	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\219	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\223	TOK	βρισκόταν	βρίσκω	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\233	TOK	πάνω	πάνω	AdXxBa
+	SYN	[pp
+1\238	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\241	TOK	κολόνα	κολόνα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\248	TOK	του	ο	AtDfNeSgGe
+1\252	TOK	δικτύου	δίκτυο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\260	TOK	μεταφοράς	μεταφορά	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\270	TOK	ηλεκτρικού	ηλεκτρικός	AjBaNeSgGe
+	SYN	/adjp_ge]
+1\281	TOK	ρεύματος	ρεύμα	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl_r]
+	SYN	[vg
+1\290	TOK	έγειρε	γέρνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+1\296	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\298	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\301	TOK	αποτέλεσμα	αποτέλεσμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\312	TOK	να	να	PtSj
+1\315	TOK	πέσουν	πέφτω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\322	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\326	TOK	έδαφος	έδαφος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\333	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\336	TOK	πέντε	πέντε	NmCdNePlAcAj
+1\342	TOK	μικρά	μικρός	AjBaNePlAc
+1\348	TOK	πτερωμένα	πτερωμένα	VbMnPpXxXxPlNePePvAc
+	SYN	/adjp_ac]
+1\358	TOK	πελαργάκια	πελαργάκια	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\368	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\370	TOK	Από	από	AsPpSp
+	SYN	[np_ac
+1\374	TOK	αυτά	αυτός	PnDmNe03PlAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\379	TOK	σκοτώθηκαν	σκοτώνω	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[advp
+1\390	TOK	επιτόπου	επιτόπου	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\399	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\402	TOK	δύο	δύο	NmCdNePlAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\405	PUNCT	,	,	PUNCT
+1\407	TOK	ενώ	ενώ	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\411	TOK	το	ο	AtDfNeSgNm
+1\414	TOK	ένα	ένας	PnIdNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\418	TOK	τραυματίστηκε	τραυματίζω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	/cl]
+1\431	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\434	TOK	Αμέσως	αμέσως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\441	TOK	ενημερώθηκε	ενημερώνω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\453	TOK	το	ο	AtDfNeSgAc
+1\456	TOK	ΕΚΠΑΖ	ΕΚΠΑΖ	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\462	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\466	TOK	κινητοποιήθηκε	κινητοποιώ	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\481	TOK	ένας	ένας	AtIdMaSgNm
+1\486	TOK	μηχανισμός	μηχανισμός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\497	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\501	TOK	την	ο	AtDfFeSgAc
+1\505	TOK	αποκατάσταση	αποκατάσταση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\518	TOK	των	ο	AtDfMaPlGe
+1\522	TOK	πελαργών	πελαργός	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\531	TOK	που	που	PnReMa03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\535	TOK	επέζησαν	επιζώ	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl]
+1\543	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\545	TOK	Ο	ο	AtDfMaSgNm
+1\547	TOK	συνεργάτης	συνεργάτης	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\558	TOK	του	ο	AtDfNeSgGe
+1\562	TOK	ΕΚΠΑΖ	ΕΚΠΑΖ	NoPrNeSgGe
+	SYN	/np_ge]
+	SYN	[pp
+1\568	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\573	TOK	Ξάνθη	Ξάνθη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\579	TOK	διαπίστωσε	διαπιστώνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\590	TOK	την	ο	AtDfFeSgAc
+1\594	TOK	ανάγκη	ανάγκη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\601	TOK	να	να	PtSj
+1\604	TOK	μεταφερθεί	μεταφέρω	VbMnIdXx03SgXxPePvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+1\615	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\618	TOK	τραυματισμένο	τραυματισμένος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\632	TOK	πουλί	πουλί	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\638	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\642	TOK	ΕΚΠΑΖ	ΕΚΠΑΖ	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\648	TOK	αμέσως	αμέσως	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+	SYN	[cl
+1\654	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\656	TOK	κάτι	κάτι	PnIdNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\661	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\665	TOK	έγινε	γίνομαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	/cl_r]
+1\670	PUNCT	,	,	PUNCT
+1\672	TOK	ενώ	ενώ	CjCo
+	SYN	[vg
+1\676	TOK	διαπιστώθηκε	διαπιστώνω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\689	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\691	TOK	καλή	καλός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\696	TOK	κατάσταση	κατάσταση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\706	TOK	των	ο	AtDfNePlGe
+1\710	TOK	άλλων	άλλος	PnIdNe03PlGeXx
+	SYN	[adjp_ge
+1\716	TOK	δύο	δύο	NmCdNePlGeAj
+	SYN	/adjp_ge]
+1\720	TOK	πουλιών	πουλί	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\727	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\729	TOK	Μεγάλο	μεγάλος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\736	TOK	ενδιαφέρον	ενδιαφέρον	NoCmNeSgAc
+	SYN	/np_ac]
+1\747	TOK	και	και	CjCo
+	SYN	[np_ac
+1\751	TOK	αποφασιστικότητα	αποφασιστικότητα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\768	TOK	έδειξε	δείχνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\775	TOK	ο	ο	AtDfMaSgNm
+1\777	TOK	διευθυντής	διευθυντής	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\788	TOK	της	ο	AtDfFeSgGe
+1\792	ABBR	ΔΕΗ	ΔΕΗ	ABBR
+	SYN	/np_ge]
+	SYN	[pp
+1\796	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\801	TOK	περιοχή	περιοχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\809	TOK	της	ο	AtDfFeSgGe
+1\813	TOK	Ξάνθης	Ξάνθη	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\819	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\821	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\825	TOK	δεσμεύτηκε	δεσμεύω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\836	TOK	να	να	PtSj
+1\839	TOK	δράσει	δρω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+1\846	TOK	η	ο	AtDfFeSgNm
+1\848	ABBR	ΔΕΗ	ΔΕΗ	ABBR
+	SYN	/np_nm]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\852	TOK	για	για	AsPpSp
+1\856	TOK	να	να	PtSj
+1\859	TOK	επιδιορθώσει	επιδιορθώνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\872	TOK	ή	ή	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\874	TOK	να	να	PtSj
+1\877	TOK	αλλάξει	αλλάζω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\885	TOK	τη	ο	AtDfFeSgAc
+1\888	TOK	φωλιά	φωλιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\894	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\898	TOK	να	να	PtSj
+1\901	TOK	ξαναβάλει	ξαναβάζω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\911	TOK	τους	ο	AtDfMaPlAc
+1\916	TOK	νεοσσούς	νεοσσός	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\924	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\926	TOK	ώστε	ώστε	CjSb
+	SYN	[vg_s
+1\931	TOK	να	να	PtSj
+1\934	TOK	μη	μην	PtNg
+1\937	TOK	χάσουν	χάνω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\944	TOK	την	ο	AtDfFeSgAc
+1\948	TOK	επαφή	επαφή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\954	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\957	TOK	τους	ο	AtDfMaPlAc
+1\962	TOK	γονείς	γονέας	NoCmMaPlAc
+1\969	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\973	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\975	TOK	Τελικά	τελικά	AdXxBa
+	SYN	/advp]
+1\981	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\983	TOK	η	ο	AtDfFeSgNm
+1\985	TOK	φωλιά	φωλιά	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\991	TOK	δεν	δεν	PtNg
+1\995	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1000	TOK	δυνατό	δυνατός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1007	TOK	να	να	PtSj
+1\1010	TOK	επισκευαστεί	επισκευάζω	VbMnIdXx03SgXxPePvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\1022	PUNCT	,	,	PUNCT
+1\1024	TOK	οπότε	οπότε	CjCo
+	SYN	[cl
+1\1030	TOK	και	και	CjCo
+	SYN	[vg
+1\1034	TOK	τοποθετήθηκε	τοποθετώ	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1047	TOK	νέο	νέος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\1051	TOK	καλάθι	καλάθι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1057	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1059	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\1062	TOK	περισσότερο	πολύς	AjCpNeSgNm
+	SYN	/adjp_nm]
+1\1074	TOK	υλικό	υλικό	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\1080	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\1084	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\1088	TOK	παλιά	παλιός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\1094	TOK	φωλιά	φωλιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\1100	TOK	μεταφέρθηκε	μεταφέρω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	/cl]
+1\1112	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\1116	TOK	στρώθηκε	στρώνω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[advp
+1\1125	TOK	προσεκτικά	προσεκτικά	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\1136	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1140	TOK	νέα	νέος	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+1\1143	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[advp
+1\1145	TOK	όπου	όπου	AdXxBa
+	SYN	/advp]
+1\1150	TOK	και	και	CjCo
+	SYN	[vg
+1\1154	TOK	τοποθετήθηκαν	τοποθετώ	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1168	TOK	οι	ο	AtDfMaPlNm
+1\1171	TOK	νεοσσοί	νεοσσός	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	/cl_r]
+	SYN	/cl]
+1\1178	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\1180	TOK	Κατά	κατά	AsPpSp
+	SYN	[np_ac
+1\1185	TOK	τη	ο	AtDfFeSgAc
+1\1188	TOK	διάρκεια	διάρκεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1197	TOK	της	ο	AtDfFeSgGe
+1\1201	TOK	επιχείρησης	επιχείρηση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[np_nm
+1\1213	TOK	οι	ο	AtDfMaPlNm
+1\1216	TOK	γονείς	γονέας	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1223	TOK	παρακολουθούσαν	παρακολουθώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\1239	TOK	από	από	AsPpSp
+	SYN	[advp
+1\1243	TOK	κοντά	κοντά	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	[np_ac
+1\1249	TOK	την	ο	AtDfFeSgAc
+1\1253	TOK	εξέλιξη	εξέλιξη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1260	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

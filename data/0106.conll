@@ -1,0 +1,65 @@
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	Αγγέλα	Αγγέλα	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	Γιοντζά	Γιοντζά	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	βράδυ	βράδυ	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+8	αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Ac|Xx	7	Atr	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μήπως	μήπως	Ad	Ad	Ba	2	Adv	_	_	
+2	τρώει	τρώω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	λουκουμάδες	λουκουμάς	No	NoCm	Ma|Pl|Ac	2	Obj	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	κανέλα	κανέλα	No	NoCm	Fe|Sg|Ac	4	Atr	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μήπως	μήπως	Ad	Ad	Ba	2	Adv	_	_	
+2	παίζει	παίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	με	με	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	τη	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	γάτα	γάτα	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+6	της	ο	At	AtDf	Fe|Sg|Ge	7	Det	_	_	
+7	κρυφτό	κρυφτός	Aj	Aj	Ba|Ma|Sg|Ac	5	Atr	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Άσπρο	άσπρος	Aj	Aj	Ba|Ne|Sg|Ac	2	Atr	_	_	
+2	χιόνι	χιόνι	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+3	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	2	AuxP	_	_	
+4	πλατεία	πλατεία	No	NoCm	Fe|Sg|Ac	3	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	άσπρο	άσπρος	Aj	Aj	Ba|Ne|Sg|Ac	2	Atr	_	_	
+2	χιόνι	χιόνι	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+3	σαν	σαν	Ad	Ad	Ba	2	Adv	_	_	
+4	καϊμάκι	καϊμάκι	No	NoCm	Ne|Sg|Ac	3	Pnom	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+6	εκμέκ	εκμέκ	Rg	RgFw	_	5	Adv	_	_	
+7	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+
+1	με	με	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Ac	4	Det	_	_	
+3	κόκκινα	κόκκινος	Aj	Aj	Ba|Ne|Pl|Ac	4	Atr	_	_	
+4	καπέλα	καπέλο	No	NoCm	Ne|Pl|Ac	1	Adv	_	_	
+5	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+6	αστεία	αστεία	No	NoCm	Ne|Pl|Ac	4	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	κάνουν	κάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	Αχμέτ	Αχμέτ	No	NoPr	Ma|Sg|Nm	6	Sb_Co	_	_	
+6	και	και	Cj	CjCo	_	3	Coord	_	_	
+7	η	ο	At	AtDf	Fe|Sg|Nm	8	Det	_	_	
+8	Μελέκ	Μελέκ	No	NoPr	Fe|Sg|Nm	6	Sb_Co	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

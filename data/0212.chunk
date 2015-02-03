@@ -1,0 +1,505 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\3	TOK	όγδοος	όγδοος	NmOdMaSgNmAj
+	SYN	/adjp_nm]
+1\10	TOK	άθλος	άθλος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\16	TOK	του	ο	AtDfMaSgGe
+1\20	TOK	Ηρακλή	Ηρακλής	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	[pp
+1\27	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\31	TOK	Βιστωνίδα	Βιστωνίδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\42	TOK	Ο	ο	AtDfMaSgNm
+1\44	TOK	Ευρυσθέας	Ευρυσθέας	NoPrMaSgNm
+	SYN	/np_nm]
+1\53	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\55	TOK	ο	ο	AtDfMaSgNm
+1\57	TOK	βασιλιάς	βασιλιάς	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\66	TOK	των	ο	AtDfFePlGe
+1\70	TOK	Μυκηνών	Μυκήνες	NoPrFePlGe
+	SYN	/np_ge]
+1\77	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\79	TOK	έδωσε	δίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\85	TOK	εντολή	εντολή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\92	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\97	TOK	Ηρακλή	Ηρακλής	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\104	TOK	να	να	PtSj
+	SYN	[np_ge
+1\107	TOK	του	εγώ	PnPeMa03SgGeWe
+	SYN	/np_ge]
+1\111	TOK	φέρει	φέρω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\117	TOK	ζωντανά	ζωντανά	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\125	TOK	τα	ο	AtDfNePlAc
+1\128	TOK	άλογα	άλογο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\134	TOK	του	ο	AtDfMaSgGe
+1\138	TOK	Διομήδη	Διομήδης	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\145	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\148	TOK	Ο	ο	AtDfMaSgNm
+1\150	TOK	Διομήδης	Διομήδης	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\159	TOK	είχε	έχω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\164	TOK	τέσσερα	τέσσερις	NmCdNePlAcAj
+	SYN	/adjp_ac]
+1\172	TOK	άλογα	άλογο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\178	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\182	TOK	έβγαζαν	βγάζω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\190	TOK	φωτιά	φωτιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\196	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\200	TOK	τα	ο	AtDfNePlAc
+1\203	TOK	ρουθούνια	ρουθούνι	NoCmNePlAc
+1\213	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\218	TOK	κι	και	CjCo
+	SYN	[cl_r
+	SYN	[vg
+1\221	TOK	έτρωγαν	τρώω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\229	TOK	ανθρώπους	άνθρωπος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\238	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[cl_ri
+	SYN	[np_nm
+1\240	TOK	Όσοι	όσος	PnRiMa03PlNmXx
+	SYN	[adjp_nm
+1\245	TOK	ξένοι	ξένος	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\251	TOK	περνούσαν	περνώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\261	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\265	TOK	την	ο	AtDfFeSgAc
+1\269	TOK	περιοχή	περιοχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_ri]
+	SYN	/np_nm]
+1\277	TOK	και	και	CjCo
+	SYN	[vg
+1\281	TOK	δεν	δεν	PtNg
+1\285	TOK	υπάκουαν	υπακούω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\294	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\299	TOK	βασιλιά	βασιλιάς	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\307	TOK	γίνονταν	γίνομαι	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\316	TOK	τροφή	τροφή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\322	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\326	TOK	τα	ο	AtDfNePlAc
+1\329	TOK	άλογα	άλογο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\334	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\337	TOK	Ο	ο	AtDfMaSgNm
+1\339	TOK	Ηρακλής	Ηρακλής	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\347	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\350	TOK	τους	ο	AtDfMaPlAc
+	SYN	[adjp_ac
+1\355	TOK	γενναίους	γενναίος	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\365	TOK	συντρόφους	σύντροφος	NoCmMaPlAc
+1\376	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\380	TOK	ξεκίνησε	ξεκινώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\389	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\392	TOK	πλοίο	πλοίο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\398	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\402	TOK	τις	ο	AtDfFePlAc
+1\406	TOK	Μυκήνες	Μυκήνες	NoPrFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\414	TOK	και	και	CjCo
+1\417	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\419	TOK	αφού	αφού	CjSb
+	SYN	[vg
+1\424	TOK	ταξίδεψε	ταξιδεύω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\433	TOK	πολλές	πολύς	AjBaFePlAc
+	SYN	/adjp_ac]
+1\440	TOK	μέρες	μέρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\446	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\450	TOK	Αιγαίο	Αιγαίο	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\456	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\458	TOK	πέρασε	περνώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\465	TOK	τη	ο	AtDfFeSgAc
+1\468	TOK	Θάσο	Θάσος	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\473	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\477	TOK	έφτασε	φτάνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\484	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\488	TOK	Θράκη	Θράκη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\493	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\496	TOK	Πήγε	πηγαίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\501	TOK	αμέσως	αμέσως	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\508	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+1\514	TOK	στάβλους	στάβλος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\522	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\524	TOK	σκότωσε	σκοτώνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\532	TOK	τους	ο	AtDfMaPlAc
+1\537	TOK	φρουρούς	φρουρός	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\546	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\550	TOK	πήρε	παίρνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\555	TOK	τα	ο	AtDfNePlAc
+1\558	TOK	άλογα	άλογο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\564	TOK	για	για	AsPpSp
+1\568	TOK	να	να	PtSj
+	SYN	[np_ac
+1\571	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+1\574	TOK	φορτώσει	φορτώνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\583	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\587	TOK	πλοίο	πλοίο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\592	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\595	TOK	Ο	ο	AtDfMaSgNm
+1\597	TOK	Διομήδης	Διομήδης	NoPrMaSgNm
+	SYN	/np_nm]
+1\605	PUNCT	,	,	PUNCT
+	SYN	[cl_t
+1\607	TOK	μόλις	μόλις	AdXxBa
+	SYN	[np_ac
+1\613	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\616	TOK	έμαθε	μαθαίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl_t]
+1\621	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\623	TOK	κάλεσε	καλώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+1\630	TOK	τους	ο	AtDfMaPlAc
+	SYN	[np_nm
+1\635	TOK	Βίστωνες	Βίστωνες	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\644	TOK	για	για	AsPpSp
+1\648	TOK	να	να	PtSj
+1\651	TOK	πολεμήσουν	πολεμώ	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\662	TOK	τον	ο	AtDfMaSgAc
+1\666	TOK	Ηρακλή	Ηρακλής	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\672	PUNCT	,	,	PUNCT
+1\674	TOK	αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\679	TOK	ο	ο	AtDfMaSgNm
+1\681	TOK	Ηρακλής	Ηρακλής	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\689	TOK	κατάφερε	καταφέρνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\698	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\701	TOK	το	ο	AtDfNeSgAc
+1\704	TOK	ρόπαλό	ρόπαλο	NoCmNeSgAc
+1\711	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\715	TOK	να	να	PtSj
+1\718	TOK	σκοτώσει	σκοτώνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\727	TOK	τον	ο	AtDfMaSgAc
+1\731	TOK	Διομήδη	Διομήδης	NoPrMaSgAc
+	SYN	/np_ac]
+1\739	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\743	TOK	πολλούς	πολύς	AjBaMaPlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\751	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\755	TOK	τους	ο	AtDfMaPlAc
+1\760	TOK	άντρες	άντρας	NoCmMaPlAc
+1\767	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\770	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_t
+1\773	TOK	Όταν	όταν	CjSb
+1\778	TOK	όμως	όμως	CjCo
+	SYN	[vg
+1\783	TOK	γύρισε	γυρίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\790	TOK	πίσω	πίσω	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\795	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\799	TOK	καράβι	καράβι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_t]
+	SYN	[cl_o
+	SYN	[vg_s
+1\806	TOK	για	για	AsPpSp
+1\810	TOK	να	να	PtSj
+1\813	TOK	φύγει	φεύγω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\818	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\820	TOK	είδε	βλέπω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\825	TOK	ότι	ότι	CjSb
+	SYN	[np_ac
+1\829	TOK	τα	ο	AtDfNePlAc
+1\832	TOK	άλογα	άλογο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[vg
+1\838	TOK	είχαν	έχω	VbMnIdPa03PlXxIpAvXx
+1\844	TOK	κατασπαράξει	κατασπαράζω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\857	TOK	τον	ο	AtDfMaSgAc
+1\861	TOK	φίλο	φίλος	NoCmMaSgAc
+1\866	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	[np_ac
+1\870	TOK	τον	ο	AtDfMaSgAc
+1\874	TOK	Άβδηρο	Άβδηρο	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\880	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\882	TOK	Από	από	AsPpSp
+	SYN	[np_ac
+1\886	TOK	αυτόν	αυτός	PnDmMa03SgAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\892	TOK	πήρε	παίρνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\897	TOK	το	ο	AtDfNeSgAc
+1\900	TOK	όνομά	όνομα	NoCmNeSgAc
+1\906	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_ac]
+	SYN	[np_nm
+1\910	TOK	η	ο	AtDfFeSgNm
+1\912	TOK	πόλη	πόλη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\917	TOK	Άβδηρα	Άβδηρα	NoPrNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\923	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\926	TOK	Μετά	μετά	AsPpSp
+1\930	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\932	TOK	ο	ο	AtDfMaSgNm
+1\934	TOK	Ηρακλής	Ηρακλής	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\942	TOK	μπήκε	μπαίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\948	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\952	TOK	πλοίο	πλοίο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\957	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\959	TOK	γύρισε	γυρίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\966	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\971	TOK	Μυκήνες	Μυκήνες	NoPrFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\979	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\983	TOK	έδωσε	δίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\989	TOK	τα	ο	AtDfNePlAc
+1\992	TOK	άλογα	άλογο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\998	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\1003	TOK	Ευρυσθέα	Ευρυσθέας	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\1011	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

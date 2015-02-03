@@ -1,0 +1,137 @@
+1	Αγαπημένο	αγαπημένος	Vb	VbMn	Pp|Xx|Xx|Sg|Ne|Xx|Pv|Ac	3	Atr	_	_	
+2	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	3	Atr	_	_	
+3	περιοδικό	περιοδικό	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+4	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	μένω	μένω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+3	Ελλάδα	Ελλάδα	No	NoPr	Fe|Sg|Ac	2	Adv	_	_	
+4	εδώ	εδώ	Ad	Ad	Ba	1	Adv	_	_	
+5	και	και	Cj	CjCo	_	7	AuxY	_	_	
+6	ένα	ένας	At	AtId	Ma|Sg|Ac	7	Det	_	_	
+7	χρόνο	χρόνος	No	NoCm	Ma|Sg|Ac	1	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	3	Sb	_	_	
+2	δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	ήθελα	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τίποτα	τίποτα	Pn	PnId	Ne|03|Sg|Ac|Xx	4	Obj	_	_	
+6	να	να	Pt	PtSj	_	7	AuxV	_	_	
+7	φύγω	φεύγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	5	Atr	_	_	
+8	από	από	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	την	ο	At	AtDf	Fe|Sg|Ac	10	Det	_	_	
+10	πατρίδα	πατρίδα	No	NoCm	Fe|Sg|Ac	8	Adv	_	_	
+11	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	10	Pos	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εκεί	εκεί	Ad	Ad	Ba	2	Adv	_	_	
+2	είχα	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τους	ο	At	AtDf	Ma|Pl|Ac	4	Det	_	_	
+4	φίλους	φίλος	No	NoCm	Ma|Pl|Ac	2	Obj	_	_	
+5	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	4	Pos	_	_	
+6	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+7	τα	ο	At	AtDf	Ne|Pl|Nm	8	Det	_	_	
+8	ξαδέλφια	ξαδέρφι	No	NoCm	Ne|Pl|Nm	2	ExD	_	_	
+9	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	8	Pos	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φέτος	φέτος	Ad	Ad	Ba	2	Adv	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+4	πρώτη	πρώτος	Nm	NmOd	Fe|Sg|Nm|Aj	5	Atr	_	_	
+5	χρονιά	χρονιά	No	NoCm	Fe|Sg|Nm	2	Pnom	_	_	
+6	που	που	Pn	PnRe	Fe|03|Sg|Nm|Xx	7	Sb	_	_	
+7	πηγαίνω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	5	Atr	_	_	
+8	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	7	AuxP	_	_	
+9	ελληνικό	ελληνικός	Aj	Aj	Ba|Ne|Sg|Ac	10	Atr	_	_	
+10	σχολείο	σχολείο	No	NoCm	Ne|Sg|Ac	8	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	μαθήματα	μάθημα	No	NoCm	Ne|Pl|Nm	4	Sb	_	_	
+3	δεν	δεν	Pt	PtNg	_	4	AuxV	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	εύκολα	εύκολα	Ad	Ad	Ba	4	Adv	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	γιατί	γιατί	Cj	CjSb	_	4	AuxC	_	_	
+8	δεν	δεν	Pt	PtNg	_	9	AuxV	_	_	
+9	καταλαβαίνω	καταλαβαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	7	Adv	_	_	
+10	καλά	καλά	Ad	Ad	Ba	9	Adv	_	_	
+11	τη	ο	At	AtDf	Fe|Sg|Ac	12	Det	_	_	
+12	γλώσσα	γλώσσα	No	NoCm	Fe|Sg|Ac	9	Obj	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	ελληνικά	ελληνικός	Aj	Aj	Ba|Ne|Pl|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	δύσκολα	δύσκολα	Ad	Ad	Ba	3	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+2	τάξη	τάξη	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	κι	και	Cj	CjCo	_	6	AuxY	_	_	
+5	άλλα	άλλος	Pn	PnId	Ne|03|Pl|Nm|Xx	6	Atr	_	_	
+6	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	3	Pnom	_	_	
+7	από	από	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	τη	ο	At	AtDf	Fe|Sg|Ac	9	Det	_	_	
+9	χώρα	χώρα	No	NoCm	Fe|Sg|Ac	7	Atr	_	_	
+10	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	9	Pos	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Συνήθως	συνήθως	Ad	Ad	Ba	2	Adv	_	_	
+2	καθόμαστε	κάθομαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	2	AuxP	_	_	
+4	πίσω	πίσω	Ad	Ad	Ba	5	Atr	_	_	
+5	θρανία	θρανίο	No	NoCm	Ne|Pl|Ac	3	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Οι	ο	At	AtDf	Fe|Pl|Nm	2	Det	_	_	
+2	άλλοι	άλλος	Pn	PnId	Ma|03|Pl|Nm|Xx	4	Sb	_	_	
+3	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ac|We	4	Obj	_	_	
+4	κοροϊδεύουν	κοροϊδεύω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ακόμα	ακόμα	Ad	Ad	Ba	3	Adv	_	_	
+2	δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+5	φίλους	φίλος	No	NoCm	Ma|Pl|Ac	4	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	παρέα	παρέα	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	2	IObj	_	_	
+2	λείπουν	λείπω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πολύ	πολύ	Ad	Ad	Ba	2	Adv	_	_	
+4	οι	ο	At	AtDf	Ma|Pl|Nm	5	Det	_	_	
+5	φίλοι	φίλος	No	NoCm	Ma|Pl|Nm	2	Sb	_	_	
+6	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	5	Pos	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	γυρίσω	γυρίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πες	λέγω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	1	IObj	_	_	
+3	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+4	εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	1	Sb	_	_	
+5	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	7	Obj	_	_	
+6	θα	θα	Pt	PtFu	_	7	AuxV	_	_	
+7	έκανες	κάνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	4	Atr	_	_	
+8	αν	αν	Cj	CjSb	_	7	AuxC	_	_	
+9	ήσουν	είμαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	8	Adv	_	_	
+10	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	9	AuxP	_	_	
+11	θέση	θέση	No	NoCm	Fe|Sg|Ac	10	Adv	_	_	
+12	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	11	Pos	_	_	
+13	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	Μοναχικός	μοναχικός	Aj	Aj	Ba|Ma|Sg|Nm	2	Atr	_	_	
+2	ταξιδιώτης	ταξιδιώτης	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+

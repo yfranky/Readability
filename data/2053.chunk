@@ -1,0 +1,161 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Ο	ο	AtDfMaSgNm
+1\3	TOK	Αλέξανδρος	Αλέξανδρος	NoPrMaSgNm
+	SYN	/np_nm]
+1\14	TOK	και	και	CjCo
+	SYN	[np_nm
+1\18	TOK	η	ο	AtDfFeSgNm
+1\20	TOK	Ελένη	Ελένη	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\26	TOK	μένουν	μένω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\33	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\38	TOK	Καναδά	Καναδάς	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\44	PUNCT	,	,	PUNCT
+1\46	TOK	αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[vg
+1\51	TOK	έρχονται	έρχομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\60	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\65	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\72	TOK	κάθε	κάθε	PnIdMa03SgAcXx
+1\77	TOK	Ιούλιο	Ιούλιος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\83	PTERM_P	.	.	PTERM_P
+	SYN	[cl
+	SYN	[vg
+1\85	TOK	μένουν	μένω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\92	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\97	TOK	Αθήνα	Αθήνα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\102	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\104	TOK	κοντά	κοντά	AdXxBa
+	SYN	[pp
+1\110	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\115	TOK	Ακρόπολη	Ακρόπολη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\123	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\125	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\128	TOK	τον	ο	AtDfMaSgAc
+1\132	TOK	ξάδερφό	ξάδερφος	NoCmMaSgAc
+1\140	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+1\144	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\146	TOK	τον	ο	AtDfMaSgAc
+1\150	TOK	Δημήτρη	Δημήτρης	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\157	PUNCT	,	,	PUNCT
+1\159	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_ac
+1\163	TOK	την	ο	AtDfFeSgAc
+1\167	TOK	ξαδέρφη	ξαδέρφη	NoCmFeSgAc
+1\175	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+1\179	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\181	TOK	τη	ο	AtDfFeSgAc
+1\184	TOK	Χριστίνα	Χριστίνα	NoPrFeSgAc
+	SYN	/np_ac]
+1\192	PUNCT	,	,	PUNCT
+1\194	TOK	αλλά	αλλά	CjCo
+	SYN	[np_nm
+1\199	TOK	το	ο	AtDfNeSgNm
+1\202	TOK	σαββατοκύριακο	σαββατοκύριακο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\217	TOK	πηγαίνουν	πηγαίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\227	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\231	TOK	χωριό	χωριό	NoCmNeSgAc
+1\237	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+1\241	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\243	TOK	το	ο	AtDfNeSgNm
+1\246	TOK	Κερασοχώρι	Κερασοχώρι	NoPrNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\256	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_t
+1\258	TOK	Όταν	όταν	CjSb
+	SYN	[vg
+1\263	TOK	δεν	δεν	PtNg
+1\267	TOK	πηγαίνουν	πηγαίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\277	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\281	TOK	χωριό	χωριό	NoCmNeSgAc
+1\287	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_t]
+1\291	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\293	TOK	πηγαίνουν	πηγαίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\303	TOK	ταξίδι	ταξίδι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\310	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\315	TOK	Πόρο	Πόρος	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\319	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\321	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\324	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\328	TOK	μικρό	μικρός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\334	TOK	καράβι	καράβι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\340	PUNCT	,	,	PUNCT
+1\342	TOK	το	ο	AtDfMaSgAc
+	SYN	[np_nm
+1\345	OPUNCT	“	“	OPUNCT
+1\346	TOK	Πειρατής	πειρατής	NoCmMaSgNm
+1\354	CPUNCT	”	”	CPUNCT
+	SYN	/np_nm]
+	SYN	/cl]
+1\355	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

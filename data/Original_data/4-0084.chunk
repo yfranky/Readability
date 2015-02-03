@@ -1,0 +1,220 @@
+	(SENT	<S>
+	SYN	[cl
+1\1	OPUNCT	«	«	OPUNCT
+	SYN	[vg
+1\2	TOK	Κάν'	κάνω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+1\7	TOK	το	ο	AtDfNeSgAc
+	SYN	[advp
+1\10	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\15	TOK	ο	ο	AtDfMaSgNm
+1\17	TOK	Μπέκαμ	Μπέκαμ	NoPrMaSgNm
+	SYN	/np_nm]
+1\23	CPUNCT	»	»	CPUNCT
+	SYN	/cl]
+1\24	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\26	TOK	Κοινωνική	κοινωνικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\36	TOK	περιπέτεια	περιπέτεια	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\47	TOK	βρετανικής	βρετανικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\58	TOK	παραγωγής	παραγωγή	NoCmFeSgGe
+	SYN	/np_ge]
+1\67	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\69	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\72	TOK	σκηνοθεσία	σκηνοθεσία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\83	TOK	Γκουριντέρ	Γκουριντέρ	NoPrFeSgNm
+1\94	TOK	Τσαντά	Τσαντά	NoPrFeSgNm
+	SYN	/np_nm]
+1\100	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\103	OPUNCT	«	«	OPUNCT
+1\104	TOK	Ο	ο	AtDfMaSgNm
+	SYN	[np_ac
+1\106	TOK	Χάρι	χάρη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\111	TOK	Πότερ	Πότερ	NoPrFeSgNm
+	SYN	/np_nm]
+1\117	TOK	και	και	CjCo
+	SYN	[np_nm
+1\121	TOK	η	ο	AtDfFeSgNm
+1\123	TOK	κάμαρα	κάμαρα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\130	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\133	TOK	τα	ο	AtDfNePlAc
+1\136	TOK	μυστικά	μυστικό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\143	CPUNCT	»	»	CPUNCT
+1\144	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\146	TOK	Παιδική	παιδικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\154	TOK	περιπέτεια	περιπέτεια	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\165	TOK	φαντασίας	φαντασία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\175	TOK	αμερικανικής	αμερικάνικος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\188	TOK	παραγωγής	παραγωγή	NoCmFeSgGe
+1\198	DIG	2002	2002	DIG
+	SYN	/np_ge]
+1\202	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\204	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\207	TOK	σκηνοθεσία	σκηνοθεσία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\218	TOK	Κρις	Κρις	NoPrFeSgNm
+1\223	TOK	Κολόμπους	Κολόμπους	NoPrFeSgNm
+	SYN	/np_nm]
+1\232	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\235	OPUNCT	«	«	OPUNCT
+1\236	TOK	Matrix	Matrix	RgFwOr
+1\242	CPUNCT	»	»	CPUNCT
+1\243	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\245	TOK	Περιπέτεια	περιπέτεια	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\256	TOK	επιστημονικής	επιστημονικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\270	TOK	φαντασίας	φαντασία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\280	TOK	αμερικανικής	αμερικάνικος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\293	TOK	παραγωγής	παραγωγή	NoCmFeSgGe
+1\303	DIG	2002	2002	DIG
+	SYN	/np_ge]
+1\307	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\310	OPUNCT	«	«	OPUNCT
+	SYN	[np_nm
+1\311	TOK	Λίλο	Λίλο	NoPrMaSgNm
+	SYN	/np_nm]
+1\316	TOK	και	και	CjCo
+1\320	TOK	Στιτς	Στιτς	RgFwTr
+1\325	CPUNCT	»	»	CPUNCT
+1\326	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\328	TOK	Κινούμενα	κινούμενος	AjBaNePlNm
+	SYN	/adjp_nm]
+1\338	TOK	σχέδια	σχέδιο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\345	TOK	αμερικανικής	αμερικάνικος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\358	TOK	παραγωγής	παραγωγή	NoCmFeSgGe
+1\368	DIG	2002	2002	DIG
+	SYN	/np_ge]
+1\372	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\374	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\377	TOK	σκηνοθεσία	σκηνοθεσία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\388	TOK	Κρις	Κρις	NoPrFeSgNm
+1\393	TOK	Σάντερς	Σάντερς	NoPrFeSgNm
+	SYN	/np_nm]
+1\400	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\403	OPUNCT	«	«	OPUNCT
+	SYN	[np_nm
+1\404	TOK	Το	ο	AtDfNeSgNm
+1\407	TOK	χαμόγελο	χαμόγελο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\416	TOK	της	ο	AtDfFeSgGe
+1\420	TOK	μητέρας	μητέρα	NoCmFeSgGe
+1\428	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_ge]
+1\431	CPUNCT	»	»	CPUNCT
+1\432	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\434	TOK	Κοινωνική	κοινωνικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\444	TOK	ταινία	ταινία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\451	TOK	ιταλικής	ιταλικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\460	TOK	παραγωγής	παραγωγή	NoCmFeSgGe
+1\470	DIG	2002	2002	DIG
+	SYN	/np_ge]
+1\474	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\477	OPUNCT	«	«	OPUNCT
+	SYN	[np_nm
+1\478	TOK	Γάμος	γάμος	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\484	TOK	α	α	PnDmNe03PlAcXx
+1\486	TOK	λα	λα	NoCmNePlAc
+	SYN	/np_ac]
+1\488	PTERM_P	...	...	PTERM_P
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\492	TOK	ελληνικά	ελληνικός	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\500	CPUNCT	»	»	CPUNCT
+1\501	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\503	TOK	Κωμωδία	κωμωδία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\511	TOK	αμερικανικής	αμερικάνικος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\524	TOK	παραγωγής	παραγωγή	NoCmFeSgGe
+1\534	DIG	2002	2002	DIG
+	SYN	/np_ge]
+	)SENT	</S>

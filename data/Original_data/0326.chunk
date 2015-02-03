@@ -1,0 +1,388 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Φύση	φύση	NoCmFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\7	TOK	Κάθε	κάθε	PnIdFe03SgNmXx
+1\12	TOK	περιοχή	περιοχή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\20	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\25	TOK	τη	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\28	TOK	δική	δικός	AjBaFeSgAc
+1\33	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/adjp_ac]
+1\37	TOK	ομορφιά	ομορφιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\44	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\46	TOK	Απόλαυσέ	απολαμβάνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+1\55	TOK	την	εγώ	PnPoFe03SgGeXx
+	SYN	/cl]
+1\58	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\60	TOK	Μην	μην	PtNg
+1\64	TOK	ενοχλήσετε	ενοχλώ	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\75	TOK	ένα	ένας	AtIdNeSgAc
+1\79	TOK	πουλί	πουλί	NoCmNeSgAc
+	SYN	/np_ac]
+1\85	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\87	TOK	ένα	ένας	AtIdNeSgAc
+1\91	TOK	ερπετό	ερπετό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\98	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\102	TOK	βρίσκεται	βρίσκω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\112	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\116	TOK	φυσικό	φυσικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+1\123	TOK	του	ο	AtDfNeSgGe
+	SYN	[np_ac
+1\127	TOK	περιβάλλον	περιβάλλον	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\137	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\139	TOK	Μη	μην	PtNg
+1\142	TOK	σκοτώσετε	σκοτώνω	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\152	TOK	τα	ο	AtDfNePlAc
+1\155	TOK	φίδια	φίδι	NoCmNePlAc
+	SYN	/np_ac]
+1\160	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\162	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\166	TOK	τρέφονται	τρέφω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\176	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\179	TOK	έντομα	έντομο	NoCmNePlAc
+	SYN	/np_ac]
+1\186	TOK	και	και	CjCo
+	SYN	[np_ac
+1\190	TOK	τρωκτικά	τρωκτικός	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\198	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\200	TOK	Ας	ας	PtOt
+	SYN	[vg
+1\203	TOK	συμμετέχουμε	συμμετέχω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\216	TOK	όλοι	όλος	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\221	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\225	TOK	διατήρηση	διατήρηση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\235	TOK	της	ο	AtDfFeSgGe
+1\239	TOK	ζωής	ζωή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\244	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\248	TOK	φύση	φύση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\252	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_c
+1\254	TOK	Αν	αν	CjSb
+	SYN	[vg
+1\257	TOK	βοηθήσουμε	βοηθώ	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\268	TOK	τα	ο	AtDfNePlNm
+1\271	TOK	ζώα	ζώο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\275	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\279	TOK	απειλούνται	απειλώ	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\291	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\294	TOK	εξαφάνιση	εξαφάνιση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\304	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\308	TOK	χώρα	χώρα	NoCmFeSgAc
+1\313	TOK	μας	μου	PnPoMa01PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl_c]
+1\316	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\318	TOK	θα	θα	PtFu
+1\321	TOK	ζήσουμε	ζω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+1\329	TOK	κι	και	CjCo
+	SYN	[np_nm
+1\332	TOK	εμείς	εγώ	PnPeMa01PlNmSt
+	SYN	/np_nm]
+	SYN	[advp
+1\338	TOK	καλύτερα	καλά	AdXxCp
+	SYN	/advp]
+	SYN	/cl]
+1\346	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\349	TOK	Προσπαθήστε	προσπαθώ	VbMnMpXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\361	TOK	να	να	PtSj
+1\364	TOK	μην	μην	PtNg
+1\368	TOK	καταστρέψετε	καταστρέφω	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\381	TOK	τις	ο	AtDfFePlAc
+1\385	TOK	φωλιές	φωλιά	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\392	TOK	των	ο	AtDfNePlGe
+1\396	TOK	πουλιών	πουλί	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	[pp
+1\404	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\408	TOK	απλή	απλός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\413	TOK	περιέργεια	περιέργεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\423	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\425	TOK	Κοιτάξτε	κοιτάζω	VbMnMpXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\434	TOK	τες	τες	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\438	TOK	από	από	AsPpSp
+	SYN	[advp
+1\442	TOK	μακριά	μακριά	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\449	TOK	μην	μην	PtNg
+1\453	TOK	αγγίξετε	αγγίζω	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\462	TOK	τα	ο	AtDfNePlAc
+1\465	TOK	αυγά	αυγό	NoCmNePlAc
+	SYN	/np_ac]
+1\470	TOK	και	και	CjCo
+	SYN	[np_ac
+1\474	TOK	τη	ο	AtDfFeSgAc
+1\477	TOK	φωλιά	φωλιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\482	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_c
+1\484	TOK	Αν	αν	CjSb
+	SYN	[vg
+1\487	TOK	βρείτε	βρίσκω	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\494	TOK	μικρά	μικρός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\500	TOK	ζώα	ζώο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\504	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\508	TOK	έδαφος	έδαφος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_c]
+1\514	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[advp
+1\516	TOK	συνήθως	συνήθως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\524	TOK	δεν	δεν	PtNg
+1\528	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\534	TOK	εγκαταλελειμμένα	εγκαταλελειμμένος	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\550	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\552	TOK	Μην	μην	PtNg
+	SYN	[np_ac
+1\556	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+1\559	TOK	πειράξετε	πειράζω	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\568	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\570	TOK	Η	ο	AtDfFeSgNm
+1\572	TOK	μυρωδιά	μυρωδιά	NoCmFeSgNm
+1\580	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\584	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\591	TOK	να	να	PtSj
+1\594	TOK	ενοχλήσει	ενοχλώ	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\604	TOK	τη	ο	AtDfFeSgAc
+1\607	TOK	μητέρα	μητέρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\614	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\618	TOK	να	να	PtSj
+1\621	TOK	εγκαταλείψει	εγκαταλείπω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\634	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\637	TOK	μικρό	μικρός	AjBaNeSgAc
+1\643	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\646	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\648	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[advp
+1\652	TOK	τότε	τότε	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\657	TOK	θα	θα	PtFu
+1\660	TOK	πεθάνει	πεθαίνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\667	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\669	TOK	Προσέξτε	προσέχω	VbMnMpXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\678	TOK	τους	ο	AtDfMaPlAc
+1\683	TOK	θάμνους	θάμνος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\691	TOK	που	που	PnReMa03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\695	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\701	TOK	καρπό	καρπός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\706	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\708	TOK	Δίνουν	δίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\715	TOK	τροφή	τροφή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\721	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\725	TOK	πουλιά	πουλί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\732	TOK	τον	ο	AtDfMaSgAc
+1\736	TOK	χειμώνα	χειμώνας	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\743	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

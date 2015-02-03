@@ -1,0 +1,107 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ge
+1\1	TOK	Σου	εγώ	PnPeMa02SgGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\5	TOK	στέλνω	στέλνω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+1\11	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\13	TOK	Αριστέα	Αριστέα	NoPrFeSgNm
+	SYN	/np_nm]
+1\20	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\22	TOK	μια	ένας	AtIdFeSgNm
+1\26	TOK	ζωγραφιά	ζωγραφιά	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\35	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\39	TOK	δείχνει	δείχνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\47	TOK	ένα	ένας	AtIdNeSgAc
+1\51	TOK	δέντρο	δέντρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\57	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\59	TOK	Εγώ	εγώ	PnPeMa01SgNmSt
+	SYN	/np_nm]
+	SYN	[vg
+1\63	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\69	TOK	κρυμμένος	κρυμμένος	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[advp
+1\79	TOK	μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\84	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\89	TOK	κουφάλα	κουφάλα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\97	TOK	του	ο	AtDfNeSgGe
+1\101	TOK	δέντρου	δέντρο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\109	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\113	TOK	τρώω	τρώω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\118	TOK	ένα	ένας	AtIdMaSgAc
+1\122	TOK	χρυσό	χρυσός	NoCmMaSgAc
+1\128	TOK	βερίκοκο	βερίκοκο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\136	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\138	TOK	Δεν	δεν	PtNg
+1\142	TOK	φαίνομαι	φαίνομαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\150	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\152	TOK	επειδή	επειδή	CjSb
+	SYN	[np_ac
+1\159	TOK	με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\162	TOK	κυνηγάνε	κυνηγώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\171	TOK	οι	ο	AtDfMaPlNm
+1\174	TOK	πράκτορες	πράκτορας	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\184	TOK	του	ο	AtDfMaSgGe
+1\188	TOK	Τσάρου	τσάρος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	[np_nm
+1\195	TOK	Τσατσάροβιτς	Τσατσάροβιτς	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\207	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\211	TOK	Ευγένιος	Ευγένιος	NoPrMaSgNm
+	SYN	/np_nm]
+	)SENT	</S>

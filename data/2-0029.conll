@@ -1,0 +1,246 @@
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	γενέθλια	γενέθλιος	Aj	Aj	Ba|Ne|Pl|Nm	0	ExD	_	_	
+3	της	ο	At	AtDf	Fe|Sg|Ge	4	Det	_	_	
+4	Μαρίας	Μαρία	No	NoPr	Fe|Sg|Ge	2	Atr	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	8	Sb	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	άνοιξε	ανοίγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Atr	_	_	
+5	την	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	πόρτα	πόρτα	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+7	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+8	χτυπάει	χτυπώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+9	το	ο	At	AtDf	Ne|Sg|Ac	10	Det	_	_	
+10	κουδούνι	κουδούνι	No	NoCm	Ne|Sg|Ac	8	Obj	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	μαμά	μαμά	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Χρόνια	χρόνος	No	NoCm	Ne|Pl|Nm	5	Atr	_	_	
+3	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Ac	2	Atr	_	_	
+4	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+5	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Ευχαριστώ	ευχαριστώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	4	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	ευχαριστώ	ευχαριστώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	πολύ	πολύ	Ad	Ad	Ba	4	Adv	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	ήρθαν	έρχομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	2	Atr	_	_	
+5	οι	ο	At	AtDf	Ma|Pl|Nm	6	Det	_	_	
+6	φίλοι	φίλος	No	NoCm	Ma|Pl|Nm	7	Sb_Co	_	_	
+7	και	και	Cj	CjCo	_	4	Coord	_	_	
+8	οι	ο	At	AtDf	Fe|Pl|Nm	9	Det	_	_	
+9	φίλες	φίλη	No	NoCm	Fe|Pl|Nm	7	Sb_Co	_	_	
+10	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	9	Pos	_	_	
+11	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Λείπουν	λείπω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	μερικοί	μερικοί	Pn	PnId	Ma|03|Pl|Nm|Xx	2	Sb	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	ήρθε	έρχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	ακόμη	ακόμα	Ad	Ad	Ba	2	Adv	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	Κώστας	Κώστας	No	NoPr	Ma|Sg|Nm	2	Sb	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	3	AuxV	_	_	
+2	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	3	Obj	_	_	
+3	περιμένουμε	περιμένω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	λίγο	λίγο	Ad	Ad	Ba	3	Adv	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ντριν	Ντριν	No	NoPr	Ma|Sg|Nm	6	Atr	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	ντριν	ντριν	Ad	Ad	Ba	6	Adv	_	_	
+4	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Nm	6	Det	_	_	
+6	κουδούνι	κουδούνι	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Αυτός	αυτός	Pn	PnDm	Ma|03|Sg|Nm|Xx	3	Pnom	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	Κώστας	Κώστας	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πάω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	ανοίξω	ανοίγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	6	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+4	να	να	Pt	PtSj	_	6	AuxV	_	_	
+5	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	6	Obj	_	_	
+6	εκατοστίσεις	εκατοστίζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	4	Sb	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	καλύτερα	καλά	Ad	Ad	Cp	4	Adv	_	_	
+6	έξω	έξω	Ad	Ad	Ba	4	Adv	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	αυλή	αυλή	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ωραία	ωραίος	Aj	Aj	Ba|Fe|Sg|Ac	5	Atr	_	_	
+5	δροσιά	δροσιά	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	τούρτα	τούρτα	No	NoCm	Fe|Sg|Nm	4	Sb	_	_	
+3	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	2	Pos	_	_	
+4	περιμένει	περιμένω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλα	όλος	Aj	Aj	Ba|Ne|Pl|Nm	3	Atr	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Nm	3	Det	_	_	
+3	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	7	Sb	_	_	
+4	βγήκαν	βγαίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+5	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	4	AuxP	_	_	
+6	αυλή	αυλή	No	NoCm	Fe|Sg|Ac	5	Adv	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	στάθηκαν	στέκω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	7	Pred_Co	_	_	
+9	γύρω	γύρω	Ad	Ad	Ba	8	Adv	_	_	
+10	από	από	AsPp	AsPpSp	_	9	AuxP	_	_	
+11	το	ο	At	AtDf	Ne|Sg|Ac	12	Det	_	_	
+12	τραπέζι	τραπέζι	No	NoCm	Ne|Sg|Ac	10	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	τούρτα	τούρτα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	με	με	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	εννιά	εννέα	Nm	NmCd	Ma|Pl|Ac|Aj	5	Atr	_	_	
+5	κεράκια	κεράκι	No	NoCm	Ne|Pl|Ac	6	Adv_Co	_	_	
+6	και	και	Cj	CjCo	_	3	Coord	_	_	
+7	τα	ο	At	AtDf	Ne|Pl|Nm	9	Det	_	_	
+8	ωραία	ωραίος	Aj	Aj	Ba|Ne|Pl|Nm	9	Atr	_	_	
+9	σχέδια	σχέδιο	No	NoCm	Ne|Pl|Nm	10	Sb	_	_	
+10	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	6	Adv_Co	_	_	
+11	πανέμορφη	πανέμορφος	Aj	Aj	Ba|Fe|Sg|Nm	10	Pnom	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	φύσα	φύσα	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	2	Atr	_	_	
+5	δυνατά	δυνατός	Aj	Aj	Ba|Ne|Pl|Ac	4	Obj	_	_	
+6	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+7	να	να	Pt	PtSj	_	9	AuxV	_	_	
+8	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	9	Obj	_	_	
+9	σβήσεις	σβήνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	5	Atr	_	_	
+10	και	και	Cj	CjCo	_	12	AuxY	_	_	
+11	τα	ο	At	AtDf	Ne|Pl|Ac	12	Det	_	_	
+12	εννιά	εννέα	Nm	NmCd	Ma|Pl|Ac|Aj	9	Obj	_	_	
+13	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	3	Sb	_	_	
+2	μαζί	μαζί	Ad	Ad	Ba	3	Adv	_	_	
+3	τραγουδούν	τραγουδώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Οι	ο	At	AtDf	Fe|Pl|Nm	2	Det	_	_	
+2	ευχές	ευχή	No	NoCm	Fe|Pl|Nm	4	Sb	_	_	
+3	δίνουν	δίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	παίρνουν	παίρνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	ζήσεις	ζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+4	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	6	ExD_Co	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	και	και	Cj	CjCo	_	2	Coord	_	_	
+7	χρόνια	χρόνος	No	NoCm	Ne|Pl|Ac	8	Atr	_	_	
+8	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Ac	6	Atr_Co	_	_	
+
+1	μεγάλη	μεγάλος	Aj	Aj	Ba|Fe|Sg|Nm	0	ExD	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	γίνεις	γίνομαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	1	Atr	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	άσπρα	άσπρος	Aj	Aj	Ba|Ne|Pl|Ac	6	Atr	_	_	
+6	μαλλιά	μαλλί	No	NoCm	Ne|Pl|Ac	4	Adv	_	_	
+
+1	παντού	παντού	Ad	Ad	Ba	3	Adv	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	σκορπίζεις	σκορπίζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	της	ο	At	AtDf	Fe|Sg|Ge	5	Det	_	_	
+5	γνώσης	γνώση	No	NoCm	Fe|Sg|Ge	3	Obj	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	φως	φως	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+
+1	και	και	Cj	CjCo	_	4	AuxY	_	_	
+2	όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	4	Sb	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	να	να	Pt	PtSj	_	4	Sb	_	_	
+6	ένας	ένας	At	AtId	Ma|Sg|Nm	8	Det	_	_	
+7	"	"	OPUNCT	OPUNCT	_	8	AuxG	_	_	
+8	σοφός	σοφός	Aj	Aj	Ba|Ma|Sg|Nm	5	ExD_Ap	_	_	
+9	"	"	CPUNCT	CPUNCT	_	8	AuxG	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	φλας	φλας	No	NoCm	Ne|Pl|Nm	6	Sb	_	_	
+3	της	ο	At	AtDf	Fe|Sg|Ge	5	Det	_	_	
+4	φωτογραφικής	φωτογραφικός	Aj	Aj	Ba|Fe|Sg|Ge	5	Atr	_	_	
+5	μηχανής	μηχανή	No	NoCm	Fe|Sg|Ge	2	Atr	_	_	
+6	αστράφτει	αστράφτω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	συνέχεια	συνέχεια	No	NoCm	Fe|Sg|Ac	6	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	κομμάτια	κομμάτι	No	NoCm	Ne|Pl|Nm	5	Sb	_	_	
+3	της	ο	At	AtDf	Fe|Sg|Ge	4	Det	_	_	
+4	τούρτας	τούρτα	No	NoCm	Fe|Sg|Ge	2	Atr	_	_	
+5	τελειώνουν	τελειώνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	γρήγορα	γρήγορα	Ad	Ad	Ba	5	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Οι	ο	At	AtDf	Fe|Pl|Nm	2	Det	_	_	
+2	λεμονάδες	λεμονάδα	No	NoCm	Fe|Pl|Nm	3	Sb_Co	_	_	
+3	και	και	Cj	CjCo	_	6	Coord	_	_	
+4	οι	ο	At	AtDf	Fe|Pl|Nm	5	Det	_	_	
+5	πορτοκαλάδες	πορτοκαλάδα	No	NoCm	Fe|Pl|Nm	3	Sb_Co	_	_	
+6	φεύγουν	φεύγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	6	AuxP	_	_	
+8	λεπτό	λεπτό	No	NoCm	Ne|Sg|Ac	7	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Οι	ο	At	AtDf	Fe|Pl|Nm	2	Det	_	_	
+2	φωνές	φωνή	No	NoCm	Fe|Pl|Nm	5	Sb	_	_	
+3	των	ο	At	AtDf	Ne|Pl|Ge	4	Det	_	_	
+4	παιδιών	παιδί	No	NoCm	Ne|Pl|Ge	2	Atr	_	_	
+5	φτάνουν	φτάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	μέχρι	μέχρι	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	τον	ο	At	AtDf	Ma|Sg|Ac	8	Det	_	_	
+8	δρόμο	δρόμος	No	NoCm	Ma|Sg|Ac	6	Adv	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ξεσηκώθηκε	ξεσηκώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	όλη	όλος	Aj	Aj	Ba|Fe|Sg|Nm	4	Atr	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	γειτονιά	γειτονιά	No	NoCm	Fe|Sg|Nm	1	Sb	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

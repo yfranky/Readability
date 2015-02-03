@@ -1,0 +1,54 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Οι	ο	AtDfMaPlNm
+1\4	TOK	γονείς	γονέας	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\11	TOK	της	ο	AtDfFeSgGe
+1\15	TOK	Μελέκ	Μελέκ	NoPrFeSgGe
+	SYN	/np_ge]
+1\21	TOK	και	και	CjCo
+	SYN	[np_ge
+1\25	TOK	του	ο	AtDfNeSgGe
+1\29	TOK	Αχμέτ	Αχμέτ	NoPrNeSgGe
+	SYN	/np_ge]
+1\35	TOK	και	και	CjCo
+	SYN	[np_nm
+1\39	TOK	η	ο	AtDfFeSgNm
+1\41	TOK	μαμά	μαμά	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\46	TOK	της	ο	AtDfFeSgGe
+1\50	TOK	Αγγέλας	Αγγέλα	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\58	TOK	ψάχνουν	ψάχνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\66	TOK	τα	ο	AtDfNePlNm
+1\69	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\75	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\78	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\79	TOK	Τα	ο	AtDfNePlNm
+1\82	TOK	ψώνια	ψώνιο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\88	TOK	της	ο	AtDfFeSgGe
+1\92	TOK	κυρίας	κυρία	NoCmFeSgGe
+	SYN	/np_ge]
+1\98	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\101	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\102	TOK	Ο	ο	AtDfMaSgNm
+1\104	TOK	καφετζής	καφετζής	NoCmMaSgNm
+	SYN	/np_nm]
+1\112	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

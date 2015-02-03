@@ -1,0 +1,39 @@
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Χριστίνα	Χριστίνα	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	ντυμένη	ντυμένος	Aj	Aj	Ba|Fe|Sg|Nm	3	Pnom	_	_	
+5	Ωραία	ωραία	Ad	Ad	Ba	3	Adv	_	_	
+6	Ελένη	Ελένη	No	NoPr	Fe|Sg|Nm	3	Pnom	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Ελένη	Ελένη	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	ντυμένη	ντυμένος	Aj	Aj	Ba|Fe|Sg|Nm	3	Pnom	_	_	
+5	Μπουμπουλίνα	Μπουμπουλίνα	No	NoPr	Fe|Sg|Ac	3	ExD	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Χασάν	Χασάν	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	ντυμένος	ντυμένος	Vb	VbMn	Pp|Xx|Xx|Sg|Ma|Xx|Pv|Nm	3	Pnom	_	_	
+5	Μέγας	μέγας	Aj	Aj	Ba|Ma|Sg|Nm	6	Atr	_	_	
+6	Αλέξανδρος	Αλέξανδρος	No	NoPr	Ma|Sg|Nm	4	Sb	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Ορέστης	Ορέστης	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	ντυμένος	ντυμένος	Vb	VbMn	Pp|Xx|Xx|Sg|Ma|Xx|Pv|Nm	5	Atr	_	_	
+5	Καραγκιόζης	καραγκιόζης	No	NoCm	Ma|Sg|Nm	3	Pnom	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Σόφη	Σόφη	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	ντυμένη	ντυμένος	Aj	Aj	Ba|Fe|Sg|Nm	5	Atr	_	_	
+5	βοσκοπούλα	βοσκοπούλα	No	NoCm	Fe|Sg|Nm	3	Pnom	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+2	Σουν	Σουν	No	NoPr	Ma|Sg|Nm	3	Atr	_	_	
+3	Γιν	Γιν	No	NoPr	Ma|Sg|Nm	4	Sb	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	ντυμένος	ντυμένος	Vb	VbMn	Pp|Xx|Xx|Sg|Ma|Xx|Pv|Nm	6	Atr	_	_	
+6	τσολιάς	τσολιάς	No	NoCm	Ma|Sg|Nm	4	Pnom	_	_	
+

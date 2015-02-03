@@ -1,0 +1,220 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Τα	ο	AtDfNePlNm
+1\4	TOK	ωάρια	ωάριο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\10	TOK	αρχίζουν	αρχίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\19	TOK	να	να	PtSj
+1\22	TOK	παράγονται	παράγω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\33	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\38	TOK	ωοθήκες	ωοθήκη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\46	TOK	της	ο	AtDfFeSgGe
+1\50	TOK	γυναίκας	γυναίκα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\59	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\62	TOK	την	ο	AtDfFeSgAc
+1\66	TOK	εφηβεία	εφηβεία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\73	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\75	TOK	Παράγεται	παράγω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\85	TOK	ένα	ένας	AtIdNeSgNm
+1\89	TOK	ωάριο	ωάριο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[advp
+1\95	TOK	συνήθως	συνήθως	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\103	TOK	κάθε	κάθε	PnIdFe03SgAcXx
+1\108	DIG	28	28	DIG
+1\111	TOK	μέρες	μέρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\116	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_t
+1\118	TOK	Όταν	όταν	CjSb
+	SYN	[np_nm
+1\123	TOK	το	ο	AtDfNeSgNm
+1\126	TOK	ωάριο	ωάριο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\132	TOK	δε	δεν	PtNg
+1\135	TOK	γονιμοποιείται	γονιμοποιώ	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_t]
+1\149	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\151	TOK	αποβάλλεται	αποβάλλω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\163	TOK	μαζί	μαζί	AdXxBa
+	SYN	[pp
+1\168	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\171	TOK	αίμα	αίμα	NoCmNeSgAc
+	SYN	/np_ac]
+1\176	TOK	και	και	CjCo
+	SYN	[np_ac
+1\180	TOK	άλλα	άλλος	PnIdNe03PlAcXx
+1\185	TOK	υπολείμματα	υπόλειμμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\196	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\198	TOK	Αυτό	αυτός	PnDmNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\203	TOK	λέγεται	λέγω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\211	TOK	περίοδος	περίοδος	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\219	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\221	TOK	Η	ο	AtDfFeSgNm
+1\223	TOK	περίοδος	περίοδος	NoCmFeSgNm
+	SYN	/np_nm]
+1\232	OPUNCT	(	(	OPUNCT
+	SYN	[np_nm
+1\233	TOK	η	ο	AtDfFeSgNm
+1\235	TOK	εμμηνορρυσία	εμμηνορρυσία	NoCmFeSgNm
+	SYN	/np_nm]
+1\247	CPUNCT	)	)	CPUNCT
+	SYN	[vg
+1\249	TOK	εμφανίζεται	εμφανίζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\261	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\265	TOK	κορίτσια	κορίτσι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\274	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\277	TOK	ηλικία	ηλικία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\284	DIG	11-14	11-14	DIG
+1\290	TOK	χρονών	χρονών	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\296	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\298	TOK	Υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+1\307	TOK	όμως	όμως	CjCo
+1\312	TOK	και	και	CjCo
+	SYN	[np_nm
+1\316	TOK	κορίτσια	κορίτσι	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\325	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\329	TOK	αρχίζουν	αρχίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\338	TOK	να	να	PtSj
+1\341	TOK	αδιαθετούν	αδιαθετώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+	SYN	[cl_t
+1\352	TOK	όταν	όταν	CjSb
+	SYN	[vg
+1\357	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+1\363	DIG	10	10	DIG
+	SYN	/cl_t]
+1\366	TOK	και	και	CjCo
+	SYN	[np_ac
+1\370	TOK	άλλα	άλλος	PnIdNe03PlAcXx
+	SYN	/np_ac]
+	SYN	[cl_t
+1\375	TOK	όταν	όταν	CjSb
+	SYN	[vg
+1\380	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+1\386	DIG	17	17	DIG
+	SYN	/cl_t]
+1\388	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\391	TOK	Τα	ο	AtDfNePlNm
+1\394	TOK	σπερματοζωάρια	σπερματοζωάριο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\409	TOK	αρχίζουν	αρχίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\418	TOK	να	να	PtSj
+1\421	TOK	παράγονται	παράγω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\432	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\436	TOK	γεννητικά	γεννητικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\446	TOK	όργανα	όργανο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\453	TOK	του	ο	AtDfNeSgGe
+1\457	TOK	αγοριού	αγόρι	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\465	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\468	TOK	την	ο	AtDfFeSgAc
+1\472	TOK	εφηβεία	εφηβεία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\479	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

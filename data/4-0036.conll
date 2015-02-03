@@ -1,0 +1,143 @@
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Τζίμη	Τζίμη	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	θα	θα	Pt	PtFu	_	5	AuxV	_	_	
+5	πάτε	πηγαίνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	2	Atr	_	_	
+6	φέτος	φέτος	Ad	Ad	Ba	5	Adv	_	_	
+7	διακοπές	διακοπή	No	NoCm	Fe|Pl|Ac	5	Obj	_	_	
+8	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	5	AuxP	_	_	
+9	Ελλάδα	Ελλάδα	No	NoPr	Fe|Sg|Ac	8	Adv	_	_	
+10	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	5	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	θα	θα	Pt	PtFu	_	5	AuxV	_	_	
+5	πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	καλοκαίρι	καλοκαίρι	No	NoCm	Ne|Sg|Ac	8	Obj_Ap	_	_	
+8	,	,	PUNCT	PUNCT	_	5	Apos	_	_	
+9	τον	ο	At	AtDf	Ma|Sg|Ac	10	Det	_	_	
+10	Ιούλιο	Ιούλιος	No	NoCm	Ma|Sg|Ac	8	Obj_Ap	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πότε	πότε	Ad	Ad	Ba	0	ExD	_	_	
+3	ακριβώς	ακριβώς	Ad	Ad	Ba	2	Adv	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	φύγουμε	φεύγω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+4	από	από	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	δω	βλέπω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Adv	_	_	
+6	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	5	AuxP	_	_	
+7	τρεις	τρεις	Nm	NmCd	Ma|Pl|Ac|Aj	6	Obj	_	_	
+8	Ιουλίου	Ιούλιος	No	NoCm	Ma|Sg|Ge	7	Atr	_	_	
+9	και	και	Cj	CjCo	_	0	Coord	_	_	
+10	θα	θα	Pt	PtFu	_	11	AuxV	_	_	
+11	επιστρέψουμε	επιστρέφω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+12	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	11	AuxP	_	_	
+13	είκοσι	είκοσι	Nm	NmCd	Ne|Pl|Ac|Aj	12	Obj	_	_	
+14	τέσσερις	τέσσερις	Nm	NmCd	Fe|Pl|Ac|Aj	13	Atr	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Α	α	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	είστε	είμαι	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	εδώ	εδώ	Ad	Ad	Ba	2	Adv	_	_	
+4	τον	ο	At	AtDf	Ma|Sg|Ac	5	Det	_	_	
+5	Αύγουστο	Αύγουστος	No	NoCm	Ma|Sg|Ac	6	Obj_Ap	_	_	
+6	δηλαδή	δηλαδή	Ad	Ad	Ba	2	Apos	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εισιτήρια	εισιτήριο	No	NoCm	Ne|Pl|Nm	2	Sb	_	_	
+2	κλείσατε	κλείνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	2	Obj	_	_	
+2	έκλεισε	κλείνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	μητέρα	μητέρα	No	NoCm	Fe|Sg|Nm	2	Sb	_	_	
+5	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	4	Pos	_	_	
+6	τη	ο	At	AtDf	Fe|Sg|Ac	7	Det	_	_	
+7	Δευτέρα	Δευτέρα	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ωραία	ωραία	Ad	Ad	Ba	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αλήθεια	αλήθεια	Ad	Ad	Ba	4	Adv	_	_	
+2	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+3	πότε	πότε	Ad	Ad	Ba	4	Adv	_	_	
+4	πήγατε	πηγαίνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	4	AuxP	_	_	
+6	Ελλάδα	Ελλάδα	No	NoPr	Fe|Sg|Ac	5	Adv	_	_	
+7	για	για	AsPp	AsPpSp	_	4	AuxP	_	_	
+8	τελευταία	τελευταίος	Aj	Aj	Ba|Fe|Sg|Ac	9	Atr	_	_	
+9	φορά	φορά	No	NoCm	Fe|Sg|Ac	7	Adv	_	_	
+10	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Το	ο	At	AtDf	Ne|Sg|Ac	3	Det	_	_	
+3	2000	2000	DIG	DIG	_	0	ExD	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τον	ο	At	AtDf	Ma|Sg|Ac	2	Det	_	_	
+2	Ιούλιο	Ιούλιος	No	NoCm	Ma|Sg|Ac	0	ExD	_	_	
+3	του	ο	At	AtDf	Ne|Sg|Ge	4	Det	_	_	
+4	2000	2000	DIG	DIG	_	2	Atr	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εσείς	εγώ	Pn	PnPe	Ma|02|Pl|Nm|St	0	ExD	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Εμείς	εγώ	Pn	PnPe	Ma|01|Pl|Nm|St	3	Sb	_	_	
+3	πήγαμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+4	πέρυσι	πέρυσι	Ad	Ad	Ba	3	Adv	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Nm	6	Det	_	_	
+6	καλοκαίρι	καλοκαίρι	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	μάλλον	μάλλον	Ad	Ad	Ba	10	Adv	_	_	
+9	θα	θα	Pt	PtFu	_	10	AuxV	_	_	
+10	ξαναπάμε	ξαναπηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+11	του	ο	At	AtDf	Ma|Sg|Ge	12	Det	_	_	
+12	χρόνου	χρόνος	No	NoCm	Ma|Sg|Ge	10	Obj	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Λοιπόν	λοιπόν	Ad	Ad	Ba	3	Adv	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	πρέπει	πρέπει	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	φύγω	φεύγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Sb	_	_	
+6	τώρα	τώρα	Ad	Ad	Ba	5	Adv	_	_	
+7	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+8	γιατί	γιατί	Cj	CjSb	_	5	AuxC	_	_	
+9	έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	8	Adv	_	_	
+10	ένα	ένας	At	AtId	Ne|Sg|Ac	11	Det	_	_	
+11	ραντεβού	ραντεβού	No	NoCm	Ne|Sg|Ac	9	Obj	_	_	
+12	με	με	AsPp	AsPpSp	_	11	AuxP	_	_	
+13	τον	ο	At	AtDf	Ma|Sg|Ac	14	Det	_	_	
+14	οδοντογιατρό	οδοντογιατρός	No	NoCm	Ma|Sg|Ac	12	Atr	_	_	
+15	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	14	AuxP	_	_	
+16	τρεις	τρεις	Nm	NmCd	Fe|Pl|Ac|Aj	15	Atr	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	2	Obj	_	_	
+2	λέμε	λέγω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	αύριο	αύριο	Ad	Ad	Ba	2	Adv	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Γεια	γεια	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

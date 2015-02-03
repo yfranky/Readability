@@ -1,0 +1,52 @@
+1	Ηλεκτρονικοί	ηλεκτρονικός	Aj	Aj	Ba|Ma|Pl|Nm	2	Atr	_	_	
+2	υπολογιστές	υπολογιστής	No	NoCm	Ma|Pl|Nm	0	ExD	_	_	
+
+1	Οι	ο	At	AtDf	Ma|Pl|Nm	3	Det	_	_	
+2	ηλεκτρονικοί	ηλεκτρονικός	Aj	Aj	Ba|Ma|Pl|Nm	3	Atr	_	_	
+3	υπολογιστές	υπολογιστής	No	NoCm	Ma|Pl|Nm	4	Sb	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	συσκευές	συσκευή	No	NoCm	Fe|Pl|Nm	4	Pnom	_	_	
+6	που	που	Pn	PnRe	Fe|03|Pl|Nm|Xx	7	Sb	_	_	
+7	βοηθούν	βοηθώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	5	Atr	_	_	
+8	τον	ο	At	AtDf	Ma|Sg|Ac	9	Det	_	_	
+9	άνθρωπο	άνθρωπος	No	NoCm	Ma|Sg|Ac	7	Obj	_	_	
+10	σε	σε	AsPp	AsPpSp	_	7	AuxP	_	_	
+11	όλες	όλος	Aj	Aj	Ba|Fe|Pl|Ac	14	Atr	_	_	
+12	σχεδόν	σχεδόν	Ad	Ad	Ba	11	Adv	_	_	
+13	τις	ο	At	AtDf	Fe|Pl|Ac	14	Det	_	_	
+14	ασχολίες	ασχολία	No	NoCm	Fe|Pl|Ac	10	Adv	_	_	
+15	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	14	Pos	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+2	πρώτος	πρώτος	Nm	NmOd	Ma|Sg|Nm|Aj	4	Atr	_	_	
+3	ηλεκτρονικός	ηλεκτρονικός	Aj	Aj	Ba|Ma|Sg|Nm	4	Atr	_	_	
+4	υπολογιστής	υπολογιστής	No	NoCm	Ma|Sg|Nm	5	Sb	_	_	
+5	κατασκευάστηκε	κατασκευάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	16	Pred_Co	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	1946	1946	DIG	DIG	_	5	Adv	_	_	
+8	από	από	AsPp	AsPpSp	_	5	AuxP	_	_	
+9	τους	ο	At	AtDf	Ma|Pl|Ac	10	Det	_	_	
+10	Αμερικανούς	Αμερικανός	No	NoPr	Ma|Pl|Ac	13	Adv_Co	_	_	
+11	Τζον	Τζον	Rg	RgFw	_	12	Atr	_	_	
+12	Μόκλι	Μόκλι	No	NoPr	Ma|Sg|Nm	10	Atr	_	_	
+13	και	και	Cj	CjCo	_	8	Coord	_	_	
+14	Τζον	Τζον	Rg	RgFw	_	15	Atr	_	_	
+15	Έκερτ	Έκερτ	No	NoPr	Ma|Sg|Nm	13	Adv_Co	_	_	
+16	και	και	Cj	CjCo	_	0	Coord	_	_	
+17	ζύγιζε	ζυγίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	16	Pred_Co	_	_	
+18	30	30	DIG	DIG	_	19	Atr	_	_	
+19	τόνους	τόνος	No	NoCm	Ma|Pl|Ac	17	Obj	_	_	
+20	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μικρότεροι	μικρός	Aj	Aj	Cp|Ma|Pl|Nm	5	Sb	_	_	
+2	σε	σε	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	μέγεθος	μέγεθος	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+4	υπολογιστές	υπολογιστής	No	NoCm	Ma|Pl|Ac	3	Atr	_	_	
+5	πρωτοεμφανίστηκαν	πρωτοεμφανίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	τη	ο	At	AtDf	Fe|Sg|Ac	7	Det	_	_	
+7	δεκαετία	δεκαετία	No	NoCm	Fe|Sg|Ac	5	Obj	_	_	
+8	του	ο	At	AtDf	Ne|Sg|Ge	9	Det	_	_	
+9	1960	1960	DIG	DIG	_	7	Atr	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

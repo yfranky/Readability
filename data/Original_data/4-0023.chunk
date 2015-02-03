@@ -1,0 +1,128 @@
+	(SENT	<S>
+1\1	ENUM	-	-	ENUM
+	SYN	[cl_o
+	SYN	[vg_s
+1\2	TOK	Να	να	PtSj
+	SYN	[np_ge
+1\5	TOK	σου	εγώ	PnPeMa02SgGeWe
+	SYN	/np_ge]
+1\9	TOK	πω	λέγω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+1\11	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\13	TOK	Δημήτρη	Δημήτρης	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\20	PUNCT	,	,	PUNCT
+	SYN	[cl_q
+	SYN	[vg
+1\22	TOK	δεν	δεν	PtNg
+	SYN	[np_ge
+1\26	TOK	σου	εγώ	PnPeMa02SgGeWe
+	SYN	/np_ge]
+1\30	TOK	φαίνεται	φαίνομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_q]
+	SYN	[cl_o
+1\39	TOK	πως	πως	CjSb
+	SYN	[np_nm
+1\43	TOK	η	ο	AtDfFeSgNm
+1\45	TOK	Πόπη	Πόπη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\50	TOK	μοιάζει	μοιάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\58	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\61	TOK	τη	ο	AtDfFeSgAc
+1\64	TOK	Μπρίτνεϊ	Μπρίτνεϊ	NoPrFeSgAc
+1\73	TOK	Σπίαρς	Σπίαρς	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\79	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\82	ENUM	-	-	ENUM
+	SYN	[vg
+1\83	TOK	Κοίτα	κοιτάζω	VbMnMpXx02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\89	TOK	να	να	PtSj
+1\92	TOK	δεις	βλέπω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\96	PUNCT	,	,	PUNCT
+	SYN	[cl_c
+1\98	TOK	αν	αν	CjSb
+	SYN	[vg
+1\101	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\106	TOK	ξανθιά	ξανθός	AjBaFeSgNm
+1\112	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\114	TOK	λίγο	λίγο	AdXxBa
+1\119	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\123	TOK	ψηλή	ψηλός	AjBaFeSgNm
+1\128	TOK	και	και	CjCo
+	SYN	[advp
+1\132	TOK	λίγο	λίγο	AdXxBa
+1\137	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\141	TOK	αδύνατη	αδύνατος	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\148	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\150	TOK	ναι	ναι	AdXxBa
+	SYN	/advp]
+	SYN	/cl_c]
+1\153	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\155	TOK	θα	θα	PtFu
+1\158	TOK	ήταν	είμαι	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\163	TOK	σαν	σαν	AdXxBa
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\167	TOK	δίδυμες	δίδυμος	AjBaFePlNm
+	SYN	/adjp_nm]
+1\175	TOK	αδερφές	αδερφές	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	/advp]
+	SYN	/cl]
+1\182	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+	SYN	[advp
+1\184	TOK	Έτσι	έτσι	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\189	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\194	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\200	TOK	τώρα	τώρα	AdXxBa
+	SYN	/advp]
+1\204	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\206	TOK	καμία	κανένας	PnIdFe03SgNmXx
+	SYN	/np_nm]
+	SYN	[np_ac
+1\212	TOK	σχέση	σχέση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\217	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

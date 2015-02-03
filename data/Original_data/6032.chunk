@@ -1,0 +1,170 @@
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	Νέα	νέος	AjBaFeSgNm
+1\5	TOK	διαστημική	διαστημικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\16	TOK	αποστολή	αποστολή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\25	TOK	της	ο	AtDfFeSgGe
+1\29	ABBR	NASA	NASA	ABBR
+	SYN	/np_ge]
+	SYN	[pp
+1\34	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\39	TOK	Άρη	Άρης	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\44	TOK	Η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\46	TOK	αμερικανική	αμερικάνικος	AjBaFeSgNm
+1\58	TOK	διαστημική	διαστημικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\69	TOK	υπηρεσία	υπηρεσία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\78	TOK	ανακοίνωσε	ανακοινώνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\89	TOK	ότι	ότι	CjSb
+	SYN	[vg
+1\93	TOK	σχεδιάζει	σχεδιάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\103	TOK	νέα	νέος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\107	TOK	αποστολή	αποστολή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\116	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\121	TOK	Άρη	Άρης	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\125	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\129	TOK	το	ο	AtDfNeSgAc
+1\132	DIG	2013	2013	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\136	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+	SYN	[advp
+1\138	TOK	προκειμένου	προκειμένου	AdXxBa
+	SYN	/advp]
+	SYN	[vg_s
+1\150	TOK	να	να	PtSj
+1\153	TOK	διερευνήσει	διερευνώ	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\165	TOK	το	ο	AtDfNeSgAc
+1\168	TOK	μυστήριο	μυστήριο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\177	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\181	TOK	χαμένης	χαμένος	VbMnPpXxXxSgFePePvGe
+	SYN	/adjp_ge]
+1\189	TOK	ατμόσφαιράς	ατμόσφαιρα	NoCmFeSgGe
+1\201	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\204	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\206	TOK	Η	ο	AtDfFeSgNm
+1\208	ABBR	NASA	NASA	ABBR
+	SYN	/np_nm]
+	SYN	[vg
+1\213	TOK	έδωσε	δίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\219	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\222	TOK	πράσινο	πράσινος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\230	TOK	φως	φως	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\234	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\238	TOK	την	ο	AtDfFeSgAc
+1\242	TOK	κατασκευή	κατασκευή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\252	TOK	του	ο	AtDfNeSgGe
+1\256	TOK	σκάφους	σκάφος	NoCmNeSgGe
+1\264	TOK	MAVEN	MAVEN	RgFwOr
+	SYN	/np_ge]
+	SYN	/pp]
+1\269	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\271	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\275	TOK	θα	θα	PtFu
+1\278	TOK	μελετήσει	μελετώ	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\288	TOK	την	ο	AtDfFeSgAc
+1\292	TOK	εξέλιξη	εξέλιξη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\300	TOK	της	ο	AtDfFeSgGe
+1\304	TOK	ατμόσφαιρας	ατμόσφαιρα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\316	TOK	του	ο	AtDfMaSgGe
+1\320	OPUNCT	«	«	OPUNCT
+	SYN	[adjp_ge
+1\321	TOK	κόκκινου	κόκκινος	AjBaMaSgGe
+	SYN	/adjp_ge]
+1\330	TOK	πλανήτη	πλανήτης	NoCmMaSgGe
+1\337	CPUNCT	»	»	CPUNCT
+	SYN	/np_ge]
+	SYN	/cl_r]
+	SYN	/cl]
+1\338	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\340	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\343	TOK	διαστημικό	διαστημικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\354	TOK	σκάφος	σκάφος	NoCmNeSgNm
+1\361	TOK	MAVEN	MAVEN	RgFwOr
+	SYN	/np_nm]
+	SYN	[vg
+1\367	TOK	προγραμματίζεται	προγραμματίζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\384	TOK	να	να	PtSj
+1\387	TOK	εκτοξευτεί	εκτοξεύω	VbMnIdXx03SgXxPePvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\398	TOK	τον	ο	AtDfMaSgAc
+1\402	TOK	Νοέμβριο	Νοέμβριος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\411	TOK	του	ο	AtDfNeSgGe
+1\415	DIG	2013	2013	DIG
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\419	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

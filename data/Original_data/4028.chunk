@@ -1,0 +1,377 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	Όλοι	όλος	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\6	TOK	έχουμε	έχω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\13	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\18	TOK	ντουλάπα	ντουλάπα	NoCmFeSgAc
+1\27	TOK	μας	μου	PnPoMa01PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\31	TOK	ένα	ένας	AtIdNeSgNm
+1\35	TOK	ρούχο	ρούχο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\41	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\45	TOK	το	ο	AtDfNeSgAc
+1\48	TOK	ύφασμα	ύφασμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\55	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[advp
+	SYN	[cl_ri
+	SYN	[advp
+1\59	TOK	όσο	όσο	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\63	TOK	παλιώνει	παλιώνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\72	TOK	τόσο	τόσο	AdXxBa
+1\77	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\81	TOK	όμορφο	όμορφος	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl_ri]
+	SYN	/advp]
+	SYN	[vg
+1\88	TOK	γίνεται	γίνομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl]
+1\95	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\97	TOK	Συνήθως	συνήθως	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\105	TOK	παντελόνι	παντελόνι	NoCmNeSgAc
+	SYN	/np_ac]
+1\114	PUNCT	,	,	PUNCT
+1\116	TOK	αλλά	αλλά	CjCo
+	SYN	[vg
+1\121	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\128	TOK	να	να	PtSj
+1\131	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg_s]
+1\137	TOK	και	και	CjCo
+	SYN	[np_nm
+1\141	TOK	σακάκι	σακάκι	NoCmNeSgNm
+	SYN	/np_nm]
+1\148	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\150	TOK	φόρεμα	φόρεμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\157	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg
+1\161	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\166	TOK	ιδιαίτερη	ιδιαίτερος	AjCpFeSgAc
+	SYN	/adjp_ac]
+1\176	TOK	θέση	θέση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\181	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\186	TOK	καρδιά	καρδιά	NoCmFeSgAc
+1\193	TOK	μας	μου	PnPoMa01PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+1\196	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\198	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+1\203	TOK	και	και	CjCo
+	SYN	[pp
+1\207	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\212	TOK	καρδιά	καρδιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\219	TOK	εκατομμυρίων	εκατομμύριο	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\232	TOK	ανθρώπων	άνθρωπος	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\241	TOK	σ’	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\244	TOK	όλο	όλος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\248	TOK	τον	ο	AtDfMaSgAc
+1\252	TOK	κόσμο	κόσμος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\257	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\259	TOK	Από	από	AsPpSp
+	SYN	[advp
+1\263	TOK	τότε	τότε	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_advp
+1\268	TOK	που	που	AdXxBa
+	SYN	/pou_advp]
+	SYN	[np_ac
+1\272	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\275	TOK	πρωτοέφτιαξε	πρωτοφτιάχνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\288	TOK	ο	ο	AtDfMaSgNm
+1\290	TOK	Levi	Levi	RgFwOr
+1\295	TOK	Strauss	Strauss	RgFwOr
+	SYN	/np_nm]
+1\303	TOK	το	ο	AtDfNeSgAc
+	SYN	[np_ac
+1\306	TOK	τζιν	τζιν	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	[vg
+1\311	TOK	φορέθηκε	φορώ	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	/cl]
+1\320	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\324	TOK	αγαπήθηκε	αγαπώ	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\334	TOK	όσο	όσο	AdXxBa
+	SYN	/advp]
+1\338	TOK	λίγα	λίγος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\343	TOK	υφάσματα	ύφασμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\351	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\353	TOK	Μπορεί	μπορώ	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\360	TOK	οι	ο	AtDfFePlNm
+1\363	TOK	τσέπες	τσέπη	NoCmFePlNm
+1\370	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_nm]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\374	TOK	να	να	PtSj
+1\377	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+1\383	TOK	ξεφτίσει	ξεφτίζω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\391	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\393	TOK	τα	ο	AtDfNePlNm
+1\396	TOK	γόνατα	γόνατο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[cl_o
+	SYN	[vg_s
+1\403	TOK	να	να	PtSj
+1\406	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+1\412	TOK	λιώσει	λιώνω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg_s]
+1\419	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\421	TOK	το	ο	AtDfNeSgAc
+1\424	TOK	ύφασμα	ύφασμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\431	TOK	να	να	PtSj
+1\434	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+1\439	TOK	ξεβάψει	ξεβάφω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\447	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\451	TOK	να	να	PtSj
+1\454	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+1\459	TOK	χάσει	χάνω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\465	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\468	TOK	αρχικό	αρχικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\475	TOK	του	ο	AtDfNeSgGe
+	SYN	[np_ac
+1\479	TOK	χρώμα	χρώμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\484	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\486	TOK	Ένα	ένας	AtIdNeSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\490	TOK	τζιν	τζιν	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\495	TOK	παντελόνι	παντελόνι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\505	TOK	παραμένει	παραμένω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+1\515	TOK	όμως	όμως	CjCo
+1\519	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\521	TOK	ένα	ένας	NmCdNeSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\525	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\529	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+	SYN	[advp
+1\532	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\536	TOK	ευκολοφόρετα	ευκολοφόρετος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+1\549	TOK	και	και	CjCo
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\553	TOK	απαραίτητα	απαραίτητος	AjBaNePlNm
+	SYN	/adjp_nm]
+1\564	TOK	ρούχα	ρούχο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\569	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\571	TOK	Από	από	AsPpSp
+	SYN	[np_ac
+1\575	TOK	τη	ο	AtDfFeSgAc
+1\578	TOK	στιγμή	στιγμή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_advp
+1\585	TOK	που	που	AdXxBa
+	SYN	/pou_advp]
+	SYN	[vg
+1\589	TOK	θα	θα	PtFu
+	SYN	[np_ac
+1\592	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+1\595	TOK	αγοράσουμε	αγοράζω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+1\605	PUNCT	,	,	PUNCT
+1\607	TOK	το	ο	AtDfNeSgNm
+	SYN	[np_ac
+1\610	TOK	τζιν	τζιν	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\615	TOK	μάς	μάς	PnPeMa01PlGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\619	TOK	κάνει	κάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\625	TOK	να	να	PtSj
+1\628	TOK	αισθανόμαστε	αισθάνομαι	VbMnIdPr01PlXxIpPvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+	SYN	[cl_o
+1\641	TOK	ότι	ότι	CjSb
+	SYN	[advp
+1\645	TOK	δε	δε	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\648	TOK	θα	θα	PtFu
+1\651	TOK	χαλάσει	χαλώ	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl_o]
+1\658	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[advp
+1\660	TOK	δε	δε	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\663	TOK	θα	θα	PtFu
+1\666	TOK	χάσει	χάνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\672	TOK	τη	ο	AtDfFeSgAc
+1\675	TOK	φόρμα	φόρμα	NoCmFeSgAc
+1\681	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\684	PUNCT	,	,	PUNCT
+1\686	TOK	αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[vg
+1\691	TOK	θα	θα	PtFu
+1\694	TOK	αρχίσει	αρχίζω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\702	TOK	να	να	PtSj
+1\705	TOK	συμπεριφέρεται	συμπεριφέρομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\720	TOK	σα	σα	AdXxBa
+	SYN	/advp]
+1\723	TOK	δεύτερο	δεύτερος	NmOdNeSgAcAj
+	SYN	/adjp_ac]
+1\731	TOK	δέρμα	δέρμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\736	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

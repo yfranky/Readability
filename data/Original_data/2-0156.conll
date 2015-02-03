@@ -1,0 +1,49 @@
+1	Στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+2	πόρτα	πόρτα	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+3	αριστερά	αριστερά	Ad	Ad	Ba	0	ExD	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+2	φανάρι	φανάρι	No	NoCm	Ne|Sg|Ac	1	Adv	_	_	
+3	δεξιά	δεξιά	Ad	Ad	Ba	0	ExD	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πέρνα	περνώ	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	πράσινο	πράσινος	Aj	Aj	Ba|Ne|Sg|Ac	4	Atr_Co	_	_	
+4	και	και	Cj	CjCo	_	2	Coord	_	_	
+5	πήγαινε	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Atr_Co	_	_	
+6	ευθεία	ευθύς	Aj	Aj	Ba|Fe|Sg|Ac	5	Pnom	_	_	
+7	ως	ως	Ad	Ad	Ba	5	AuxP	_	_	
+8	το	ο	At	AtDf	Ne|Sg|Ac	10	Det	_	_	
+9	άλλο	άλλος	Pn	PnId	Ne|03|Sg|Ac|Xx	10	Atr	_	_	
+10	φανάρι	φανάρι	No	NoCm	Ne|Sg|Ac	7	Pnom	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στρίψε	στρίβω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	αριστερά	αριστερά	Ad	Ad	Ba	1	Adv	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+2	γωνία	γωνία	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+3	πήγαινε	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	δεξιά	δεξιά	Ad	Ad	Ba	3	Adv	_	_	
+5	και	και	Cj	CjCo	_	6	AuxY	_	_	
+6	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+7	άλλη	άλλος	Pn	PnId	Fe|03|Sg|Ac|Xx	8	Atr	_	_	
+8	γωνία	γωνία	No	NoCm	Fe|Sg|Ac	6	Adv	_	_	
+9	να	να	Pt	PtSj	_	10	AuxV	_	_	
+10	πας	πηγαίνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+11	πάλι	πάλι	Ad	Ad	Ba	12	Adv	_	_	
+12	δεξιά	δεξιά	Ad	Ad	Ba	10	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εκεί	εκεί	Ad	Ad	Ba	2	Adv	_	_	
+2	έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	κρυμμένο	κρυμμένος	Vb	VbMn	Pp|Xx|Xx|Sg|Ne|Xx|Pv|Nm	5	Atr	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Nm	5	Det	_	_	
+5	ποδήλατο	ποδήλατο	No	NoCm	Ne|Sg|Nm	2	Sb	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Άννα	Άννα	No	NoPr	Fe|Sg|Ac	0	ExD	_	_	
+

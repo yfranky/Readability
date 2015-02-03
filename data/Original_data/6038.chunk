@@ -1,0 +1,68 @@
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_ac
+1\1	TOK	ΤΟ	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\4	TOK	ΗΞΕΡΕΣ	ξέρω	VbMnIdPa02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\11	TOK	ΑΥΤΟ	αυτός	PnDmNe03SgAcXx
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\15	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\18	TOK	Ο	ο	AtDfMaSgNm
+1\20	TOK	Δίας	Δίας	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\25	TOK	πήρε	παίρνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\30	TOK	το	ο	AtDfNeSgAc
+1\33	TOK	όνομά	όνομα	NoCmNeSgAc
+1\39	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	[pp
+1\43	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\47	TOK	τον	ο	AtDfMaSgAc
+1\51	TOK	βασιλιά	βασιλιάς	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\59	TOK	των	ο	AtDfMaPlGe
+1\63	TOK	θεών	θεός	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\68	TOK	των	ο	AtDfMaPlGe
+	SYN	[adjp_ge
+1\72	TOK	αρχαίων	αρχαίος	AjBaMaPlGe
+	SYN	/adjp_ge]
+1\80	TOK	Ελλήνων	Έλληνας	NoPrMaPlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\87	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\89	TOK	Ο	ο	AtDfMaSgNm
+1\91	TOK	Δίας	Δίας	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\96	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\101	TOK	γύρω	γύρω	AdXxBa
+	SYN	/advp]
+1\106	TOK	του	ο	AtDfMaSgGe
+	SYN	[np_ac
+1\110	TOK	δακτύλιους	δακτύλιος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\120	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

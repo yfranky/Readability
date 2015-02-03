@@ -1,0 +1,135 @@
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Ευαγγελισμός	ευαγγελισμός	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+3	της	ο	At	AtDf	Fe|Sg|Ge	4	Det	_	_	
+4	Θεοτόκου	Θεοτόκος	No	NoPr	Fe|Sg|Ge	2	Atr	_	_	
+
+1	Ημέρα	ημέρα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+2	Λευτεριάς	λευτεριά	No	NoCm	Fe|Sg|Ge	1	Atr	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	λοιπόν	λοιπόν	Ad	Ad	Ba	7	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+6	και	και	Cj	CjCo	_	7	AuxY	_	_	
+7	ημέρα	ημέρα	No	NoCm	Fe|Sg|Ac	1	Atr	_	_	
+8	που	που	Pn	PnRe	Fe|03|Sg|Ac|Xx	11	Obj	_	_	
+9	ο	ο	At	AtDf	Ma|Sg|Nm	10	Det	_	_	
+10	Άγγελος	Άγγελος	No	NoPr	Ma|Sg|Nm	11	Sb	_	_	
+11	έφερε	φέρω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Atr	_	_	
+12	την	ο	At	AtDf	Fe|Sg|Ac	15	Det	_	_	
+13	"	"	OPUNCT	OPUNCT	_	15	AuxG	_	_	
+14	Καλή	καλός	Aj	Aj	Ba|Fe|Sg|Ac	15	Atr	_	_	
+15	Είδηση	είδηση	No	NoCm	Fe|Sg|Ac	11	Obj	_	_	
+16	"	"	CPUNCT	CPUNCT	_	15	AuxG	_	_	
+17	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	11	AuxP	_	_	
+18	Παναγία	Παναγία	No	NoPr	Fe|Sg|Ac	17	Adv	_	_	
+19	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	"	"	OPUNCT	OPUNCT	_	3	AuxG	_	_	
+2	Μη	μην	Pt	PtNg	_	3	AuxV	_	_	
+3	φοβού	φοβού	No	NoCm	Ne|Sg|Ac	8	Obj	_	_	
+4	Μαριάμ	Μαριάμ	No	NoPr	Fe|Sg|Ac	3	Atr	_	_	
+5	"	"	CPUNCT	CPUNCT	_	3	AuxG	_	_	
+6	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+7	της	εγώ	Pn	PnPe	Fe|03|Sg|Ge|We	8	IObj	_	_	
+8	είπε	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+9	,	,	PUNCT	PUNCT	_	10	AuxX	_	_	
+10	καθώς	καθώς	Ad	Ad	Ba	8	AuxC	_	_	
+11	η	ο	At	AtDf	Fe|Sg|Nm	12	Det	_	_	
+12	Παναγία	Παναγία	No	NoPr	Fe|Sg|Nm	13	Sb	_	_	
+13	τρόμαξε	τρομάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	10	Adv	_	_	
+14	,	,	PUNCT	PUNCT	_	15	AuxX	_	_	
+15	όταν	όταν	Cj	CjSb	_	13	AuxC	_	_	
+16	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	17	Obj	_	_	
+17	είδε	βλέπω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	15	Adv	_	_	
+18	μπροστά	μπροστά	Ad	Ad	Ba	17	Adv	_	_	
+19	της	εγώ	Pn	PnPe	Fe|03|Sg|Ge|We	18	Adv	_	_	
+20	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	"	"	OPUNCT	OPUNCT	_	3	AuxG	_	_	
+2	Θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	γεννήσεις	γεννώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τον	ο	At	AtDf	Ma|Sg|Ac	5	Det	_	_	
+5	Χριστό	χριστός	No	NoPr	Ma|Sg|Ac	3	Obj	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+7	"	"	CPUNCT	CPUNCT	_	3	AuxG	_	_	
+
+1	Λάμπουν	λάμπω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	οι	ο	At	AtDf	Fe|Pl|Nm	3	Det	_	_	
+3	εκκλησίες	εκκλησία	No	NoCm	Fe|Pl|Nm	1	Sb	_	_	
+4	την	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	ημέρα	ημέρα	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+6	αυτής	αυτός	Pn	PnDm	Fe|03|Sg|Ge|Xx	8	Atr	_	_	
+7	της	ο	At	AtDf	Fe|Sg|Ge	8	Det	_	_	
+8	γιορτής	γιορτή	No	NoCm	Fe|Sg|Ge	5	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	4	AuxP	_	_	
+2	σχολεία	σχολείο	No	NoCm	Ne|Pl|Ac	1	Adv	_	_	
+3	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	2	Pos	_	_	
+4	γιορτάζουμε	γιορτάζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	και	και	Cj	CjCo	_	9	AuxY	_	_	
+6	τις	ο	At	AtDf	Fe|Pl|Ac	9	Det	_	_	
+7	δύο	δύο	Nm	NmCd	Fe|Pl|Ac|Aj	9	Atr	_	_	
+8	μεγάλες	μεγάλος	Aj	Aj	Ba|Fe|Pl|Ac	9	Atr	_	_	
+9	γιορτές	γιορτή	No	NoCm	Fe|Pl|Ac	4	Obj	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Παίζουμε	παίζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+2	θέατρο	θέατρο	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	κάνουμε	κάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+5	παρέλαση	παρέλαση	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ελληνικές	ελληνικός	Aj	Aj	Ba|Fe|Pl|Nm	2	Atr	_	_	
+2	σημαίες	σημαία	No	NoCm	Fe|Pl|Nm	3	Sb	_	_	
+3	κυματίζουν	κυματίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	παντού	παντού	Ad	Ad	Ba	3	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μερικά	μερικοί	Pn	PnId	Ne|03|Pl|Nm|Xx	2	Atr	_	_	
+2	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	φορούν	φορώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	εθνικές	εθνικός	Aj	Aj	Ba|Fe|Pl|Ac	5	Atr	_	_	
+5	στολές	στολή	No	NoCm	Fe|Pl|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	μεσημέρι	μεσημέρι	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+3	τρώμε	τρώω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ψάρι	ψάρι	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	απόγευμα	απόγευμα	No	NoCm	Ne|Sg|Nm	5	Sb	_	_	
+3	κάνουμε	κάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+4	επίσκεψη	επίσκεψη	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	λέμε	λέγω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+7	τα	ο	At	AtDf	Ne|Pl|Ac	9	Det	_	_	
+8	"	"	OPUNCT	OPUNCT	_	9	AuxG	_	_	
+9	Χρόνια	χρόνος	No	NoCm	Ne|Pl|Ac	6	Obj	_	_	
+10	Πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Ac	9	Atr	_	_	
+11	"	"	CPUNCT	CPUNCT	_	10	AuxG	_	_	
+12	στους	στου	AsPp	AsPpPa	Ma|Pl|Ac	14	AuxP	_	_	
+13	Βαγγέληδες	Βαγγέληδες	No	NoPr	Ma|Sg|Nm	12	Adv_Co	_	_	
+14	και	και	Cj	CjCo	_	6	Coord	_	_	
+15	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	14	AuxP	_	_	
+16	Βαγγελίτσες	Βαγγελίτσες	No	NoPr	Fe|Sg|Nm	15	ExD_Co	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όπου	όπου	Ad	Ad	Ba	12	Adv	_	_	
+2	κι	και	Cj	CjCo	_	3	AuxY	_	_	
+3	αν	αν	Cj	CjSb	_	12	AuxC	_	_	
+4	βρίσκονται	βρίσκω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	3	Adv	_	_	
+5	οι	ο	At	AtDf	Ma|Pl|Nm	6	Det	_	_	
+6	Έλληνες	Έλληνας	No	NoPr	Ma|Pl|Nm	4	Sb	_	_	
+7	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	4	AuxP	_	_	
+8	25	25	DIG	DIG	_	7	Adv	_	_	
+9	του	ο	At	AtDf	Ma|Sg|Ge	10	Det	_	_	
+10	Μάρτη	Μάρτης	No	NoPr	Ma|Sg|Ge	8	Atr	_	_	
+11	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+12	κάνουν	κάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+13	μεγάλη	μεγάλος	Aj	Aj	Ba|Fe|Sg|Ac	14	Atr	_	_	
+14	γιορτή	γιορτή	No	NoCm	Fe|Sg|Ac	12	Obj	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

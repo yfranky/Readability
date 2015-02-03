@@ -1,0 +1,367 @@
+	(SENT	<S>
+	SYN	[advp
+1\1	TOK	Σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\9	TOK	Από	από	AsPpSp
+	SYN	[np_ac
+1\13	TOK	το	ο	AtDfNeSgAc
+1\16	DIG	1896	1896	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+1\20	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\22	TOK	οι	ο	AtDfMaPlNm
+1\25	TOK	Ολυμπιακοί	ολυμπιακός	NoPrMaPlNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\36	TOK	Αγώνες	αγώνας	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\43	TOK	γίνονται	γίνομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\52	TOK	κάθε	κάθε	PnIdNe03SgAcXx
+	SYN	[adjp_ac
+1\57	TOK	τέσσερα	τέσσερις	NmCdNePlAcAj
+	SYN	/adjp_ac]
+1\65	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\72	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\75	TOK	διαφορετική	διαφορετικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\87	TOK	πόλη	πόλη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\92	TOK	κάθε	κάθε	PnIdFe03SgAcXx
+1\97	TOK	φορά	φορά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\101	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[advp
+1\103	TOK	Πόσο	πόσο	AdXxBa
+	SYN	/advp]
+1\108	TOK	όμως	όμως	CjCo
+	SYN	[vg
+1\113	TOK	ανταποκρίνονται	ανταποκρίνομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\129	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\133	TOK	ολυμπιακό	ολυμπιακός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\143	TOK	πνεύμα	πνεύμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_q]
+1\149	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\152	TOK	Σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\155	TOK	πολλές	πολύς	AjBaFePlAc
+	SYN	/adjp_ac]
+1\162	TOK	περιπτώσεις	περίπτωση	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\173	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\175	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\179	TOK	το	ο	AtDfNeSgAc
+1\182	DIG	1936	1936	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+1\187	TOK	και	και	CjCo
+	SYN	[pp
+1\191	TOK	μετά	μετά	AsPpSp
+	SYN	[np_ac
+1\196	TOK	το	ο	AtDfNeSgAc
+1\199	TOK	πνεύμα	πνεύμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\206	TOK	των	ο	AtDfMaPlGe
+	SYN	[adjp_ge
+1\210	TOK	Ολυμπιακών	ολυμπιακός	AjBaMaPlGe
+	SYN	/adjp_ge]
+1\221	TOK	Αγώνων	αγώνας	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[vg
+1\228	TOK	δεν	δεν	PtNg
+1\232	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\237	TOK	καμία	κανένας	PnIdFe03SgAcXx
+1\243	TOK	σχέση	σχέση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\249	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\252	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\255	TOK	αθλητικό	αθλητικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\264	TOK	πνεύμα	πνεύμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\271	TOK	και	και	CjCo
+1\275	TOK	το	ο	AtDfNeSgNm
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\278	TOK	αρχαίο	αρχαίος	AjBaNeSgAc
+1\285	TOK	ελληνικό	ελληνικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\294	TOK	ιδεώδες	ιδεώδης	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\301	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\303	TOK	Εταιρείες	εταιρεία	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\313	TOK	εκμεταλλεύονται	εκμεταλλεύομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\329	TOK	τους	ο	AtDfMaPlAc
+1\334	TOK	Αγώνες	αγώνας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\341	TOK	για	για	AsPpSp
+1\345	TOK	να	να	PtSj
+1\348	TOK	κερδίσουν	κερδίζω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\358	TOK	χρήματα	χρήμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\365	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\367	TOK	αθλητές	αθλητής	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\375	TOK	ντοπάρονται	ντοπάρω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+1\386	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\388	TOK	παίρνουν	παίρνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\397	TOK	δηλαδή	δηλαδή	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\404	TOK	ουσίες	ουσία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\411	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\415	TOK	αυξάνουν	αυξάνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\424	TOK	την	ο	AtDfFeSgAc
+1\428	TOK	επίδοσή	επίδοση	NoCmFeSgAc
+1\436	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\440	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\442	TOK	Οι	ο	AtDfMaPlNm
+1\445	TOK	αθλητές	αθλητής	NoCmMaPlNm
+1\453	TOK	αυτοί	αυτός	PnDmMa03PlNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\459	TOK	παρανομούν	παρανομώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\470	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\474	TOK	βλάπτουν	βλάπτω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\483	TOK	την	ο	AtDfFeSgAc
+1\487	TOK	υγεία	υγεία	NoCmFeSgAc
+1\493	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[advp
+1\498	TOK	προκειμένου	προκειμένου	AdXxBa
+	SYN	/advp]
+	SYN	[vg_s
+1\510	TOK	να	να	PtSj
+1\513	TOK	κερδίσουν	κερδίζω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\522	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\524	TOK	Δυστυχώς	δυστυχώς	AdXxBa
+	SYN	/advp]
+1\532	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\534	TOK	οι	ο	AtDfMaPlNm
+1\537	TOK	αθλητές	αθλητής	NoCmMaPlNm
+1\545	TOK	αυτοί	αυτός	PnDmMa03PlNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\551	TOK	δε	δεν	PtNg
+1\554	TOK	διατηρούν	διατηρώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\564	TOK	τίποτα	τίποτα	PnIdNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[pp
+1\571	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\575	TOK	το	ο	AtDfNeSgAc
+1\578	TOK	πνεύμα	πνεύμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\585	TOK	του	ο	AtDfMaSgGe
+1\589	TOK	Σπύρου	Σπύρος	NoPrMaSgGe
+1\596	TOK	Λούη	Λούη	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\600	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\602	TOK	Αυτό	αυτός	PnDmNe03SgNmXx
+	SYN	/np_nm]
+1\606	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\608	TOK	βέβαια	βέβαια	AdXxBa
+	SYN	/advp]
+1\614	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\616	TOK	δε	δεν	PtNg
+1\619	TOK	σημαίνει	σημαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\628	TOK	ότι	ότι	CjSb
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\632	TOK	όλοι	όλος	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\637	TOK	οι	ο	AtDfMaPlNm
+1\640	TOK	αθλητές	αθλητής	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\648	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\654	TOK	αυτά	αυτός	PnDmNe03PlAcXx
+1\659	TOK	τα	ο	AtDfNePlAc
+1\662	TOK	χαρακτηριστικά	χαρακτηριστικό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\676	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\678	TOK	Πάντα	πάντα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\684	TOK	υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\693	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\697	TOK	θα	θα	PtFu
+1\700	TOK	υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\709	TOK	οι	ο	AtDfMaPlNm
+1\712	TOK	αθλητές	αθλητής	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\720	TOK	που	που	PnReMa03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\724	TOK	αγωνίζονται	αγωνίζομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\736	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\739	TOK	την	ο	AtDfFeSgAc
+1\743	TOK	καρδιά	καρδιά	NoCmFeSgAc
+1\750	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\754	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\756	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\760	TOK	θα	θα	PtFu
+1\763	TOK	θυμίζουν	θυμίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl_ir
+	SYN	[np_ac
+1\772	TOK	τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\775	TOK	μπορούμε	μπορώ	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_ir]
+	SYN	[cl_o
+	SYN	[vg_s
+1\784	TOK	να	να	PtSj
+1\787	TOK	πετύχουμε	πετυχαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\797	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\800	TOK	τη	ο	AtDfFeSgAc
+1\803	TOK	θέληση	θέληση	NoCmFeSgAc
+	SYN	/np_ac]
+1\810	TOK	και	και	CjCo
+	SYN	[np_ac
+1\814	TOK	την	ο	AtDfFeSgAc
+1\818	TOK	άσκηση	άσκηση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\824	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

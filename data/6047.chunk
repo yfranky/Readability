@@ -1,0 +1,329 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Η	ο	AtDfFeSgNm
+1\3	TOK	δύναμη	δύναμη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\10	TOK	του	ο	AtDfMaSgGe
+1\14	TOK	ατμού	ατμός	NoCmMaSgGe
+	SYN	/np_ge]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\21	TOK	Ο	ο	AtDfMaSgNm
+1\23	TOK	Έλληνας	Έλληνας	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\31	TOK	επιστήμονας	επιστήμονας	NoCmMaSgNm
+1\43	TOK	Ήρων	Ήρων	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\48	TOK	κατασκεύασε	κατασκευάζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\60	TOK	το	ο	AtDfNeSgAc
+1\63	DIG	100	100	DIG
+	SYN	/np_ac]
+1\67	ABBR	π.Χ.	π.Χ.	ABBR
+	SYN	[np_ac
+1\72	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\76	TOK	πρώτη	πρώτος	NmOdFeSgAcAj
+	SYN	/adjp_ac]
+1\82	TOK	ατμομηχανή	ατμομηχανή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\92	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\94	TOK	Ο	ο	AtDfMaSgNm
+1\96	TOK	Ντενί	Ντενί	NoPrMaSgNm
+1\102	TOK	Παπέν	Παπέν	NoPrMaSgNm
+	SYN	/np_nm]
+1\107	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\109	TOK	ένας	ένας	AtIdMaSgNm
+1\114	TOK	Γάλλος	Γάλλος	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\121	TOK	φυσικός	φυσικός	NoCmMaSgNm
+	SYN	/np_nm]
+1\128	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\130	TOK	κατασκεύασε	κατασκευάζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\142	TOK	το	ο	AtDfNeSgAc
+1\145	DIG	1679	1679	DIG
+	SYN	/np_ac]
+	SYN	[np_ac
+1\150	TOK	ένα	ένας	AtIdNeSgAc
+1\154	TOK	είδος	είδος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\160	TOK	χύτρας	χύτρα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\167	TOK	ταχύτητας	ταχύτητα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\176	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_g
+	SYN	[vg_g
+1\178	TOK	Παρατηρώντας	παρατηρώ	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[np_ac
+1\191	TOK	τον	ο	AtDfMaSgAc
+	SYN	[adjp_ac
+1\195	TOK	πεπιεσμένο	πεπιεσμένος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\206	TOK	αέρα	αέρας	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\211	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\215	TOK	έβγαινε	βγαίνω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\223	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\227	TOK	τη	ο	AtDfFeSgAc
+1\230	TOK	βαλβίδα	βαλβίδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\238	TOK	ασφαλείας	ασφάλεια	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl_g]
+1\247	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\249	TOK	είχε	έχω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\254	TOK	την	ο	AtDfFeSgAc
+1\258	TOK	ιδέα	ιδέα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\263	TOK	να	να	PtSj
+1\266	TOK	φτιάξει	φτιάχνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\274	TOK	μια	ένας	AtIdFeSgAc
+1\278	TOK	μηχανή	μηχανή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\285	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\288	TOK	έμβολα	έμβολο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\295	OPUNCT	(	(	OPUNCT
+	SYN	[np_ac
+1\296	TOK	πιστόνια	πιστόνι	NoCmNePlAc
+	SYN	/np_ac]
+1\304	CPUNCT	)	)	CPUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\306	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\310	TOK	κινιόταν	κινιόταν	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\319	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\322	TOK	τη	ο	AtDfFeSgAc
+1\325	TOK	βοήθεια	βοήθεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\333	TOK	του	ο	AtDfMaSgGe
+1\337	TOK	ατμού	ατμός	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\342	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\345	TOK	Ο	ο	AtDfMaSgNm
+1\347	TOK	Σκοτσέζος	Σκοτσέζος	NoPrMaSgNm
+	SYN	/np_nm]
+1\357	TOK	Τζέιμς	Τζέιμς	RgFwTr
+	SYN	[np_ac
+1\364	TOK	Βατ	βατ	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[vg
+1\368	TOK	θεωρείται	θεωρώ	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\378	TOK	ο	ο	AtDfMaSgNm
+1\380	TOK	εφευρέτης	εφευρέτης	NoCmMaSgNm
+	SYN	/np_nm]
+1\389	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\391	TOK	το	ο	AtDfNeSgAc
+1\394	DIG	1765	1765	DIG
+	SYN	/np_ac]
+1\398	PUNCT	,	,	PUNCT
+	SYN	[np_ge
+1\400	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\404	TOK	σύγχρονης	σύγχρονος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\414	TOK	ατμομηχανής	ατμομηχανή	NoCmFeSgGe
+	SYN	/np_ge]
+1\425	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\427	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\431	TOK	έγινε	γίνομαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\437	TOK	το	ο	AtDfNeSgNm
+1\440	TOK	σύμβολο	σύμβολο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\448	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\452	TOK	Βιομηχανικής	βιομηχανικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\465	TOK	Επανάστασης	επανάσταση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl_r]
+	SYN	/cl]
+1\476	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\478	TOK	Πράγματι	πράγματι	AdXxBa
+	SYN	/advp]
+1\486	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\488	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\492	TOK	εκείνη	εκείνος	PnDmFe03SgAcXx
+1\499	TOK	τη	ο	AtDfFeSgAc
+1\502	TOK	στιγμή	στιγμή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\509	TOK	έγινε	γίνομαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\515	TOK	δυνατή	δυνατός	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_nm
+1\522	TOK	η	ο	AtDfFeSgNm
+1\524	TOK	δημιουργία	δημιουργία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\535	TOK	μεγάλων	μεγάλος	AjBaFePlGe
+	SYN	/adjp_ge]
+1\543	TOK	βιομηχανιών	βιομηχανία	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	[pp
+1\555	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\558	TOK	μηχανές	μηχανή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\566	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\570	TOK	κινούνταν	κινώ	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\580	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\584	TOK	την	ο	AtDfFeSgAc
+1\588	TOK	ενέργεια	ενέργεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\597	TOK	που	που	PnReFe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\601	TOK	παραγόταν	παράγω	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\611	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\615	TOK	τον	ο	AtDfMaSgAc
+1\619	TOK	ατμό	ατμός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\623	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\625	TOK	Λίγο	λίγο	AdXxBa
+	SYN	/advp]
+1\630	TOK	μετά	μετά	AsPpSp
+	SYN	[vg
+1\635	TOK	γεννήθηκαν	γεννώ	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\646	TOK	οι	ο	AtDfFePlNm
+	SYN	[adjp_nm
+1\649	TOK	πρώτες	πρώτος	NmOdFePlNmAj
+	SYN	/adjp_nm]
+1\656	TOK	ατμομηχανές	ατμομηχανή	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\668	TOK	των	ο	AtDfNePlGe
+1\672	TOK	τρένων	τρένο	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\678	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\681	TOK	Ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\683	TOK	πρώτος	πρώτος	NmOdMaSgNmAj
+	SYN	/adjp_nm]
+1\690	TOK	σιδηρόδρομος	σιδηρόδρομος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\703	TOK	κατασκευάστηκε	κατασκευάζω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\718	TOK	το	ο	AtDfNeSgAc
+1\721	DIG	1830	1830	DIG
+	SYN	/np_ac]
+	SYN	[pp
+1\726	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\731	TOK	Αγγλία	Αγγλία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\737	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

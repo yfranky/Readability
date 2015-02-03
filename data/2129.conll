@@ -1,0 +1,32 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Α	α	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+2	ωραίος	ωραίος	Aj	Aj	Ba|Ma|Sg|Nm	3	Atr	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	Coord	_	_	
+4	!	!	PTERM_P	PTERM_P	_	3	AuxG	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πώς	πώς	Ad	Ad	Ba	3	Adv	_	_	
+2	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	3	Obj	_	_	
+3	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	3	Obj	_	_	
+3	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	Ρεξ	Ρεξ	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Πόσων	πόσος	No	NoPr	Ma|Sg|Nm	3	Atr	_	_	
+3	χρονών	χρονών	No	NoCm	Ma|Pl|Ge	4	Sb	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ενός	ένας	At	AtId	Ma|Sg|Ge	3	Det	_	_	
+3	χρόνου	χρόνος	No	NoCm	Ma|Sg|Ge	0	ExD	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,741 @@
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_ac
+1\1	TOK	Τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\4	TOK	τρώνε	τρώω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+1\10	TOK	οι	ο	AtDfFePlNm
+	SYN	[np_nm
+1\13	TOK	σταρ	σταρ	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\18	TOK	για	για	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\22	TOK	πρωινό	πρωινός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_q]
+1\28	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\31	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\34	TOK	πρωινό	πρωινός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\41	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\47	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+	SYN	[advp
+1\50	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\54	TOK	σημαντικό	σημαντικός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\64	TOK	γεύμα	γεύμα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\70	TOK	της	ο	AtDfFeSgGe
+1\74	TOK	ημέρας	ημέρα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\80	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_c
+1\82	TOK	Αν	αν	CjSb
+	SYN	[vg
+1\85	TOK	έχεις	έχω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_c]
+	SYN	[cl_o
+	SYN	[vg_s
+1\91	TOK	να	να	PtSj
+1\94	TOK	αντιμετωπίσεις	αντιμετωπίζω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\109	TOK	μια	ένας	AtIdFeSgAc
+1\113	TOK	μέρα	μέρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\118	OPUNCT	"	"	OPUNCT
+1\119	TOK	γεμάτη	γεμάτος	AjBaFeSgNm
+1\125	CPUNCT	"	"	CPUNCT
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\126	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_ac
+1\128	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\132	TOK	πλούσιο	πλούσιος	AjBaMaSgAc
+1\140	TOK	και	και	CjCo
+1\144	TOK	υγιεινό	υγιεινός	AjBaMaSgAc
+1\152	TOK	πρωινό	πρωινός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\159	TOK	σου	εγώ	PnPeMa02SgGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\163	TOK	δίνει	δίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\169	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\173	TOK	απαραίτητη	απαραίτητος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\184	TOK	ενέργεια	ενέργεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\193	TOK	για	για	AsPpSp
+1\197	TOK	να	να	PtSj
+	SYN	[np_ac
+1\200	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+1\203	TOK	καταφέρεις	καταφέρνω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\213	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\215	TOK	Αυτό	αυτός	PnDmNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[np_ac
+1\220	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\223	TOK	ξέρουν	ξέρω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\230	TOK	πολύ	πολύ	AdXxBa
+1\235	TOK	καλά	καλά	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\240	TOK	οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\243	TOK	διάσημοι	διάσημος	AjBaMaPlNm
+1\252	TOK	και	και	CjCo
+1\256	TOK	πολυάσχολοι	πολυάσχολος	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_nm
+1\268	TOK	σταρ	σταρ	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\272	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\274	TOK	Έτσι	έτσι	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\279	TOK	φροντίζουν	φροντίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\290	TOK	να	να	PtSj
+1\293	TOK	παίρνουν	παίρνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\302	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\306	TOK	γερό	γερός	AjBaMaSgAc
+1\311	TOK	πρωινό	πρωινός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_o]
+	SYN	[advp
+1\318	TOK	πριν	πριν	AdXxBa
+	SYN	/advp]
+	SYN	[cl
+	SYN	[vg
+1\323	TOK	ξεκινήσουν	ξεκινώ	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\334	TOK	τη	ο	AtDfFeSgAc
+1\337	TOK	μέρα	μέρα	NoCmFeSgAc
+1\342	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\346	PTERM_P	!	!	PTERM_P
+1\347	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\350	OPUNCT	«	«	OPUNCT
+	SYN	[vg
+1\351	TOK	Προσέχω	προσέχω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\359	TOK	ιδιαίτερα	ιδιαίτερα	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\369	TOK	τη	ο	AtDfFeSgAc
+1\372	TOK	σιλουέτα	σιλουέτα	NoCmFeSgAc
+1\381	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\385	TOK	αλλά	αλλά	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\390	TOK	αυτό	αυτός	PnDmNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\395	TOK	δε	δεν	PtNg
+1\398	TOK	σημαίνει	σημαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\407	TOK	ότι	ότι	CjSb
+	SYN	[vg
+1\411	TOK	κάνω	κάνω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg]
+1\416	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\420	TOK	κακή	κακός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\425	TOK	διατροφή	διατροφή	NoCmFeSgAc
+	SYN	/np_ac]
+1\433	CPUNCT	»	»	CPUNCT
+	SYN	/cl_o]
+1\434	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\436	TOK	λέει	λέγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\441	TOK	η	ο	AtDfFeSgNm
+1\443	TOK	βασίλισσα	βασίλισσα	NoCmFeSgNm
+	SYN	/np_nm]
+1\453	TOK	της	ο	AtDfFeSgGe
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\457	TOK	πoπ	ποπ	AjBaMaPlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\460	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\462	OPUNCT	«	«	OPUNCT
+	SYN	[np_nm
+1\463	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\466	TOK	πρωινό	πρωινός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ge
+1\473	TOK	μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\477	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\483	TOK	αρκετά	αρκετά	AdXxBa
+	SYN	/advp]
+1\490	TOK	πλούσιο	πλούσιος	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\497	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\499	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\502	TOK	γιαούρτι	γιαούρτι	NoCmNeSgAc
+	SYN	/np_ac]
+1\510	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\512	TOK	ακτινίδια	ακτινίδιο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\522	TOK	και	και	CjCo
+	SYN	[advp
+1\526	TOK	σίγουρα	σίγουρα	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\534	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\537	TOK	καφέ	καφές	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\541	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_c
+1\543	TOK	Αν	αν	CjSb
+	SYN	[vg
+1\546	TOK	δεν	δεν	PtNg
+1\550	TOK	πιω	πίνω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\554	TOK	καφέ	καφές	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\559	TOK	το	ο	AtDfNeSgAc
+1\562	TOK	πρωί	πρωί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_c]
+1\566	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\568	TOK	δεν	δεν	PtNg
+1\572	TOK	μπορώ	μπορώ	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\578	TOK	να	να	PtSj
+1\581	TOK	ξεκινήσω	ξεκινώ	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\590	TOK	τη	ο	AtDfFeSgAc
+1\593	TOK	μέρα	μέρα	NoCmFeSgAc
+1\598	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\601	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\603	TOK	Ο	ο	AtDfMaSgNm
+1\605	TOK	καθένας	καθένας	PnIdMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[pp
+1\613	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\616	TOK	τις	ο	AtDfFePlAc
+1\620	TOK	αδυναμίες	αδυναμία	NoCmFePlAc
+1\630	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+1\633	PTERM_P	...	...	PTERM_P
+1\636	CPUNCT	»	»	CPUNCT
+1\637	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\640	OPUNCT	«	«	OPUNCT
+	SYN	[vg
+1\641	TOK	Δεν	δεν	PtNg
+1\645	TOK	πεθαίνω	πεθαίνω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\653	TOK	της	ο	AtDfFeSgGe
+1\657	TOK	πείνας	πείνα	NoCmFeSgGe
+	SYN	/np_ge]
+1\663	PTERM_P	...	...	PTERM_P
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\667	TOK	για	για	AsPpSp
+1\671	TOK	να	να	PtSj
+1\674	TOK	διατηρήσω	διατηρώ	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\684	TOK	τη	ο	AtDfFeSgAc
+1\687	TOK	σιλουέτα	σιλουέτα	NoCmFeSgAc
+1\696	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\699	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\701	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\704	TOK	πρωινό	πρωινός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\711	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\717	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+	SYN	[advp
+1\720	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\724	TOK	σημαντικό	σημαντικός	AjBaNeSgNm
+1\734	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/adjp_nm]
+1\738	TOK	γεύμα	γεύμα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\743	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ge
+1\745	TOK	Μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\749	TOK	δίνει	δίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\755	TOK	δύναμη	δύναμη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\762	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\766	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\769	TOK	υπόλοιπο	υπόλοιπος	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\778	TOK	της	ο	AtDfFeSgGe
+1\782	TOK	ημέρας	ημέρα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\788	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\790	TOK	Και	και	CjCo
+	SYN	[cl
+1\793	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\795	TOK	μάλιστα	μάλιστα	AdXxBa
+	SYN	/advp]
+1\802	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\804	TOK	τρώω	τρώω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\809	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+1\814	TOK	το	ο	AtDfNeSgNm
+	SYN	[np_ac
+1\817	TOK	πρωί	πρωί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\821	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\823	TOK	Τρώω	τρώω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\828	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\831	TOK	παραδοσιακό	παραδοσιακός	AjBaNeSgAc
+1\843	TOK	γερμανικό	γερμανικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\853	TOK	πρωινό	πρωινό	NoCmNeSgAc
+	SYN	/np_ac]
+1\859	PTERM_P	:	:	PTERM_P
+	SYN	[np_ac
+1\861	TOK	λουκάνικο	λουκάνικο	NoCmNeSgAc
+	SYN	/np_ac]
+1\870	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\872	TOK	ζαμπόν	ζαμπόν	NoCmNePlAc
+	SYN	/np_ac]
+1\878	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\880	TOK	διάφορα	διάφορος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\888	TOK	είδη	είδος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\893	TOK	τυριών	τυρί	NoCmNePlGe
+	SYN	/np_ge]
+1\900	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\904	TOK	χωριάτικο	χωριάτικος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\914	TOK	ψωμί	ψωμί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\918	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\920	TOK	Και	και	CjCo
+	SYN	[cl
+	SYN	[advp
+1\924	TOK	εκτός	εκτός	AdXxBa
+	SYN	[pp
+1\930	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\934	TOK	αυτά	αυτός	PnDmNe03PlAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\938	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\940	TOK	τρώω	τρώω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+1\945	TOK	και	και	CjCo
+	SYN	[np_ac
+1\949	TOK	πορτοκάλια	πορτοκάλι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\959	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\961	TOK	πίνω	πίνω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+1\966	TOK	και	και	CjCo
+	SYN	[np_ac
+1\970	TOK	τσάι	τσάι	NoCmNeSgAc
+	SYN	/np_ac]
+1\974	PTERM_P	!	!	PTERM_P
+1\975	CPUNCT	»	»	CPUNCT
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\978	OPUNCT	«	«	OPUNCT
+	SYN	[advp
+1\979	TOK	Πριν	πριν	AdXxBa
+	SYN	[pp
+1\984	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\988	TOK	κάποια	κάποιος	PnIdNe03PlAcXx
+1\995	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[vg
+1\1002	TOK	είχα	έχω	VbMnIdPa01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1007	TOK	αδυναμία	αδυναμία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1016	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\1020	TOK	χάμπουργκερ	χάμπουργκερ	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\1031	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\1033	TOK	η	ο	AtDfFeSgNm
+1\1035	TOK	διατροφή	διατροφή	NoCmFeSgNm
+1\1044	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\1048	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\1053	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+1\1058	TOK	κακή	κακός	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\1063	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\1067	TOK	δεν	δεν	PtNg
+1\1071	TOK	έκανα	κάνω	VbMnIdPa01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\1077	TOK	καθόλου	καθόλου	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\1085	TOK	γυμναστική	γυμναστικός	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1095	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\1097	TOK	Όμως	όμως	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\1102	TOK	τα	ο	AtDfNePlNm
+1\1105	TOK	πράγματα	πράγμα	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1114	TOK	δεν	δεν	PtNg
+1\1118	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\1124	TOK	έτσι	έτσι	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\1129	TOK	πια	πια	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\1132	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\1134	TOK	Τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\1139	TOK	δεν	δεν	PtNg
+1\1143	TOK	ξεκινώ	ξεκινώ	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1150	TOK	τη	ο	AtDfFeSgAc
+1\1153	TOK	μέρα	μέρα	NoCmFeSgAc
+1\1158	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl_c
+1\1162	TOK	αν	αν	CjSb
+	SYN	[vg
+1\1165	TOK	δε	δεν	PtNg
+1\1168	TOK	φάω	τρώω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1172	TOK	ένα	ένας	AtIdNeSgNm
+	SYN	[adjp_nm
+1\1176	TOK	καλό	καλός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\1181	TOK	πρωινό	πρωινό	NoCmNeSgNm
+	SYN	/np_nm]
+1\1187	PTERM_P	:	:	PTERM_P
+	SYN	[np_ac
+1\1189	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\1193	TOK	μεγάλο	μεγάλος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\1200	TOK	ποτήρι	ποτήρι	NoCmNeSgAc
+1\1207	TOK	γάλα	γάλα	NoCmNeSgAc
+	SYN	/np_ac]
+1\1211	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1213	TOK	γιαούρτι	γιαούρτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1222	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1225	TOK	μέλι	μέλι	NoCmNeSgAc
+	SYN	/np_ac]
+1\1229	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1231	TOK	φρούτα	φρούτο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_c]
+1\1238	TOK	και	και	CjCo
+1\1241	PUNCT	,	,	PUNCT
+	SYN	[cl_c
+1\1243	TOK	αν	αν	CjSb
+	SYN	[vg
+1\1246	TOK	υπάρχει	υπάρχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1254	TOK	όρεξη	όρεξη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_c]
+1\1259	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\1261	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1268	TOK	να	να	PtSj
+1\1271	TOK	κάνω	κάνω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+1\1276	TOK	και	και	CjCo
+	SYN	[np_ac
+1\1280	TOK	μπέικον	μπέικον	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1288	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1291	TOK	αβγά	αβγό	NoCmNePlAc
+	SYN	/np_ac]
+1\1295	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1297	TOK	αγγλικό	αγγλικός	AjBaNeSgAc
+1\1305	TOK	πρωινό	πρωινός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\1312	TOK	δηλαδή	δηλαδή	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+1\1318	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\1320	TOK	Βέβαια	βέβαια	AdXxBa
+1\1326	PUNCT	,	,	PUNCT
+1\1328	TOK	πριν	πριν	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\1333	TOK	απολαύσω	απολαμβάνω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1342	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\1345	TOK	πρωινό	πρωινός	AjBaNeSgAc
+1\1352	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\1355	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\1357	TOK	κάνω	κάνω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1362	TOK	μια	ένας	AtIdFeSgAc
+1\1366	TOK	ώρα	ώρα	NoCmFeSgAc
+1\1370	TOK	γυμναστική	γυμναστικός	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1380	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\1382	TOK	Τρέξιμο	τρέξιμο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\1390	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\1394	TOK	πάρκο	πάρκο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1400	TOK	της	ο	AtDfFeSgGe
+1\1404	TOK	γειτονιάς	γειτονιά	NoCmFeSgGe
+	SYN	/np_ge]
+1\1414	TOK	και	και	CjCo
+	SYN	[np_ac
+1\1418	TOK	ασκήσεις	άσκηση	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\1426	CPUNCT	»	»	CPUNCT
+1\1427	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

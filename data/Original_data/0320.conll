@@ -1,0 +1,122 @@
+1	Ατζέμ	Ατζέμ	No	NoPr	Ma|Sg|Nm	2	Atr	_	_	
+2	πιλάφι	πιλάφι	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+
+1	2	2	DIG	DIG	_	2	Atr	_	_	
+2	ποτήρια	ποτήριο	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+3	του	ο	At	AtDf	Ne|Sg|Ge	4	Det	_	_	
+4	νερού	νερό	No	NoCm	Ne|Sg|Ge	2	Atr	_	_	
+5	ρύζι	ρύζι	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+6	νυχάκι	νυχάκι	No	NoCm	Ne|Sg|Ac	5	Atr	_	_	
+
+1	1	1	DIG	DIG	_	2	Atr	_	_	
+2	ποτήρι	ποτήρι	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+3	του	ο	At	AtDf	Ne|Sg|Ge	4	Det	_	_	
+4	νερού	νερό	No	NoCm	Ne|Sg|Ge	2	Atr	_	_	
+5	εριστέ	εριστός	No	NoCm	Ma|Sg|Vo	6	ExD_Co	_	_	
+6	ή	ή	Cj	CjCo	_	4	Coord	_	_	
+7	φιδέ	φιδές	No	NoCm	Ma|Sg|Ac	9	Obj_Co	_	_	
+8	σπασμένο	σπασμένος	Aj	Aj	Ba|Ne|Sg|Ac	7	Atr	_	_	
+9	ή	ή	Cj	CjCo	_	6	Coord_Co	_	_	
+10	κριθαράκι	κριθαράκι	No	NoCm	Ne|Sg|Ac	9	Obj_Co	_	_	
+
+1	2	2	DIG	DIG	_	2	Atr	_	_	
+2	κουταλιές	κουταλιά	No	NoCm	Fe|Pl|Ac	0	ExD	_	_	
+3	της	ο	At	AtDf	Fe|Sg|Ge	4	Det	_	_	
+4	σούπας	σούπα	No	NoCm	Fe|Sg|Ge	2	Atr	_	_	
+5	βούτυρο	βούτυρο	No	NoCm	Ne|Sg|Ac	4	Atr	_	_	
+6	φρέσκο	φρέσκος	Aj	Aj	Ba|Ne|Sg|Ac	2	Atr	_	_	
+
+1	5-6	5-6	DIG	DIG	_	2	Atr	_	_	
+2	ποτήρια	ποτήριο	No	NoCm	Ne|Pl|Nm	3	Atr	_	_	
+3	νερό	νερό	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+4	(	(	OPUNCT	OPUNCT	_	5	AuxG	_	_	
+5	μπορούμε	μπορώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Atr_Pa	_	_	
+6	να	να	Pt	PtSj	_	7	AuxV	_	_	
+7	αντικαταστήσουμε	αντικαθιστώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	5	Obj	_	_	
+8	τη	ο	At	AtDf	Fe|Sg|Ac	10	Det	_	_	
+9	μισή	μισός	Aj	Aj	Ba|Fe|Sg|Ac	10	Atr	_	_	
+10	ποσότητα	ποσότητα	No	NoCm	Fe|Sg|Ac	7	Obj	_	_	
+11	νερού	νερό	No	NoCm	Ne|Sg|Ge	10	Atr	_	_	
+12	με	με	AsPp	AsPpSp	_	7	AuxP	_	_	
+13	ζωμό	ζωμός	No	NoCm	Ma|Sg|Ac	12	Adv	_	_	
+14	από	από	AsPp	AsPpSp	_	13	AuxP	_	_	
+15	κοτόπουλο	κοτόπουλο	No	NoCm	Ne|Sg|Ac	16	Adv_Co	_	_	
+16	ή	ή	Cj	CjCo	_	14	Coord	_	_	
+17	κρέας	κρέας	No	NoCm	Ne|Sg|Ac	16	Adv_Co	_	_	
+18	)	)	CPUNCT	CPUNCT	_	5	AuxG	_	_	
+
+1	1	1	DIG	DIG	_	2	Atr	_	_	
+2	κουταλιά	κουταλιά	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+3	της	ο	At	AtDf	Fe|Sg|Ge	4	Det	_	_	
+4	σούπας	σούπα	No	NoCm	Fe|Sg|Ge	2	Atr	_	_	
+5	αλάτι	αλάτι	No	NoCm	Ne|Sg|Ac	4	Atr	_	_	
+
+1	1	1	DIG	DIG	_	2	Atr	_	_	
+2	κουταλιά	κουταλιά	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+3	του	ο	At	AtDf	Ma|Sg|Ge	5	Det	_	_	
+4	γλυκού	γλυκός	Aj	Aj	Ba|Ma|Sg|Ge	5	Atr	_	_	
+5	ζάχαρη	ζάχαρη	No	NoCm	Fe|Sg|Ac	2	Atr	_	_	
+
+1	Εκτέλεση	εκτέλεση	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+
+1	Σε	σε	AsPp	AsPpSp	_	4	AuxP	_	_	
+2	μια	ένας	At	AtId	Fe|Sg|Ac	3	Det	_	_	
+3	κατσαρόλα	κατσαρόλα	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+4	λιώνουμε	λιώνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Ac	6	Det	_	_	
+6	βούτυρο	βούτυρο	No	NoCm	Ne|Sg|Ac	4	Obj	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	ρίχνουμε	ρίχνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+9	τον	ο	At	AtDf	Ma|Sg|Ac	10	Det	_	_	
+10	εριστέ	εριστός	No	NoCm	Ma|Sg|Vo	11	Obj_Co	_	_	
+11	ή	ή	Cj	CjCo	_	8	Coord	_	_	
+12	τον	ο	At	AtDf	Ma|Sg|Ac	13	Det	_	_	
+13	φιδέ	φιδές	No	NoCm	Ma|Sg|Ac	11	Obj_Co	_	_	
+14	ή	ή	Cj	CjCo	_	16	AuxY	_	_	
+15	το	ο	At	AtDf	Ne|Sg|Nm	16	Det	_	_	
+16	κριθαράκι	κριθαράκι	No	NoCm	Ne|Sg|Nm	7	ExD_Co	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	2	Obj	_	_	
+2	καβουρντίζουμε	καβουρδίζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	ελαφρά	ελαφρά	Ad	Ad	Ba	2	Adv	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Προσθέτουμε	προσθέτω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	3	Det	_	_	
+3	νερό	νερό	No	NoCm	Ne|Sg|Ac	4	Obj_Co	_	_	
+4	και	και	Cj	CjCo	_	1	Coord	_	_	
+5	τον	ο	At	AtDf	Ma|Sg|Ac	6	Det	_	_	
+6	ζωμό	ζωμός	No	NoCm	Ma|Sg|Ac	4	Obj_Co	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όταν	όταν	Cj	CjSb	_	12	AuxC	_	_	
+2	αρχίσει	αρχίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	βράζει	βράζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	ρίχνουμε	ρίχνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	1	Adv	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	ρύζι	ρύζι	No	NoCm	Ne|Sg|Ac	6	Obj	_	_	
+9	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+10	το	ο	At	AtDf	Ne|Sg|Nm	11	Det	_	_	
+11	αλάτι	αλάτι	No	NoCm	Ne|Sg|Nm	12	Adv_Co	_	_	
+12	και	και	Cj	CjCo	_	0	Coord	_	_	
+13	τη	ο	At	AtDf	Fe|Sg|Ac	14	Det	_	_	
+14	ζάχαρη	ζάχαρη	No	NoCm	Fe|Sg|Ac	12	ExD_Co	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Χαμηλώνουμε	χαμηλώνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τη	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+3	φωτιά	φωτιά	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	έτοιμο	έτοιμος	Aj	Aj	Ba|Ne|Sg|Nm	1	Pnom	_	_	
+3	όταν	όταν	Cj	CjSb	_	1	AuxC	_	_	
+4	ρουφήξει	ρουφώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Adv	_	_	
+5	όλο	όλος	Aj	Aj	Ba|Ne|Sg|Ac	7	Atr	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	νερό	νερό	No	NoCm	Ne|Sg|Ac	4	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,218 @@
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+2	Ηλίας	Ηλίας	No	NoPr	Ma|Sg|Nm	3	Atr	_	_	
+3	Μαμαλάκης	Μαμαλάκης	No	NoPr	Ma|Sg|Nm	4	Sb	_	_	
+4	ξεναγεί	ξεναγώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	τους	ο	At	AtDf	Ma|Pl|Ac	6	Det	_	_	
+6	φίλους	φίλος	No	NoCm	Ma|Pl|Ac	4	Obj	_	_	
+7	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	6	Pos	_	_	
+8	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	4	AuxP	_	_	
+9	πολύπλοκο	πολύπλοκος	Aj	Aj	Ba|Ma|Sg|Ac	10	Atr	_	_	
+10	κόσμο	κόσμος	No	NoCm	Ma|Sg|Ac	8	Obj	_	_	
+11	του	ο	At	AtDf	Ne|Sg|Ge	12	Det	_	_	
+12	λάχανου	λάχανο	No	NoCm	Ne|Sg|Ge	10	Atr	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	λαχανάκι	λαχανάκι	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	μια	ένας	At	AtId	Fe|Sg|Ac	6	Det	_	_	
+5	παράξενη	παράξενος	Aj	Aj	Ba|Fe|Sg|Ac	6	Atr	_	_	
+6	μυρωδιά	μυρωδιά	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+7	που	που	Pn	PnRe	Fe|03|Sg|Nm|Xx	8	Sb	_	_	
+8	γίνεται	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	6	Atr	_	_	
+9	ακόμα	ακόμα	Ad	Ad	Ba	11	Adv	_	_	
+10	πιο	πιο	Ad	Ad	Ba	11	Adv	_	_	
+11	παράξενη	παράξενος	Aj	Aj	Ba|Fe|Sg|Nm	8	Pnom	_	_	
+12	όταν	όταν	Cj	CjSb	_	8	AuxC	_	_	
+13	βράσει	βράζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	12	Adv	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Παρ’	παρά	Cj	CjCo	_	3	AuxY	_	_	
+2	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	3	Atr	_	_	
+3	αυτά	αυτός	Pn	PnDm	Ne|03|Pl|Ac|Xx	0	ExD	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	εδώ	εδώ	Ad	Ad	Ba	8	Adv	_	_	
+6	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	5	AuxP	_	_	
+7	Ελλάδα	Ελλάδα	No	NoPr	Fe|Sg|Ac	6	Adv	_	_	
+8	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	3	Atr	_	_	
+9	το	ο	At	AtDf	Ne|Sg|Nm	11	Det	_	_	
+10	κύριο	κύριος	Aj	Aj	Ba|Ne|Sg|Nm	11	Atr	_	_	
+11	υλικό	υλικό	No	NoCm	Ne|Sg|Nm	8	Pnom	_	_	
+12	της	ο	At	AtDf	Fe|Sg|Ge	15	Det	_	_	
+13	καλύτερης	καλός	Aj	Aj	Cp|Fe|Sg|Ge	15	Atr	_	_	
+14	χειμωνιάτικης	χειμωνιάτικος	Aj	Aj	Ba|Fe|Sg|Ge	15	Atr	_	_	
+15	σαλάτας	σαλάτα	No	NoCm	Fe|Sg|Ge	11	Atr	_	_	
+16	που	που	Pn	PnRe	Fe|03|Sg|Ac|Xx	17	Obj	_	_	
+17	έχουμε	έχω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	15	Atr	_	_	
+18	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γιατί	γιατί	Ad	Ad	Ba	2	Adv	_	_	
+2	μπορεί	μπορώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	12	Pred_Co	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+4	ελληνική	ελληνικός	Aj	Aj	Ba|Fe|Sg|Nm	5	Atr	_	_	
+5	γαστρονομία	γαστρονομία	No	NoCm	Fe|Sg|Nm	8	Sb	_	_	
+6	να	να	Pt	PtSj	_	8	AuxV	_	_	
+7	μην	μην	Pt	PtNg	_	8	AuxV	_	_	
+8	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+9	πολύπλοκες	πολύπλοκος	Aj	Aj	Ba|Fe|Pl|Ac	10	Atr	_	_	
+10	συνταγές	συνταγή	No	NoCm	Fe|Pl|Ac	8	Obj	_	_	
+11	,	,	PUNCT	PUNCT	_	12	AuxX	_	_	
+12	αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+13	ό,τι	ό,τι	Pn	PnRi	Ne|03|Sg|Ac|Xx	14	Obj	_	_	
+14	κάνουμε	κάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	12	Pred_Co	_	_	
+15	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	16	Obj	_	_	
+16	κάνουμε	κάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	14	Obj	_	_	
+17	καλά	καλά	Ad	Ad	Ba	16	Adv	_	_	
+18	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+2	τέλεια	τέλειος	Aj	Aj	Ba|Fe|Sg|Nm	3	Atr	_	_	
+3	λαχανοσαλάτα	λαχανοσαλάτα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+
+1	Υλικά	υλικός	Aj	Aj	Ba|Ne|Pl|Nm	0	ExD	_	_	
+
+1	400	400	DIG	DIG	_	2	Atr	_	_	
+2	γραμμ	γραμμ	Rg	RgFw	_	0	Coord	_	_	
+3	.	.	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+4	άσπρο	άσπρος	Aj	Aj	Ba|Ne|Sg|Ac	5	Atr	_	_	
+5	λάχανο	λάχανο	No	NoCm	Ne|Sg|Ac	2	ExD	_	_	
+
+1	2	2	DIG	DIG	_	2	Atr	_	_	
+2	καρότα	καρότο	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+3	καλά	καλά	Ad	Ad	Ba	4	Adv	_	_	
+4	καθαρισμένα	καθαρισμένος	Aj	Aj	Ba|Ne|Pl|Ac	2	Atr	_	_	
+
+1	4	4	DIG	DIG	_	2	Atr	_	_	
+2	κλαράκια	κλαράκι	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+3	σέλινο	σέλινο	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+
+1	1	1	DIG	DIG	_	2	Atr	_	_	
+2	πιπεριά	πιπεριά	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+3	Φλωρίνης	Φλωρίνης	No	NoPr	Fe|Sg|Ge	2	Atr	_	_	
+4	τουρσί	τουρσί	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+
+1	1-2	1-2	DIG	DIG	_	2	Atr	_	_	
+2	σκελίδες	σκελίδα	No	NoCm	Fe|Pl|Ac	0	ExD	_	_	
+3	σκόρδο	σκόρδο	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+
+1	χυμό	χυμός	No	NoCm	Ma|Sg|Ac	0	ExD	_	_	
+2	από	από	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	1	1	DIG	DIG	_	4	Atr	_	_	
+4	λεμόνι	λεμόνι	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+
+1	λάδι	λάδι	No	NoCm	Ne|Sg|Nm	3	Atr	_	_	
+2	όσο	όσο	Ad	Ad	Ba	3	Adv	_	_	
+3	θέλετε	θέλω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+
+1	χοντρό	χοντρός	Aj	Aj	Ba|Ne|Sg|Ac	2	Atr	_	_	
+2	αλάτι	αλάτι	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+
+1	Εφαρμογή	εφαρμογή	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+
+1	Με	με	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	ένα	ένας	At	AtId	Ne|Sg|Ac	4	Det	_	_	
+3	κοφτερό	κοφτερός	Aj	Aj	Ba|Ne|Sg|Ac	4	Atr	_	_	
+4	μαχαίρι	μαχαίρι	No	NoCm	Ne|Sg|Ac	1	Adv	_	_	
+5	κόψτε	κόβω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	4	Atr	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	λάχανο	λάχανο	No	NoCm	Ne|Sg|Ac	5	Obj	_	_	
+8	σε	σε	AsPp	AsPpSp	_	5	AuxP	_	_	
+9	κομματάκια	κομματάκι	No	NoCm	Ne|Pl|Ac	8	Adv	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βάλτε	βάζω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+3	ψιλοκομμένο	ψιλοκομμένος	Aj	Aj	Ba|Ne|Sg|Ac	4	Atr	_	_	
+4	λάχανο	λάχανο	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+5	σε	σε	AsPp	AsPpSp	_	1	AuxP	_	_	
+6	μια	ένας	At	AtId	Fe|Sg|Ac	7	Det	_	_	
+7	σαλατιέρα	σαλατιέρα	No	NoCm	Fe|Sg|Ac	5	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τρίψτε	τρίβω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Ac	3	Det	_	_	
+3	καροτάκια	καροτάκι	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+4	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	1	AuxP	_	_	
+5	τρίφτη	τρίφτης	No	NoCm	Ma|Sg|Ac	4	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αφαιρέστε	αφαιρώ	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	8	Pred_Co	_	_	
+2	από	από	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	σέλινο	σέλινο	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+5	τα	ο	At	AtDf	Ne|Pl|Ac	6	Det	_	_	
+6	φυλλαράκια	φυλλαράκι	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+7	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	6	Pos	_	_	
+8	και	και	Cj	CjCo	_	0	Coord	_	_	
+9	ψιλοκόψτε	ψιλοκόβω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	8	Pred_Co	_	_	
+10	το	ο	At	AtDf	Ne|Sg|Ac	9	Det	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ρίξτε	ρίχνω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	καρότα	καρότο	No	NoCm	Ne|Pl|Nm	1	Obj	_	_	
+3	και	και	Cj	CjCo	_	4	AuxY	_	_	
+4	σέλινο	σέλινο	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+5	μέσα	μέσα	Ad	Ad	Ba	1	Adv	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+7	λάχανο	λάχανο	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ψιλοκόψτε	ψιλοκόβω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+2	την	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+3	πιπεριά	πιπεριά	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+4	Φλωρίνης	Φλωρίνης	No	NoPr	Fe|Sg|Ge	3	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+6	ψιλοκόψτε	ψιλοκόβω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	σκορδάκι	σκορδάκι	No	NoCm	Ne|Sg|Ac	6	Obj	_	_	
+9	και	και	Cj	CjCo	_	0	Coord	_	_	
+10	προσθέστε	προσθέτω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+11	τα	ο	At	AtDf	Ne|Pl|Ac	10	Obj	_	_	
+12	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	11	AuxP	_	_	
+13	λάχανο	λάχανο	No	NoCm	Ne|Sg|Ac	12	Adv	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ανακατέψτε	ανακατεύω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	καλά	καλά	Ad	Ad	Ba	1	Adv	_	_	
+3	τα	ο	At	AtDf	Ne|Pl|Ac	4	Det	_	_	
+4	υλικά	υλικό	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αλατίστε	αλατίζω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τη	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+3	λαχανοσαλάτα	λαχανοσαλάτα	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πιέστε	πιέζω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+2	τη	ο	At	AtDf	Fe|Sg|Ac	1	Obj	_	_	
+3	με	με	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	την	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	παλάμη	παλάμη	No	NoCm	Fe|Sg|Ac	3	Atr	_	_	
+6	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	5	Pos	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	αφήστε	αφήνω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+9	τη	ο	At	AtDf	Fe|Sg|Ac	8	Obj	_	_	
+10	για	για	AsPp	AsPpSp	_	9	AuxP	_	_	
+11	μία	ένας	At	AtId	Fe|Sg|Ac	12	Det	_	_	
+12	ώρα	ώρα	No	NoCm	Fe|Sg|Ac	10	Atr	_	_	
+13	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	12	AuxP	_	_	
+14	ψυγείο	ψυγείο	No	NoCm	Ne|Sg|Ac	13	Atr	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Λίγο	λίγο	Ad	Ad	Ba	2	Adv	_	_	
+2	πριν	πριν	Ad	Ad	Ba	4	Adv	_	_	
+3	τη	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	4	Obj	_	_	
+4	σερβίρετε	σερβίρω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	βάλτε	βάζω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	4	Adv	_	_	
+7	όσο	όσο	Ad	Ad	Ba	6	Adv	_	_	
+8	λάδι	λάδι	No	NoCm	Ne|Sg|Ac	6	Obj	_	_	
+9	θέλετε	θέλω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	10	Obj_Co	_	_	
+10	και	και	Cj	CjCo	_	6	Coord	_	_	
+11	περιχύστε	περιχύνω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	10	Obj_Co	_	_	
+12	τη	ο	At	AtDf	Fe|Sg|Ac	11	Obj	_	_	
+13	με	με	AsPp	AsPpSp	_	12	AuxP	_	_	
+14	τον	ο	At	AtDf	Ma|Sg|Ac	15	Det	_	_	
+15	χυμό	χυμός	No	NoCm	Ma|Sg|Ac	13	Atr	_	_	
+16	λεμονιού	λεμονής	Aj	Aj	Ba|Ma|Sg|Ge	15	Atr	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

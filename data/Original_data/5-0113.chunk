@@ -1,0 +1,721 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\3	TOK	Ελληνική	ελληνικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\12	TOK	Ραδιοφωνία	ραδιοφωνία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\23	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\27	TOK	το	ο	AtDfNeSgAc
+1\30	DIG	1938	1938	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\35	TOK	έως	έως	AsPpSp
+	SYN	[advp
+1\39	TOK	σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	[vg
+1\46	TOK	υπηρετεί	υπηρετώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\55	TOK	πιστά	πιστά	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\61	TOK	το	ο	AtDfNeSgNm
+1\64	TOK	τρίπτυχο	τρίπτυχο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\73	TOK	ενημέρωση-ψυχαγωγία	ενημέρωση-ψυχαγωγία	NoCmFeSgAc
+	SYN	/np_ac]
+1\92	PUNCT	-	-	PUNCT
+	SYN	[np_nm
+1\94	TOK	επιμόρφωση	επιμόρφωση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\105	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\109	TOK	προσπαθεί	προσπαθώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\119	TOK	πάντα	πάντα	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\125	TOK	να	να	PtSj
+1\128	TOK	συμβαδίζει	συμβαδίζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\139	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\142	TOK	τις	ο	AtDfFePlAc
+1\146	TOK	ανάγκες	ανάγκη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\154	TOK	της	ο	AtDfFeSgGe
+1\158	TOK	εποχής	εποχή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\165	TOK	αλλά	αλλά	CjCo
+1\170	TOK	και	και	CjCo
+	SYN	[np_ge
+1\174	TOK	των	ο	AtDfMaPlGe
+1\178	TOK	ακροατών	ακροατής	NoCmMaPlGe
+1\187	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\190	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\193	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\196	TOK	δημόσιο	δημόσιος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\204	TOK	ραδιόφωνο	ραδιόφωνο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\214	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\220	TOK	ένα	ένας	AtIdNeSgNm
+1\224	TOK	ραδιόφωνο	ραδιόφωνο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\234	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\238	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\245	TOK	να	να	PtSj
+1\248	TOK	μείνει	μένω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\255	TOK	κοντά	κοντά	AdXxBa
+	SYN	[np_ge
+1\261	TOK	σας	εγώ	PnPeMa02PlGeWe
+	SYN	/np_ge]
+	SYN	/advp]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\265	TOK	όλες	όλος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\270	TOK	τις	ο	AtDfFePlAc
+1\274	TOK	ώρες	ώρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\279	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\283	TOK	να	να	PtSj
+1\286	TOK	καλύψει	καλύπτω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\294	TOK	όλα	όλος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\298	TOK	σας	εγώ	PnPeMa02PlGeWe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\302	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\305	TOK	ενδιαφέροντα	ενδιαφέρων	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\317	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\319	TOK	Τα	ο	AtDfNePlNm
+1\322	TOK	προγράμματά	πρόγραμμα	NoCmNePlNm
+1\334	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\338	TOK	απευθύνονται	απευθύνω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\351	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\354	TOK	κάθε	κάθε	PnIdNe03SgGeXx
+1\359	TOK	είδος	είδος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\365	TOK	κοινού	κοινό	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\372	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\376	TOK	αφορούν	αφορώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\384	TOK	κάθε	κάθε	PnIdFe03SgAcXx
+1\389	TOK	προτίμηση	προτίμηση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\398	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\400	TOK	Σημαντικός	σημαντικός	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\411	TOK	παράγοντας	παράγοντας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\422	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\426	TOK	επιτυχημένης	επιτυχημένος	VbMnPpXxXxSgFePePvGe
+	SYN	/adjp_ge]
+1\439	TOK	πορείας	πορεία	NoCmFeSgGe
+1\447	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ge]
+	SYN	[vg
+1\451	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\457	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\460	TOK	ανθρώπινο	ανθρώπινος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\470	TOK	δυναμικό	δυναμικός	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\479	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\483	TOK	διαθέτει	διαθέτω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	[cl_r
+	SYN	[np_nm
+1\492	TOK	το	ο	AtDfNeSgNm
+1\495	TOK	οποίο	οποίος	PnReNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\501	TOK	αποτελεί	αποτελώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\510	TOK	εγγύηση	εγγύηση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\518	TOK	ποιότητας	ποιότητα	NoCmFeSgGe
+	SYN	/np_ge]
+1\527	PUNCT	,	,	PUNCT
+	SYN	[np_ge
+1\529	TOK	εγκυρότητας	εγκυρότητα	NoCmFeSgGe
+	SYN	/np_ge]
+1\541	TOK	και	και	CjCo
+	SYN	[np_ge
+1\545	TOK	ήθους	ήθος	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/cl_r]
+	SYN	/cl]
+1\550	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\553	TOK	Η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\555	TOK	Ελληνική	ελληνικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\564	TOK	Ραδιοφωνία	ραδιοφωνία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\575	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\581	TOK	το	ο	AtDfNeSgNm
+1\584	TOK	ραδιόφωνο	ραδιόφωνο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\594	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[np_ac
+1\598	TOK	σας	εγώ	PnPeMa02PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\602	TOK	φτιάχνει	φτιάχνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\611	TOK	τη	ο	AtDfFeSgAc
+1\614	TOK	διάθεση	διάθεση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\622	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\625	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\629	TOK	πολλές	πολύς	AjBaFePlAc
+1\636	TOK	και	και	CjCo
+1\640	TOK	διαφορετικές	διαφορετικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\653	TOK	συχνότητές	συχνότητα	NoCmFePlAc
+1\664	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\667	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[vg
+1\670	TOK	Έχετε	έχω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\676	TOK	διάθεση	διάθεση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\684	TOK	για	για	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\688	TOK	ελληνική	ελληνικός	AjBaFeSgAc
+1\696	PUNCT	,	,	PUNCT
+1\698	TOK	ξένη	ξένος	AjBaFeSgAc
+1\702	PUNCT	,	,	PUNCT
+1\704	TOK	ή	ή	CjCo
+1\706	TOK	κλασική	κλασικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\714	TOK	μουσική	μουσική	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_q]
+1\721	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[pp
+1\723	TOK	Για	για	AsPpSp
+	SYN	[np_ac
+1\727	TOK	ενημέρωση	ενημέρωση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\737	TOK	ή	ή	CjCo
+	SYN	[pp
+1\739	TOK	για	για	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\743	TOK	αθλητικά	αθλητικός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+1\751	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[advp
+1\753	TOK	Μήπως	μήπως	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\759	TOK	αυτό	αυτός	PnDmNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\764	TOK	που	που	PnReNe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\768	TOK	αναζητάτε	αναζητώ	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	[vg
+1\778	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\784	TOK	η	ο	AtDfFeSgNm
+1\786	TOK	επικοινωνία	επικοινωνία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\797	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_r
+	SYN	[advp
+1\799	TOK	Όπου	όπου	AdXxBa
+	SYN	/advp]
+1\804	TOK	κι	και	CjCo
+	SYN	[cl_c
+1\807	TOK	αν	αν	CjSb
+	SYN	[vg
+1\810	TOK	είστε	είμαι	VbMnIdPr02PlXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_c]
+1\815	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\817	TOK	ό,τι	ό,τι	PnRiNe03SgAcXx
+	SYN	/np_ac]
+1\822	TOK	κι	και	CjCo
+	SYN	[cl_c
+1\825	TOK	αν	αν	CjSb
+	SYN	[np_ge
+1\828	TOK	σας	εγώ	PnPeMa02PlGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\832	TOK	αρέσει	αρέσω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_c]
+1\838	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\840	TOK	υπάρχει	υπάρχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\848	TOK	ένας	ένας	AtIdMaSgNm
+1\853	TOK	σταθμός	σταθμός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\861	TOK	της	ο	AtDfFeSgGe
+1\865	ABBR	ΕΡΑ	ΕΡΑ	ABBR
+	SYN	/np_ge]
+	SYN	/cl_r]
+1\868	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\870	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\874	TOK	ταιριάζει	ταιριάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\884	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\887	TOK	τη	ο	AtDfFeSgAc
+1\890	TOK	διάθεσή	διάθεση	NoCmFeSgAc
+1\898	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\901	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\903	TOK	Άλλωστε	άλλωστε	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\911	TOK	η	ο	AtDfFeSgNm
+1\913	ABBR	ΕΡΑ	ΕΡΑ	ABBR
+	SYN	/np_nm]
+	SYN	[vg
+1\917	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\923	TOK	παντού	παντού	AdXxBa
+	SYN	/advp]
+1\929	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\931	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\934	TOK	όλη	όλος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\938	TOK	την	ο	AtDfFeSgAc
+1\942	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\948	PUNCT	,	,	PUNCT
+1\950	TOK	αλλά	αλλά	CjCo
+1\955	TOK	και	και	CjCo
+	SYN	[pp
+1\959	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\963	TOK	εξωτερικό	εξωτερικό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\972	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\974	TOK	Επιπλέον	επιπλέον	AdXxBa
+	SYN	/advp]
+1\982	PUNCT	,	,	PUNCT
+	SYN	[cl_g
+	SYN	[vg_g
+1\984	TOK	υπακούοντας	υπακούω	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[pp
+1\996	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\1001	TOK	εξελίξεις	εξέλιξη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1011	TOK	της	ο	AtDfFeSgGe
+1\1015	TOK	τεχνολογίας	τεχνολογία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\1027	TOK	και	και	CjCo
+	SYN	[pp
+1\1031	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\1036	TOK	απαιτήσεις	απαίτηση	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1047	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\1051	TOK	νέας	νέος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\1056	TOK	χιλιετίας	χιλιετία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_g]
+1\1065	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\1067	TOK	η	ο	AtDfFeSgNm
+1\1069	ABBR	ΕΡΑ	ΕΡΑ	ABBR
+	SYN	/np_nm]
+	SYN	[pp
+1\1073	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1076	TOK	όλα	όλος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1080	TOK	τα	ο	AtDfNePlAc
+1\1083	TOK	προγράμματά	πρόγραμμα	NoCmNePlAc
+1\1095	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+1\1098	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\1100	TOK	τώρα	τώρα	AdXxBa
+1\1105	TOK	πια	πια	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\1109	TOK	ακούγεται	ακούω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+1\1119	TOK	και	και	CjCo
+	SYN	[pp
+1\1123	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\1127	TOK	Internet	Internet	RgFwOr
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\1135	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\1138	TOK	Συνολικά	συνολικά	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\1147	TOK	η	ο	AtDfFeSgNm
+1\1149	TOK	παρουσία	παρουσία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\1158	TOK	της	ο	AtDfFeSgGe
+1\1162	ABBR	ΕΡΑ	ΕΡΑ	ABBR
+	SYN	/np_ge]
+	SYN	[vg
+1\1166	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+1\1172	TOK	η	ο	AtDfFeSgNm
+	SYN	[advp
+1\1174	TOK	εξής	εξής	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\1178	PTERM_P	:	:	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1181	PUNCT	•	•	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\1183	TOK	Λειτουργούν	λειτουργώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1195	TOK	πέντε	πέντε	NmCdNePlAcAj
+	SYN	/adjp_ac]
+	SYN	[advp
+1\1201	TOK	ραδιοφωνικά	ραδιοφωνικός	AdXxBa
+	SYN	/advp]
+1\1213	TOK	κανάλια	κανάλι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\1221	TOK	εθνικής	εθνικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\1229	TOK	εμβέλειας	εμβέλεια	NoCmFeSgGe
+	SYN	/np_ge]
+1\1238	PUNCT	,	,	PUNCT
+1\1240	OPUNCT	(	(	OPUNCT
+1\1241	ABBR	ΝΕΤ	ΝΕΤ	ABBR
+1\1244	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1246	TOK	ΔΕΥΤΕΡΟ	δεύτερος	NmOdNeSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\1253	PUNCT	,	,	PUNCT
+1\1255	TOK	KOSMOS	KOSMOS	RgFwOr
+1\1261	PUNCT	,	,	PUNCT
+1\1263	ABBR	ΕΡΑ3	ΕΡΑ3	ABBR
+1\1267	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1269	ABBR	ΕΡΑ	ΕΡΑ	ABBR
+1\1273	TOK	ΣΠΟΡ	σπορ	NoCmNePlAc
+	SYN	/np_ac]
+1\1277	CPUNCT	)	)	CPUNCT
+	SYN	[cl_r
+	SYN	[np_nm
+1\1279	TOK	τα	ο	AtDfNePlNm
+1\1282	TOK	οποία	οποίος	PnReNe03PlNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\1288	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1294	TOK	θεματικά	θεματικός	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl_r]
+1\1302	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\1304	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1307	TOK	στόχο	στόχος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\1313	TOK	να	να	PtSj
+1\1316	TOK	ικανοποιούν	ικανοποιώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\1328	TOK	τις	ο	AtDfFePlAc
+1\1332	TOK	ανάγκες	ανάγκη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\1340	TOK	διαφορετικών	διαφορετικός	AjBaFePlGe
+	SYN	/adjp_ge]
+1\1353	TOK	ομάδων	ομάδα	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\1360	TOK	ακροατών	ακροατής	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\1368	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1370	PUNCT	•	•	PUNCT
+	SYN	[np_nm
+1\1372	TOK	Ένα	ένας	AtIdNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\1376	TOK	διεθνούς	διεθνής	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\1385	TOK	εμβέλειας	εμβέλεια	NoCmFeSgGe
+	SYN	/np_ge]
+1\1394	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\1396	TOK	η	ο	AtDfFeSgNm
+1\1398	ABBR	ΕΡΑ5	ΕΡΑ5	ABBR
+	SYN	/np_nm]
+1\1403	OPUNCT	"	"	OPUNCT
+	SYN	[np_nm
+1\1404	TOK	Η	ο	AtDfFeSgNm
+1\1406	TOK	Φωνή	φωνή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\1411	TOK	της	ο	AtDfFeSgGe
+1\1415	TOK	Ελλάδας	Ελλάδα	NoPrFeSgGe
+	SYN	/np_ge]
+1\1422	CPUNCT	"	"	CPUNCT
+1\1423	PUNCT	,	,	PUNCT
+1\1425	PUNCT	•	•	PUNCT
+	SYN	[np_ac
+1\1427	TOK	ΦΙΛΙΑ	φιλί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1433	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\1437	TOK	τους	ο	AtDfMaPlAc
+1\1442	TOK	μετανάστες	μετανάστης	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1453	TOK	που	που	PnReMa03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1457	TOK	ζουν	ζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\1462	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\1467	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\1473	PUNCT	,	,	PUNCT
+1\1475	PUNCT	•	•	PUNCT
+	SYN	[np_nm
+1\1477	DIG	19	19	DIG
+	SYN	[adjp_nm
+1\1480	TOK	περιφερειακοί	περιφερειακός	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\1494	TOK	σταθμοί	σταθμός	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\1502	TOK	τοπικής	τοπικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\1510	TOK	εμβέλειας	εμβέλεια	NoCmFeSgGe
+	SYN	/np_ge]
+1\1519	PUNCT	,	,	PUNCT
+1\1521	PUNCT	•	•	PUNCT
+	SYN	[np_nm
+1\1523	TOK	Το	ο	AtDfNeSgNm
+1\1526	TOK	Δίκτυο	δίκτυο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1533	TOK	Διεθνής	διεθνής	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\1541	ABBR	ΕΡΑ	ΕΡΑ	ABBR
+	SYN	/np_nm]
+1\1545	PUNCT	•	•	PUNCT
+	SYN	[np_ac
+1\1547	DIG	2	2	DIG
+1\1549	TOK	προγράμματα	πρόγραμμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\1561	TOK	τοπικής	τοπικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\1569	TOK	εμβέλειας	εμβέλεια	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\1579	TOK	του	ο	AtDfMaSgGe
+1\1583	TOK	σταθμού	σταθμός	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\1591	TOK	Μακεδονία	Μακεδονία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+1\1600	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

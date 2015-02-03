@@ -1,0 +1,163 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Ολυμπιάδα	ολυμπιάδα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\11	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\15	TOK	άτομα	άτομο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\21	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\24	TOK	ειδικές	ειδικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\32	TOK	ανάγκες	ανάγκη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\41	TOK	Οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\44	TOK	θερινοί	θερινός	AjBaMaPlNm
+1\52	TOK	και	και	CjCo
+1\56	TOK	χειμερινοί	χειμερινός	AjBaMaPlNm
+1\67	TOK	Ειδικοί	ειδικός	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\75	TOK	Ολυμπιακοί	ολυμπιακός	NoPrMaPlNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\86	TOK	Αγώνες	αγώνας	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\93	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\99	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\103	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+	SYN	[advp
+1\107	TOK	πιο	πιο	AdXxBa
+	SYN	/advp]
+1\111	TOK	σημαντικές	σημαντικός	AjBaFePlAc
+1\122	TOK	αθλητικές	αθλητικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\132	TOK	συναντήσεις	συνάντηση	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\144	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\148	TOK	άτομα	άτομο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\154	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\157	TOK	σωματικές	σωματικός	AjBaFePlAc
+1\167	TOK	και	και	CjCo
+1\171	TOK	διανοητικές	διανοητικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\183	TOK	ιδιαιτερότητες	ιδιαιτερότητα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\197	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\199	TOK	Οι	ο	AtDfMaPlNm
+1\202	TOK	αθλητές	αθλητής	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\210	TOK	διαγωνίζονται	διαγωνίζομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\224	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\227	TOK	μία	ένας	NmCdFeSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\231	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\235	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\239	TOK	πολλές	πολύς	AjBaFePlAc
+	SYN	/adjp_ac]
+1\246	TOK	κατηγορίες	κατηγορία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\257	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\261	TOK	υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+1\269	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\271	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\274	TOK	βάση	βάση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\279	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\283	TOK	ατομική	ατομικός	AjBaFeSgAc
+1\291	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/adjp_ac]
+1\296	TOK	ιδιαιτερότητα	ιδιαιτερότητα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\309	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\311	TOK	Αυτή	αυτός	PnDmFe03SgAcXx
+1\316	TOK	τη	ο	AtDfFeSgAc
+1\319	TOK	στιγμή	στιγμή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\326	TOK	υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\335	DIG	18	18	DIG
+1\338	TOK	αθλήματα	άθλημα	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\347	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\353	TOK	θερινούς	θερινός	AjBaMaPlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\362	TOK	και	και	CjCo
+	SYN	[np_ac
+1\366	DIG	4	4	DIG
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\368	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\374	TOK	χειμερινούς	χειμερινός	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\386	TOK	Αγώνες	αγώνας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\392	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

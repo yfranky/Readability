@@ -1,0 +1,132 @@
+	(SENT	<S>
+	SYN	[pp
+1\1	TOK	Στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\6	TOK	πόρτα	πόρτα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\12	TOK	αριστερά	αριστερά	AdXxBa
+	SYN	/advp]
+1\20	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[pp
+1\22	TOK	Στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\26	TOK	φανάρι	φανάρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\33	TOK	δεξιά	δεξιά	AdXxBa
+	SYN	/advp]
+1\38	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\40	TOK	Πέρνα	περνώ	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\46	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\49	TOK	πράσινο	πράσινος	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\57	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\61	TOK	πήγαινε	πηγαίνω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\69	TOK	ευθεία	ευθύς	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[advp
+1\76	TOK	ως	ως	AdXxBa
+	SYN	[np_ac
+1\79	TOK	το	ο	AtDfNeSgAc
+1\82	TOK	άλλο	άλλος	PnIdNe03SgAcXx
+1\87	TOK	φανάρι	φανάρι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/advp]
+	SYN	/cl]
+1\93	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\95	TOK	Στρίψε	στρίβω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\102	TOK	αριστερά	αριστερά	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\110	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\112	TOK	Στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\116	TOK	γωνία	γωνία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\122	TOK	πήγαινε	πηγαίνω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\130	TOK	δεξιά	δεξιά	AdXxBa
+	SYN	/advp]
+1\136	TOK	και	και	CjCo
+	SYN	[pp
+1\140	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\145	TOK	άλλη	άλλος	PnIdFe03SgAcXx
+1\150	TOK	γωνία	γωνία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\156	TOK	να	να	PtSj
+1\159	TOK	πας	πηγαίνω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\163	TOK	πάλι	πάλι	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\168	TOK	δεξιά	δεξιά	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+1\173	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\175	TOK	Εκεί	εκεί	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\180	TOK	έχω	έχω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\184	TOK	κρυμμένο	κρυμμένος	VbMnPpXxXxSgNePePvNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_nm
+1\193	TOK	το	ο	AtDfNeSgNm
+1\196	TOK	ποδήλατο	ποδήλατο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\204	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+1\207	TOK	Άννα	Άννα	NoPrFeSgAc
+	SYN	/np_ac]
+	)SENT	</S>

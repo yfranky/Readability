@@ -1,0 +1,382 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\1	TOK	Τον	ο	AtDfMaSgAc
+1\5	TOK	Δεκέμβριο	Δεκέμβριος	NoCmMaSgAc
+	SYN	/np_ac]
+1\14	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\16	TOK	τον	ο	AtDfMaSgAc
+1\20	TOK	Ιανουάριο	Ιανουάριος	NoCmMaSgAc
+	SYN	/np_ac]
+1\30	TOK	και	και	CjCo
+	SYN	[np_ac
+1\34	TOK	τον	ο	AtDfMaSgAc
+1\38	TOK	Φεβρουάριο	Φεβρουάριος	NoCmMaSgAc
+	SYN	/np_ac]
+1\48	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\50	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\52	TOK	νότιος	νότιος	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\59	TOK	πόλος	πόλος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\65	TOK	βλέπει	βλέπω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\72	TOK	προς	προς	AsPpSp
+	SYN	[np_ac
+1\77	TOK	τον	ο	AtDfMaSgAc
+1\81	TOK	ήλιο	ήλιος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\85	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\87	TOK	Έτσι	έτσι	AdXxBa
+	SYN	/advp]
+1\91	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\93	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\96	TOK	βόρειο	βόρειος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\103	TOK	ημισφαίριο	ημισφαίριο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\114	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\119	TOK	χειμώνα	χειμώνας	NoCmMaSgAc
+	SYN	/np_ac]
+1\127	TOK	και	και	CjCo
+	SYN	[np_nm
+1\131	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\134	TOK	νότιο	νότιος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\140	TOK	καλοκαίρι	καλοκαίρι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\149	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\152	TOK	Τον	ο	AtDfMaSgAc
+1\156	TOK	Μάρτιο	Μάρτιος	NoCmMaSgAc
+	SYN	/np_ac]
+1\162	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\164	TOK	τον	ο	AtDfMaSgAc
+1\168	TOK	Απρίλιο	Απρίλιος	NoCmMaSgAc
+	SYN	/np_ac]
+1\176	TOK	και	και	CjCo
+	SYN	[np_ac
+1\180	TOK	τον	ο	AtDfMaSgAc
+1\184	TOK	Μάιο	Μάιος	NoCmMaSgAc
+	SYN	/np_ac]
+1\188	PUNCT	,	,	PUNCT
+1\190	TOK	ούτε	ούτε	CjCo
+	SYN	[np_nm
+1\195	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\197	TOK	βόρειος	βόρειος	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\205	TOK	ούτε	ούτε	CjCo
+	SYN	[np_nm
+1\210	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\212	TOK	νότιος	νότιος	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\219	TOK	πόλος	πόλος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\225	TOK	βλέπουν	βλέπω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\233	TOK	προς	προς	AsPpSp
+	SYN	[np_ac
+1\238	TOK	τον	ο	AtDfMaSgAc
+1\242	TOK	ήλιο	ήλιος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\246	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\248	TOK	Έτσι	έτσι	AdXxBa
+	SYN	/advp]
+1\252	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\254	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\257	TOK	βόρειο	βόρειος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\264	TOK	ημισφαίριο	ημισφαίριο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\275	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\280	TOK	άνοιξη	άνοιξη	NoCmFeSgAc
+	SYN	/np_ac]
+1\287	TOK	και	και	CjCo
+	SYN	[np_ac
+1\291	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\294	TOK	νότιο	νότιος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\300	TOK	ημισφαίριο	ημισφαίριο	NoCmNeSgAc
+1\311	TOK	φθινόπωρο	φθινόπωρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\320	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\323	TOK	Τον	ο	AtDfMaSgAc
+1\327	TOK	Ιούνιο	Ιούνιος	NoCmMaSgAc
+	SYN	/np_ac]
+1\333	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\335	TOK	τον	ο	AtDfMaSgAc
+1\339	TOK	Ιούλιο	Ιούλιος	NoCmMaSgAc
+	SYN	/np_ac]
+1\346	TOK	και	και	CjCo
+	SYN	[np_ac
+1\350	TOK	τον	ο	AtDfMaSgAc
+1\354	TOK	Αύγουστο	Αύγουστος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\363	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\365	TOK	βόρειος	βόρειος	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\373	TOK	πόλος	πόλος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\379	TOK	βλέπει	βλέπω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\386	TOK	προς	προς	AsPpSp
+	SYN	[np_ac
+1\391	TOK	τον	ο	AtDfMaSgAc
+1\395	TOK	ήλιο	ήλιος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\399	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\401	TOK	Έτσι	έτσι	AdXxBa
+	SYN	/advp]
+1\405	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\407	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\410	TOK	βόρειο	βόρειος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\417	TOK	ημισφαίριο	ημισφαίριο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\428	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\433	TOK	καλοκαίρι	καλοκαίρι	NoCmNeSgAc
+	SYN	/np_ac]
+1\443	TOK	και	και	CjCo
+	SYN	[np_ac
+1\447	TOK	το	ο	AtDfMaSgAc
+	SYN	[adjp_ac
+1\450	TOK	νότιο	νότιος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\456	TOK	χειμώνα	χειμώνας	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\463	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\466	TOK	Τον	ο	AtDfMaSgAc
+1\470	TOK	Σεπτέμβριο	Σεπτέμβριος	NoCmMaSgAc
+	SYN	/np_ac]
+1\480	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\482	TOK	τον	ο	AtDfMaSgAc
+1\486	TOK	Οκτώβριο	Οκτώβριος	NoCmMaSgAc
+	SYN	/np_ac]
+1\495	TOK	και	και	CjCo
+	SYN	[np_ac
+1\499	TOK	τον	ο	AtDfMaSgAc
+1\503	TOK	Νοέμβριο	Νοέμβριος	NoCmMaSgAc
+	SYN	/np_ac]
+1\512	TOK	ούτε	ούτε	CjCo
+	SYN	[np_nm
+1\517	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\519	TOK	βόρειος	βόρειος	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\527	TOK	ούτε	ούτε	CjCo
+	SYN	[np_nm
+1\532	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\534	TOK	νότιος	νότιος	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\541	TOK	πόλος	πόλος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\547	TOK	βλέπουν	βλέπω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\555	TOK	προς	προς	AsPpSp
+	SYN	[np_ac
+1\560	TOK	τον	ο	AtDfMaSgAc
+1\564	TOK	ήλιο	ήλιος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\568	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\570	TOK	Έτσι	έτσι	AdXxBa
+	SYN	/advp]
+1\574	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\576	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\579	TOK	βόρειο	βόρειος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\586	TOK	ημισφαίριο	ημισφαίριο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\597	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\602	TOK	φθινόπωρο	φθινόπωρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\612	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\616	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\619	TOK	νότιο	νότιος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\625	TOK	ημισφαίριο	ημισφαίριο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\636	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\641	TOK	άνοιξη	άνοιξη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\647	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\650	TOK	Η	ο	AtDfFeSgNm
+1\652	TOK	γη	γη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\655	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\661	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\663	TOK	τρίτος	τρίτος	NmOdMaSgNmAj
+	SYN	/adjp_nm]
+1\670	TOK	πλανήτης	πλανήτης	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\679	TOK	του	ο	AtDfNeSgGe
+	SYN	[adjp_ge
+1\683	TOK	ηλιακού	ηλιακός	AjBaNeSgGe
+	SYN	/adjp_ge]
+1\691	TOK	συστήματος	σύστημα	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\702	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\706	TOK	γυρίζει	γυρίζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\714	TOK	γύρω	γύρω	AdXxBa
+	SYN	[pp
+1\719	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\723	TOK	τον	ο	AtDfMaSgAc
+1\727	TOK	ήλιο	ήλιος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\731	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\733	TOK	Ένας	ένας	AtIdMaSgNm
+1\738	TOK	γύρος	γύρος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\744	TOK	της	ο	AtDfFeSgGe
+1\748	TOK	γης	γη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\752	TOK	διαρκεί	διαρκώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\760	TOK	ένα	ένας	AtIdNeSgAc
+1\764	TOK	έτος	έτος	NoCmNeSgAc
+	SYN	/np_ac]
+1\769	TOK	ή	ή	CjCo
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\771	TOK	δώδεκα	δώδεκα	NmCdMaPlNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+1\778	TOK	μήνες	μήνας	NoCmMaPlAc
+	SYN	/np_ac]
+1\784	TOK	ή	ή	CjCo
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\786	TOK	τέσσερις	τέσσερις	NmCdFePlNmAj
+	SYN	/adjp_nm]
+1\795	TOK	εποχές	εποχή	NoCmFePlNm
+	SYN	/np_nm]
+1\802	TOK	ή	ή	CjCo
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\804	TOK	τριακόσιες	τριακόσιοι	NmCdFePlNmAj
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\815	TOK	εξήντα	εξήντα	NmCdNePlAcAj
+1\822	TOK	πέντε	πέντε	NmCdFePlAcAj
+	SYN	/adjp_ac]
+1\828	TOK	μέρες	μέρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\833	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,86 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1	TOK	Είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\7	TOK	φίλος	φίλος	NoCmMaSgNm
+1\13	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+	SYN	/cl]
+1\16	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\19	TOK	Μένει	μένω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\25	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\29	TOK	θάλασσα	θάλασσα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\36	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\39	TOK	Έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\44	TOK	μακρόστενο	μακρόστενος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\55	TOK	πρόσωπο	πρόσωπο	NoCmNeSgAc
+	SYN	/np_ac]
+1\62	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\64	TOK	μεγάλα	μεγάλος	AjBaNePlAc
+1\71	TOK	στρογγυλά	στρογγυλός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\81	TOK	μάτια	μάτι	NoCmNePlAc
+	SYN	/np_ac]
+1\87	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\91	TOK	μικρό	μικρός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\97	TOK	στόμα	στόμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\102	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\105	TOK	Δεν	δεν	PtNg
+1\109	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\114	TOK	αυτιά	αυτί	NoCmNePlAc
+	SYN	/np_ac]
+1\119	PUNCT	,	,	PUNCT
+1\121	TOK	ούτε	ούτε	CjCo
+	SYN	[np_ac
+1\126	TOK	μαλλιά	μαλλί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\132	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\134	TOK	Έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\139	TOK	οχτώ	οκτώ	NmCdNePlAcAj
+	SYN	/adjp_ac]
+1\144	TOK	πόδια	πόδι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\149	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

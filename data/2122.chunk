@@ -1,0 +1,19 @@
+	(SENT	<S>
+1\1	ENUM	-	-	ENUM
+	SYN	[advp
+1\2	TOK	Ωραία	ωραία	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\8	TOK	τα	ο	AtDfNePlAc
+1\11	TOK	καπέλα	καπέλο	NoCmNePlAc
+1\18	TOK	μας	μου	PnPoMa01PlGeXx
+	SYN	/np_ac]
+1\21	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\24	ENUM	-	-	ENUM
+	SYN	[advp
+1\25	TOK	Ναι	ναι	AdXxBa
+	SYN	/advp]
+1\28	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

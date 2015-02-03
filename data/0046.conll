@@ -1,0 +1,65 @@
+1	Ψάχνω	ψάχνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μες	μέσα	Ad	Ad	Ba	1	Adv	_	_	
+3	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+4	ψησταριά	ψησταριά	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+
+1	φαγητό	φαγητό	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+2	γιατί	γιατί	Cj	CjSb	_	1	AuxC	_	_	
+3	πεινάω	πεινώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Adv	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βρίσκω	βρίσκω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	λάχανα	λάχανο	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	ψωμιά	ψωμί	No	NoCm	Ne|Pl|Ac	2	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+
+1	βρίσκω	βρίσκω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ψάρια	ψάρι	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	βρίσκω	βρίσκω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+5	χόρτα	χόρτο	No	NoCm	Ne|Pl|Ac	4	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δε	δεν	Pt	PtNg	_	3	AuxV	_	_	
+2	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	3	IObj	_	_	
+3	αρέσουν	αρέσω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	πάω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+6	βόλτα	βόλτα	No	NoCm	Fe|Sg|Ac	5	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	"	"	OPUNCT	OPUNCT	_	2	AuxG	_	_	
+2	Εεε	Εεε	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μη	μην	Pt	PtNg	_	2	AuxV	_	_	
+2	φεύγεις	φεύγω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	5	Obj	_	_	
+3	"	"	CPUNCT	CPUNCT	_	2	AuxG	_	_	
+4	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	2	Obj	_	_	
+5	φωνάζει	φωνάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+
+1	ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	ψηλός	ψηλός	Aj	Aj	Ba|Ma|Sg|Nm	0	ExD	_	_	
+3	απ'	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	τραπέζι	τραπέζι	No	NoCm	Ne|Sg|Ac	3	Adv	_	_	
+6	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+
+1	ένα	ένας	At	AtId	Ne|Sg|Ac	2	Det	_	_	
+2	κόκαλο	κόκαλο	No	NoCm	Ne|Sg|Ac	4	Obj	_	_	
+3	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	2	Pos	_	_	
+4	δίνει	δίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+
+1	και	και	Cj	CjCo	_	2	AuxY	_	_	
+2	με	με	AsPp	AsPpSp	_	6	AuxP	_	_	
+3	την	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	ουρά	ουρά	No	NoCm	Fe|Sg|Ac	2	Adv	_	_	
+5	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	4	Pos	_	_	
+6	παίζει	παίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ποιος	ποιος	Pn	PnIr	Ma|03|Sg|Nm|Xx	2	Sb	_	_	
+2	είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

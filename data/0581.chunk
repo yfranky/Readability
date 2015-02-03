@@ -1,0 +1,100 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\3	TOK	Χαμένη	χαμένος	VbMnPpXxXxSgFePePvNm
+	SYN	/adjp_nm]
+1\10	TOK	Ατλαντίδα	Ατλαντίδα	NoPrFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\21	TOK	Το	ο	AtDfNeSgAc
+1\24	DIG	1914	1914	DIG
+	SYN	/np_ac]
+1\28	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\30	TOK	ο	ο	AtDfMaSgNm
+1\32	TOK	χαρτογράφος	χαρτογράφος	NoCmMaSgNm
+1\44	TOK	Μάιλο	Μάιλο	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\50	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\53	TOK	την	ο	AtDfFeSgAc
+1\57	TOK	ομάδα	ομάδα	NoCmFeSgAc
+1\63	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\67	TOK	ανακαλύπτουν	ανακαλύπτω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\80	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\84	TOK	βάθη	βάθος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\89	TOK	της	ο	AtDfFeSgGe
+1\93	TOK	θάλασσας	θάλασσα	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[np_ac
+1\102	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\105	TOK	χαμένο	χαμένος	VbMnPpXxXxSgNePePvNm
+	SYN	/adjp_nm]
+1\112	TOK	βασίλειο	βασίλειο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\121	TOK	της	ο	AtDfFeSgGe
+1\125	TOK	Ατλαντίδας	Ατλαντίδα	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\135	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\137	TOK	Όμως	όμως	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\142	TOK	κάποιοι	κάποιος	PnIdMa03PlNmXx
+	SYN	/np_nm]
+	SYN	[pp
+1\150	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\154	TOK	τους	ο	AtDfMaPlAc
+1\159	TOK	εξερευνητές	εξερευνητής	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\171	TOK	θέλουν	θέλω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\178	TOK	ν’	να	PtSj
+1\181	TOK	αρπάξουν	αρπάζω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\190	TOK	την	ο	AtDfFeSgAc
+1\194	TOK	πηγή	πηγή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\199	TOK	της	ο	AtDfFeSgGe
+1\203	TOK	ενέργειας	ενέργεια	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\213	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\217	TOK	μυθικής	μυθικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\225	TOK	πόλης	πόλη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\230	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

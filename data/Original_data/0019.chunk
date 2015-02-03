@@ -1,0 +1,360 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	TOK	Πού	πού	AdXxBa
+	SYN	[vg
+1\5	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\11	TOK	ο	ο	AtDfMaSgNm
+1\13	TOK	Φασαρίας	φασαρίας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\21	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\24	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\25	TOK	Καλημέρα	καλημέρα	NoCmFeSgNm
+	SYN	/np_nm]
+1\33	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\35	TOK	μήπως	μήπως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\41	TOK	είσαι	είμαι	VbMnIdPr02SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\47	TOK	ο	ο	AtDfMaSgNm
+1\49	TOK	Φασαρίας	φασαρίας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\57	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\60	ENUM	-	-	ENUM
+	SYN	[advp
+1\61	TOK	Όχι	όχι	AdXxBa
+	SYN	/advp]
+1\64	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\66	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+1\72	TOK	το	ο	AtDfNeSgAc
+	SYN	[np_nm
+1\75	TOK	αρνί	αρνί	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\79	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\82	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\84	TOK	Καλημέρα	καλημέρα	NoCmFeSgNm
+	SYN	/np_nm]
+1\92	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\94	TOK	μήπως	μήπως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\100	TOK	είσαι	είμαι	VbMnIdPr02SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\106	TOK	ο	ο	AtDfMaSgNm
+1\108	TOK	Φασαρίας	φασαρίας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\116	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\119	ENUM	-	-	ENUM
+	SYN	[advp
+1\120	TOK	Όχι	όχι	AdXxBa
+	SYN	/advp]
+1\123	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\125	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\131	TOK	η	ο	AtDfFeSgNm
+1\133	TOK	αγελάδα	αγελάδα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\140	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\143	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\145	TOK	Καλημέρα	καλημέρα	NoCmFeSgNm
+	SYN	/np_nm]
+1\153	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\155	TOK	μήπως	μήπως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\161	TOK	είσαι	είμαι	VbMnIdPr02SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\167	TOK	ο	ο	AtDfMaSgNm
+1\169	TOK	Φασαρίας	φασαρίας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\177	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\180	ENUM	-	-	ENUM
+	SYN	[advp
+1\181	TOK	Όχι	όχι	AdXxBa
+	SYN	/advp]
+1\184	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\186	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+1\192	TOK	το	ο	AtDfNeSgAc
+	SYN	[np_nm
+1\195	TOK	άλογο	άλογο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\200	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\203	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\205	TOK	Καλημέρα	καλημέρα	NoCmFeSgNm
+	SYN	/np_nm]
+1\213	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\215	TOK	μήπως	μήπως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\221	TOK	είσαι	είμαι	VbMnIdPr02SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\227	TOK	ο	ο	AtDfMaSgNm
+1\229	TOK	Φασαρίας	φασαρίας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\237	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\240	ENUM	-	-	ENUM
+	SYN	[advp
+1\241	TOK	Όχι	όχι	AdXxBa
+	SYN	/advp]
+1\244	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\246	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\252	TOK	η	ο	AtDfFeSgNm
+1\254	TOK	Αγγέλα	Αγγέλα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\260	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\263	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\265	TOK	Καλημέρα	καλημέρα	NoCmFeSgNm
+	SYN	/np_nm]
+1\273	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\275	TOK	μήπως	μήπως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\281	TOK	είσαι	είμαι	VbMnIdPr02SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\287	TOK	ο	ο	AtDfMaSgNm
+1\289	TOK	Φασαρίας	φασαρίας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\297	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\300	ENUM	-	-	ENUM
+	SYN	[advp
+1\301	TOK	Όχι	όχι	AdXxBa
+	SYN	/advp]
+1\304	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\306	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\312	TOK	η	ο	AtDfFeSgNm
+1\314	TOK	κατσίκα	κατσίκα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\321	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\324	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\326	TOK	Καλημέρα	καλημέρα	NoCmFeSgNm
+	SYN	/np_nm]
+1\334	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\336	TOK	μήπως	μήπως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\342	TOK	είσαι	είμαι	VbMnIdPr02SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\348	TOK	ο	ο	AtDfMaSgNm
+1\350	TOK	Φασαρίας	φασαρίας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\358	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\361	ENUM	-	-	ENUM
+	SYN	[advp
+1\362	TOK	Όχι	όχι	AdXxBa
+	SYN	/advp]
+1\365	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\367	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\373	TOK	ο	ο	AtDfMaSgNm
+1\375	TOK	κόκορας	κόκορας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\382	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\385	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\387	TOK	Καλημέρα	καλημέρα	NoCmFeSgNm
+	SYN	/np_nm]
+1\395	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\397	TOK	μήπως	μήπως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\403	TOK	είσαι	είμαι	VbMnIdPr02SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\409	TOK	ο	ο	AtDfMaSgNm
+1\411	TOK	Φασαρίας	φασαρίας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\419	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\422	ENUM	-	-	ENUM
+	SYN	[advp
+1\423	TOK	Όχι	όχι	AdXxBa
+	SYN	/advp]
+1\426	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\428	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\434	TOK	η	ο	AtDfFeSgNm
+1\436	TOK	κότα	κότα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\440	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\443	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\445	TOK	Καλημέρα	καλημέρα	NoCmFeSgNm
+	SYN	/np_nm]
+1\453	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\455	TOK	μήπως	μήπως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\461	TOK	είσαι	είμαι	VbMnIdPr02SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\467	TOK	ο	ο	AtDfMaSgNm
+1\469	TOK	Φασαρίας	φασαρίας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\477	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\480	ENUM	-	-	ENUM
+	SYN	[advp
+1\481	TOK	Όχι	όχι	AdXxBa
+	SYN	/advp]
+1\484	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\486	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\492	TOK	η	ο	AtDfFeSgNm
+1\494	TOK	γάτα	γάτα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\498	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\501	TOK	Η	ο	AtDfFeSgNm
+1\503	TOK	κατσίκα	κατσίκα	NoCmFeSgNm
+	SYN	/np_nm]
+1\510	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\512	TOK	η	ο	AtDfFeSgNm
+1\514	TOK	αγελάδα	αγελάδα	NoCmFeSgNm
+	SYN	/np_nm]
+1\521	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\523	TOK	το	ο	AtDfNeSgNm
+1\526	TOK	άλογο	άλογο	NoCmNeSgNm
+	SYN	/np_nm]
+1\531	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\533	TOK	η	ο	AtDfFeSgNm
+1\535	TOK	γάτα	γάτα	NoCmFeSgNm
+	SYN	/np_nm]
+1\539	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\541	TOK	ο	ο	AtDfMaSgNm
+1\543	TOK	σκύλος	σκύλος	NoCmMaSgNm
+	SYN	/np_nm]
+1\549	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\551	TOK	ο	ο	AtDfMaSgNm
+1\553	TOK	κόκορας	κόκορας	NoCmMaSgNm
+	SYN	/np_nm]
+1\560	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\562	TOK	η	ο	AtDfFeSgNm
+1\564	TOK	κότα	κότα	NoCmFeSgNm
+	SYN	/np_nm]
+1\568	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\570	TOK	το	ο	AtDfNeSgNm
+1\573	TOK	αρνί	αρνί	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\578	TOK	ψάχνουν	ψάχνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\586	TOK	τον	ο	AtDfMaSgAc
+1\590	TOK	Φασαρία	φασαρία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\597	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

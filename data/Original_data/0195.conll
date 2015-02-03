@@ -1,0 +1,149 @@
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	Μπαϊράμι	μπαϊράμι	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+
+1	Σε	σε	AsPp	AsPpSp	_	8	AuxP	_	_	
+2	ένα	ένας	At	AtId	Ne|Sg|Ac	3	Det	_	_	
+3	ταξίδι	ταξίδι	No	NoCm	Ne|Sg|Ac	1	Adv	_	_	
+4	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	3	Pos	_	_	
+5	ο	ο	At	AtDf	Ma|Sg|Nm	7	Det	_	_	
+6	Ναστραδίν	Ναστραδίν	No	NoPr	Ma|Sg|Nm	7	Atr	_	_	
+7	Χότζας	χότζας	No	NoCm	Ma|Sg|Nm	10	Sb	_	_	
+8	έτυχε	τυχαίνω	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+9	να	να	Pt	PtSj	_	10	AuxV	_	_	
+10	περάσει	περνώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	8	Sb	_	_	
+11	,	,	PUNCT	PUNCT	_	12	AuxX	_	_	
+12	χωρίς	χωρίς	AsPp	AsPpSp	_	10	AuxP	_	_	
+13	να	να	Pt	PtSj	_	15	AuxV	_	_	
+14	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	15	Obj	_	_	
+15	ξέρει	ξέρω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	12	Adv	_	_	
+16	,	,	PUNCT	PUNCT	_	17	AuxX	_	_	
+17	ανήμερα	ανήμερα	Ad	Ad	Ba	15	Adv	_	_	
+18	το	ο	At	AtDf	Ne|Sg|Nm	19	Det	_	_	
+19	Μπαϊράμι	μπαϊράμι	No	NoCm	Ne|Sg|Nm	17	Pnom	_	_	
+20	από	από	AsPp	AsPpSp	_	19	AuxP	_	_	
+21	ένα	ένας	At	AtId	Ne|Sg|Ac	22	Det	_	_	
+22	κεφαλοχώρι	κεφαλοχώρι	No	NoCm	Ne|Sg|Ac	20	Atr	_	_	
+23	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Οι	ο	At	AtDf	Ma|Pl|Nm	2	Det	_	_	
+2	χωρικοί	χωρικός	Aj	Aj	Ba|Ma|Pl|Nm	7	Sb	_	_	
+3	είχαν	έχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	4	AuxV	_	_	
+4	μαζευτεί	μαζεύω	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Pv|Xx	7	Pred_Co	_	_	
+5	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	4	AuxP	_	_	
+6	πλατεία	πλατεία	No	NoCm	Fe|Sg|Ac	5	Adv	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	γιόρταζαν	γιορτάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+9	όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	8	Pnom	_	_	
+10	μαζί	μαζί	Ad	Ad	Ba	8	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μόλις	μόλις	Cj	CjSb	_	5	AuxC	_	_	
+2	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	3	Obj	_	_	
+3	είδαν	βλέπω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	1	Adv	_	_	
+4	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+5	έτρεξαν	τρέχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	8	Obj	_	_	
+8	υποδέχτηκαν	υποδέχομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	6	Pred_Co	_	_	
+9	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Χος	Χος	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+3	κελδίν	κελδίν	Rg	RgFw	_	5	Atr	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	Χότζα	Χότζα	Rg	RgFw	_	2	Atr	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Χος	Χος	No	NoPr	Ma|Sg|Nm	2	Atr	_	_	
+2	κελδίν	κελδίν	Rg	RgFw	_	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Καλωσόρισες	καλωσορίζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μετά	μετά	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	τον	ο	At	AtDf	Ma|Sg|Ac	3	Det	_	_	
+3	έβαλαν	βάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+5	τραπέζι	τραπέζι	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+6	και	και	Cj	CjCo	_	1	Coord	_	_	
+7	του	εγώ	Pn	PnPe	Ma|03|Sg|Ge|We	8	IObj	_	_	
+8	έδωσαν	δίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+9	να	να	Pt	PtSj	_	10	AuxV	_	_	
+10	φάει	τρώω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	8	Obj	_	_	
+11	και	και	Cj	CjCo	_	10	IObj	_	_	
+12	να	να	Pt	PtSj	_	13	AuxV	_	_	
+13	πιει	πίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	10	Obj	_	_	
+14	απ’	από	AsPp	AsPpSp	_	13	AuxP	_	_	
+15	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	17	Atr	_	_	
+16	τα	ο	At	AtDf	Ne|Pl|Ac	17	Det	_	_	
+17	καλά	καλός	Aj	Aj	Ba|Ne|Pl|Nm	14	ExD	_	_	
+18	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	4	Atr	_	_	
+3	ευλογημένος	ευλογημένος	Aj	Aj	Ba|Ma|Sg|Nm	4	Atr	_	_	
+4	τόπος	τόπος	No	NoCm	Ma|Sg|Nm	6	Pnom	_	_	
+5	!	!	PTERM_P	PTERM_P	_	4	AuxG	_	_	
+6	είπε	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	ενθουσιασμένος	ενθουσιασμένος	Aj	Aj	Ba|Ma|Sg|Nm	9	Atr	_	_	
+8	ο	ο	At	AtDf	Ma|Sg|Nm	9	Det	_	_	
+9	Ναστραδίν	Ναστραδίν	No	NoPr	Ma|Sg|Nm	6	Sb	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αλλού	αλλού	Ad	Ad	Ba	2	Adv	_	_	
+2	βασιλεύει	βασιλεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+3	μιζέρια	μιζέρια	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	ενώ	ενώ	Cj	CjCo	_	0	Coord	_	_	
+6	εδώ	εδώ	Ad	Ad	Ba	8	Adv	_	_	
+7	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	8	Sb	_	_	
+8	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	5	Pred_Co	_	_	
+9	πλούσια	πλούσιος	Aj	Aj	Ba|Fe|Sg|Nm	8	Pnom	_	_	
+10	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Χότζα	Χότζα	Rg	RgFw	_	5	Obj	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	του	εγώ	Pn	PnPe	Ma|03|Sg|Ge|We	5	IObj	_	_	
+5	είπαν	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	οι	ο	At	AtDf	Ma|Pl|Nm	7	Det	_	_	
+7	χωρικοί	χωρικός	Aj	Aj	Ba|Ma|Pl|Nm	5	Sb	_	_	
+8	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+9	ξέχασες	ξεχνώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	5	Adv_Pa	_	_	
+10	πως	πως	Cj	CjSb	_	9	AuxC	_	_	
+11	σήμερα	σήμερα	Ad	Ad	Ba	12	Adv	_	_	
+12	έχουμε	έχω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	10	Obj	_	_	
+13	Μπαϊράμι	μπαϊράμι	No	NoCm	Ne|Sg|Ac	12	Obj	_	_	
+14	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	καθένας	καθένας	Pn	PnId	Ma|03|Sg|Nm|Xx	3	Sb	_	_	
+3	έφερε	φέρω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	φαγητά	φαγητό	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+6	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	5	Pos	_	_	
+7	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+8	να	να	Pt	PtSj	_	9	AuxV	_	_	
+9	χαρούμε	χαίρω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	7	Adv	_	_	
+10	μαζί	μαζί	Ad	Ad	Ba	9	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κι	και	Cj	CjCo	_	3	AuxY	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	Ναστραδίν	Ναστραδίν	No	NoPr	Ma|Sg|Nm	4	Sb	_	_	
+4	μουρμούρισε	μουρμουρίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	μελαγχολικά	μελαγχολικά	Ad	Ad	Ba	4	Adv	_	_	
+6	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Αχ	αχ	Ij	Ij	_	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	’χαμε	έχω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	κάθε	κάθε	Pn	PnId	Fe|03|Sg|Ac|Xx	4	Atr	_	_	
+4	μέρα	μέρα	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+5	Μπαϊράμι	μπαϊράμι	No	NoCm	Ne|Sg|Ac	4	Atr	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,286 @@
+1	«	«	OPUNCT	OPUNCT	_	4	AuxG	_	_	
+2	Ένα	ένας	At	AtId	Ne|Sg|Nm	4	Det	_	_	
+3	ξεχωριστό	ξεχωριστός	Aj	Aj	Ba|Ne|Sg|Nm	4	Atr	_	_	
+4	βράδυ	βράδυ	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+5	για	για	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	την	ο	At	AtDf	Fe|Sg|Ac	7	Det	_	_	
+7	οικογένεια	οικογένεια	No	NoCm	Fe|Sg|Ac	5	Atr	_	_	
+8	Γκοσέ	Γκοσέ	No	NoPr	Fe|Sg|Ac	7	Atr	_	_	
+9	»	»	CPUNCT	CPUNCT	_	4	AuxG	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	4	Atr	_	_	
+3	υπέροχο	υπέροχος	Aj	Aj	Ba|Ne|Sg|Ac	4	Atr	_	_	
+4	θέαμα	θέαμα	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	2	Obj	_	_	
+2	λες	λέγω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Sb	_	_	
+5	κι	και	Cj	CjCo	_	6	AuxY	_	_	
+6	εμείς	εγώ	Pn	PnPe	Ma|01|Pl|Nm|St	4	Sb	_	_	
+7	τώρα	τώρα	Ad	Ad	Ba	4	Adv	_	_	
+8	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	4	AuxP	_	_	
+9	γιορτή	γιορτή	No	NoCm	Fe|Sg|Ac	8	Adv	_	_	
+10	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	ουρανός	ουρανός	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	5	Pred_Co	_	_	
+4	σκοτεινός	σκοτεινός	Aj	Aj	Ba|Ma|Sg|Nm	3	Pnom	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	τα	ο	At	AtDf	Ne|Pl|Ac	7	Det	_	_	
+7	άστρα	άστρο	No	NoCm	Ne|Pl|Ac	5	ExD_Co	_	_	
+8	φωτεινά	φωτεινός	Aj	Aj	Ba|Ne|Pl|Ac	7	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+3	βράδυ	βράδυ	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+4	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+5	η	ο	At	AtDf	Fe|Sg|Nm	6	Det	_	_	
+6	πόλη	πόλη	No	NoCm	Fe|Sg|Nm	8	Sb	_	_	
+7	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	6	Pos	_	_	
+8	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	3	Atr	_	_	
+9	ήσυχη	ήσυχος	Aj	Aj	Ba|Fe|Sg|Nm	8	Pnom	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	Atr	_	_	
+2	Αυτή	αυτός	Pn	PnDm	Fe|03|Sg|Nm|Xx	4	Atr	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	πόλη	πόλη	No	NoCm	Fe|Sg|Nm	5	Sb	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	παράξενη	παράξενος	Aj	Aj	Ba|Fe|Sg|Nm	5	Pnom	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	πρωί	πρωί	No	NoCm	Ne|Sg|Ac	3	Adv	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	παντού	παντού	Ad	Ad	Ba	3	Adv	_	_	
+5	φασαρία	φασαρία	No	NoCm	Fe|Sg|Ac	6	Adv_Co	_	_	
+6	και	και	Cj	CjCo	_	4	Coord	_	_	
+7	κίνηση	κίνηση	No	NoCm	Fe|Sg|Ac	8	Obj_Co	_	_	
+8	αλλά	αλλά	Cj	CjCo	_	11	Coord	_	_	
+9	το	ο	At	AtDf	Ne|Sg|Ac	10	Det	_	_	
+10	βράδυ	βράδυ	No	NoCm	Ne|Sg|Ac	8	Obj_Co	_	_	
+11	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Adv_Co	_	_	
+12	απόλυτη	απόλυτος	Aj	Aj	Ba|Fe|Sg|Nm	13	Atr	_	_	
+13	ησυχία	ησυχία	No	NoCm	Fe|Sg|Nm	11	Sb	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+3	βλέπω	βλέπω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	εδώ	εδώ	Ad	Ad	Ba	3	Adv	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχετε	έχω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	επισκέπτες	επισκέπτης	No	NoCm	Ma|Pl|Ac	1	Obj	_	_	
+3	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+4	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	3	Adv	_	_	
+5	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	4	Pos	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γιορτάζει	γιορτάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	παππούς	παππούς	No	NoCm	Ma|Sg|Nm	5	Sb_Ap	_	_	
+4	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	3	Pos	_	_	
+5	,	,	PUNCT	PUNCT	_	1	Apos	_	_	
+6	ο	ο	At	AtDf	Ma|Sg|Nm	7	Det	_	_	
+7	Χουάν	Χουάν	No	NoPr	Ma|Sg|Nm	5	Sb_Ap	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	παππούς	παππούς	No	NoCm	Ma|Sg|Nm	5	Sb	_	_	
+4	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	3	Pos	_	_	
+5	μένει	μένω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	μαζί	μαζί	Ad	Ad	Ba	5	Adv	_	_	
+7	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ge|We	6	Adv	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Όχι	όχι	Ad	Ad	Ba	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μένει	μένω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	τη	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Ac	2	Adv	_	_	
+5	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	4	AuxP	_	_	
+6	Αργεντινή	Αργεντινή	No	NoPr	Fe|Sg|Ac	5	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εδώ	εδώ	Ad	Ad	Ba	3	Adv	_	_	
+2	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+3	κάνουν	κάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	διακοπές	διακοπή	No	NoCm	Fe|Pl|Ac	3	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πώς	πώς	Ad	Ad	Ba	3	Adv	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	παππούς	παππούς	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+6	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	5	Pos	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	κοντός	κοντός	Aj	Aj	Ba|Ma|Sg|Nm	4	Pnom_Co	_	_	
+4	και	και	Cj	CjCo	_	2	Coord	_	_	
+5	λεπτός	λεπτός	Aj	Aj	Ba|Ma|Sg|Nm	4	Pnom_Co	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	στρογγυλό	στρογγυλός	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr	_	_	
+3	πρόσωπο	πρόσωπο	No	NoCm	Ne|Sg|Ac	4	Obj_Co	_	_	
+4	και	και	Cj	CjCo	_	1	Coord	_	_	
+5	μυτερή	μυτερός	Aj	Aj	Ba|Fe|Sg|Ac	6	Atr	_	_	
+6	μύτη	μύτη	No	NoCm	Fe|Sg|Ac	4	Obj_Co	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εδώ	εδώ	Ad	Ad	Ba	2	Adv	_	_	
+2	φοράει	φορώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	άσπρο	άσπρος	Aj	Aj	Ba|Ne|Sg|Ac	4	Atr	_	_	
+4	πουκάμισο	πουκάμισο	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+5	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+6	μαύρο	μαύρος	No	NoCm	Ne|Sg|Nm	2	Sb	_	_	
+7	παντελόνι	παντελόνι	No	NoCm	Ne|Sg|Ac	8	Atr_Co	_	_	
+8	και	και	Cj	CjCo	_	6	Coord	_	_	
+9	κόκκινη	κόκκινος	Aj	Aj	Ba|Fe|Sg|Ac	8	Atr_Co	_	_	
+10	ζακέτα	ζακέτα	No	NoCm	Fe|Sg|Ac	6	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	πολύ	πολύ	Ad	Ad	Ba	4	Adv	_	_	
+4	μεγάλο	μεγάλος	Aj	Aj	Ba|Ne|Sg|Nm	2	Pnom	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ενενήντα	ενενήντα	Nm	NmCd	Ma|Pl|Ac|Aj	3	Atr	_	_	
+3	χρονών	χρονών	No	NoCm	Ma|Pl|Ge	1	Pnom	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Α	α	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	ναι	ναι	Ad	Ad	Ba	2	ExD	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	2	Obj	_	_	
+2	βλέπω	βλέπω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	κυρία	κυρία	No	NoCm	Fe|Sg|Nm	6	Sb	_	_	
+3	δίπλα	δίπλα	Ad	Ad	Ba	6	Adv	_	_	
+4	του	ο	At	AtDf	Ne|Sg|Ge	6	Det	_	_	
+5	ποια	ποιος	Pn	PnIr	Fe|03|Sg|Nm|Xx	6	Sb	_	_	
+6	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Nm	2	Pnom	_	_	
+5	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	4	Pos	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Nm	5	Sb	_	_	
+4	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	3	Pos	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	όμορφη	όμορφος	Aj	Aj	Ba|Fe|Sg|Nm	5	Pnom	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Όμορφη	όμορφος	Aj	Aj	Ba|Fe|Sg|Nm	3	Atr	_	_	
+3	αλλά	αλλά	Cj	CjCo	_	1	Coord	_	_	
+4	και	και	Cj	CjCo	_	3	AuxY	_	_	
+5	λίγο	λίγο	Ad	Ad	Ba	6	Adv	_	_	
+6	ιδιότροπη	ιδιότροπος	Aj	Aj	Ba|Fe|Sg|Nm	3	Pnom_Co	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	9	AuxG	_	_	
+2	Αυτή	αυτός	Pn	PnDm	Fe|03|Sg|Nm|Xx	9	Sb	_	_	
+3	που	που	Pn	PnRe	Fe|03|Sg|Nm|Xx	4	Sb	_	_	
+4	κοιτάζει	κοιτάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Atr	_	_	
+5	έξω	έξω	Ad	Ad	Ba	4	Adv	_	_	
+6	από	από	AsPp	AsPpSp	_	4	AuxP	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	παράθυρο	παράθυρο	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+9	μοιάζει	μοιάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+10	με	με	AsPp	AsPpSp	_	9	AuxP	_	_	
+11	τη	ο	At	AtDf	Fe|Sg|Ac	12	Det	_	_	
+12	μαμά	μαμά	No	NoCm	Fe|Sg|Ac	10	Adv	_	_	
+13	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	12	Pos	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ποια	ποιος	Pn	PnIr	Fe|03|Sg|Nm|Xx	2	Sb	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	θεία	θεία	No	NoCm	Fe|Sg|Nm	2	Pnom	_	_	
+5	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	4	Pos	_	_	
+6	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+7	η	ο	At	AtDf	Fe|Sg|Nm	8	Det	_	_	
+8	αδερφή	αδερφή	No	NoCm	Fe|Sg|Nm	2	Sb	_	_	
+9	της	ο	At	AtDf	Fe|Sg|Ge	10	Det	_	_	
+10	μαμάς	μαμά	No	NoCm	Fe|Sg|Ge	8	Atr	_	_	
+11	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	10	Pos	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	θεία	θεία	No	NoCm	Fe|Sg|Nm	4	Sb	_	_	
+3	Λουίζα	Λουίζα	No	NoPr	Fe|Sg|Nm	2	Atr	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	ψηλή	ψηλός	Aj	Aj	Ba|Fe|Sg|Nm	4	Pnom	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	σγουρά	σγουρός	Aj	Aj	Ba|Ne|Pl|Ac	4	Atr	_	_	
+3	μακριά	μακρύς	Aj	Aj	Ba|Ne|Pl|Ac	4	Atr	_	_	
+4	μαλλιά	μαλλί	No	NoCm	Ne|Pl|Ac	5	Obj_Co	_	_	
+5	και	και	Cj	CjCo	_	1	Coord	_	_	
+6	καστανά	καστανάς	No	NoCm	Ma|Sg|Ac	5	Obj_Co	_	_	
+7	μάτια	μάτι	No	NoCm	Ne|Pl|Ac	6	Atr	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φοράει	φορώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μαύρη	μαύρος	Aj	Aj	Ba|Fe|Sg|Ac	3	Atr	_	_	
+3	φούστα	φούστα	No	NoCm	Fe|Sg|Ac	4	Obj_Co	_	_	
+4	και	και	Cj	CjCo	_	1	Coord	_	_	
+5	πορτοκαλιά	πορτοκαλής	Aj	Aj	Ba|Fe|Sg|Ac	6	Atr	_	_	
+6	μπλούζα	μπλούζα	No	NoCm	Fe|Sg|Ac	4	Obj_Co	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Adv	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+3	λες	λέγω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Obj	_	_	
+5	κι	και	Cj	CjCo	_	6	AuxY	_	_	
+6	εμείς	εγώ	Pn	PnPe	Ma|01|Pl|Nm|St	4	Sb	_	_	
+7	τώρα	τώρα	Ad	Ad	Ba	4	Adv	_	_	
+8	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	4	AuxP	_	_	
+9	γιορτή	γιορτή	No	NoCm	Fe|Sg|Ac	8	Adv	_	_	
+10	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

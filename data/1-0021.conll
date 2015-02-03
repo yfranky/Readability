@@ -1,0 +1,53 @@
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Atr	_	_	
+2	υπέροχος	υπέροχος	Aj	Aj	Ba|Ma|Sg|Nm	3	Atr	_	_	
+3	κήπος	κήπος	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	2	Atr	_	_	
+2	χρώματα	χρώμα	No	NoCm	Ne|Pl|Nm	3	Sb_Co	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	μυρωδιά	μυρωδιά	No	NoCm	Fe|Sg|Ac	8	Obj_Co	_	_	
+5	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+6	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	8	ExD_Co	_	_	
+7	γλυκά	γλυκά	Ad	Ad	Ba	8	AuxY	_	_	
+8	και	και	Cj	CjCo	_	3	Coord_Co	_	_	
+9	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	10	Atr	_	_	
+10	νοστιμιά	νοστιμιά	No	NoCm	Fe|Sg|Ac	8	Obj_Co	_	_	
+
+1	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	κήπος	κήπος	No	NoCm	Ma|Sg|Nm	1	Sb	_	_	
+4	της	ο	At	AtDf	Fe|Sg|Ge	5	Det	_	_	
+5	Υβόννης	Υβόννης	No	NoPr	Fe|Sg|Ge	3	Atr	_	_	
+6	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+7	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	1	AuxP	_	_	
+8	δέντρα	δέντρο	No	NoCm	Ne|Pl|Ac	7	Adv	_	_	
+9	όταν	όταν	Cj	CjSb	_	7	AuxC	_	_	
+10	σκαρφαλώνεις	σκαρφαλώνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	9	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	υπέροχα	υπέροχος	Aj	Aj	Ba|Ne|Pl|Ac	1	Pnom	_	_	
+3	τα	ο	At	AtDf	Ne|Pl|Ac	4	Det	_	_	
+4	καροτάκια	καροτάκι	No	NoCm	Ne|Pl|Ac	5	Obj_Co	_	_	
+5	και	και	Cj	CjCo	_	1	Coord	_	_	
+6	καταπράσινα	καταπράσινος	Aj	Aj	Ba|Ne|Pl|Ac	8	Atr	_	_	
+7	τα	ο	At	AtDf	Ne|Pl|Ac	8	Det	_	_	
+8	μαρουλάκια	μαρουλάκια	No	NoCm	Ne|Pl|Ac	5	Obj_Co	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	"	"	OPUNCT	OPUNCT	_	2	AuxG	_	_	
+2	Ελάτε	ελάτε	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Pv|Xx	8	Obj	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	φάτε	τρώω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	φρούτα	φρούτο	No	NoCm	Ne|Pl|Ac	6	Atr	_	_	
+6	παιδιά	παιδί	No	NoCm	Ne|Pl|Ac	4	Obj	_	_	
+7	"	"	CPUNCT	CPUNCT	_	2	AuxG	_	_	
+8	λέει	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+9	η	ο	At	AtDf	Fe|Sg|Nm	10	Det	_	_	
+10	Υβόννη	Υβόννη	No	NoPr	Fe|Sg|Nm	8	Sb	_	_	
+11	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+12	γεμάτη	γεμάτος	Aj	Aj	Ba|Fe|Sg|Nm	13	Atr	_	_	
+13	χαρά	χαρά	No	NoCm	Fe|Sg|Nm	8	Sb	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

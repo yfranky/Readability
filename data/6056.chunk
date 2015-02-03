@@ -1,0 +1,583 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+	SYN	[advp
+1\4	TOK	έξυπνα	έξυπνα	AdXxBa
+	SYN	/advp]
+1\11	TOK	ηλεκτρικά	ηλεκτρικός	AjBaNePlNm
+	SYN	/adjp_nm]
+1\21	TOK	αυτοκίνητα	αυτοκίνητο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[advp
+1\32	TOK	δε	δε	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\35	TOK	θα	θα	PtFu
+1\38	TOK	χρειάζονται	χρειάζομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\50	TOK	οδηγό	οδηγός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\57	TOK	Δε	δεν	PtNg
+1\60	TOK	θα	θα	PtFu
+1\63	TOK	τρακάρουν	τρακάρω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\73	TOK	ούτε	ούτε	CjCo
+	SYN	[cl
+	SYN	[vg
+1\78	TOK	θα	θα	PtFu
+1\81	TOK	ρυπαίνουν	ρυπαίνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\91	TOK	τον	ο	AtDfMaSgAc
+1\95	TOK	αέρα	αέρας	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\99	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\101	TOK	Μάλιστα	μάλιστα	AdXxBa
+	SYN	/advp]
+1\108	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\110	TOK	δε	δε	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\113	TOK	θα	θα	PtFu
+1\116	TOK	χρειάζονται	χρειάζομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+1\128	TOK	ούτε	ούτε	CjCo
+	SYN	[np_ac
+1\133	TOK	οδηγό	οδηγός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[advp
+1\139	TOK	πίσω	πίσω	AdXxBa
+	SYN	[pp
+1\144	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\148	TOK	το	ο	AtDfNeSgAc
+1\151	TOK	τιμόνι	τιμόνι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\157	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[advp
+1\159	TOK	Χώρια	χώρια	AdXxBa
+	SYN	/advp]
+	SYN	[cl_r
+	SYN	[pou_advp
+1\165	TOK	που	που	AdXxBa
+	SYN	/pou_advp]
+1\168	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\170	TOK	κατά	κατά	AsPpSp
+	SYN	[np_ac
+1\175	TOK	έναν	ένας	AtIdMaSgAc
+	SYN	[adjp_ac
+1\180	TOK	παράξενο	παράξενος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\189	TOK	τρόπο	τρόπος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\194	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\196	TOK	θα	θα	PtFu
+1\199	TOK	μπορούν	μπορώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	[cl_o
+	SYN	[vg_s
+1\207	TOK	να	να	PtSj
+1\210	OPUNCT	«	«	OPUNCT
+1\211	TOK	συνεννοούνται	συνεννοούμαι	VbMnIdPr03PlXxIpPvXx
+1\224	CPUNCT	»	»	CPUNCT
+	SYN	/vg_s]
+	SYN	[advp
+1\226	TOK	μεταξύ	μεταξύ	AdXxBa
+	SYN	[np_ge
+1\233	TOK	τους	εγώ	PnPeMa03PlGeWe
+	SYN	/np_ge]
+	SYN	/advp]
+	SYN	[pp
+1\238	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\242	TOK	το	ο	AtDfNeSgAc
+	SYN	[cl_ir
+	SYN	[np_nm
+1\245	TOK	ποιο	ποιος	PnIrNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\250	TOK	θα	θα	PtFu
+1\253	TOK	παρκάρει	παρκάρω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\262	TOK	πρώτο	πρώτος	NmOdNeSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_ir]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\267	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\270	TOK	Δε	δεν	PtNg
+1\273	TOK	θα	θα	PtFu
+1\276	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\282	TOK	καμία	κανένας	PnIdFe03SgAcXx
+1\288	TOK	σχέση	σχέση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\294	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[cl_ri
+	SYN	[np_ac
+1\297	TOK	ό,τι	ό,τι	PnRiNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\302	TOK	κυκλοφορεί	κυκλοφορώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\313	TOK	σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\320	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+1\326	TOK	δρόμους	δρόμος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_ri]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\333	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\335	TOK	Με	με	AsPpSp
+	SYN	[np_ac
+1\338	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\342	TOK	πρώτη	πρώτος	NmOdFeSgAcAj
+	SYN	/adjp_ac]
+1\348	TOK	ματιά	ματιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\354	TOK	θα	θα	PtFu
+1\357	TOK	φαίνεται	φαίνομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\366	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\368	TOK	ξεχωριστή	ξεχωριστός	AjBaFeSgNm
+1\378	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/adjp_nm]
+1\383	TOK	προσωπικότητα	προσωπικότητα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\396	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\398	TOK	Ο	ο	AtDfMaSgNm
+1\400	TOK	όγκος	όγκος	NoCmMaSgNm
+1\406	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\411	TOK	θα	θα	PtFu
+1\414	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\420	TOK	σχεδόν	σχεδόν	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\427	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\429	TOK	μισός	μισός	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\435	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\439	TOK	ό,τι	ό,τι	PnRiNe03SgAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ge
+1\444	TOK	των	ο	AtDfNePlGe
+	SYN	[adjp_ge
+1\448	TOK	σημερινών	σημερινός	AjBaNePlGe
+1\458	TOK	επιβατικών	επιβατικός	AjBaNePlGe
+	SYN	/adjp_ge]
+1\469	TOK	αυτοκινήτων	αυτοκίνητο	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\480	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\483	TOK	Θα	θα	PtFu
+1\486	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\492	TOK	το	ο	AtDfMaSgAc
+	SYN	[adjp_ac
+1\495	TOK	ίδιο	ίδιος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\500	TOK	πλάτος	πλάτος	NoCmMaSgAc
+	SYN	/np_ac]
+1\507	TOK	αλλά	αλλά	CjCo
+	SYN	[np_nm
+1\512	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\515	TOK	μισό	μισός	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\520	TOK	μήκος	μήκος	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\525	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\527	TOK	Αυτό	αυτός	PnDmNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\532	TOK	σημαίνει	σημαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\541	TOK	ότι	ότι	CjSb
+	SYN	[vg
+1\545	TOK	θα	θα	PtFu
+1\548	TOK	μπορούν	μπορώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\556	TOK	να	να	PtSj
+1\559	TOK	μεταφέρουν	μεταφέρω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\570	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\575	TOK	δύο	δύο	NmCdMaPlAcAj
+	SYN	/adjp_ac]
+1\579	TOK	επιβάτες	επιβάτης	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\587	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\589	TOK	Από	από	AsPpSp
+	SYN	[advp
+1\593	TOK	κει	εκεί	AdXxBa
+1\597	TOK	και	και	CjCo
+1\601	TOK	πέρα	πέρα	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+1\605	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\607	TOK	όλος	όλος	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\612	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\614	TOK	υπόλοιπος	υπόλοιπος	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\624	TOK	εξοπλισμός	εξοπλισμός	NoCmMaSgNm
+1\635	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\640	TOK	θα	θα	PtFu
+1\643	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\649	TOK	επαναστατικός	επαναστατικός	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\662	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\664	TOK	Τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\667	TOK	συγκεκριμένα	συγκεκριμένος	AjBaNePlNm
+	SYN	/adjp_nm]
+1\680	TOK	αυτοκίνητα	αυτοκίνητο	NoCmNePlNm
+	SYN	/np_nm]
+1\690	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\692	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\696	TOK	θα	θα	PtFu
+1\699	TOK	προορίζονται	προορίζω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\712	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\716	TOK	χρήση	χρήση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\722	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\727	TOK	πυκνοκατοικημένες	πυκνοκατοικημένος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\745	TOK	πόλεις	πόλη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\751	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\753	TOK	θα	θα	PtFu
+1\756	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+1\762	TOK	εφοδιασμένα	εφοδιασμένος	VbMnPpXxXxPlNePePvNm
+	SYN	/vg]
+	SYN	[pp
+1\774	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\777	TOK	εξελιγμένα	εξελιγμένος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\788	TOK	συστήματα	σύστημα	NoCmNePlAc
+1\798	ABBR	GPS	GPS	ABBR
+	SYN	/np_ac]
+1\801	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\803	TOK	ειδικά	ειδικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\810	TOK	συστήματα	σύστημα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\820	TOK	ασύρματης	ασύρματος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\830	TOK	επικοινωνίας	επικοινωνία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\842	PUNCT	,	,	PUNCT
+1\844	TOK	αλλά	αλλά	CjCo
+1\849	TOK	και	και	CjCo
+	SYN	[np_nm
+1\853	TOK	αισθητήρες	αισθητήρας	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\864	TOK	όρασης	όραση	NoCmFeSgGe
+	SYN	/np_ge]
+1\871	TOK	και	και	CjCo
+1\874	PTERM_P	...	...	PTERM_P
+	SYN	[np_ge
+1\878	TOK	ακοής	ακοή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\883	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\886	TOK	Τα	ο	AtDfNePlNm
+1\889	TOK	αυτοκίνητα	αυτοκίνητο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\900	TOK	αυτά	αυτός	PnDmNe03PlAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\905	TOK	εκτιμάται	εκτιμώ	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\915	TOK	ότι	ότι	CjSb
+	SYN	[vg
+1\919	TOK	μπορεί	μπορώ	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\926	TOK	να	να	PtSj
+1\929	TOK	κάνουν	κάνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\936	TOK	την	ο	AtDfFeSgAc
+1\940	TOK	εμφάνισή	εμφάνιση	NoCmFeSgAc
+1\949	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	[pp
+1\954	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+1\960	TOK	δρόμους	δρόμος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\968	TOK	τη	ο	AtDfFeSgAc
+1\971	TOK	δεκαετία	δεκαετία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\980	TOK	του	ο	AtDfNeSgGe
+1\984	DIG	2030	2030	DIG
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\988	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\990	TOK	Σύμφωνα	σύμφωνα	AdXxBa
+	SYN	[pp
+1\998	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1001	TOK	τον	ο	AtDfMaSgAc
+1\1005	TOK	σχεδιασμό	σχεδιασμός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1015	TOK	της	ο	AtDfFeSgGe
+1\1019	TOK	εταιρείας	εταιρεία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/advp]
+1\1028	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\1030	TOK	αρχικά	αρχικά	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\1037	TOK	θα	θα	PtFu
+1\1040	TOK	προορίζονται	προορίζω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\1053	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\1057	TOK	τις	ο	AtDfFePlAc
+1\1061	TOK	μεγαλουπόλεις	μεγαλούπολη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1075	TOK	χωρών	χώρα	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\1081	TOK	της	ο	AtDfFeSgGe
+1\1085	TOK	Άπω	άπω	NoPrFeSgGe
+1\1089	TOK	Ανατολής	ανατολή	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\1097	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[np_nm
+1\1099	TOK	οι	ο	AtDfFePlNm
+1\1102	TOK	οποίες	οποίος	PnReFe03PlNmXx
+	SYN	/np_nm]
+	SYN	[vg
+1\1109	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	[advp
+1\1115	TOK	ιδιαίτερα	ιδιαίτερα	AdXxBa
+	SYN	/advp]
+1\1125	TOK	πυκνοδομημένες	πυκνοδομημένες	VbMnPpXxXxPlFePePvNm
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	/cl]
+1\1139	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+1\1141	TOK	Καθώς	καθώς	CjSb
+	SYN	[vg
+1\1147	TOK	θα	θα	PtFu
+1\1150	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+1\1156	TOK	εφοδιασμένα	εφοδιασμένος	VbMnPpXxXxPlNePePvNm
+	SYN	/vg]
+	SYN	[pp
+1\1168	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1171	TOK	ηλεκτροκινητήρες	ηλεκτροκινητήρας	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\1187	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\1189	TOK	οι	ο	AtDfFePlNm
+1\1192	TOK	εκπομπές	εκπομπή	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\1201	TOK	ρύπων	ρύπος	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	[vg
+1\1207	TOK	θα	θα	PtFu
+1\1210	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1216	TOK	μηδενικές	μηδενικός	AjBaFePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\1225	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1227	TOK	Η	ο	AtDfFeSgNm
+1\1229	TOK	ταχύτητά	ταχύτητα	NoCmFeSgNm
+1\1239	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_nm]
+	SYN	[advp
+1\1244	TOK	δε	δε	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\1247	TOK	θα	θα	PtFu
+1\1250	TOK	υπερβαίνει	υπερβαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1261	TOK	τα	ο	AtDfNePlAc
+1\1264	DIG	50	50	DIG
+1\1267	ABBR	χλμ.	χλμ.	ABBR
+	SYN	/np_ac]
+	SYN	/cl]
+1\1272	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\1276	TOK	η	ο	AtDfFeSgNm
+1\1278	TOK	αυτονομία	αυτονομία	NoCmFeSgNm
+1\1288	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\1293	TOK	θα	θα	PtFu
+1\1296	TOK	διαρκεί	διαρκώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1304	DIG	50	50	DIG
+1\1307	TOK	χιλιόμετρα	χιλιόμετρο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1317	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

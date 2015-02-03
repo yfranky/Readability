@@ -1,0 +1,178 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Αυτοκίνητα	αυτοκίνητο	NoCmNePlNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\13	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\16	TOK	πρώτο	πρώτος	NmOdNeSgNmAj
+	SYN	/adjp_nm]
+1\22	TOK	αυτοκίνητο	αυτοκίνητο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\33	TOK	κατασκευάστηκε	κατασκευάζω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\48	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\52	TOK	τέλη	τέλος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\57	TOK	του	ο	AtDfMaSgGe
+	SYN	[adjp_ge
+1\61	TOK	18ου	18ος	NmOdMaSgGeAj
+	SYN	/adjp_ge]
+1\66	TOK	αιώνα	αιώνας	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\71	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\73	TOK	Μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\78	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\81	TOK	έναν	ένας	AtIdMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\86	TOK	αιώνα	αιώνας	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[advp
+1\92	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\100	TOK	έγινε	γίνομαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\106	TOK	καθημερινό	καθημερινός	AjBaMaSgAc
+1\117	TOK	μέσο	μέσος	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\122	TOK	μεταφοράς	μεταφορά	NoCmFeSgGe
+	SYN	/np_ge]
+1\131	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\133	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[np_ac
+1\137	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\140	TOK	χρησιμοποιούν	χρησιμοποιώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\154	TOK	εκατομμύρια	εκατομμύριο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\166	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\175	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\178	TOK	όλο	όλος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\182	TOK	τον	ο	AtDfMaSgAc
+1\186	TOK	κόσμο	κόσμος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\191	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\194	TOK	Το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\197	TOK	πρώτο	πρώτος	NmOdNeSgNmAj
+	SYN	/adjp_nm]
+1\203	TOK	αυτοκίνητο	αυτοκίνητο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\214	TOK	που	που	PnReNe03SgAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\218	TOK	πουλήθηκε	πουλώ	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\228	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\232	TOK	κοινό	κοινό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	[vg
+1\238	TOK	κατασκευάστηκε	κατασκευάζω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\253	TOK	το	ο	AtDfNeSgAc
+1\256	DIG	1885	1885	DIG
+	SYN	/np_ac]
+	SYN	[pp
+1\261	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\265	TOK	τον	ο	AtDfMaSgAc
+1\269	TOK	Γερμανό	Γερμανός	NoPrMaSgAc
+1\277	TOK	Καρλ	Καρλ	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\282	TOK	Μπεντς	Μπεντς	RgFwTr
+	SYN	/cl]
+1\288	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\290	TOK	Ο	ο	AtDfMaSgNm
+1\292	TOK	κινητήρας	κινητήρας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\302	TOK	βρισκόταν	βρίσκω	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\312	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[advp
+1\316	TOK	πίσω	πίσω	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	[np_ac
+1\321	TOK	μέρος	μέρος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\327	TOK	του	ο	AtDfNeSgGe
+1\331	TOK	αυτοκινήτου	αυτοκίνητο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\343	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\347	TOK	μετέδιδε	μεταδίδω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\356	TOK	κίνηση	κίνηση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\363	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[advp
+1\369	TOK	πίσω	πίσω	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	[np_ac
+1\374	TOK	τροχούς	τροχός	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\381	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

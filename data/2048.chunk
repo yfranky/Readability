@@ -1,0 +1,306 @@
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[vg
+1\1	TOK	Έχετε	έχω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\7	TOK	καμιά	κανένας	PnIdFe03SgAcXx
+1\13	TOK	ρακέτα	ρακέτα	NoCmFeSgAc
+	SYN	/np_ac]
+1\20	TOK	και	και	CjCo
+	SYN	[pp
+1\24	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\28	TOK	μένα	εγώ	PnPeMa01SgAcSt
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_q]
+1\32	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\35	TOK	Η	ο	AtDfFeSgNm
+1\37	TOK	Χριστίνα	Χριστίνα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\46	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\52	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_nm
+1\56	TOK	σπίτι	σπίτι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	[np_ge
+1\62	TOK	της	ο	AtDfFeSgGe
+1\66	TOK	Μαρίας	Μαρία	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\72	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\74	TOK	Η	ο	AtDfFeSgNm
+1\76	TOK	μαμά	μαμά	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\81	TOK	της	ο	AtDfFeSgGe
+1\85	TOK	Μαρίας	Μαρία	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\92	TOK	γυρίζει	γυρίζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\100	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\104	TOK	το	ο	AtDfNeSgAc
+1\107	TOK	γήπεδο	γήπεδο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\114	TOK	του	ο	AtDfNeSgGe
+1\118	TOK	τένις	τένις	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\123	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\126	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\127	TOK	Γεια	γεια	NoCmFeSgNm
+1\132	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_nm]
+1\135	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\137	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+1\143	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_nm
+1\145	TOK	Μαρία	Μαρία	NoPrFeSgNm
+	SYN	/np_nm]
+1\150	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\152	TOK	τηλεφώνησε	τηλεφωνώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\163	TOK	κανείς	κανένας	PnIdMa03SgNmXx
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\169	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\172	ENUM	-	-	ENUM
+	SYN	[advp
+1\173	TOK	Όχι	όχι	AdXxBa
+	SYN	/advp]
+1\176	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\178	TOK	δεν	δεν	PtNg
+1\182	TOK	πήρε	παίρνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\187	TOK	κανένας	κανένας	PnIdMa03SgNmXx
+	SYN	/np_nm]
+1\194	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\196	TOK	μαμά	μαμά	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\200	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\203	ENUM	-	-	ENUM
+	SYN	[vg
+1\204	TOK	Παίζετε	παίζω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\212	TOK	τένις	τένις	NoCmNeSgAc
+	SYN	/np_ac]
+1\217	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\219	TOK	κυρία	κυρία	NoCmFeSgNm
+1\225	TOK	Ξενοπούλου	Ξενοπούλου	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\235	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[advp
+1\237	TOK	Μήπως	μήπως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\243	TOK	έχετε	έχω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\249	TOK	καμιά	κανένας	PnIdFe03SgAcXx
+1\255	TOK	ρακέτα	ρακέτα	NoCmFeSgAc
+	SYN	/np_ac]
+1\262	TOK	και	και	CjCo
+	SYN	[pp
+1\266	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\270	TOK	μένα	εγώ	PnPeMa01SgAcSt
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_q]
+1\274	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\276	TOK	Θα	θα	PtFu
+1\279	TOK	πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\284	TOK	να	να	PtSj
+1\287	TOK	παίξουμε	παίζω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\296	TOK	αύριο	αύριο	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\302	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\305	TOK	τα	ο	AtDfNePlAc
+1\308	TOK	παιδιά	παιδί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\314	PTERM_P	...	...	PTERM_P
+	SYN	/cl_o]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\319	ENUM	-	-	ENUM
+1\320	TOK	Αχ	αχ	Ij
+1\322	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\324	TOK	δεν	δεν	PtNg
+1\328	TOK	έχω	έχω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\332	TOK	καμία	κανένας	PnIdFe03SgAcXx
+	SYN	/np_ac]
+	SYN	[advp
+1\338	TOK	εδώ	εδώ	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\341	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\343	TOK	Τις	εγώ	PnPeFe03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\347	TOK	αφήνω	αφήνω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\353	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\357	TOK	γήπεδο	γήπεδο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\363	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\365	TOK	δεν	δεν	PtNg
+	SYN	[np_ac
+1\369	TOK	τις	εγώ	PnPeFe03PlAcWe
+	SYN	/np_ac]
+1\373	TOK	φέρνω	φέρω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\379	TOK	ποτέ	ποτέ	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\384	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\388	TOK	σπίτι	σπίτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\393	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_nm
+1\395	TOK	Εσύ	εγώ	PnPeMa02SgNmSt
+	SYN	/np_nm]
+1\398	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\400	TOK	Μαρία	Μαρία	NoPrFeSgNm
+	SYN	/np_nm]
+1\405	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\407	TOK	θα	θα	PtFu
+1\410	TOK	πας	πηγαίνω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\414	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\417	TOK	τα	ο	AtDfNePlAc
+1\420	TOK	παιδιά	παιδί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_q]
+	SYN	[cl_o
+	SYN	[vg_s
+1\427	TOK	να	να	PtSj
+1\430	TOK	παίξεις	παίζω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\438	TOK	τένις	τένις	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\443	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\446	ENUM	-	-	ENUM
+	SYN	[cl_o
+1\447	TOK	Αφού	αφού	CjSb
+	SYN	[np_ac
+1\452	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\455	TOK	ξέρεις	ξέρω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+1\461	PUNCT	,	,	PUNCT
+1\463	TOK	βρε	βρε	Ij
+	SYN	[np_nm
+1\467	TOK	μαμά	μαμά	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\471	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\473	TOK	Το	ο	AtDfNeSgNm
+1\476	TOK	τένις	τένις	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[advp
+1\482	TOK	δε	δε	AdXxBa
+	SYN	/advp]
+	SYN	[np_ge
+1\485	TOK	μου	εγώ	PnPeMa01SgGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\489	TOK	αρέσει	αρέσω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\496	TOK	καθόλου	καθόλου	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\503	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

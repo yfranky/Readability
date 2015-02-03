@@ -1,0 +1,237 @@
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	Πολλοί	πολύς	AjBaMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\8	PUNCT	-	-	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\10	TOK	πολλές	πολύς	AjBaFePlAc
+1\17	PUNCT	-	-	PUNCT
+1\19	TOK	πολλά	πολύς	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\24	PTERM_P	...	...	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\29	TOK	Η	ο	AtDfFeSgNm
+1\31	TOK	Έλενα	Έλενα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\37	TOK	διαφωνεί	διαφωνώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\46	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\49	TOK	τη	ο	AtDfFeSgAc
+1\52	TOK	μαμά	μαμά	NoCmFeSgAc
+1\57	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\61	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\65	TOK	τα	ο	AtDfNePlAc
+1\68	TOK	ρούχα	ρούχο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\73	PTERM_P	...	...	PTERM_P
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\78	ENUM	-	-	ENUM
+	SYN	[vg
+1\79	TOK	Αγόρασες	αγοράζω	VbMnIdPa02SgXxPeAvXx
+	SYN	/vg]
+1\88	TOK	κι	και	CjCo
+	SYN	[np_ac
+1\91	TOK	άλλη	άλλος	PnIdFe03SgAcXx
+1\96	TOK	μπλούζα	μπλούζα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\103	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[advp
+1\105	TOK	Καλά	καλά	AdXxBa
+	SYN	/advp]
+1\109	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\111	TOK	τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\114	TOK	θα	θα	PtFu
+	SYN	[np_ac
+1\117	TOK	τις	εγώ	PnPeFe03PlAcWe
+	SYN	/np_ac]
+1\121	TOK	κάνεις	κάνω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\128	TOK	τόσες	τόσος	PnDmFe03PlAcXx
+	SYN	[adjp_ac
+1\134	TOK	πολλές	πολύς	AjBaFePlAc
+	SYN	/adjp_ac]
+1\141	TOK	μπλούζες	μπλούζα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\149	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\152	ENUM	-	-	ENUM
+1\153	TOK	Μα	μα	CjCo
+	SYN	[vg
+1\156	TOK	δεν	δεν	PtNg
+1\160	TOK	έχω	έχω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\164	TOK	πολλές	πολύς	AjBaFePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\171	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\175	TOK	δεν	δεν	PtNg
+1\179	TOK	έχω	έχω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\183	TOK	καμία	κανένας	PnIdFe03SgAcXx
+	SYN	[adjp_ac
+1\189	TOK	θαλασσιά	θαλασσής	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\197	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\200	ENUM	-	-	ENUM
+	SYN	[vg
+1\201	TOK	Έχεις	έχω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\207	TOK	πάρα	πάρα	AdXxBa
+	SYN	/advp]
+1\212	TOK	πολλές	πολύς	AjBaFePlAc
+	SYN	/adjp_ac]
+1\219	TOK	μπλούζες	μπλούζα	NoCmFePlAc
+	SYN	/np_ac]
+1\228	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\232	TOK	πάρα	πάρα	AdXxBa
+	SYN	/advp]
+1\237	TOK	πολλά	πολύς	AjBaNePlAc
+	SYN	/adjp_ac]
+1\243	TOK	παντελόνια	παντελόνι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\253	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\255	TOK	Πρέπει	πρέπει	VbIsIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\262	TOK	να	να	PtSj
+1\265	TOK	αγοράσεις	αγοράζω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg_s]
+1\275	TOK	και	και	CjCo
+	SYN	[np_ac
+1\279	TOK	καμιά	κανένας	PnIdFe03SgAcXx
+1\285	TOK	φούστα	φούστα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\291	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\293	TOK	Δεν	δεν	PtNg
+1\297	TOK	έχεις	έχω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\303	TOK	πολλές	πολύς	AjBaFePlAc
+	SYN	/adjp_ac]
+1\310	TOK	φούστες	φούστα	NoCmFePlAc
+	SYN	/np_ac]
+1\317	PTERM_P	...	...	PTERM_P
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\322	ENUM	-	-	ENUM
+1\323	TOK	Και	και	CjCo
+	SYN	[vg
+1\327	TOK	δεν	δεν	PtNg
+1\331	TOK	έχω	έχω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+1\335	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\339	TOK	πολλά	πολύς	AjBaNePlAc
+	SYN	/adjp_ac]
+1\345	TOK	παπούτσια	παπούτσι	NoCmNePlAc
+	SYN	/np_ac]
+1\354	PTERM_P	...	...	PTERM_P
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\359	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\360	TOK	Εσύ	εγώ	PnPeMa02SgNmSt
+	SYN	/np_nm]
+	SYN	[vg
+1\364	TOK	μιλάς	μιλώ	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\370	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\374	TOK	παπούτσια	παπούτσι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_q]
+1\383	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\385	TOK	Δεν	δεν	PtNg
+1\389	TOK	ξέρουμε	ξέρω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_ir
+1\397	TOK	πού	πού	AdXxBa
+	SYN	[vg_s
+1\401	TOK	να	να	PtSj
+	SYN	[np_ac
+1\404	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+1\407	TOK	βάλουμε	βάζω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\415	TOK	πια	πια	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\419	TOK	τα	ο	AtDfNePlAc
+1\422	TOK	παπούτσια	παπούτσι	NoCmNePlAc
+1\432	TOK	σου	μου	PnPoMa02SgGeXx
+	SYN	/np_ac]
+1\435	PTERM_P	...	...	PTERM_P
+	SYN	/cl_ir]
+	)SENT	</S>

@@ -1,0 +1,250 @@
+	(SENT	<S>
+	SYN	[pp
+1\1	TOK	Από	από	AsPpSp
+	SYN	[np_ac
+1\5	TOK	τον	ο	AtDfMaSgAc
+1\9	TOK	Δαίδαλο	Δαίδαλος	NoPrMaSgAc
+	SYN	/np_ac]
+1\17	TOK	και	και	CjCo
+	SYN	[np_ac
+1\21	TOK	τον	ο	AtDfMaSgAc
+1\25	TOK	Ίκαρο	Ίκαρος	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\31	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\35	TOK	διαστημόπλοιο	διαστημόπλοιο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\50	TOK	Το	ο	AtDfNeSgNm
+1\53	TOK	παραμύθι	παραμύθι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\62	TOK	του	ο	AtDfMaSgGe
+1\66	TOK	Δαίδαλου	Δαίδαλος	NoPrMaSgGe
+	SYN	/np_ge]
+1\75	TOK	και	και	CjCo
+	SYN	[np_ge
+1\79	TOK	του	ο	AtDfMaSgGe
+1\83	TOK	Ίκαρου	Ίκαρος	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\90	TOK	έγινε	γίνομαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[advp
+1\96	TOK	σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\103	TOK	μια	ένας	AtIdFeSgNm
+1\107	TOK	ιστορία	ιστορία	NoCmFeSgNm
+	SYN	[adjp_nm
+1\115	TOK	αληθινή	αληθινός	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\122	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\124	TOK	Στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\129	TOK	αρχή	αρχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\134	TOK	ο	ο	AtDfMaSgNm
+1\136	TOK	άνθρωπος	άνθρωπος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\145	TOK	έφτιαξε	φτιάχνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\153	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\156	TOK	αερόστατο	αερόστατο	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+1\165	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\167	TOK	Ένα	ένας	AtIdNeSgNm
+	SYN	[adjp_nm
+1\171	TOK	μεγάλο	μεγάλος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\178	TOK	μπαλόνι	μπαλόνι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\186	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\189	TOK	ζεστό	ζεστός	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\195	TOK	αέρα	αέρας	NoCmMaSgAc
+	SYN	/np_ac]
+1\200	TOK	και	και	CjCo
+	SYN	[np_ac
+1\204	TOK	ένα	ένας	AtIdNeSgAc
+1\208	TOK	καλάθι	καλάθι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\214	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[advp
+1\216	TOK	όπου	όπου	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\221	TOK	μπορούσαν	μπορώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	[cl_o
+	SYN	[vg_s
+1\231	TOK	να	να	PtSj
+1\234	TOK	μπουν	μπαίνω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\240	TOK	δυο-τρεις	δυο-τρεις	NmCdMaPlNmAj
+	SYN	/adjp_nm]
+1\250	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\259	TOK	και	και	CjCo
+	SYN	[cl_o
+	SYN	[vg_s
+1\263	TOK	να	να	PtSj
+1\266	TOK	πετάξουν	πετώ	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\275	TOK	ψηλά	ψηλά	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+1\279	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\281	TOK	Ύστερα	ύστερα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\288	TOK	κατασκεύασε	κατασκευάζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\300	TOK	το	ο	AtDfNeSgAc
+1\303	TOK	αεροπλάνο	αεροπλάνο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\312	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\314	TOK	Πολλοί	πολύς	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\321	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\330	TOK	ταξιδεύουν	ταξιδεύω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\341	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\344	TOK	όλο	όλος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\348	TOK	τον	ο	AtDfMaSgAc
+1\352	TOK	κόσμο	κόσμος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\358	TOK	γρήγορα	γρήγορα	AdXxBa
+1\366	TOK	και	και	CjCo
+1\370	TOK	ευχάριστα	ευχάριστα	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\379	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\381	TOK	Τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\384	TOK	τελευταία	τελευταίος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\394	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\401	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\404	TOK	το	ο	AtDfNeSgAc
+1\407	TOK	διαστημόπλοιο	διαστημόπλοιο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\421	TOK	ο	ο	AtDfMaSgNm
+1\423	TOK	άνθρωπος	άνθρωπος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\432	TOK	ταξίδεψε	ταξιδεύω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\441	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\445	TOK	διάστημα	διάστημα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\453	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\455	TOK	έμαθε	μαθαίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\461	TOK	πολλά	πολύς	AjBaNePlAc
+	SYN	/adjp_ac]
+1\467	TOK	πράγματα	πράγμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\476	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\480	TOK	τους	ο	AtDfMaPlAc
+1\485	TOK	πλανήτες	πλανήτης	NoCmMaPlAc
+	SYN	/np_ac]
+1\494	TOK	και	και	CjCo
+	SYN	[np_ac
+1\498	TOK	τα	ο	AtDfNePlAc
+1\501	TOK	άλλα	άλλος	PnIdNe03PlAcXx
+1\506	TOK	αστέρια	αστέρι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\514	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\518	TOK	έστειλε	στέλνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\526	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\530	TOK	φεγγάρι	φεγγάρι	NoCmNeSgAc
+1\538	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\543	TOK	πρώτους	πρώτος	NmOdMaPlAcAj
+	SYN	/adjp_ac]
+1\551	TOK	αστροναύτες	αστροναύτης	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\562	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

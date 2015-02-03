@@ -1,0 +1,29 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Εκεί	εκεί	Ad	Ad	Ba	3	Adv	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	Ελλάδα	Ελλάδα	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	3	ExD_Co	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	Αφρική	Αφρική	No	NoPr	Fe|Sg|Nm	3	ExD_Co	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	4	AuxP	_	_	
+3	Αφρική	Αφρική	No	NoPr	Fe|Sg|Ac	2	Adv	_	_	
+4	κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	πολλή	πολύς	Aj	Aj	Ba|Fe|Sg|Nm	6	Atr	_	_	
+6	ζέστη	ζέστη	No	NoCm	Fe|Sg|Nm	4	Sb	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έτσι	έτσι	Ad	Ad	Ba	2	Adv	_	_	
+2	διάβασα	διαβάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	σε	σε	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	ένα	ένας	At	AtId	Ne|Sg|Ac	5	Det	_	_	
+5	βιβλίο	βιβλίο	No	NoCm	Ne|Sg|Ac	3	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

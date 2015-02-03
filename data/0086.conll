@@ -1,0 +1,56 @@
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	μυρμήγκι	μυρμήγκι	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	μυρμήγκια	μυρμήγκι	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	ζούνε	ζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Ac	3	Obj	_	_	
+5	μαζί	μαζί	Ad	Ad	Ba	3	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τρώνε	τρώω	No	NoPr	Ma|Sg|Nm	2	Atr	_	_	
+2	σπόρους	σπόρος	No	NoCm	Ma|Pl|Ac	7	Obj_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+4	φύλλα	φύλλο	No	NoCm	Ne|Pl|Ac	7	Adv_Co	_	_	
+5	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+6	έντομα	έντομο	No	NoCm	Ne|Pl|Ac	7	Adv_Co	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	φρούτα	φρούτο	No	NoCm	Ne|Pl|Ac	7	Obj_Co	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φτιάχνουν	φτιάχνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	3	Det	_	_	
+3	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	3	Pos	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+6	χώμα	χώμα	No	NoCm	Ne|Sg|Ac	5	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	μυρμηγκοφωλιά	μυρμηγκοφωλιά	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Ac	5	Atr	_	_	
+5	δωμάτια	δωμάτιο	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	μυρμήγκια	μυρμήγκι	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	μαζεύουν	μαζεύω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	φαγητό	φαγητό	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	8	Obj	_	_	
+8	βάζουν	βάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+9	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	8	AuxP	_	_	
+10	δωμάτια	δωμάτιο	No	NoCm	Ne|Pl|Ac	9	IObj	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όταν	όταν	Cj	CjSb	_	5	AuxC	_	_	
+2	κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+3	κρύο	κρύο	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	μένουν	μένω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	5	AuxP	_	_	
+7	μυρμηγκοφωλιά	μυρμηγκοφωλιά	No	NoCm	Fe|Sg|Ac	6	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

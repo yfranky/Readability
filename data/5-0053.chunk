@@ -1,0 +1,578 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\3	TOK	ομοιοπαθητική	ομοιοπαθητικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+1\16	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\18	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\22	TOK	τις	ο	AtDfFePlAc
+1\26	TOK	λέξεις	λέξη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\33	TOK	όμοιον	όμοιος	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\40	TOK	και	και	CjCo
+	SYN	[np_ac
+1\44	TOK	πάθος	πάθος	NoCmNeSgAc
+	SYN	/np_ac]
+1\49	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\51	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\57	TOK	μια	ένας	AtIdFeSgNm
+1\61	TOK	μέθοδος	μέθοδος	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\69	TOK	εναλλακτικής	εναλλακτικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\82	TOK	ιατρικής	ιατρική	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\91	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\95	TOK	βασίζεται	βασίζω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\105	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\109	TOK	κεντρικό	κεντρικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\118	TOK	αξίωμα	αξίωμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+1\125	OPUNCT	«	«	OPUNCT
+1\126	TOK	τα	ο	AtDfNePlAc
+	SYN	[advp
+1\129	TOK	όμοια	όμοια	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\135	TOK	θεραπεύονται	θεραπεύω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+1\148	TOK	με	με	AsPpSp
+1\151	TOK	τα	ο	AtDfNePlAc
+	SYN	[advp
+1\154	TOK	όμοια	όμοια	AdXxBa
+	SYN	/advp]
+1\159	CPUNCT	»	»	CPUNCT
+	SYN	/cl]
+1\160	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\162	TOK	Σύμφωνα	σύμφωνα	AdXxBa
+	SYN	[pp
+1\170	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\173	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\177	TOK	ομοιοπαθητική	ομοιοπαθητικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\190	PUNCT	,	,	PUNCT
+	SYN	[cl_c
+1\192	TOK	αν	αν	CjSb
+	SYN	[np_nm
+1\195	TOK	ένα	ένας	AtIdNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\199	TOK	φάρμακο	φάρμακο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\207	TOK	προκαλεί	προκαλώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\216	TOK	παθολογικά	παθολογικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\227	TOK	συμπτώματα	σύμπτωμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\238	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\241	TOK	έναν	ένας	AtIdMaSgAc
+	SYN	[adjp_ac
+1\246	TOK	υγιή	υγιής	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\251	TOK	οργανισμό	οργανισμός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_c]
+1\260	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\262	TOK	τότε	τότε	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\267	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\274	TOK	να	να	PtSj
+1\277	TOK	θεραπεύσει	θεραπεύω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\288	TOK	έναν	ένας	AtIdMaSgAc
+	SYN	[adjp_ac
+1\293	TOK	ασθενή	ασθενής	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\300	TOK	που	που	PnReFe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\304	TOK	υποφέρει	υποφέρω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\313	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\317	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\320	TOK	ίδια	ίδιος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\325	TOK	συμπτώματα	σύμπτωμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\335	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_c
+1\337	TOK	Εάν	αν	CjSb
+	SYN	[advp
+1\341	TOK	δηλαδή	δηλαδή	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\348	TOK	ο	ο	AtDfMaSgNm
+1\350	TOK	καφές	καφές	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\356	TOK	προκαλεί	προκαλώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\365	TOK	αϋπνία	αϋπνία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_c]
+1\371	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[advp
+1\373	TOK	τότε	τότε	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\378	TOK	μπορεί	μπορώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\385	TOK	να	να	PtSj
+1\388	TOK	αποτελέσει	αποτελώ	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+1\399	TOK	και	και	CjCo
+	SYN	[np_ac
+1\403	TOK	φάρμακο	φάρμακο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\411	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\415	TOK	τη	ο	AtDfFeSgAc
+1\418	TOK	θεραπεία	θεραπεία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\427	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\431	TOK	ίδιας	ίδιος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\437	TOK	ασθένειας	ασθένεια	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_o]
+1\446	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\449	TOK	Η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\451	TOK	ομοιοπαθητική	ομοιοπαθητικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\465	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\471	TOK	διαδεδομένη	διαδεδομένος	VbMnPpXxXxSgFePePvAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\483	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\486	TOK	αρκετές	αρκετός	PnIdFe03PlAcXx
+1\494	TOK	χώρες	χώρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\500	TOK	της	ο	AtDfFeSgGe
+1\504	TOK	Ευρώπης	Ευρώπη	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\512	TOK	και	και	CjCo
+	SYN	[pp
+1\516	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\521	TOK	Ινδία	Ινδία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\526	PUNCT	,	,	PUNCT
+1\528	TOK	ενώ	ενώ	CjCo
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\532	TOK	λιγότεροι	λίγος	AjCpMaPlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\542	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\548	TOK	οι	ο	AtDfMaPlNm
+1\551	TOK	υποστηρικτές	υποστηρικτής	NoCmMaPlNm
+1\564	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_nm]
+	SYN	[pp
+1\568	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\573	ABBR	ΗΠΑ	ΗΠΑ	ABBR
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\576	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\578	TOK	Στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\582	TOK	Γαλλία	Γαλλία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\588	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\590	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\595	TOK	Ολλανδία	Ολλανδία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\604	TOK	και	και	CjCo
+	SYN	[pp
+1\608	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\612	TOK	Βέλγιο	Βέλγιο	NoPrNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\618	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\620	TOK	καταγράφονται	καταγράφω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\634	TOK	τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\637	TOK	υψηλότερα	ψηλός	AjCpNePlNm
+	SYN	/adjp_nm]
+1\647	TOK	ποσοστά	ποσοστό	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\655	TOK	του	ο	AtDfMaSgGe
+1\659	TOK	πληθυσμού	πληθυσμός	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\669	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\673	TOK	χρησιμοποιεί	χρησιμοποιώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\686	TOK	συμπληρωματικά	συμπληρωματικά	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\701	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\705	TOK	ομοιοπαθητική	ομοιοπαθητικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\718	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\720	TOK	Το	ο	AtDfNeSgAc
+1\723	DIG	1997	1997	DIG
+	SYN	/np_ac]
+1\727	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\729	TOK	το	ο	AtDfNeSgAc
+1\732	DIG	29%	29%	DIG
+	SYN	/np_ac]
+	SYN	[np_ge
+1\736	TOK	του	ο	AtDfMaSgGe
+1\740	TOK	πληθυσμού	πληθυσμός	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\750	TOK	της	ο	AtDfFeSgGe
+1\754	TOK	Ευρώπης	Ευρώπη	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\762	TOK	χρησιμοποιούσε	χρησιμοποιώ	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\777	TOK	οιμοιοπαθητικές	οιμοιοπαθητικές	AjBaFePlAc
+	SYN	/adjp_ac]
+1\793	TOK	θεραπείες	θεραπεία	NoCmFePlAc
+	SYN	/np_ac]
+1\802	PUNCT	,	,	PUNCT
+1\804	TOK	ενώ	ενώ	CjCo
+	SYN	[np_ac
+1\808	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\811	TOK	ομοιοπαθητικά	ομοιοπαθητικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\825	TOK	φάρμακα	φάρμακο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\833	TOK	κάλυπταν	καλύπτω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\842	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+1\850	TOK	το	ο	AtDfNeSgAc
+1\853	DIG	1%	1%	DIG
+	SYN	[np_ge
+1\856	TOK	των	ο	AtDfFePlGe
+1\860	TOK	πωλήσεων	πώληση	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\869	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\873	TOK	Ευρωπαϊκής	ευρωπαϊκός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\884	TOK	φαρμακοβιομηχανίας	φαρμακοβιομηχανία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\902	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\904	TOK	Xώρες	χώρα	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\910	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\914	TOK	κεντρικής	κεντρικός	AjBaFeSgGe
+1\924	TOK	και	και	CjCo
+1\928	TOK	βόρειας	βόρειος	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\936	TOK	Αμερικής	Αμερική	NoPrFeSgGe
+	SYN	/np_ge]
+1\944	PUNCT	,	,	PUNCT
+	SYN	[np_ge
+1\946	TOK	της	ο	AtDfFeSgGe
+1\950	TOK	Ασίας	Ασία	NoPrFeSgGe
+	SYN	/np_ge]
+1\956	TOK	και	και	CjCo
+	SYN	[np_ge
+1\960	TOK	της	ο	AtDfFeSgGe
+1\964	TOK	Ευρώπης	Ευρώπη	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\972	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+1\978	TOK	αναγνωρίσει	αναγνωρίζω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\990	TOK	επίσημα	επίσημα	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\998	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\1002	TOK	ομοιοπαθητική	ομοιοπαθητικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\1015	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\1017	TOK	ως	ως	AdXxBa
+	SYN	[np_ac
+1\1020	TOK	σύστημα	σύστημα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1028	TOK	υγείας	υγεία	NoCmFeSgGe
+	SYN	/np_ge]
+1\1035	TOK	ή	ή	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1037	TOK	διακριτή	διακριτός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\1046	TOK	ειδικότητα	ειδικότητα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1057	TOK	της	ο	AtDfFeSgGe
+1\1061	TOK	ιατρικής	ιατρική	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/advp]
+	SYN	/cl]
+1\1069	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1071	TOK	Ορισμένες	ορισμένος	VbMnPpXxXxPlFePePvAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\1081	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\1085	TOK	αυτές	αυτός	PnDmFe03PlAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\1091	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+1\1097	TOK	ενσωματώσει	ενσωματώνω	VbMnNfXxXxXxXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\1109	TOK	πλήρως	πλήρως	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\1116	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\1120	TOK	ομοιοπαθητική	ομοιοπαθητικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\1134	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1138	TOK	εθνικό	εθνικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\1145	TOK	σύστημα	σύστημα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1153	TOK	υγείας	υγεία	NoCmFeSgGe
+1\1160	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ge]
+	SYN	/pp]
+1\1165	OPUNCT	(	(	OPUNCT
+	SYN	[advp
+1\1166	TOK	κυρίως	κυρίως	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\1173	TOK	η	ο	AtDfFeSgNm
+1\1175	TOK	Βραζιλία	Βραζιλία	NoPrFeSgNm
+	SYN	/np_nm]
+1\1183	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\1185	TOK	η	ο	AtDfFeSgNm
+1\1187	TOK	Ινδία	Ινδία	NoPrFeSgNm
+	SYN	/np_nm]
+1\1192	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\1194	TOK	το	ο	AtDfNeSgNm
+1\1197	TOK	Μεξικό	Μεξικό	NoPrNeSgNm
+	SYN	/np_nm]
+1\1203	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\1205	TOK	το	ο	AtDfNeSgNm
+1\1208	TOK	Πακιστάν	Πακιστάν	RgFwTr
+	SYN	/np_nm]
+1\1216	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\1218	TOK	η	ο	AtDfFeSgNm
+1\1220	TOK	Σρι	Σρι	RgFwTr
+1\1224	TOK	Λάνκα	Λάνκα	RgFwTr
+	SYN	/np_nm]
+1\1230	TOK	και	και	CjCo
+	SYN	[np_nm
+1\1234	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\1237	TOK	Ηνωμένο	ηνωμένος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\1245	TOK	Βασίλειο	Βασίλειος	NoCmNeSgNm
+	SYN	/np_nm]
+1\1253	CPUNCT	)	)	CPUNCT
+	SYN	/cl]
+1\1254	PUNCT	,	,	PUNCT
+1\1256	TOK	ενώ	ενώ	CjCo
+	SYN	[cl
+	SYN	[pp
+1\1260	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\1263	TOK	αρκετές	αρκετός	PnIdFe03PlAcXx
+1\1271	TOK	χώρες	χώρα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\1277	TOK	ισχύουν	ισχύω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1285	TOK	νομικοί	νομικός	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\1293	TOK	περιορισμοί	περιορισμός	NoCmMaPlNm
+	SYN	/np_nm]
+1\1304	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1306	TOK	που	που	PnReMa03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1310	TOK	επιτρέπουν	επιτρέπω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1321	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\1325	TOK	πρακτική	πρακτικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\1334	TOK	εφαρμογή	εφαρμογή	NoCmFeSgAc
+	SYN	/np_ac]
+1\1343	TOK	της	ο	AtDfFeSgGe
+	SYN	[advp
+1\1347	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\1352	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1356	TOK	ειδικευμένους	ειδικευμένος	VbMnPpXxXxPlMaPePvAc
+	SYN	/adjp_ac]
+1\1370	TOK	γιατρούς	γιατρός	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\1378	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

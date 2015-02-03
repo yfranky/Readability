@@ -1,0 +1,314 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	βιαστούμε	βιάζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πρέπει	πρέπει	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	1	Sb	_	_	
+4	νωρίς	νωρίς	Ad	Ad	Ba	3	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	γα	γα	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+7	να	να	Pt	PtSj	_	8	AuxV	_	_	
+8	βρούμε	βρίσκω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	6	Atr	_	_	
+9	καλές	καλός	Aj	Aj	Ba|Fe|Pl|Ac	10	Atr	_	_	
+10	θέσεις	θέση	No	NoCm	Fe|Pl|Ac	8	Obj	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Απόψε	απόψε	Ad	Ad	Ba	3	Adv	_	_	
+2	θα'	θα'	Nm	NmOd	Ne|Sg|Nm|Aj	3	Sb	_	_	
+3	χουμε	έχω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	κοντά	κοντά	Ad	Ad	Ba	6	Adv	_	_	
+5	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ge|We	6	Atr	_	_	
+6	μουσικούς	μουσικός	Aj	Aj	Ba|Ma|Pl|Ac	7	Atr_Co	_	_	
+7	και	και	Cj	CjCo	_	3	Coord	_	_	
+8	χορευτές	χορευτής	No	NoCm	Ma|Pl|Ac	7	Atr_Co	_	_	
+9	από	από	AsPp	AsPpSp	_	8	AuxP	_	_	
+10	το	ο	At	AtDf	Ne|Sg|Ac	11	Det	_	_	
+11	Αιγαίο	Αιγαίο	No	NoPr	Ne|Sg|Ac	9	Atr	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	4	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	είστε	είμαι	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	έτοιμοι	έτοιμος	Aj	Aj	Ba|Ma|Pl|Nm	4	Pnom	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πλησιάζει	πλησιάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	ώρα	ώρα	No	NoCm	Fe|Sg|Nm	1	Sb	_	_	
+4	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	την	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	εκδήλωση	εκδήλωση	No	NoCm	Fe|Sg|Ac	4	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Απόψε	απόψε	Ad	Ad	Ba	2	Adv	_	_	
+2	έχουμε	έχω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	λαϊκούς	λαϊκός	Aj	Aj	Ba|Ma|Pl|Ac	4	Atr	_	_	
+4	χορούς	χορός	No	NoCm	Ma|Pl|Ac	5	Obj_Co	_	_	
+5	και	και	Cj	CjCo	_	2	Coord	_	_	
+6	τραγούδια	τραγούδι	No	NoCm	Ne|Pl|Ac	5	Obj_Co	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τώρα	τώρα	Ad	Ad	Ba	0	ExD	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	2	Sb	_	_	
+2	είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	κιόλας	κιόλας	Ad	Ad	Ba	2	Adv	_	_	
+4	έτοιμη	έτοιμος	Aj	Aj	Ba|Fe|Sg|Nm	2	Pnom	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	χορέψουν	χορεύω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	και	και	Cj	CjCo	_	4	Coord	_	_	
+7	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	6	ExD_Co	_	_	
+8	μαζί	μαζί	Ad	Ad	Ba	7	Adv	_	_	
+9	με	με	AsPp	AsPpSp	_	8	AuxP	_	_	
+10	τους	ο	At	AtDf	Ma|Pl|Ac	11	Det	_	_	
+11	μεγάλους	μεγάλος	Aj	Aj	Ba|Ma|Pl|Ac	9	Adv	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Ουου	Ουου	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έτοιμος	έτοιμος	Aj	Aj	Ba|Fe|Sg|Nm	2	Pnom	_	_	
+2	είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	κι	και	Cj	CjCo	_	4	AuxY	_	_	
+4	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	2	Sb	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ξέρεις	ξέρω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+3	Μαργαρίτα	Μαργαρίτα	No	NoPr	Fe|Sg|Nm	1	Pnom	_	_	
+4	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+5	όλο	όλος	Aj	Aj	Ba|Ne|Sg|Ac	7	Atr	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	πρωί	πρωί	No	NoCm	Ne|Sg|Ac	8	Adv	_	_	
+8	ετοιμάζαμε	ετοιμάζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Atr	_	_	
+9	τη	ο	At	AtDf	Fe|Sg|Ac	11	Det	_	_	
+10	μεγάλη	μεγάλος	Aj	Aj	Ba|Fe|Sg|Ac	11	Atr	_	_	
+11	αίθουσα	αίθουσα	No	NoCm	Fe|Sg|Ac	8	Obj	_	_	
+12	της	ο	At	AtDf	Fe|Sg|Ge	13	Det	_	_	
+13	Κοινότητας	κοινότητα	No	NoCm	Fe|Sg|Ge	11	Atr	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	3	Atr	_	_	
+3	έτοιμα	έτοιμα	No	NoCm	Ne|Pl|Ac	1	Pnom	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σε	σε	AsPp	AsPpSp	_	12	AuxP	_	_	
+2	λίγο	λίγο	Ad	Ad	Ba	4	Adv	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	Πέτρος	Πέτρος	No	NoPr	Ma|Sg|Nm	8	Sb_Co	_	_	
+5	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+6	η	ο	At	AtDf	Fe|Sg|Nm	7	Det	_	_	
+7	Μαργαρίτα	Μαργαρίτα	No	NoPr	Fe|Sg|Nm	8	Sb_Co	_	_	
+8	και	και	Cj	CjCo	_	1	Coord	_	_	
+9	οι	ο	At	AtDf	Ma|Pl|Nm	10	Det	_	_	
+10	γονείς	γονέας	No	NoCm	Ma|Pl|Nm	8	Sb_Co	_	_	
+11	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	10	Pos	_	_	
+12	έμπαιναν	μπαίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+13	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	12	AuxP	_	_	
+14	μεγάλη	μεγάλος	Aj	Aj	Ba|Fe|Sg|Ac	15	Atr	_	_	
+15	αίθουσα	αίθουσα	No	NoCm	Fe|Sg|Ac	13	Adv	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	κόσμος	κόσμος	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	μαζευόταν	μαζεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	σιγά	σιγά	Ad	Ad	Ba	3	Adv	_	_	
+5	-	-	PUNCT	PUNCT	_	3	AuxX	_	_	
+6	σιγά	σιγά	Ad	Ad	Ba	3	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Απόψε	απόψε	Ad	Ad	Ba	3	Adv	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	χόρευε	χορεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ένα	ένας	At	AtId	Ne|Sg|Ac	5	Det	_	_	
+5	συγκρότημα	συγκρότημα	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	από	από	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	τα	ο	At	AtDf	Ne|Pl|Ac	8	Det	_	_	
+8	Δωδεκάνησα	Δωδεκάνησα	No	NoPr	Ne|Pl|Ac	6	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	μια	ένας	Nm	NmCd	Fe|Sg|Ac|Aj	1	Pnom	_	_	
+3	από	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	τις	ο	At	AtDf	Fe|Pl|Ac	6	Det	_	_	
+5	πολλές	πολύς	Aj	Aj	Ba|Fe|Pl|Ac	6	Atr	_	_	
+6	εκδηλώσεις	εκδήλωση	No	NoCm	Fe|Pl|Ac	3	Atr	_	_	
+7	που	που	Pn	PnRe	Fe|03|Pl|Nm|Xx	8	Sb	_	_	
+8	οργάνωνε	οργανώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Atr	_	_	
+9	κάθε	κάθε	Pn	PnId	Ma|03|Sg|Ac|Xx	10	Atr	_	_	
+10	χρόνο	χρόνος	No	NoCm	Ma|Sg|Ac	8	Adv	_	_	
+11	η	ο	At	AtDf	Fe|Sg|Nm	13	Det	_	_	
+12	Ελληνική	ελληνικός	Aj	Aj	Ba|Fe|Sg|Nm	13	Atr	_	_	
+13	Κοινότητα	κοινότητα	No	NoCm	Fe|Sg|Nm	8	Sb	_	_	
+14	του	ο	At	AtDf	Ne|Sg|Ge	15	Det	_	_	
+15	Γιοχάνεσμπουργκ	Γιοχάνεσμπουργκ	No	NoPr	Ne|Sg|Ge	13	Atr	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	πρόγραμμα	πρόγραμμα	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+3	άρχισε	αρχίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ένας-ένας	Ένας-ένας	No	NoPr	Fe|Sg|Nm	2	Sb	_	_	
+2	έβγαιναν	βγαίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	οι	ο	At	AtDf	Ma|Pl|Nm	4	Det	_	_	
+4	μουσικοί	μουσικός	No	NoCm	Ma|Pl|Nm	8	Sb_Co	_	_	
+5	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+6	οι	ο	At	AtDf	Ma|Pl|Nm	7	Det	_	_	
+7	τραγουδιστές	τραγουδιστής	No	NoCm	Ma|Pl|Nm	8	Sb_Co	_	_	
+8	και	και	Cj	CjCo	_	2	Coord	_	_	
+9	οι	ο	At	AtDf	Ma|Pl|Nm	10	Det	_	_	
+10	χορευτές	χορευτής	No	NoCm	Ma|Pl|Nm	8	Sb_Co	_	_	
+11	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+12	ντυμένοι	ντυμένος	Aj	Aj	Ba|Ma|Pl|Nm	13	Atr	_	_	
+13	όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	8	Sb_Co	_	_	
+14	με	με	AsPp	AsPpSp	_	13	AuxP	_	_	
+15	τις	ο	At	AtDf	Fe|Pl|Ac	17	Det	_	_	
+16	όμορφες	όμορφος	Aj	Aj	Ba|Fe|Pl|Ac	17	Atr	_	_	
+17	φορεσιές	φορεσιά	No	NoCm	Fe|Pl|Ac	14	Atr	_	_	
+18	του	ο	At	AtDf	Ne|Sg|Ge	19	Det	_	_	
+19	νησιού	νησί	No	NoCm	Ne|Sg|Ge	17	Atr	_	_	
+20	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	19	Pos	_	_	
+21	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	κόσμος	κόσμος	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+3	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	2	Pos	_	_	
+4	καμάρωνε	καμαρώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	όργανα	όργανο	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	έπαιζαν	παίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	γλυκά	γλυκά	Ad	Ad	Ba	3	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	τραγουδιστής	τραγουδιστής	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	έλεγε	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ένα	ένας	At	AtId	Ne|Sg|Ac	5	Det	_	_	
+5	τραγούδι	τραγούδι	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	για	για	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	τη	ο	At	AtDf	Fe|Sg|Ac	8	Det	_	_	
+8	θάλασσα	θάλασσα	No	NoCm	Fe|Sg|Ac	6	Atr	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Οι	ο	At	AtDf	Ma|Pl|Nm	2	Det	_	_	
+2	χορευτές	χορευτής	No	NoCm	Ma|Pl|Nm	3	Sb	_	_	
+3	χόρευαν	χορεύω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	χάρη	χάρη	Ad	Ad	Ba	4	Adv	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μόλις	μόλις	Cj	CjSb	_	7	AuxC	_	_	
+2	τέλειωνε	τελειώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+4	ένας	ένας	Pn	PnId	Ma|03|Sg|Nm|Xx	5	Atr	_	_	
+5	χορός	χορός	No	NoCm	Ma|Sg|Nm	2	Sb	_	_	
+6	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+7	άρχιζε	αρχίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+8	ο	ο	At	AtDf	Ma|Sg|Nm	9	Det	_	_	
+9	άλλος	άλλος	Pn	PnId	Ma|03|Sg|Nm|Xx	7	Sb	_	_	
+10	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	κόσμος	κόσμος	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	τραγουδούσε	τραγουδώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	κι	και	Cj	CjCo	_	5	AuxY	_	_	
+5	αυτός	αυτός	Pn	PnDm	Ma|03|Sg|Nm|Xx	3	Sb	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ελάτε	ελάτε	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Pv|Xx	8	Obj	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	χορέψουμε	χορεύω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	πιασμένοι	πιασμένος	Aj	Aj	Ba|Ma|Pl|Nm	6	Atr	_	_	
+6	χέρι-χέρι	χέρι-χέρι	No	NoCm	Ma|Pl|Nm	4	Sb	_	_	
+7	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+8	φώναξε	φωνάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+9	ο	ο	At	AtDf	Ma|Sg|Nm	10	Det	_	_	
+10	πρώτος	πρώτος	Nm	NmOd	Ma|Sg|Nm|Aj	8	Sb	_	_	
+11	του	ο	At	AtDf	Ma|Sg|Ge	12	Det	_	_	
+12	χορού	χορός	No	NoCm	Ma|Sg|Ge	10	Atr	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μ'	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	3	Obj	_	_	
+3	αρέσει	αρέσω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	11	Obj	_	_	
+4	αυτός	αυτός	Pn	PnDm	Ma|03|Sg|Nm|Xx	6	Atr	_	_	
+5	ο	ο	At	AtDf	Ma|Sg|Nm	6	Det	_	_	
+6	χορός	χορός	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+7	που	που	Pn	PnRe	Ma|03|Pl|Nm|Xx	8	Sb	_	_	
+8	χορεύουν	χορεύω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	6	Atr	_	_	
+9	τώρα	τώρα	Ad	Ad	Ba	8	Adv	_	_	
+10	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+11	είπε	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+12	η	ο	At	AtDf	Fe|Sg|Nm	13	Det	_	_	
+13	Μαργαρίτα	Μαργαρίτα	No	NoPr	Fe|Sg|Nm	11	Sb	_	_	
+14	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Εμένα	εγώ	Pn	PnPe	Ma|01|Sg|Ge|St	4	Sb	_	_	
+3	μ'	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	4	Obj	_	_	
+4	αρέσει	αρέσω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	13	Obj	_	_	
+5	ν'	να	Pt	PtSj	_	6	AuxV	_	_	
+6	ακούω	ακούω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Obj	_	_	
+7	τη	ο	At	AtDf	Fe|Sg|Ac	8	Det	_	_	
+8	λύρα	λύρα	No	NoCm	Fe|Sg|Ac	9	Obj_Co	_	_	
+9	και	και	Cj	CjCo	_	6	Coord	_	_	
+10	το	ο	At	AtDf	Ne|Sg|Ac	11	Det	_	_	
+11	λαούτο	λαούτο	No	NoCm	Ne|Sg|Ac	9	Obj_Co	_	_	
+12	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+13	πρόσθεσε	προσθέτω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+14	ο	ο	At	AtDf	Ma|Sg|Nm	15	Det	_	_	
+15	πατέρας	πατέρας	No	NoCm	Ma|Sg|Nm	13	Sb	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Apos_Co	_	_	
+2	Μα	μα	Cj	CjCo	_	1	AuxY	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Nm	5	Det	_	_	
+5	βιολί	βιολί	No	NoCm	Ne|Sg|Nm	10	Sb	_	_	
+6	με	με	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	σαντούρι	σαντούρι	No	NoCm	Ne|Sg|Ac	6	Atr	_	_	
+9	δεν	δεν	Pt	PtNg	_	10	AuxV	_	_	
+10	ακούγονται	ακούω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	3	Pred_Co	_	_	
+11	γλυκά	γλυκά	Ad	Ad	Ba	10	Adv	_	_	
+12	;	;	PTERM_P	PTERM_P	_	13	AuxG	_	_	
+13	ρώτησε	ρωτώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+14	η	ο	At	AtDf	Fe|Sg|Nm	15	Det	_	_	
+15	μητέρα	μητέρα	No	NoCm	Fe|Sg|Nm	13	Sb	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	φλογέρα	φλογέρα	No	NoCm	Fe|Sg|Nm	13	Sb	_	_	
+4	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+5	που	που	Pn	PnRe	Fe|03|Sg|Ac|Xx	6	Obj	_	_	
+6	παίζει	παίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Atr	_	_	
+7	εκείνος	εκείνος	Pn	PnDm	Ma|03|Sg|Nm|Xx	6	Sb	_	_	
+8	ο	ο	At	AtDf	Ma|Sg|Nm	9	Det	_	_	
+9	νεαρός	νεαρός	Aj	Aj	Ba|Ma|Sg|Nm	7	Sb	_	_	
+10	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+11	εμένα	εγώ	Pn	PnPe	Ma|01|Sg|Ac|St	13	Obj	_	_	
+12	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	13	Obj	_	_	
+13	τρελαίνει	τρελαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	15	Obj	_	_	
+14	,	,	PUNCT	PUNCT	_	13	AuxX	_	_	
+15	είπε	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+16	ο	ο	At	AtDf	Ma|Sg|Nm	17	Det	_	_	
+17	Πέτρος	Πέτρος	No	NoPr	Ma|Sg|Nm	15	Sb	_	_	
+18	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

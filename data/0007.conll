@@ -1,0 +1,23 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Του	εγώ	Pn	PnPe	Ma|03|Sg|Ge|We	3	IObj	_	_	
+3	δίνουμε	δίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ένα	ένας	At	AtId	Ne|Sg|Ac	5	Det	_	_	
+5	όνομα	όνομα	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	φασαρία	φασαρία	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Φασαρίας	φασαρίας	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	AuxG	_	_	
+2	Θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+3	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	4	Obj	_	_	
+4	λέμε	λέγω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	Φασαρία	φασαρία	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

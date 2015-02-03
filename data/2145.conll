@@ -1,0 +1,208 @@
+1	ΜΙΑ	ένας	At	AtId	Fe|Sg|Ac	2	Det	_	_	
+2	ΤΥΦΛΟΜΥΓΑ	τυφλόμυγα	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+3	ΣΤΗΝ	στου	AsPp	AsPpPa	Fe|Sg|Ac	2	AuxP	_	_	
+4	ΚΟΥΖΙΝΑ	κουζίνα	No	NoCm	Fe|Sg|Ac	3	Atr	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+3	παίζουν	παίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+5	κουζίνα	κουζίνα	No	NoCm	Fe|Sg|Ac	4	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	κι	και	Cj	CjCo	_	4	AuxY	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	παππούς	παππούς	No	NoCm	Ma|Sg|Nm	1	Pnom	_	_	
+5	εκεί	εκεί	Ad	Ad	Ba	4	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Παίζουν	παίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μια	ένας	At	AtId	Fe|Sg|Ac	5	Det	_	_	
+3	δική	δικός	Aj	Aj	Ba|Fe|Sg|Ac	5	Atr	_	_	
+4	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	5	Pos	_	_	
+5	τυφλόμυγα	τυφλόμυγα	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	τυφλόμυγα	τυφλόμυγα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	τριγυρίζει	τριγυρίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	8	Pred_Co	_	_	
+4	εδώ	εδώ	Ad	Ad	Ba	3	Adv	_	_	
+5	κι	και	Cj	CjCo	_	6	AuxY	_	_	
+6	εκεί	εκεί	Ad	Ad	Ba	3	Adv	_	_	
+7	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+8	και	και	Cj	CjCo	_	0	Coord	_	_	
+9	όπου	όπου	Ad	Ad	Ba	11	Adv	_	_	
+10	«	«	OPUNCT	OPUNCT	_	11	AuxG	_	_	
+11	καθίσει	κάθομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	8	Adv	_	_	
+12	»	»	CPUNCT	CPUNCT	_	11	AuxG	_	_	
+13	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+14	ό,τι	ό,τι	Pn	PnRi	Ne|03|Sg|Ac|Xx	8	ExD	_	_	
+15	δηλαδή	δηλαδή	Ad	Ad	Ba	16	Adv	_	_	
+16	ακουμπήσει	ακουμπώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	14	Atr	_	_	
+17	,	,	PUNCT	PUNCT	_	18	AuxX	_	_	
+18	λέει	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	16	Adv	_	_	
+19	φωναχτά	φωναχτά	Ad	Ad	Ba	21	Adv	_	_	
+20	πώς	πώς	Ad	Ad	Ba	21	Adv	_	_	
+21	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	22	Obj_Co	_	_	
+22	και	και	Cj	CjCo	_	18	Coord	_	_	
+23	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	24	Atr	_	_	
+24	πράγμα	πράγμα	No	NoCm	Ne|Sg|Nm	25	Sb	_	_	
+25	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	22	Obj_Co	_	_	
+26	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	«	«	OPUNCT	OPUNCT	_	6	AuxG	_	_	
+2	Απλωτό	απλωτός	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr	_	_	
+3	πράμα	πράμα	No	NoCm	Ne|Sg|Ac	6	Obj_Co	_	_	
+4	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+5	σκληρό	σκληρός	Aj	Aj	Ba|Ma|Sg|Ac	6	Pnom_Co	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	ίσιο	ίσιος	Aj	Aj	Ba|Ma|Sg|Ac	6	Atr_Co	_	_	
+8	...	...	PTERM_P	PTERM_P	_	6	AuxG	_	_	
+
+1	Τραπέζι	τραπέζι	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+3	»	»	CPUNCT	CPUNCT	_	0	AuxG	_	_	
+
+1	«	«	OPUNCT	OPUNCT	_	7	AuxG	_	_	
+2	Πολύ	πολύ	Ad	Ad	Ba	3	Adv	_	_	
+3	σκληρό	σκληρός	Aj	Aj	Ba|Ma|Sg|Ac	7	Pnom_Co	_	_	
+4	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+5	λίγο	λίγο	Ad	Ad	Ba	7	Adv	_	_	
+6	μυτερό	μυτερός	Aj	Aj	Ba|Ma|Sg|Ac	7	Pnom_Co	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	ζεστό	ζεστός	Aj	Aj	Ba|Ma|Sg|Ac	7	Atr_Co	_	_	
+9	...	...	PTERM_P	PTERM_P	_	7	AuxG	_	_	
+
+1	Καλοριφέρ	καλοριφέρ	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+3	»	»	CPUNCT	CPUNCT	_	0	AuxG	_	_	
+
+1	«	«	OPUNCT	OPUNCT	_	5	AuxG	_	_	
+2	Στρογγυλό	στρογγυλός	Aj	Aj	Ba|Ma|Sg|Ac	5	Obj_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	γλιστράει	γλιστρώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	5	Pred_Co	_	_	
+7	κρύο	κρύο	No	NoCm	Ne|Sg|Nm	6	Pnom	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+9	»	»	CPUNCT	CPUNCT	_	5	AuxG	_	_	
+
+1	Λέει	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+2	«	«	OPUNCT	OPUNCT	_	3	AuxG	_	_	
+3	μήλο	μήλο	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	»	»	CPUNCT	CPUNCT	_	3	AuxG	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	5	Pred_Co	_	_	
+7	πατάτα	πατάτα	No	NoCm	Fe|Sg|Nm	6	Pnom	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+2	και	και	Cj	CjCo	_	5	AuxY	_	_	
+3	την	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	κουτή	κουτός	Aj	Aj	Ba|Fe|Sg|Ac	5	ExD_Co	_	_	
+5	κι	και	Cj	CjCo	_	0	Coord	_	_	
+6	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+7	πολύ	πολύ	Ad	Ad	Ba	8	Adv	_	_	
+8	γούστο	γούστο	No	NoCm	Ne|Sg|Ac	6	Obj	_	_	
+9	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	«	«	OPUNCT	OPUNCT	_	3	AuxG	_	_	
+2	Στρογγυλό	στρογγυλός	Aj	Aj	Ba|Ma|Sg|Ac	3	Atr_Co	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	γλιστράει	γλιστρώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μοιάζει	μοιάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	καρπούζι	καρπούζι	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αλλά	αλλά	Cj	CjCo	_	0	Coord	_	_	
+2	πού	πού	Ad	Ad	Ba	1	Adv	_	_	
+3	καρπούζι	καρπούζι	No	NoCm	Ne|Sg|Ac	2	ExD_Co	_	_	
+4	τέτοια	τέτοιος	Pn	PnDm	Fe|03|Sg|Ac|Xx	5	Atr	_	_	
+5	εποχή	εποχή	No	NoCm	Fe|Sg|Ac	3	Atr	_	_	
+6	!	!	PTERM_P	PTERM_P	_	2	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	και	και	Cj	CjCo	_	1	Coord	_	_	
+3	μαλακό	μαλακός	Aj	Aj	Ba|Ma|Sg|Ac	2	Pnom_Co	_	_	
+4	από	από	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	έξω	έξω	Ad	Ad	Ba	6	Adv_Co	_	_	
+6	και	και	Cj	CjCo	_	4	Coord	_	_	
+7	λίγο	λίγο	Ad	Ad	Ba	8	Adv	_	_	
+8	ζεστό	ζεστός	Aj	Aj	Ba|Ma|Sg|Ac	6	Adv_Co	_	_	
+9	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	φαλάκρα	φαλάκρα	No	NoCm	Ma|Sg|Ac	0	ExD	_	_	
+3	του	ο	At	AtDf	Ma|Sg|Ge	4	Det	_	_	
+4	παππού	παππούς	No	NoCm	Ma|Sg|Ge	2	Atr	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+6	»	»	CPUNCT	CPUNCT	_	0	AuxG	_	_	
+
+1	Γέλια	γέλιο	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	παππούς	παππούς	No	NoCm	Ma|Sg|Nm	1	Atr	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+2	τέλος	τέλος	No	NoCm	Ne|Sg|Ac	1	Adv	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	τυφλόμυγα	τυφλόμυγα	No	NoCm	Fe|Sg|Nm	5	Sb	_	_	
+5	ακουμπάει	ακουμπώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	πάνω	πάνω	Ad	Ad	Ba	5	Adv	_	_	
+7	σε	σε	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	κάτι	κάτι	Pn	PnId	Ne|03|Sg|Ac|Xx	9	Atr	_	_	
+9	υγρό	υγρός	Aj	Aj	Ba|Ne|Sg|Ac	7	Atr	_	_	
+10	που	που	Pn	PnRe	Ne|03|Sg|Nm|Xx	11	Sb	_	_	
+11	κολλάει	κολλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	9	Atr	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μέλι	μέλι	No	NoCm	Ne|Sg|Nm	2	ExD_Co	_	_	
+2	ή	ή	Cj	CjCo	_	0	Coord	_	_	
+3	σιρόπι	σιρόπι	No	NoCm	Ne|Sg|Ac	2	ExD_Co	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	ίδιο	ίδιος	Aj	Aj	Ba|Ne|Sg|Nm	3	Sb	_	_	
+3	κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κόλλησε	κολλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	τώρα	τώρα	Ad	Ad	Ba	6	Adv	_	_	
+5	θα	θα	Pt	PtFu	_	6	AuxV	_	_	
+6	ξεκολλήσει	ξεκολλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Pred_Co	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+2	μεταξύ	μεταξύ	Ad	Ad	Ba	1	Adv	_	_	
+3	μπαίνουν	μπαίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	μαμά	μαμά	No	NoCm	Fe|Sg|Nm	6	Sb_Co	_	_	
+6	κι	και	Cj	CjCo	_	11	Coord	_	_	
+7	ο	ο	At	AtDf	Ma|Sg|Nm	8	Det	_	_	
+8	μπαμπάς	μπαμπάς	No	NoCm	Ma|Sg|Nm	6	Sb_Co	_	_	
+9	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+10	που	που	Pn	PnRe	Ma|03|Sg|Nm|Xx	11	Sb	_	_	
+11	ήρθαν	έρχομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	3	Obj	_	_	
+12	από	από	AsPp	AsPpSp	_	11	AuxP	_	_	
+13	τη	ο	At	AtDf	Fe|Sg|Ac	14	Det	_	_	
+14	δουλειά	δουλειά	No	NoCm	Fe|Sg|Ac	12	Adv	_	_	
+15	πεινασμένοι	πεινασμένος	Aj	Aj	Ba|Ma|Pl|Nm	16	Atr_Co	_	_	
+16	και	και	Cj	CjCo	_	14	Coord	_	_	
+17	διώχνουν	διώχνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	16	Atr_Co	_	_	
+18	γελώντας	γελώ	Vb	VbMn	Pp|Xx|Xx|Xx|Xx|Xx|Av|Xx	11	Adv	_	_	
+19	όλες	όλος	Aj	Aj	Ba|Fe|Pl|Ac	22	Atr	_	_	
+20	τις	ο	At	AtDf	Fe|Pl|Ac	22	Det	_	_	
+21	«	«	OPUNCT	OPUNCT	_	22	AuxG	_	_	
+22	μύγες	μύγα	No	NoCm	Fe|Pl|Ac	18	Obj	_	_	
+23	»	»	CPUNCT	CPUNCT	_	22	AuxG	_	_	
+24	από	από	AsPp	AsPpSp	_	18	AuxP	_	_	
+25	την	ο	At	AtDf	Fe|Sg|Ac	26	Det	_	_	
+26	κουζίνα	κουζίνα	No	NoCm	Fe|Sg|Ac	24	Adv	_	_	
+27	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

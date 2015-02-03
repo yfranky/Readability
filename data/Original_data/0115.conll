@@ -1,0 +1,58 @@
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Θωμάς	Θωμάς	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	θέλει	θέλω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	τηλεφωνήσει	τηλεφωνώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+6	στους	στου	AsPp	AsPpPa	Ma|Pl|Ac	5	AuxP	_	_	
+7	φίλους	φίλος	No	NoCm	Ma|Pl|Ac	6	IObj	_	_	
+8	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	7	Pos	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	ΟΤΕ	ΟΤΕ	ABBR	ABBR	_	4	Sb	_	_	
+3	δεν	δεν	Pt	PtNg	_	4	AuxV	_	_	
+4	έβαλε	βάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	ακόμα	ακόμα	Ad	Ad	Ba	4	Adv	_	_	
+6	τηλέφωνο	τηλέφωνο	No	NoCm	Ne|Sg|Ac	4	Obj	_	_	
+7	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+8	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	7	Adv	_	_	
+9	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	8	Pos	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Θωμάς	Θωμάς	No	NoPr	Ma|Sg|Nm	5	Sb	_	_	
+3	πρέπει	πρέπει	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	πάει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Sb	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+7	περίπτερο	περίπτερο	No	NoCm	Ne|Sg|Ac	6	IObj	_	_	
+8	να	να	Pt	PtSj	_	9	AuxV	_	_	
+9	αγοράσει	αγοράζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Obj	_	_	
+10	μια	ένας	At	AtId	Fe|Sg|Ac	11	Det	_	_	
+11	τηλεκάρτα	τηλεκάρτα	No	NoCm	Fe|Sg|Ac	9	Obj	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	φανάρι	φανάρι	No	NoCm	Ne|Sg|Nm	6	Sb	_	_	
+3	για	για	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	τους	ο	At	AtDf	Ma|Pl|Ac	5	Det	_	_	
+5	πεζούς	πεζός	Aj	Aj	Ba|Ma|Pl|Ac	3	Atr	_	_	
+6	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	κόκκινο	κόκκινος	Aj	Aj	Ba|Ne|Sg|Nm	6	Pnom	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Θωμάς	Θωμάς	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	περιμένει	περιμένω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	ανάψει	ανάβω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	πράσινο	πράσινος	Aj	Aj	Ba|Ne|Sg|Ac	5	Obj	_	_	
+8	για	για	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	να	να	Pt	PtSj	_	10	AuxV	_	_	
+10	περάσει	περνώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	8	Adv	_	_	
+11	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	10	AuxP	_	_	
+12	απέναντι	απέναντι	Ad	Ad	Ba	13	Atr	_	_	
+13	πεζοδρόμιο	πεζοδρόμιο	No	NoCm	Ne|Sg|Ac	11	Adv	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

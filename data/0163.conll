@@ -1,0 +1,183 @@
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Λενίτσα	Λενίτσα	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxV	_	_	
+2	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	νύχτα	νύχτα	No	NoCm	Fe|Sg|Nm	2	Pnom	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	φεγγάρι	φεγγάρι	No	NoCm	Ne|Sg|Ac	4	Atr	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	λέει	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Adv	_	_	
+8	ο	ο	At	AtDf	Ma|Sg|Nm	9	Det	_	_	
+9	παππού	παππούς	No	NoCm	Ma|Sg|Ge	7	Obj	_	_	
+10	ο	ο	At	AtDf	Ma|Sg|Nm	11	Det	_	_	
+11	Γιάννης	Γιάννης	No	NoPr	Ma|Sg|Nm	7	Sb	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+2	Ξανθός	ξανθός	Aj	Aj	Ba|Ma|Sg|Nm	3	Atr	_	_	
+3	Γεωργός	γεωργός	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+4	γυρίζει	γυρίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	με	με	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	μουλάρι	μουλάρι	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+8	από	από	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	το	ο	At	AtDf	Ne|Sg|Ac	11	Det	_	_	
+10	στρογγυλό	στρογγυλός	Aj	Aj	Ba|Ne|Sg|Ac	11	Atr	_	_	
+11	χωράφι	χωράφι	No	NoCm	Ne|Sg|Ac	8	Atr	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	2	AuxY	_	_	
+2	να	να	Pt	PtSj	_	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+
+1	Έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	11	AuxV	_	_	
+2	από	από	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	χωριό	χωριό	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+6	εκεί	εκεί	Ad	Ad	Ba	11	Adv	_	_	
+7	κοντά	κοντά	Ad	Ad	Ba	11	Adv	_	_	
+8	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	7	AuxP	_	_	
+9	σκουπιδότοπο	σκουπιδότοπος	No	NoCm	Ma|Sg|Ac	8	Adv	_	_	
+10	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+11	βλέπει	βλέπω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+12	ξαφνικά	ξαφνικά	Ad	Ad	Ba	11	Adv	_	_	
+13	τρεις	τρεις	Nm	NmCd	Fe|Pl|Ac|Aj	14	Atr	_	_	
+14	νεράιδες	νεράιδα	No	NoCm	Fe|Pl|Ac	11	Obj	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Οι	ο	At	AtDf	Fe|Pl|Nm	3	Det	_	_	
+2	τρεις	τρεις	Nm	NmCd	Fe|Pl|Nm|Aj	3	Atr	_	_	
+3	νεράιδες	νεράιδα	No	NoCm	Fe|Pl|Nm	4	Sb	_	_	
+4	χορεύουν	χορεύω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	με	με	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	τα	ο	At	AtDf	Ne|Pl|Ac	7	Det	_	_	
+7	νυχτικά	νυχτικό	No	NoCm	Ne|Pl|Ac	5	Adv	_	_	
+8	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	7	Pos	_	_	
+9	γύρω	γύρω	Ad	Ad	Ba	7	Adv	_	_	
+10	από	από	AsPp	AsPpSp	_	9	AuxP	_	_	
+11	το	ο	At	AtDf	Ne|Sg|Ac	13	Det	_	_	
+12	παλιό	παλιός	Aj	Aj	Ba|Ne|Sg|Ac	13	Atr	_	_	
+13	πηγάδι	πηγάδι	No	NoCm	Ne|Sg|Ac	10	Adv	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τρία	τρεις	Nm	NmCd	Ne|Pl|Ac|Aj	2	Atr	_	_	
+2	μαντίλι	μαντίλι	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+3	στεγνώνουν	στεγνώνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	σε	σε	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	ένα	ένας	At	AtId	Ne|Sg|Ac	7	Det	_	_	
+6	αόρατο	αόρατος	Aj	Aj	Ba|Ne|Sg|Ac	7	Atr	_	_	
+7	σκοινί	σκοινί	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τρέχει	τρέχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+3	Ξανθός	ξανθός	Aj	Aj	Ba|Ma|Sg|Nm	4	Atr	_	_	
+4	Γεωργός	γεωργός	No	NoCm	Ma|Sg|Nm	1	Sb	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	αρπάζει	αρπάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	μαντίλι	μαντίλι	No	NoCm	Ne|Sg|Ac	6	Obj	_	_	
+9	το	ο	At	AtDf	Ne|Sg|Ac	10	Det	_	_	
+10	κόκκινο	κόκκινος	Aj	Aj	Ba|Ne|Sg|Ac	6	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	"	"	OPUNCT	OPUNCT	_	2	AuxG	_	_	
+2	Δώσε	δίνω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	10	Obj	_	_	
+3	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	2	IObj	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	μαντίλι	μαντίλι	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+6	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	5	Pos	_	_	
+7	!	!	PTERM_P	PTERM_P	_	2	AuxK	_	_	
+8	"	"	CPUNCT	CPUNCT	_	2	AuxG	_	_	
+9	του	εγώ	Pn	PnPe	Ma|03|Sg|Ge|We	2	Obj	_	_	
+10	λέει	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+11	η	ο	At	AtDf	Fe|Sg|Nm	13	Det	_	_	
+12	τρίτη	τρίτος	Nm	NmOd	Fe|Sg|Nm|Aj	13	Atr	_	_	
+13	νεράιδα	νεράιδα	No	NoCm	Fe|Sg|Nm	10	Sb	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	"	"	OPUNCT	OPUNCT	_	3	AuxG	_	_	
+2	Όχι	όχι	Ad	Ad	Ba	3	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	11	Coord	_	_	
+4	δε	δε	Ad	Ad	Ba	7	Adv	_	_	
+5	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	7	Adv	_	_	
+6	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	7	Obj	_	_	
+7	δίνω	δίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	ExD_Co	_	_	
+8	!	!	PTERM_P	PTERM_P	_	3	AuxK	_	_	
+9	"	"	CPUNCT	CPUNCT	_	3	AuxG	_	_	
+10	της	εγώ	Pn	PnPe	Fe|03|Sg|Ge|We	11	IObj	_	_	
+11	απαντάει	απαντώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+12	αυτός	αυτός	Pn	PnDm	Ma|03|Sg|Nm|Xx	11	Sb	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	"	"	OPUNCT	OPUNCT	_	2	AuxG	_	_	
+2	Θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	5	AuxV	_	_	
+4	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	5	Obj	_	_	
+5	παντρευτώ	παντρεύω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	2	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	2	Sb	_	_	
+2	θέλεις	θέλω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	5	AuxV	_	_	
+4	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	5	Obj	_	_	
+5	παντρευτείς	παντρεύω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	2	Obj	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+7	"	"	CPUNCT	CPUNCT	_	0	AuxG	_	_	
+
+1	"	"	OPUNCT	OPUNCT	_	2	AuxG	_	_	
+2	Θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	"	"	CPUNCT	CPUNCT	_	2	AuxG	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	"	"	OPUNCT	OPUNCT	_	2	AuxG	_	_	
+2	Και	και	Cj	CjCo	_	0	Coord	_	_	
+3	πώς	πώς	Ad	Ad	Ba	5	Adv	_	_	
+4	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	5	Obj	_	_	
+5	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+7	"	"	CPUNCT	CPUNCT	_	2	AuxG	_	_	
+
+1	"	"	OPUNCT	OPUNCT	_	3	AuxG	_	_	
+2	Με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	3	Obj	_	_	
+3	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	Λενίτσα	Λενίτσα	No	NoPr	Fe|Sg|Nm	3	Sb	_	_	
+5	"	"	CPUNCT	CPUNCT	_	4	AuxG	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	"	"	OPUNCT	OPUNCT	_	2	AuxG	_	_	
+2	Έλα	έλα	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	μαζί	μαζί	Ad	Ad	Ba	2	Adv	_	_	
+4	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	3	Adv	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	2	AuxP	_	_	
+6	χωριό	χωριό	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+7	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+8	Λενίτσα	Λενίτσα	No	NoPr	Fe|Sg|Nm	6	Atr	_	_	
+9	"	"	CPUNCT	CPUNCT	_	8	AuxG	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ήρθε	έρχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	Λενίτσα	Λενίτσα	No	NoPr	Fe|Sg|Nm	1	Sb	_	_	
+4	μαζί	μαζί	Ad	Ad	Ba	5	Adv	_	_	
+5	του	εγώ	Pn	PnPe	Ma|03|Sg|Ge|We	1	Adv	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+7	χωριό	χωριό	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+8	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	7	Pos	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πούλησε	πουλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+2	αυτός	αυτός	Pn	PnDm	Ma|03|Sg|Nm|Xx	4	Atr	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	μουλάρι	μουλάρι	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+5	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	4	Pos	_	_	
+6	,	,	PUNCT	PUNCT	_	0	Coord	_	_	
+7	της	εγώ	Pn	PnPe	Fe|03|Sg|Ge|We	8	IObj	_	_	
+8	αγόρασε	αγοράζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+9	δαχτυλίδι	δαχτυλίδι	No	NoCm	Ne|Sg|Ac	8	Obj	_	_	
+10	και	και	Cj	CjCo	_	6	Coord_Co	_	_	
+11	παντρεύτηκαν	παντρεύω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	10	Pred_Co	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

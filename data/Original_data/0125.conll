@@ -1,0 +1,71 @@
+1	Στέκεται	στέκω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	μια	ένας	At	AtId	Fe|Sg|Ac	4	Det	_	_	
+4	μεγάλη	μεγάλος	Aj	Aj	Ba|Fe|Sg|Ac	2	Adv	_	_	
+
+1	κατσαρόλα	κατσαρόλα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+2	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+3	κεφάλι	κεφάλι	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	για	για	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	μάτια	μάτι	No	NoCm	Ne|Pl|Ac	2	Adv	_	_	
+4	δυο	δύο	Nm	NmCd	Ne|Pl|Ac|Aj	5	Atr	_	_	
+5	κουμπιά	κουμπί	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+6	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+
+1	για	για	AsPp	AsPpSp	_	4	AuxP	_	_	
+2	μύτη	μύτη	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+3	ένα	ένας	At	AtId	Ne|Sg|Ac	4	Det	_	_	
+4	καρότο	καρότο	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+5	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+
+1	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ένα	ένας	At	AtId	Ne|Sg|Ac	4	Det	_	_	
+3	κόκκινο	κόκκινος	Aj	Aj	Ba|Ne|Sg|Ac	4	Atr	_	_	
+4	κασκόλ	κασκόλ	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+5	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+
+1	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	0	AuxP	_	_	
+2	στόμα	στόμα	No	NoCm	Ne|Sg|Ac	1	ExD	_	_	
+3	ένα	ένας	At	AtId	Ne|Sg|Ac	4	Det	_	_	
+4	μπισκότο	μπισκότο	No	NoCm	Ne|Sg|Ac	1	ExD	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κρατάει	κρατώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	σκούπα	σκούπα	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+3	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+
+1	μα	μα	Cj	CjCo	_	0	Coord	_	_	
+2	δε	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	σκουπίζει	σκουπίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Pred_Co	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	τρώει	τρώω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	δεν	δεν	Pt	PtNg	_	5	AuxV	_	_	
+5	πίνει	πίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Adv	_	_	
+6	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	κοκκινίζει	κοκκινίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	άσπρος	άσπρος	Aj	Aj	Ba|Ma|Sg|Nm	1	Pnom	_	_	
+3	σαν	σαν	Ad	Ad	Ba	1	Adv	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Nm	5	Det	_	_	
+5	χιόνι	χιόνι	No	NoCm	Ne|Sg|Nm	3	Pnom	_	_	
+6	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+
+1	κι	και	Cj	CjCo	_	7	AuxY	_	_	
+2	όταν	όταν	Cj	CjSb	_	7	AuxC	_	_	
+3	βγαίνει	βγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Adv	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	ήλιος	ήλιος	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+6	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+7	λιώνει	λιώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

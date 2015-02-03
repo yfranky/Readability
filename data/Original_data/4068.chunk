@@ -1,0 +1,476 @@
+	(SENT	<S>
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\1	TOK	Έντονα	έντονα	AdXxBa
+	SYN	/advp]
+1\8	TOK	καιρικά	καιρικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\16	TOK	φαινόμενα	φαινόμενο	NoCmNePlAc
+	SYN	/np_ac]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\27	TOK	ΓΕΝΙΚΕΣ	γενικός	AjBaFePlNm
+	SYN	/adjp_nm]
+1\35	TOK	ΟΔΗΓΙΕΣ	οδηγία	NoCmFePlNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+	SYN	[vg_s
+1\44	TOK	Να	να	PtSj
+1\47	TOK	ενημερώνεστε	ενημερώνω	VbMnIdPr02PlXxIpPvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\60	TOK	διαρκώς	διαρκώς	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\68	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\72	TOK	τα	ο	AtDfNePlAc
+1\75	ABBR	ΜΜΕ	ΜΜΕ	ABBR
+	SYN	/np_ac]
+	SYN	/pp]
+1\79	OPUNCT	(	(	OPUNCT
+	SYN	[np_nm
+1\80	TOK	ραδιόφωνο	ραδιόφωνο	NoCmNeSgNm
+	SYN	/np_nm]
+1\89	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\91	TOK	τηλεόραση	τηλεόραση	NoCmFeSgAc
+1\101	ABBR	κτλ.	κτλ.	ABBR
+	SYN	/np_ac]
+1\105	CPUNCT	)	)	CPUNCT
+	SYN	[pp
+1\107	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\111	TOK	την	ο	AtDfFeSgAc
+1\115	TOK	εξέλιξη	εξέλιξη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\123	TOK	των	ο	AtDfNePlGe
+	SYN	[adjp_ge
+1\127	TOK	καιρικών	καιρικός	AjBaNePlGe
+	SYN	/adjp_ge]
+1\136	TOK	φαινομένων	φαινόμενο	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl_o]
+1\146	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\148	TOK	Επίσημες	επίσημος	AjBaFePlNm
+	SYN	/adjp_nm]
+1\157	TOK	πηγές	πηγή	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\163	TOK	ενημέρωσης	ενημέρωση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\174	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\180	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\182	TOK	Γενική	γενικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\189	TOK	Γραμματεία	γραμματεία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\200	TOK	Πολιτικής	πολιτικός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\210	TOK	Προστασίας	προστασία	NoCmFeSgGe
+	SYN	/np_ge]
+1\221	OPUNCT	(	(	OPUNCT
+1\222	ABBR	Γ.Γ.Π.Π.	Γ.Γ.Π.Π.	ABBR
+1\230	CPUNCT	)	)	CPUNCT
+1\232	TOK	και	και	CjCo
+	SYN	[np_nm
+1\236	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\238	TOK	Εθνική	εθνικός	AjBaFeSgNm
+1\245	TOK	Μετεωρολογική	μετεωρολογικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\259	TOK	Υπηρεσία	υπηρεσία	NoCmFeSgNm
+	SYN	/np_nm]
+1\268	OPUNCT	(	(	OPUNCT
+1\269	ABBR	Ε.Μ.Υ.	Ε.Μ.Υ.	ABBR
+1\275	CPUNCT	)	)	CPUNCT
+	SYN	/cl]
+1\276	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\279	TOK	Σε	σε	AsPpSp
+	SYN	[np_ac
+1\282	TOK	περίπτωση	περίπτωση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\292	TOK	ανάγκης	ανάγκη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[vg
+1\300	TOK	καλέστε	καλώ	VbMnMpXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\308	TOK	την	ο	AtDfFeSgAc
+1\312	TOK	Αστυνομία	αστυνομία	NoCmFeSgAc
+	SYN	/np_ac]
+1\322	OPUNCT	(	(	OPUNCT
+1\323	DIG	100	100	DIG
+1\326	CPUNCT	)	)	CPUNCT
+1\327	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\329	TOK	την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\333	TOK	Πυροσβεστική	πυροσβεστικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+1\346	OPUNCT	(	(	OPUNCT
+1\347	DIG	199	199	DIG
+1\350	CPUNCT	)	)	CPUNCT
+1\352	TOK	ή	ή	CjCo
+	SYN	[np_nm
+1\354	TOK	το	ο	AtDfNeSgNm
+1\357	ABBR	ΕΚΑΒ	ΕΚΑΒ	ABBR
+	SYN	/np_nm]
+1\362	OPUNCT	(	(	OPUNCT
+1\363	DIG	166	166	DIG
+1\366	CPUNCT	)	)	CPUNCT
+	SYN	/cl]
+1\367	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\370	TOK	Αναγράψτε	αναγράφω	VbMnMpXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\380	TOK	τα	ο	AtDfNePlAc
+	SYN	[advp
+1\383	TOK	παραπάνω	παραπάνω	AdXxBa
+	SYN	/advp]
+1\392	TOK	τηλέφωνα	τηλέφωνο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\401	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\404	TOK	εμφανές	εμφανής	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\413	TOK	σημείο	σημείο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[advp
+1\420	TOK	μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\425	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\429	TOK	σπίτι	σπίτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\435	TOK	και	και	CjCo
+	SYN	[vg
+1\439	TOK	βεβαιωθείτε	βεβαιώνω	VbMnIdXx02PlXxPePvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\451	TOK	ότι	ότι	CjSb
+	SYN	[np_nm
+1\455	TOK	τα	ο	AtDfNePlNm
+1\458	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\465	TOK	σας	εγώ	PnPeMa02PlGeWe
+	SYN	/np_ge]
+	SYN	[np_ac
+1\469	TOK	τα	εγώ	PnPeNe03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\472	TOK	γνωρίζουν	γνωρίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_o]
+1\481	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\484	TOK	Βοηθήστε	βοηθώ	VbMnMpXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[np_nm
+1\493	TOK	τα	ο	AtDfNePlNm
+1\496	TOK	παιδιά	παιδί	NoCmNePlNm
+1\503	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_nm]
+	SYN	[vg_s
+1\507	TOK	να	να	PtSj
+1\510	TOK	απομνημονεύσουν	απομνημονεύω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\526	TOK	σημαντικά	σημαντικά	AdXxBa
+	SYN	/advp]
+1\536	TOK	οικογενειακά	οικογενειακός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\549	TOK	στοιχεία	στοιχείο	NoCmNePlAc
+	SYN	/np_ac]
+1\557	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\559	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\564	TOK	το	ο	AtDfNeSgNm
+1\567	TOK	επίθετό	επίθετο	NoCmNeSgNm
+1\575	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_nm]
+1\579	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\581	TOK	τη	ο	AtDfFeSgAc
+1\584	TOK	διεύθυνση	διεύθυνση	NoCmFeSgAc
+	SYN	/np_ac]
+1\594	TOK	και	και	CjCo
+	SYN	[np_ac
+1\598	TOK	το	ο	AtDfNeSgAc
+1\601	TOK	τηλέφωνο	τηλέφωνο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\610	TOK	του	ο	AtDfNeSgGe
+1\614	TOK	σπιτιού	σπίτι	NoCmNeSgGe
+	SYN	/np_ge]
+1\621	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\623	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\626	TOK	κινητό	κινητός	AjBaNeSgNm
+1\633	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/adjp_nm]
+1\637	TOK	τηλέφωνο	τηλέφωνο	NoCmNeSgNm
+1\646	ABBR	κτλ.	κτλ.	ABBR
+	SYN	/np_nm]
+	SYN	/cl_o]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\652	TOK	Εξηγήστε	εξηγώ	VbMnMpXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\661	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\664	TOK	όλα	όλος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\668	TOK	τα	ο	AtDfNePlAc
+1\671	TOK	μέλη	μέλος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\676	TOK	της	ο	AtDfFeSgGe
+1\680	TOK	οικογένειας	οικογένεια	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_ir
+	SYN	[advp
+1\692	TOK	πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[vg_s
+1\696	TOK	να	να	PtSj
+1\699	TOK	αναγνωρίζουν	αναγνωρίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\712	TOK	ήχους	ήχος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\718	TOK	που	που	PnReMa03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\722	TOK	προμηνύουν	προμηνύω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\733	TOK	καταστροφή	καταστροφή	NoCmFeSgAc
+	SYN	/np_ac]
+1\744	OPUNCT	(	(	OPUNCT
+	SYN	[np_ac
+1\745	NBABBR	π.χ.	π.χ.	NBABBR
+1\750	TOK	σειρήνες	σειρήνα	NoCmFePlAc
+	SYN	/np_ac]
+1\758	CPUNCT	)	)	CPUNCT
+	SYN	/cl_r]
+	SYN	/cl_ir]
+1\759	PUNCT	,	,	PUNCT
+	SYN	[cl_q
+	SYN	[advp
+1\761	TOK	πώς	πώς	AdXxBa
+1\765	TOK	και	και	CjCo
+1\769	TOK	πότε	πότε	AdXxBa
+	SYN	/advp]
+	SYN	[vg_s
+1\774	TOK	να	να	PtSj
+1\777	TOK	κλείνουν	κλείνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\786	TOK	τις	ο	AtDfFePlAc
+1\790	TOK	παροχές	παροχή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\798	TOK	ηλεκτρικού	ηλεκτρικός	AjBaNeSgGe
+1\808	PUNCT	,	,	PUNCT
+1\810	TOK	φυσικού	φυσικός	AjBaNeSgGe
+1\818	TOK	αερίου	αέριος	AjBaNeSgGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+1\825	TOK	και	και	CjCo
+	SYN	[np_ge
+1\829	TOK	νερού	νερό	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/cl_q]
+1\834	PUNCT	,	,	PUNCT
+	SYN	[cl_ir
+	SYN	[advp
+1\836	TOK	πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[vg_s
+1\840	TOK	να	να	PtSj
+1\843	TOK	χρησιμοποιούν	χρησιμοποιώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\857	TOK	τον	ο	AtDfMaSgAc
+1\861	TOK	πυροσβεστήρα	πυροσβεστήρας	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_ir]
+1\873	PUNCT	,	,	PUNCT
+	SYN	[cl_ir
+	SYN	[advp
+1\875	TOK	πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[vg_s
+1\879	TOK	να	να	PtSj
+1\882	TOK	καλούν	καλώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\889	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\892	TOK	βοήθεια	βοήθεια	NoCmFeSgAc
+1\900	ABBR	κτλ.	κτλ.	ABBR
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_ir]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\906	TOK	Προμηθευτείτε	προμηθεύω	VbMnMpXx02PlXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\920	TOK	εφόδια	εφόδιο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\927	TOK	πρώτης	πρώτος	NmOdFeSgGeAj
+	SYN	/adjp_ge]
+1\934	TOK	ανάγκης	ανάγκη	NoCmFeSgGe
+	SYN	/np_ge]
+1\941	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\943	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\948	TOK	φακό	φακός	NoCmMaSgAc
+	SYN	/np_ac]
+1\952	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\954	TOK	φορητό	φορητός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\961	TOK	ραδιόφωνο	ραδιόφωνο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\971	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\974	TOK	μπαταρίες	μπαταρία	NoCmFePlAc
+	SYN	/np_ac]
+1\984	TOK	και	και	CjCo
+	SYN	[np_ac
+1\988	TOK	πυροσβεστήρα	πυροσβεστήρας	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\1000	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1003	TOK	Εξοπλιστείτε	εξοπλίζω	VbMnIdXx02PlXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\1016	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\1019	TOK	κουτί	κουτί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\1025	TOK	πρώτων	πρώτος	NmOdFePlGeAj
+	SYN	/adjp_ge]
+1\1032	TOK	βοηθειών	βοήθεια	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\1040	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\1043	TOK	Σε	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1046	TOK	όλες	όλος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\1051	TOK	τις	ο	AtDfFePlAc
+1\1055	TOK	περιπτώσεις	περίπτωση	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\1067	TOK	λάβετε	λαμβάνω	VbMnMpXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1074	TOK	ειδική	ειδικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\1081	TOK	μέριμνα	μέριμνα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\1089	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\1093	TOK	τα	ο	AtDfNePlAc
+1\1096	TOK	παιδιά	παιδί	NoCmNePlAc
+	SYN	/np_ac]
+1\1103	TOK	και	και	CjCo
+	SYN	[np_ac
+1\1107	TOK	τους	ο	AtDfMaPlAc
+	SYN	[adjp_ac
+1\1112	TOK	ηλικιωμένους	ηλικιωμένος	AjBaMaPlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\1124	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

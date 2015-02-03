@@ -1,0 +1,55 @@
+1	Έλα	έλα	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+3	παρέα	παρέα	No	NoCm	Fe|Sg|Ac	2	Adv	_	_	
+4	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	3	Pos	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Τασία	Τασία	No	NoPr	Fe|Sg|Nm	6	Sb	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	μικρή	μικρός	Aj	Aj	Ba|Fe|Sg|Nm	2	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	δυνατή	δυνατός	Aj	Aj	Ba|Fe|Sg|Nm	6	Pnom	_	_	
+8	πολύ	πολύ	Ad	Ad	Ba	6	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλη	όλος	Aj	Aj	Ba|Fe|Sg|Nm	2	Atr	_	_	
+2	μέρα	μέρα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	παίζει	παίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	μπάλα	μπάλα	No	NoCm	Fe|Sg|Ac	9	ExD_Co	_	_	
+5	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+6	κυνηγητό	κυνηγητό	No	NoCm	Ne|Sg|Ac	9	Atr_Co	_	_	
+7	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+8	κούνια	κούνια	No	NoCm	Fe|Sg|Ac	9	Atr_Co	_	_	
+9	,	,	PUNCT	PUNCT	_	3	Coord	_	_	
+10	τραμπάλα	τραμπάλα	No	NoCm	Fe|Sg|Ac	9	ExD_Co	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	κουδούνι	κουδούνι	No	NoCm	Ne|Sg|Nm	6	Sb	_	_	
+3	όταν	όταν	Cj	CjSb	_	6	AuxC	_	_	
+4	κτυπά	κτυπώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	παίζει	παίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	με	με	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	10	Atr	_	_	
+9	τα	ο	At	AtDf	Ne|Pl|Ac	10	Det	_	_	
+10	παιδιά	παιδί	No	NoCm	Ne|Pl|Ac	7	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όταν	όταν	Cj	CjSb	_	7	AuxC	_	_	
+2	βλέπει	βλέπω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+3	την	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	Αμάντα	Αμάντα	No	NoPr	Fe|Sg|Ac	2	Obj	_	_	
+5	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+6	"	"	OPUNCT	OPUNCT	_	7	AuxG	_	_	
+7	έλα	έλα	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	10	Obj	_	_	
+8	"	"	CPUNCT	CPUNCT	_	7	AuxG	_	_	
+9	της	εγώ	Pn	PnPe	Fe|03|Sg|Ge|We	7	Obj	_	_	
+10	λέει	λέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+11	"	"	OPUNCT	OPUNCT	_	12	AuxG	_	_	
+12	έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	10	Sb	_	_	
+13	μπάλα	μπάλα	No	NoCm	Fe|Sg|Ac	12	Obj	_	_	
+14	"	"	CPUNCT	CPUNCT	_	12	AuxG	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,93 @@
+1	Κρητικός	Κρητικός	No	NoPr	Ma|Sg|Nm	2	Atr	_	_	
+2	γάμος	γάμος	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+
+1	Στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	4	AuxP	_	_	
+2	κρητικό	κρητικός	Aj	Aj	Ba|Ma|Sg|Ac	3	Atr	_	_	
+3	γάμο	γάμος	No	NoCm	Ma|Sg|Ac	1	Adv	_	_	
+4	καλούσαν	καλώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	όλο	όλος	Aj	Aj	Ba|Ne|Sg|Ac	7	Atr	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	χωριό	χωριό	No	NoCm	Ne|Sg|Ac	4	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	γλέντι	γλέντι	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+3	κρατούσε	κρατώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	μέρες	μέρα	No	NoCm	Fe|Pl|Ac	3	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	2	Sb	_	_	
+2	βοηθούσαν	βοηθώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	2	AuxP	_	_	
+4	ετοιμασία	ετοιμασία	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+5	των	ο	At	AtDf	Ne|Pl|Ge	6	Det	_	_	
+6	φαγητών	φαγητό	No	NoCm	Ne|Pl|Ge	4	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Παλιά	παλιός	Ad	Ad	Ba	5	Adv	_	_	
+2	όλο	όλος	Aj	Aj	Ba|Ne|Sg|Ac	4	Atr	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	χωριό	χωριό	No	NoCm	Ne|Sg|Ac	5	Obj	_	_	
+5	έστελνε	στέλνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	τα	ο	At	AtDf	Ne|Pl|Ac	8	Det	_	_	
+7	«	«	OPUNCT	OPUNCT	_	8	AuxG	_	_	
+8	κανίσκια	κανίσκι	No	NoCm	Ne|Pl|Ac	5	Obj	_	_	
+9	»	»	CPUNCT	CPUNCT	_	8	AuxG	_	_	
+10	(	(	OPUNCT	OPUNCT	_	11	AuxG	_	_	
+11	σακούλια	σακούλι	No	NoCm	Ne|Pl|Ac	5	Obj	_	_	
+12	με	με	AsPp	AsPpSp	_	11	AuxP	_	_	
+13	τρόφιμα	τρόφιμα	No	NoCm	Ne|Pl|Ac	12	Atr	_	_	
+14	)	)	CPUNCT	CPUNCT	_	11	AuxG	_	_	
+15	για	για	AsPp	AsPpSp	_	5	AuxP	_	_	
+16	να	να	Pt	PtSj	_	17	AuxV	_	_	
+17	βοηθήσουν	βοηθώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	15	Adv	_	_	
+18	το	ο	At	AtDf	Ne|Sg|Ac	19	Det	_	_	
+19	ζευγάρι	ζευγάρι	No	NoCm	Ne|Sg|Ac	17	Obj	_	_	
+20	να	να	Pt	PtSj	_	21	AuxV	_	_	
+21	κάνει	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	17	IObj	_	_	
+22	το	ο	At	AtDf	Ne|Sg|Ac	23	Det	_	_	
+23	γλέντι	γλέντι	No	NoCm	Ne|Sg|Ac	21	Obj	_	_	
+24	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	7	AuxP	_	_	
+2	κρητικό	κρητικός	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr	_	_	
+3	τραπέζι	τραπέζι	No	NoCm	Ne|Sg|Ac	1	Adv	_	_	
+4	του	ο	At	AtDf	Ma|Sg|Ge	5	Det	_	_	
+5	γάμου	γάμος	No	NoCm	Ma|Sg|Ge	3	Atr	_	_	
+6	θα	θα	Pt	PtFu	_	7	AuxV	_	_	
+7	βρεις	βρίσκω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+8	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	αρνί	αρνί	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+2	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	πιλάφι	πιλάφι	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+4	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	τυρί	τυρί	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+2	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	μέλι	μέλι	No	NoCm	Ne|Sg|Ac	4	Atr_Co	_	_	
+4	και	και	Cj	CjCo	_	2	Coord	_	_	
+5	τσικουδιά	τσικουδιά	No	NoCm	Fe|Sg|Ac	4	Atr_Co	_	_	
+6	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	σαλάτες	σαλάτα	No	NoCm	Fe|Pl|Nm	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	μεζεδάκια	μεζεδάκι	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	από	από	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	κρέας	κρέας	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+4	(	(	OPUNCT	OPUNCT	_	6	AuxG	_	_	
+5	συκωταριές	συκωταριά	No	NoCm	Fe|Pl|Ac	6	Atr_Co	_	_	
+6	και	και	Cj	CjCo	_	3	Coord	_	_	
+7	κεφαλάκια	κεφαλάκι	No	NoCm	Ne|Pl|Ac	6	Atr_Co	_	_	
+8	)	)	CPUNCT	CPUNCT	_	6	AuxG	_	_	
+9	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	κρέας	κρέας	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+2	ψητό	ψητός	Aj	Aj	Ba|Ma|Sg|Ac	1	Atr	_	_	
+3	με	με	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	πατάτες	πατάτα	No	NoCm	Fe|Pl|Ac	3	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	ξεροτήγανα	ξεροτήγανο	No	NoCm	Ne|Pl|Ac	4	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

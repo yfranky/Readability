@@ -1,0 +1,122 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Τα	ο	AtDfNePlNm
+1\4	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\11	TOK	κυνηγάνε	κυνηγώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\20	TOK	τον	ο	AtDfMaSgAc
+1\24	TOK	Φασαρία	φασαρία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\31	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\34	TOK	Ο	ο	AtDfMaSgNm
+1\36	TOK	Φασαρίας	φασαρίας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\45	TOK	κυνηγάει	κυνηγώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\54	TOK	τη	ο	AtDfFeSgAc
+1\57	TOK	γάτα	γάτα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\62	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\66	TOK	η	ο	AtDfFeSgNm
+1\68	TOK	γάτα	γάτα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\73	TOK	τρέχει	τρέχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\80	TOK	για	για	AsPpSp
+1\84	TOK	να	να	PtSj
+1\87	TOK	σωθεί	σώζω	VbMnIdXx03SgXxPePvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\92	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\95	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\96	TOK	Νικήτα	Νικήτας	NoPrMaSgAc
+	SYN	/np_ac]
+1\102	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\104	TOK	πρόσεχε	προσέχω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\112	TOK	το	ο	AtDfNeSgAc
+1\115	TOK	καφάσι	καφάσι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\121	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\124	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\125	TOK	Σταμάτα	Σταμάτα	NoPrFeSgAc
+	SYN	/np_ac]
+1\132	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\134	TOK	Φασαρία	φασαρία	NoCmFeSgAc
+	SYN	/np_ac]
+1\141	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\144	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\145	TOK	Η	ο	AtDfFeSgNm
+1\147	TOK	γάτα	γάτα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\152	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\158	TOK	πάνω	πάνω	AdXxBa
+	SYN	[pp
+1\163	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\167	TOK	δέντρο	δέντρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\173	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\176	ENUM	-	-	ENUM
+	SYN	[vg
+1\177	TOK	Ησύχασε	ησυχάζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\185	TOK	η	ο	AtDfFeSgNm
+1\187	TOK	γάτα	γάτα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\191	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\193	TOK	ησυχάσαμε	ησυχάζω	VbMnIdPa01PlXxPeAvXx
+	SYN	/vg]
+1\203	TOK	κι	και	CjCo
+	SYN	[np_nm
+1\206	TOK	εμείς	εγώ	PnPeMa01PlNmSt
+	SYN	/np_nm]
+	SYN	/cl]
+1\211	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

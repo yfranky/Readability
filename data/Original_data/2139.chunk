@@ -1,0 +1,46 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Εγώ	εγώ	PnPeMa01SgNmSt
+	SYN	/np_nm]
+	SYN	[vg
+1\5	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\11	TOK	ήσυχος	ήσυχος	AjBaMaSgNm
+1\18	TOK	και	και	CjCo
+1\22	TOK	καλός	καλός	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\27	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\29	TOK	Οι	ο	AtDfFePlNm
+1\32	TOK	άλλοι	άλλος	PnIdMa03PlNmXx
+	SYN	/np_nm]
+1\37	PUNCT	,	,	PUNCT
+1\39	TOK	όμως	όμως	CjCo
+1\43	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\45	TOK	νομίζουν	νομίζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\54	TOK	ότι	ότι	CjSb
+	SYN	[vg
+1\58	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\64	TOK	ανήσυχος	ανήσυχος	AjBaMaSgNm
+1\73	TOK	και	και	CjCo
+1\77	TOK	άτακτος	άτακτος	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\84	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

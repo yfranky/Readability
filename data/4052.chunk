@@ -1,0 +1,430 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1	TOK	Πάρε	παίρνω	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+1\6	TOK	με	με	AsPpSp
+	SYN	[pp
+1\9	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\13	TOK	τηλέφωνο	τηλέφωνο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\23	TOK	Οι	ο	AtDfMaPlNm
+1\26	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\35	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\39	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+1\44	TOK	παλιά	παλιός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\50	TOK	προσπαθούσαν	προσπαθώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\63	TOK	να	να	PtSj
+1\66	TOK	βρουν	βρίσκω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\72	TOK	τρόπους	τρόπος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+	SYN	[cl_o
+	SYN	[vg_s
+1\80	TOK	για	για	AsPpSp
+1\84	TOK	να	να	PtSj
+1\87	TOK	επικοινωνήσουν	επικοινωνώ	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[pp
+1\102	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\105	TOK	άλλους	άλλος	PnIdMa03PlAcXx
+1\112	TOK	ανθρώπους	άνθρωπος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\122	TOK	που	που	PnReMa03PlAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\126	TOK	βρίσκονταν	βρίσκω	VbMnIdPa03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\137	TOK	μακριά	μακριά	AdXxBa
+	SYN	/advp]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\143	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\145	TOK	Έστελναν	στέλνω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\154	TOK	σήματα	σήμα	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[cl_g
+	SYN	[vg_g
+1\161	TOK	χρησιμοποιώντας	χρησιμοποιώ	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[np_ac
+1\177	TOK	φωτιές	φωτιά	NoCmFePlAc
+	SYN	/np_ac]
+1\184	TOK	και	και	CjCo
+	SYN	[np_ac
+1\188	TOK	καθρέφτες	καθρέφτης	NoCmMaPlAc
+	SYN	/np_ac]
+1\197	PUNCT	,	,	PUNCT
+1\199	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\203	TOK	γραπτά	γραπτός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\210	TOK	μηνύματα	μήνυμα	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[vg_g
+1\219	TOK	χρησιμοποιώντας	χρησιμοποιώ	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[np_ac
+1\235	TOK	ταχυδρόμους	ταχυδρόμος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/cl_g]
+	SYN	/cl]
+1\246	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\249	TOK	Η	ο	AtDfFeSgNm
+1\251	TOK	επανάσταση	επανάσταση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\262	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\267	TOK	επικοινωνίες	επικοινωνία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\279	PUNCT	,	,	PUNCT
+1\281	TOK	όμως	όμως	CjCo
+1\285	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\287	TOK	ήρθε	έρχομαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\292	TOK	τον	ο	AtDfMaSgAc
+	SYN	[adjp_ac
+1\296	TOK	19ο	19ος	NmOdMaSgAcAj
+	SYN	/adjp_ac]
+1\300	TOK	αιώνα	αιώνας	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\306	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\309	TOK	τον	ο	AtDfMaSgAc
+	SYN	[adjp_ac
+1\313	TOK	ηλεκτρικό	ηλεκτρικός	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\323	TOK	τηλέγραφο	τηλέγραφος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\333	TOK	πρώτα	πρώτα	AdXxBa
+	SYN	/advp]
+1\339	TOK	και	και	CjCo
+	SYN	[pp
+1\343	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\346	TOK	το	ο	AtDfNeSgAc
+1\349	TOK	τηλέφωνο	τηλέφωνο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\358	TOK	μετά	μετά	AsPpSp
+1\362	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\364	TOK	Αυτές	αυτός	PnDmFe03PlNmXx
+1\370	TOK	οι	ο	AtDfFePlNm
+	SYN	[adjp_nm
+1\373	TOK	δύο	δύο	NmCdFePlNmAj
+	SYN	/adjp_nm]
+1\377	TOK	εφευρέσεις	εφεύρεση	NoCmFePlNm
+	SYN	/np_nm]
+1\387	PUNCT	,	,	PUNCT
+	SYN	[cl_g
+	SYN	[vg_g
+1\389	TOK	χρησιμοποιώντας	χρησιμοποιώ	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[pp
+1\405	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\408	TOK	διαφορετικό	διαφορετικός	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\420	TOK	τρόπο	τρόπος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\426	TOK	η	ο	AtDfFeSgNm
+	SYN	[np_nm
+1\428	TOK	καθεμία	καθένας	PnIdFe03SgNmXx
+	SYN	/np_nm]
+	SYN	[np_ac
+1\436	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\439	TOK	ηλεκτρικό	ηλεκτρικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\449	TOK	ρεύμα	ρεύμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_g]
+1\454	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\456	TOK	έδωσαν	δίνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\463	TOK	τη	ο	AtDfFeSgAc
+1\466	TOK	δυνατότητα	δυνατότητα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\477	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\481	TOK	λόγια	λόγος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\487	TOK	των	ο	AtDfMaPlGe
+1\491	TOK	ανθρώπων	άνθρωπος	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\500	TOK	να	να	PtSj
+1\503	TOK	ταξιδέψουν	ταξιδεύω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\514	TOK	πολύ	πολύ	AdXxBa
+1\519	TOK	μακριά	μακριά	AdXxBa
+1\526	TOK	και	και	CjCo
+1\530	TOK	πολύ	πολύ	AdXxBa
+1\535	TOK	γρήγορα	γρήγορα	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+1\542	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\545	TOK	Ο	ο	AtDfMaSgNm
+1\547	TOK	εφευρέτης	εφευρέτης	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\557	TOK	του	ο	AtDfNeSgGe
+1\561	TOK	τηλεφώνου	τηλέφωνο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\571	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\576	TOK	ο	ο	AtDfMaSgNm
+1\578	TOK	Αλεξάντερ	Αλεξάντερ	NoPrMaSgNm
+1\588	TOK	Γκράχαμ	Γκράχαμ	NoPrMaSgNm
+1\596	TOK	Μπελ	Μπελ	NoPrMaSgNm
+	SYN	/np_nm]
+1\600	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\602	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\606	TOK	γεννήθηκε	γεννώ	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\616	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\620	TOK	Σκοτία	Σκοτία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\627	TOK	το	ο	AtDfNeSgAc
+1\630	DIG	1847	1847	DIG
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\634	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\636	TOK	Το	ο	AtDfNeSgNm
+1\639	TOK	τηλέφωνο	τηλέφωνο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\648	TOK	του	ο	AtDfNeSgGe
+1\652	TOK	Μπελ	Μπελ	NoPrNeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\657	TOK	λειτουργούσε	λειτουργώ	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\670	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\673	TOK	απλό	απλός	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\678	TOK	τρόπο	τρόπος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\683	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\685	TOK	Αυτός	αυτός	PnDmMa03SgNmXx
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\691	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\695	TOK	τηλεφωνούσε	τηλεφωνώ	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	[vg
+1\707	TOK	φώναζε	φωνάζω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\714	TOK	μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\719	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\722	TOK	έναν	ένας	AtIdMaSgAc
+1\727	TOK	κώνο	κώνος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\731	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[advp
+1\733	TOK	όπου	όπου	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\738	TOK	ένας	ένας	AtIdMaSgNm
+1\743	TOK	μαγνήτης	μαγνήτης	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\752	TOK	εκτελούσε	εκτελώ	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\762	TOK	ταλαντώσεις	ταλάντωση	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[cl_g
+	SYN	[vg_g
+1\774	TOK	δημιουργώντας	δημιουργώ	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\788	TOK	ηλεκτρικά	ηλεκτρικός	AjBaNePlNm
+	SYN	/adjp_nm]
+1\798	TOK	κύματα	κύμα	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/cl_g]
+	SYN	/cl_r]
+	SYN	/cl]
+1\804	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\806	TOK	Τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\809	TOK	ηλεκτρικά	ηλεκτρικός	AjBaNePlNm
+	SYN	/adjp_nm]
+1\819	TOK	κύματα	κύμα	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\826	TOK	έφταναν	φτάνω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\834	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\839	TOK	δέκτη	δέκτης	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\845	TOK	ως	ως	AdXxBa
+	SYN	[np_nm
+1\848	TOK	ήχος	ήχος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/advp]
+	SYN	/cl]
+1\852	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\854	TOK	Η	ο	AtDfFeSgNm
+1\856	TOK	εμβέλεια	εμβέλεια	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\865	TOK	της	ο	AtDfFeSgGe
+	SYN	[adjp_ge
+1\869	TOK	πρώτης	πρώτος	NmOdFeSgGeAj
+	SYN	/adjp_ge]
+1\876	TOK	συσκευής	συσκευή	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\885	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\890	DIG	60	60	DIG
+1\893	TOK	μέτρα	μέτρο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\898	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\900	TOK	Στις	στου	AsPpPaFePlAc
+	SYN	[np_ge
+1\905	DIG	10	10	DIG
+1\908	TOK	Μαρτίου	Μάρτιος	NoCmMaSgGe
+1\916	DIG	1875	1875	DIG
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[vg
+1\921	TOK	έγινε	γίνομαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\927	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\929	TOK	πρώτη	πρώτος	NmOdFeSgNmAj
+1\935	TOK	τηλεφωνική	τηλεφωνικός	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\946	TOK	κλήση	κλήση	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\952	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\957	TOK	κόσμο	κόσμος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\962	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,36 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Τα	ο	AtDfNePlNm
+1\4	TOK	τσιμπήματα	τσίμπημα	NoCmNePlNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\16	TOK	Τα	ο	AtDfNePlNm
+1\19	TOK	πουλιά	πουλί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\26	TOK	τσιμπούν	τσιμπώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+1\35	TOK	το	ο	AtDfNeSgAc
+	SYN	[np_nm
+1\38	TOK	ένα	ένας	PnIdNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[np_ac
+1\42	TOK	το	ο	AtDfNeSgAc
+1\45	TOK	άλλο	άλλος	PnIdNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[pp
+1\50	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\54	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\58	TOK	μισοφαγωμένο	μισοφαγωμένος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\71	TOK	μήλο	μήλο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\75	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

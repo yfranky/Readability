@@ -1,0 +1,43 @@
+1	Κάντε	κάνω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+2	και	και	Cj	CjCo	_	0	Coord	_	_	
+3	εσείς	εγώ	Pn	PnPe	Ma|02|Pl|Nm|St	2	ExD_Co	_	_	
+4	ένα	ένας	At	AtId	Ne|Sg|Ac	6	Det	_	_	
+5	αποφασιστικό	αποφασιστικός	Aj	Aj	Ba|Ne|Sg|Ac	6	Atr	_	_	
+6	βήμα	βήμα	No	NoCm	Ne|Sg|Ac	3	Atr	_	_	
+7	για	για	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	την	ο	At	AtDf	Fe|Sg|Ac	9	Det	_	_	
+9	ασφάλειά	ασφάλεια	No	NoCm	Fe|Sg|Ac	7	Atr	_	_	
+10	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	9	Pos	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βάλτε	βάζω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+3	παιδί	παιδί	No	NoCm	Ne|Sg|Nm	1	Obj	_	_	
+4	πάντα	πάντα	Ad	Ad	Ba	3	Adv	_	_	
+5	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+6	πίσω	πίσω	Ad	Ad	Ba	7	Adv	_	_	
+7	θέση	θέση	No	NoCm	Fe|Sg|Ac	5	Obj	_	_	
+8	με	με	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	ζώνη	ζώνη	No	NoCm	Fe|Sg|Ac	8	Atr	_	_	
+10	ασφαλείας	ασφάλεια	No	NoCm	Fe|Sg|Ge	9	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αν	αν	Cj	CjSb	_	7	AuxC	_	_	
+2	έχετε	έχω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	1	Adv	_	_	
+3	πολύ	πολύ	Ad	Ad	Ba	4	Adv	_	_	
+4	μικρό	μικρός	Aj	Aj	Ba|Ne|Sg|Ac	5	Atr	_	_	
+5	παιδί	παιδί	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	φροντίστε	φροντίζω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+8	να	να	Pt	PtSj	_	9	AuxV	_	_	
+9	τοποθετήσετε	τοποθετώ	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	7	Obj	_	_	
+10	το	ο	At	AtDf	Ne|Sg|Ac	12	Det	_	_	
+11	ειδικό	ειδικός	Aj	Aj	Ba|Ne|Sg|Ac	12	Atr	_	_	
+12	κάθισμα	κάθισμα	No	NoCm	Ne|Sg|Ac	9	Obj	_	_	
+13	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	9	AuxP	_	_	
+14	μέση	μέση	No	NoCm	Fe|Sg|Ac	13	Adv	_	_	
+15	του	ο	At	AtDf	Ne|Sg|Ge	17	Det	_	_	
+16	πίσω	πίσω	Ad	Ad	Ba	17	Atr	_	_	
+17	καθίσματος	κάθισμα	No	NoCm	Ne|Sg|Ge	14	Atr	_	_	
+18	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

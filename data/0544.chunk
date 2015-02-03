@@ -1,0 +1,202 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Οι	ο	AtDfMaPlNm
+1\4	TOK	Ινδιάνοι	ινδιάνος	NoPrMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\13	TOK	της	ο	AtDfFeSgGe
+1\17	TOK	Αμερικής	Αμερική	NoPrFeSgGe
+	SYN	/np_ge]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\27	TOK	Στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+1\31	TOK	νησιά	νησί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_ac
+1\37	TOK	που	που	PnReNe03PlAcXx
+	SYN	/pou_np_ac]
+	SYN	[vg
+1\41	TOK	ανακάλυψε	ανακαλύπτω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\51	TOK	ο	ο	AtDfMaSgNm
+1\53	TOK	Κολόμβος	Κολόμβος	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl_r]
+	SYN	[vg
+1\62	TOK	κατοικούσαν	κατοικώ	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\74	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\82	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+1\84	TOK	Καθώς	καθώς	CjSb
+1\90	TOK	όμως	όμως	CjCo
+	SYN	[vg
+1\95	TOK	νόμιζε	νομίζω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_o]
+	SYN	[cl_o
+1\102	TOK	ότι	ότι	CjSb
+	SYN	[vg
+1\106	TOK	είχε	έχω	VbMnIdPa03SgXxIpAvXx
+1\111	TOK	αποβιβαστεί	αποβιβάζω	VbMnNfXxXxXxXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\123	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\128	TOK	Ινδίες	Ινδία	NoPrFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_o]
+1\134	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\136	TOK	ο	ο	AtDfMaSgNm
+1\138	TOK	Κολόμβος	Κολόμβος	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\147	TOK	ονόμασε	ονομάζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\155	TOK	αυτούς	αυτός	PnDmMa03PlAcXx
+1\162	TOK	τους	ο	AtDfMaPlAc
+1\167	TOK	ανθρώπους	άνθρωπος	NoCmMaPlAc
+1\177	OPUNCT	«	«	OPUNCT
+1\178	TOK	Ινδιάνους	ινδιάνος	NoPrMaPlAc
+1\187	CPUNCT	»	»	CPUNCT
+	SYN	/np_ac]
+	SYN	/cl]
+1\188	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\190	TOK	Μάλιστα	μάλιστα	AdXxBa
+	SYN	/advp]
+	SYN	[advp
+1\198	TOK	ακόμη	ακόμα	AdXxBa
+1\204	TOK	και	και	CjCo
+1\208	TOK	σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\215	TOK	τα	ο	AtDfNePlAc
+1\218	TOK	νησιά	νησί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\224	TOK	της	ο	AtDfFeSgGe
+1\228	TOK	Καραϊβικής	Καραϊβική	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\239	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\245	TOK	γνωστά	γνωστός	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[advp
+1\252	TOK	ως	ως	AdXxBa
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\255	TOK	Δυτικές	δυτικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\263	TOK	Ινδίες	Ινδία	NoPrFePlAc
+	SYN	/np_ac]
+	SYN	/advp]
+	SYN	/cl]
+1\269	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[advp
+1\272	TOK	Πώς	πώς	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\276	TOK	βαφτίστηκε	βαφτίζω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\287	TOK	η	ο	AtDfFeSgNm
+1\289	TOK	Αμερική	Αμερική	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\298	TOK	H	H	RgFwOr
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\300	TOK	νέα	νέος	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\304	TOK	ήπειρος	ήπειρος	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\312	TOK	ονομάστηκε	ονομάζω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\323	TOK	Αμερική	Αμερική	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\331	TOK	το	ο	AtDfNeSgAc
+1\334	DIG	1507	1507	DIG
+	SYN	/np_ac]
+1\338	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\340	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\344	TOK	το	ο	AtDfNeSgAc
+1\347	TOK	όνομα	όνομα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\353	TOK	του	ο	AtDfNeSgGe
+1\357	TOK	Αμέριγκο	Αμέριγκο	NoPrNeSgGe
+1\366	TOK	Βεσπούτσι	Βεσπούτσι	NoPrNeSgGe
+	SYN	/np_ge]
+1\375	PUNCT	,	,	PUNCT
+	SYN	[np_ge
+1\377	TOK	ενός	ένας	AtIdMaSgGe
+1\382	TOK	Ιταλού	Ιταλός	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[np_ac
+1\389	TOK	εξερευνητή	εξερευνητής	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\400	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\404	TOK	έφτασε	φτάνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\411	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\415	TOK	Νότια	νότιος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\421	TOK	Αμερική	Αμερική	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\429	TOK	λίγο	λίγο	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\434	TOK	μετά	μετά	AsPpSp
+	SYN	[np_ac
+1\439	TOK	τον	ο	AtDfMaSgAc
+1\443	TOK	Κολόμβο	Κολόμβος	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\450	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

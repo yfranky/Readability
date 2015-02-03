@@ -1,0 +1,43 @@
+1	Γεια	γεια	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+2	σας	μου	Pn	PnPo	Ma|02|Pl|Ge|Xx	1	Pos	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	2	Obj	_	_	
+2	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	Μάρκο	Μάρκος	No	NoPr	Ma|Sg|Ac	4	Atr	_	_	
+4	Φιλιππούσση	Φιλιππούσση	No	NoPr	Ma|Sg|Ac	2	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γεννήθηκα	γεννώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+3	Μελβούρνη	Μελβούρνη	No	NoPr	Fe|Sg|Ac	2	Adv	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+6	Αυστραλία	Αυστραλία	No	NoPr	Fe|Sg|Ac	5	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	Ελληνικής	ελληνικός	Aj	Aj	Ba|Fe|Sg|Ge	3	Atr_Co	_	_	
+3	και	και	Cj	CjCo	_	5	Coord	_	_	
+4	ιταλικής	ιταλικός	Aj	Aj	Ba|Fe|Sg|Ge	3	Atr_Co	_	_	
+5	καταγωγής	καταγωγή	No	NoCm	Fe|Sg|Ge	1	Pnom	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μένω	μένω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+2	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+3	Μελβούρνη	Μελβούρνη	No	NoPr	Fe|Sg|Ac	2	Adv	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	μιλώ	μιλώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+6	Αγγλικά	Αγγλικά	No	NoPr	Ne|Pl|Ac	5	Obj	_	_	
+7	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+8	Ελληνικά	ελληνικός	Aj	Aj	Ba|Ne|Pl|Nm	9	Pnom_Co	_	_	
+9	και	και	Cj	CjCo	_	5	Coord	_	_	
+10	Ιταλικά	Ιταλικά	Aj	Aj	Ba|Ne|Pl|Ac	9	Pnom_Co	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	παίκτης	παίκτης	No	NoCm	Ma|Sg|Nm	1	Pnom	_	_	
+3	του	ο	At	AtDf	Ne|Sg|Ge	4	Det	_	_	
+4	τένις	τένις	No	NoCm	Ne|Sg|Ge	2	Atr	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

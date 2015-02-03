@@ -1,0 +1,65 @@
+1	Την	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+2	επόμενη	επόμενος	Aj	Aj	Ba|Fe|Sg|Ac	3	Atr	_	_	
+3	φορά	φορά	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+4	που	που	Pn	PnRe	Fe|03|Sg|Ac|Xx	6	Obj	_	_	
+5	θα	θα	Pt	PtFu	_	6	AuxV	_	_	
+6	πας	πηγαίνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	3	Atr	_	_	
+7	σε	σε	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	κάποιο	κάποιος	Pn	PnId	Ne|03|Sg|Ac|Xx	9	Atr	_	_	
+9	δάσος	δάσος	No	NoCm	Ne|Sg|Ac	7	Adv	_	_	
+10	θυμήσου	θυμάμαι	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Pv|Xx	6	Pnom	_	_	
+11	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Χρησιμοποίησε	χρησιμοποιώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ξερά	ξερά	Ad	Ad	Ba	1	Adv	_	_	
+3	ξύλα	ξύλο	No	NoCm	Ne|Pl|Ac	4	Obj_Co	_	_	
+4	και	και	Cj	CjCo	_	1	Coord	_	_	
+5	όχι	όχι	Pt	PtNg	_	6	Adv	_	_	
+6	πράσινα	πράσινος	Aj	Aj	Ba|Ne|Pl|Ac	7	Atr	_	_	
+7	κλαδιά	κλαδί	No	NoCm	Ne|Pl|Ac	4	Obj_Co	_	_	
+8	για	για	AsPp	AsPpSp	_	1	AuxP	_	_	
+9	τα	ο	At	AtDf	Ne|Pl|Ac	10	Det	_	_	
+10	παιχνίδια	παιχνίδι	No	NoCm	Ne|Pl|Ac	8	Adv	_	_	
+11	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	10	Pos	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μη	μην	Pt	PtNg	_	2	AuxV	_	_	
+2	χαράζεις	χαράζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τα	ο	At	AtDf	Ne|Pl|Ac	4	Det	_	_	
+4	δέντρα	δέντρο	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	γιατί	γιατί	Cj	CjSb	_	2	AuxC	_	_	
+7	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	8	Obj	_	_	
+8	πληγώνεις	πληγώνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	6	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μην	μην	Pt	PtNg	_	2	AuxV	_	_	
+2	κόβεις	κόβω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τις	ο	At	AtDf	Fe|Pl|Ac	4	Det	_	_	
+4	κορφές	κορφή	No	NoCm	Fe|Pl|Ac	2	Obj	_	_	
+5	των	ο	At	AtDf	Ne|Pl|Ge	6	Det	_	_	
+6	δέντρων	δέντρο	No	NoCm	Ne|Pl|Ge	4	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φύτεψε	φυτεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+3	δάσος	δάσος	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	σε	σε	AsPp	AsPpSp	_	1	AuxP	_	_	
+6	ένα	ένας	At	AtId	Ne|Sg|Ac	7	Det	_	_	
+7	ξέφωτο	ξέφωτος	Aj	Aj	Ba|Ma|Sg|Ac	5	Adv	_	_	
+8	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+9	τα	ο	At	AtDf	Ne|Pl|Nm	10	Det	_	_	
+10	φυτά	φυτό	No	NoCm	Ne|Pl|Nm	7	Atr	_	_	
+11	που	που	Pn	PnRe	Ne|03|Pl|Nm|Xx	12	Sb	_	_	
+12	έπαψαν	παύω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	10	Atr	_	_	
+13	να	να	Pt	PtSj	_	14	AuxV	_	_	
+14	ανθίζουν	ανθίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	12	Obj	_	_	
+15	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	17	AuxP	_	_	
+16	κήπο	κήπος	No	NoCm	Ma|Sg|Ac	15	Obj_Co	_	_	
+17	ή	ή	Cj	CjCo	_	14	Coord	_	_	
+18	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	17	AuxP	_	_	
+19	μπαλκόνι	μπαλκόνι	No	NoCm	Ne|Sg|Ac	18	Obj_Co	_	_	
+20	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	19	Pos	_	_	
+21	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,153 @@
+1	Σε	σε	AsPp	AsPpSp	_	0	ExD	_	_	
+2	μια	ένας	At	AtId	Fe|Sg|Ac	4	Det	_	_	
+3	καθαρή	καθαρός	Aj	Aj	Ba|Fe|Sg|Ac	4	Atr	_	_	
+4	πηγή	πηγή	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+
+1	πλένω	πλένω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	3	Det	_	_	
+3	καρό	καρό	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+4	χαλί	χαλί	No	NoCm	Ne|Sg|Ac	3	Atr	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βλέπω	βλέπω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μέσα	μέσα	Ad	Ad	Ba	1	Adv	_	_	
+3	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	2	AuxP	_	_	
+4	νερό	νερό	No	NoCm	Ne|Sg|Ac	3	Adv	_	_	
+
+1	κόκκινα	κόκκινος	Aj	Aj	Ba|Ne|Pl|Ac	2	Atr_Co	_	_	
+2	και	και	Cj	CjCo	_	4	Coord	_	_	
+3	μπλε	μπλε	Aj	Aj	Ba|Ne|Sg|Ac	2	Atr_Co	_	_	
+4	καρό	καρό	No	NoCm	Ne|Pl|Ac	0	ExD	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τρέχει	τρέχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	τρέχει	τρέχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	ρυάκι	ρυάκι	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+
+1	και	και	Cj	CjCo	_	2	AuxY	_	_	
+2	ποτίζει	ποτίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τον	ο	At	AtDf	Ma|Sg|Ac	4	Det	_	_	
+4	μπαξέ	μπαξές	No	NoCm	Ma|Sg|Ac	2	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βγαίνει	βγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	κόκκινο	κόκκινος	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr	_	_	
+3	σπανάκι	σπανάκι	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+4	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+
+1	Βγαίνει	βγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μια	ένας	At	AtId	Fe|Sg|Ac	3	Det	_	_	
+3	ντομάτα	ντομάτα	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+4	μπλε	μπλε	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	ποταμάκι	ποταμάκι	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+3	πάει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	πάει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Adv	_	_	
+6	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	μπαίνει	μπαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+2	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+3	δάσος	δάσος	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	κυλάει	κυλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πίνει	πίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	λαγός	λαγός	No	NoCm	Ma|Sg|Nm	1	Sb	_	_	
+4	νερό	νερό	No	NoCm	Ne|Sg|Ac	3	Atr	_	_	
+5	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κοίτα	κοιτάζω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ένας	ένας	At	AtId	Ma|Sg|Nm	2	Det	_	_	
+2	λαγός	λαγός	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+3	καρό	καρό	No	NoCm	Ne|Pl|Ac	2	Atr	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	4	AuxY	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Nm	4	Det	_	_	
+3	πλατύ	πλατύς	Aj	Aj	Ba|Ne|Sg|Nm	4	Atr	_	_	
+4	ποτάμι	ποτάμι	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+5	τώρα	τώρα	Ad	Ad	Ba	4	Adv	_	_	
+
+1	πέφτει	πέφτω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	1	AuxP	_	_	
+3	θάλασσα	θάλασσα	No	NoCm	Fe|Sg|Ac	2	Adv	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	φόρα	φόρα	No	NoCm	Fe|Sg|Ac	4	Atr	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+2	νερό	νερό	No	NoCm	Ne|Sg|Ac	1	Adv	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	αλμυρό	αλμυρός	Aj	Aj	Ba|Ne|Sg|Ac	0	ExD	_	_	
+
+1	κολυμπούν	κολυμπώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ψάρια	ψάρι	No	NoCm	Ne|Pl|Nm	1	Sb	_	_	
+3	καρό	καρό	No	NoCm	Ne|Pl|Ac	2	Atr	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βρέχει	βρέχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	βρέχει	βρέχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	τον	ο	At	AtDf	Ma|Sg|Ac	5	Det	_	_	
+5	χειμώνα	χειμώνας	No	NoCm	Ma|Sg|Ac	3	Obj	_	_	
+
+1	έξω	έξω	Ad	Ad	Ba	0	Coord	_	_	
+2	από	από	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+5	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	4	Pos	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πέφτει	πέφτω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μια	ένας	At	AtId	Fe|Sg|Ac	3	Det	_	_	
+3	καρό	καρό	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+4	σταγόνα	σταγόνα	No	NoCm	Fe|Sg|Ac	3	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+
+1	πλιτς	πλιτς	Rg	RgFw	_	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	πάνω	πάνω	Ad	Ad	Ba	1	Adv	_	_	
+4	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	3	AuxP	_	_	
+5	μύτη	μύτη	No	NoCm	Fe|Sg|Ac	4	Adv	_	_	
+6	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	5	Pos	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	5	AuxY	_	_	
+2	τη	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+3	μύτη	μύτη	No	NoCm	Fe|Sg|Ac	5	Obj	_	_	
+4	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	3	Pos	_	_	
+5	κοιτάζω	κοιτάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+
+1	κλαίω	κλαίω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+2	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+3	κλαίω	κλαίω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	φωνάζω	φωνάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+6	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	"	"	OPUNCT	OPUNCT	_	4	AuxG	_	_	
+2	Πώς	πώς	Ad	Ad	Ba	4	Adv	_	_	
+3	θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+4	πάω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	4	AuxP	_	_	
+6	χορό	χορός	No	NoCm	Ma|Sg|Ac	5	Adv	_	_	
+
+1	με	με	AsPp	AsPpSp	_	6	AuxP	_	_	
+2	τη	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+3	μύτη	μύτη	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+4	την	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	καρό	καρό	No	NoCm	Ne|Pl|Ac	3	Atr	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	Coord	_	_	
+7	"	"	CPUNCT	CPUNCT	_	6	AuxG	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

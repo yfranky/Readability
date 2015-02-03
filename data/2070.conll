@@ -1,0 +1,53 @@
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	χαρούμε	χαίρω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	πολύ	πολύ	Ad	Ad	Ba	2	Adv	_	_	
+4	να	να	Pt	PtSj	_	6	AuxV	_	_	
+5	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ge|We	6	IObj	_	_	
+6	δούμε	βλέπω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+7	στο	στου	AsPp	AsPpPa	Ma|Sg|Ac	6	AuxP	_	_	
+8	γάμο	γάμος	No	NoCm	Ma|Sg|Ac	7	Adv	_	_	
+9	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	8	Pos	_	_	
+10	την	ο	At	AtDf	Fe|Sg|Ac	11	Det	_	_	
+11	Κυριακή	Κυριακή	No	NoCm	Fe|Sg|Ac	6	Obj	_	_	
+12	15	15	DIG	DIG	_	13	Atr	_	_	
+13	Μαΐου	Μάιος	No	NoCm	Ma|Sg|Ge	11	Atr	_	_	
+14	2005	2005	DIG	DIG	_	13	Atr	_	_	
+15	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	11	AuxP	_	_	
+16	Άγιο	άγιος	Aj	Aj	Ba|Ma|Sg|Ac	17	Atr	_	_	
+17	Ελευθέριο	Ελευθέριος	No	NoPr	Ma|Sg|Ac	15	Atr	_	_	
+18	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+19	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	11	AuxP	_	_	
+20	Ατσιπόπουλο	Ατσιπόπουλο	No	NoPr	Ne|Sg|Ac	19	Atr	_	_	
+21	Ρεθύμνου	Ρέθυμνο	No	NoPr	Ne|Sg|Ge	20	Atr	_	_	
+
+1	Μάικ	Μάικ	Rg	RgFw	_	3	Atr	_	_	
+2	&	&	PUNCT	PUNCT	_	1	AuxG	_	_	
+3	Φιλιώ	Φιλιώ	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+
+1	Οικογένειες	οικογένεια	No	NoCm	Fe|Pl|Nm	0	ExD	_	_	
+2	:	:	PTERM_P	PTERM_P	_	4	AuxG	_	_	
+3	Επαμεινώνδα	Επαμεινώνδας	No	NoPr	Ma|Sg|Ac	4	Atr	_	_	
+4	Πάπας	πάπας	No	NoCm	Ma|Sg|Nm	1	Atr	_	_	
+5	-	-	PUNCT	PUNCT	_	4	AuxG	_	_	
+6	Μανούσου	Μανούσος	No	NoPr	Ma|Sg|Ge	7	Atr	_	_	
+7	Χαλκιαδάκη	Χαλκιαδάκη	No	NoPr	Ma|Sg|Ge	4	Atr	_	_	
+
+1	Οικία	οικία	No	NoCm	Fe|Sg|Nm	2	ExD_Co	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	Coord	_	_	
+3	Καναδάς	Καναδάς	No	NoPr	Ma|Sg|Nm	4	ExD_Co	_	_	
+4	και	και	Cj	CjCo	_	2	Coord_Co	_	_	
+5	Κρήτη	Κρήτη	No	NoPr	Fe|Sg|Ac	4	ExD_Co	_	_	
+
+1	Μετά	μετά	AsPp	AsPpSp	_	5	AuxP	_	_	
+2	το	ο	At	AtDf	Ma|Sg|Ac	3	Det	_	_	
+3	γάμο	γάμος	No	NoCm	Ma|Sg|Ac	1	Adv	_	_	
+4	σάς	σάς	Pn	PnPo	Ma|02|Pl|Ge|Xx	3	Pos	_	_	
+5	περιμένουμε	περιμένω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+7	γαμήλιο	γαμήλιος	Aj	Aj	Ba|Ne|Sg|Ac	8	Atr	_	_	
+8	γλέντι	γλέντι	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+9	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	8	AuxP	_	_	
+10	πλατεία	πλατεία	No	NoCm	Fe|Sg|Ac	9	Atr	_	_	
+11	του	ο	At	AtDf	Ne|Sg|Ge	12	Det	_	_	
+12	χωριού	χωριό	No	NoCm	Ne|Sg|Ge	10	Atr	_	_	
+

@@ -1,0 +1,31 @@
+	(SENT	<S>
+	SYN	[cl
+1\1	ENUM	-	-	ENUM
+	SYN	[vg
+1\2	TOK	Πουλάω	πουλώ	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\9	TOK	λάδι	λάδι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\13	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\16	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\17	TOK	Μας	εγώ	PnPeMa01PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\21	TOK	δίνεις	δίνω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\28	TOK	έναν	ένας	AtIdMaSgAc
+	SYN	[adjp_ac
+1\33	TOK	μικρό	μικρός	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\39	TOK	τενεκέ	τενεκές	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\45	PTERM_P	;	;	PTERM_P
+	)SENT	</S>

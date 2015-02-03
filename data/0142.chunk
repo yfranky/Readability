@@ -1,0 +1,79 @@
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[vg
+1\1	TOK	Θέλεις	θέλω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+	SYN	[cl_o
+	SYN	[vg_s
+1\8	TOK	να	να	PtSj
+1\11	TOK	βρεις	βρίσκω	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\17	TOK	έναν	ένας	AtIdMaSgAc
+	SYN	/np_ac]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\22	TOK	κρυμμένο	κρυμμένος	VbMnPpXxXxSgNePePvNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+1\31	TOK	θησαυρό	θησαυρός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\38	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\41	TOK	Πήγαινε	πηγαίνω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\49	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\52	TOK	τους	ο	AtDfMaPlAc
+1\57	TOK	φίλους	φίλος	NoCmMaPlAc
+1\64	TOK	σου	μου	PnPoMa02SgGeXx
+	SYN	/np_ac]
+1\67	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\69	TOK	τον	ο	AtDfMaSgAc
+1\73	TOK	Αχμέτ	Αχμέτ	NoPrMaSgAc
+	SYN	/np_ac]
+1\79	TOK	και	και	CjCo
+	SYN	[np_ac
+1\83	TOK	τη	ο	AtDfFeSgAc
+1\86	TOK	Μελέκ	Μελέκ	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\91	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\93	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\97	TOK	ταχυδρομείο	ταχυδρομείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\108	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\111	TOK	Εκεί	εκεί	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\116	TOK	υπάρχει	υπάρχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\124	TOK	ένα	ένας	AtIdNeSgNm
+1\128	TOK	δέμα	δέμα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\133	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\137	TOK	σας	εγώ	PnPeMa02PlAcWe
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\140	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

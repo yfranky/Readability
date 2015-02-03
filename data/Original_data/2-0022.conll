@@ -1,0 +1,82 @@
+1	Την	ο	At	AtDf	Fe|Sg|Ac	2	Det	_	_	
+2	ώρα	ώρα	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+3	της	ο	At	AtDf	Fe|Sg|Ge	4	Det	_	_	
+4	εργασίας	εργασία	No	NoCm	Fe|Sg|Ge	2	Atr	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Που	που	Pn	PnRe	Ma|03|Sg|Nm|Xx	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	χάρακάς	χάρακας	No	NoCm	Ma|Sg|Nm	7	Sb_Ap	_	_	
+6	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	5	Pos	_	_	
+7	,	,	PUNCT	PUNCT	_	3	Apos	_	_	
+8	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	7	Sb_Ap	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πάλι	πάλι	Ad	Ad	Ba	4	Adv	_	_	
+2	εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	4	Sb	_	_	
+3	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	4	Obj	_	_	
+4	πήρες	παίρνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τώρα	τώρα	Ad	Ad	Ba	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+3	πως	πως	Cj	CjSb	_	1	AuxC	_	_	
+4	θα	θα	Pt	PtFu	_	5	AuxV	_	_	
+5	τραβήξω	τραβώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	ExD_Co	_	_	
+6	τις	ο	At	AtDf	Fe|Pl|Ac	7	Det	_	_	
+7	γραμμές	γραμμή	No	NoCm	Fe|Pl|Ac	5	Obj	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	προσέχεις	προσέχω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	που	που	Pn	PnRe	Fe|03|Sg|Nm|Xx	5	Sb	_	_	
+5	βάζεις	βάζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+6	τα	ο	At	AtDf	Ne|Pl|Nm	7	Det	_	_	
+7	πράγματά	πράγμα	No	NoCm	Ne|Pl|Nm	5	Obj	_	_	
+8	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	7	Pos	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλο	όλος	Aj	Aj	Ba|Ne|Sg|Nm	5	Sb	_	_	
+2	μαζί	μαζί	Ad	Ad	Ba	1	Adv	_	_	
+3	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	2	Adv	_	_	
+4	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	5	Obj	_	_	
+5	βάζεις	βάζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Όχι	όχι	Ad	Ad	Ba	3	Adv	_	_	
+3	άδικα	άδικα	Ad	Ad	Ba	0	ExD	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	6	Obj	_	_	
+2	σίγουρος	σίγουρος	Aj	Aj	Ba|Ma|Sg|Nm	1	Pnom	_	_	
+3	πως	πως	Cj	CjSb	_	6	Adv	_	_	
+4	εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	6	Sb	_	_	
+5	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	6	Obj	_	_	
+6	πήρες	παίρνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ανοησίες	ανοησία	No	NoCm	Fe|Pl|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μπαμπά	μπαμπάς	No	NoCm	Ma|Sg|Ac	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	μίλα	μιλώ	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	1	Atr	_	_	
+4	του	εγώ	Pn	PnPe	Ma|03|Sg|Ge|We	3	Obj	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	δάσκαλος	δάσκαλος	No	NoCm	Ma|Sg|Nm	5	Sb	_	_	
+3	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	2	Pos	_	_	
+4	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	AuxV	_	_	
+5	βάλει	βάζω	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+6	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Ac	5	Obj	_	_	
+7	κι	και	Cj	CjCo	_	0	Coord	_	_	
+8	αυτός	αυτός	Pn	PnDm	Ma|03|Sg|Nm|Xx	10	Sb	_	_	
+9	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	10	Obj	_	_	
+10	ενοχλεί	ενοχλώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

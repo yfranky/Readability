@@ -1,0 +1,194 @@
+1	Τα	ο	At	AtDf	Ne|Pl|Nm	2	Det	_	_	
+2	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	6	Sb_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	Φασαρίας	φασαρίας	No	NoCm	Ma|Sg|Nm	6	Sb_Co	_	_	
+6	και	και	Cj	CjCo	_	9	Coord	_	_	
+7	ο	ο	At	AtDf	Ma|Sg|Nm	8	Det	_	_	
+8	Χουσεΐν	Χουσεΐν	Rg	RgFw	_	6	Sb_Co	_	_	
+9	έφτασαν	φτάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+10	έξω	έξω	Ad	Ad	Ba	9	Adv	_	_	
+11	από	από	AsPp	AsPpSp	_	10	AuxP	_	_	
+12	το	ο	At	AtDf	Ne|Sg|Ac	13	Det	_	_	
+13	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	11	Adv	_	_	
+14	της	ο	At	AtDf	Fe|Sg|Ge	15	Det	_	_	
+15	Αγγέλας	Αγγέλα	No	NoPr	Fe|Sg|Ge	13	Atr	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	βράδυ	βράδυ	No	NoCm	Ne|Sg|Nm	1	Pnom	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	ουρανός	ουρανός	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	γεμάτος	γεμάτος	Aj	Aj	Ba|Ma|Sg|Nm	6	Atr	_	_	
+6	αστέρια	αστέρι	No	NoCm	Ne|Pl|Nm	4	Pnom	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	Atr	_	_	
+2	Αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Nm|Xx	4	Atr	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Nm	4	Det	_	_	
+4	αστέρι	αστέρι	No	NoCm	Ne|Sg|Nm	5	Sb	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	πολύ	πολύ	Ad	Ad	Ba	7	Adv	_	_	
+7	φωτεινό	φωτεινός	Aj	Aj	Ba|Ne|Sg|Nm	5	Pnom	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+3	αστέρι	αστέρι	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+4	που	που	Pn	PnRe	Ne|03|Sg|Nm|Xx	5	Sb	_	_	
+5	δείχνεις	δείχνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	3	Atr	_	_	
+6	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Obj	_	_	
+7	δύο	δύο	Nm	NmCd	Ne|Pl|Ac|Aj	8	Atr	_	_	
+8	ονόματα	όνομα	No	NoCm	Ne|Pl|Ac	6	Obj	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	βράδυ	βράδυ	No	NoCm	Ne|Sg|Nm	4	Sb	_	_	
+3	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	4	Obj	_	_	
+4	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	Έσπερο	έσπερος	No	NoCm	Ma|Sg|Ac	4	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	πρωί	πρωί	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+3	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	4	Obj	_	_	
+4	λένε	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	Αυγερινό	αυγερινός	No	NoPr	Ma|Sg|Ac	4	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τα	ο	At	AtDf	Ne|Pl|Ac	3	Det	_	_	
+2	παλιά	παλιός	Aj	Aj	Ba|Ne|Pl|Ac	3	Atr	_	_	
+3	χρόνια	χρόνος	No	NoCm	Ne|Pl|Ac	6	Adv	_	_	
+4	οι	ο	At	AtDf	Ma|Pl|Nm	5	Det	_	_	
+5	άνθρωποι	άνθρωπος	No	NoCm	Ma|Pl|Nm	3	Atr	_	_	
+6	έφτιαχναν	φτιάχνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	ιστορίες	ιστορία	No	NoCm	Fe|Pl|Ac	6	Obj	_	_	
+8	για	για	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	τα	ο	At	AtDf	Ne|Pl|Ac	10	Det	_	_	
+10	αστέρια	αστέρι	No	NoCm	Ne|Pl|Ac	8	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ακούστε	ακούω	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	την	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+3	ιστορία	ιστορία	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+4	του	ο	At	AtDf	Ma|Sg|Ge	5	Det	_	_	
+5	Έσπερου	έσπερος	No	NoCm	Ma|Sg|Ge	3	Atr	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μια	ένας	At	AtId	Fe|Sg|Nm	2	Det	_	_	
+2	φορά	φορά	No	NoCm	Fe|Sg|Nm	6	Sb	_	_	
+3	κι	και	Cj	CjCo	_	5	AuxY	_	_	
+4	έναν	ένας	At	AtId	Ma|Sg|Ac	5	Det	_	_	
+5	καιρό	καιρός	No	NoCm	Ma|Sg|Ac	2	Atr	_	_	
+6	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+7	ένας	ένας	At	AtId	Ma|Sg|Nm	8	Det	_	_	
+8	άντρας	άντρας	No	NoCm	Ma|Sg|Nm	6	Pnom	_	_	
+9	που	που	Pn	PnRe	Ma|03|Sg|Nm|Xx	10	Sb	_	_	
+10	αγαπούσε	αγαπώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	8	Atr	_	_	
+11	πολύ	πολύ	Ad	Ad	Ba	13	Adv	_	_	
+12	τα	ο	At	AtDf	Ne|Pl|Ac	13	Det	_	_	
+13	αστέρια	αστέρι	No	NoCm	Ne|Pl|Ac	10	Obj	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	2	Obj	_	_	
+2	έλεγαν	λέγω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	Έσπερο	έσπερος	No	NoCm	Ma|Sg|Ac	2	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κάθε	κάθε	Pn	PnId	Fe|03|Sg|Nm|Xx	2	Atr	_	_	
+2	νύχτα	νύχτα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	ανέβαινε	ανεβαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	σε	σε	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	ένα	ένας	At	AtId	Ne|Sg|Ac	7	Det	_	_	
+6	ψηλό	ψηλός	Aj	Aj	Ba|Ne|Sg|Ac	7	Atr	_	_	
+7	βουνό	βουνό	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+8	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+9	να	να	Pt	PtSj	_	11	AuxV	_	_	
+10	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	11	Obj	_	_	
+11	βλέπει	βλέπω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	8	Adv	_	_	
+12	από	από	AsPp	AsPpSp	_	11	AuxP	_	_	
+13	κοντά	κοντά	Ad	Ad	Ba	12	Adv	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μια	ένας	At	AtId	Fe|Sg|Nm	2	Det	_	_	
+2	νύχτα	νύχτα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	φύσηξε	φυσάω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ένας	ένας	At	AtId	Ma|Sg|Nm	6	Det	_	_	
+5	δυνατός	δυνατός	Aj	Aj	Ba|Ma|Sg|Nm	6	Atr	_	_	
+6	αέρας	αέρας	No	NoCm	Ma|Sg|Nm	7	Sb_Co	_	_	
+7	και	και	Cj	CjCo	_	3	Coord	_	_	
+8	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	9	Obj	_	_	
+9	σήκωσε	σηκώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Sb_Co	_	_	
+10	ψηλά	ψηλά	Ad	Ad	Ba	9	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	2	Obj	_	_	
+2	πήγε	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	2	AuxP	_	_	
+4	ουρανό	ουρανός	No	NoCm	Ma|Sg|Ac	3	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	δίπλα	δίπλα	Ad	Ad	Ba	2	Adv	_	_	
+7	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	6	AuxP	_	_	
+8	αστέρια	αστέρι	No	NoCm	Ne|Pl|Ac	7	Adv	_	_	
+9	που	που	Pn	PnRe	Ne|03|Pl|Ac|Xx	10	Obj	_	_	
+10	αγαπούσε	αγαπώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	8	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Έσπερος	έσπερος	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	έγινε	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	5	Pred_Co	_	_	
+4	αστέρι	αστέρι	No	NoCm	Ne|Sg|Nm	3	Pnom	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	έμεινε	μένω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+7	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	6	AuxP	_	_	
+8	ουρανό	ουρανός	No	NoCm	Ma|Sg|Ac	7	Adv	_	_	
+9	για	για	AsPp	AsPpSp	_	6	AuxP	_	_	
+10	πάντα	πάντα	Ad	Ad	Ba	9	Adv	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Nm	4	Det	_	_	
+3	πρώτο	πρώτος	Nm	NmOd	Ne|Sg|Nm|Aj	4	Atr	_	_	
+4	αστέρι	αστέρι	No	NoCm	Ne|Sg|Nm	1	Pnom	_	_	
+5	που	που	Pn	PnRe	Ne|03|Sg|Ac|Xx	6	Obj	_	_	
+6	φαίνεται	φαίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	4	Atr	_	_	
+7	όταν	όταν	Cj	CjSb	_	6	AuxC	_	_	
+8	νυχτώνει	νυχτώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Έσπερος	έσπερος	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+3	αγαπάει	αγαπώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	πολύ	πολύ	Ad	Ad	Ba	3	Adv	_	_	
+5	τη	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	νύχτα	νύχτα	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γι'	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+2	αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Ac|Xx	1	Adv	_	_	
+3	μένει	μένω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	όλη	όλος	Aj	Aj	Ba|Fe|Sg|Ac	6	Atr	_	_	
+5	τη	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	νύχτα	νύχτα	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+7	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	3	AuxP	_	_	
+8	ουρανό	ουρανός	No	NoCm	Ma|Sg|Ac	7	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Nm	4	Det	_	_	
+3	τελευταίο	τελευταίος	Aj	Aj	Ba|Ne|Sg|Nm	4	Atr	_	_	
+4	αστέρι	αστέρι	No	NoCm	Ne|Sg|Nm	1	Pnom	_	_	
+5	που	που	Pn	PnRe	Ne|03|Sg|Nm|Xx	6	Sb	_	_	
+6	κρύβεται	κρύβω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	4	Atr	_	_	
+7	λίγη	λίγος	Aj	Aj	Ba|Fe|Sg|Nm	8	Atr	_	_	
+8	ώρα	ώρα	No	NoCm	Fe|Sg|Nm	6	Sb	_	_	
+9	πριν	πριν	Ad	Ad	Ba	10	Adv	_	_	
+10	βγει	βγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Adv	_	_	
+11	ο	ο	At	AtDf	Ma|Sg|Nm	12	Det	_	_	
+12	ήλιος	ήλιος	No	NoCm	Ma|Sg|Nm	10	Sb	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

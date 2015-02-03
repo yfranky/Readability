@@ -1,0 +1,48 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Η	ο	AtDfFeSgNm
+1\3	TOK	κλήση	κλήση	NoCmFeSgNm
+1\9	TOK	σας	μου	PnPoMa02PlGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\13	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\19	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\22	TOK	αναμονή	αναμονή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\29	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\31	TOK	Παρακαλούμε	παρακαλώ	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\43	TOK	μην	μην	PtNg
+1\47	TOK	κλείσετε	κλείνω	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_c
+1\56	TOK	αν	αν	CjSb
+	SYN	[vg
+1\59	TOK	δεν	δεν	PtNg
+1\63	TOK	ακούσετε	ακούω	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\72	TOK	σήμα	σήμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\77	TOK	κατειλημμένου	κατειλημμένος	AjBaMaSgGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	/cl_c]
+1\90	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,715 @@
+	(SENT	<S>
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	ΔΑΣΟΣ	δασός	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\7	TOK	ΔΑΔΙΑΣ	ΔΑΔΙΑΣ	NoPrMaSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\15	TOK	Το	ο	AtDfNeSgNm
+1\18	TOK	δάσος	δάσος	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\24	TOK	της	ο	AtDfFeSgGe
+1\28	TOK	Δαδιάς	Δαδιάς	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\35	TOK	απλώνεται	απλώνω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\45	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\49	TOK	μέσο	μέσος	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\54	TOK	του	ο	AtDfMaSgGe
+1\58	TOK	νομού	νομός	NoCmMaSgGe
+1\64	TOK	Έβρου	Έβρος	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\69	PUNCT	,	,	PUNCT
+	SYN	[cl_g
+	SYN	[vg_g
+1\71	TOK	καλύπτοντας	καλύπτω	VbMnPpXxXxXxXxIpAvXx
+	SYN	/vg_g]
+	SYN	[np_ac
+1\83	TOK	τις	ο	AtDfFePlAc
+	SYN	[adjp_ac
+1\87	TOK	νοτιοανατολικές	νοτιοανατολικός	AjBaFePlAc
+1\103	TOK	λοφώδεις	λοφώδης	AjBaFePlAc
+	SYN	/adjp_ac]
+1\112	TOK	απολήξεις	απόληξη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\122	TOK	του	ο	AtDfMaSgGe
+	SYN	[adjp_ge
+1\126	TOK	ορεινού	ορεινός	AjBaMaSgGe
+	SYN	/adjp_ge]
+1\134	TOK	όγκου	όγκος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\140	TOK	της	ο	AtDfFeSgGe
+1\144	TOK	Ροδόπης	Ροδόπη	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/cl_g]
+	SYN	/cl]
+1\151	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\153	TOK	Η	ο	AtDfFeSgNm
+1\155	TOK	περιοχή	περιοχή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\163	TOK	ανακηρύχθηκε	ανακηρύσσω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\176	TOK	προστατευόμενη	προστατευόμενος	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+1\191	TOK	το	ο	AtDfNeSgAc
+1\194	DIG	1980	1980	DIG
+	SYN	/np_ac]
+	SYN	/cl]
+1\199	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\203	TOK	περιλαμβάνει	περιλαμβάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\216	TOK	δύο	δύο	NmCdFePlAcAj
+	SYN	/adjp_ac]
+1\220	TOK	ζώνες	ζώνη	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\226	TOK	αυστηρής	αυστηρός	AjBaFeSgGe
+	SYN	/adjp_ge]
+1\235	TOK	προστασίας	προστασία	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\246	TOK	έκτασης	έκταση	NoCmFeSgGe
+	SYN	/np_ge]
+1\254	DIG	72,9	72,9	DIG
+1\259	TOK	τ	τ	AtDfNePlAc
+1\260	PTERM_P	.	.	PTERM_P
+1\261	ABBR	χλμ	χλμ	ABBR
+1\264	PTERM_P	.	.	PTERM_P
+1\265	PUNCT	,	,	PUNCT
+1\267	TOK	καθώς	καθώς	AdXxBa
+1\273	TOK	και	και	CjCo
+	SYN	[np_ac
+1\277	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\281	TOK	περιφερειακή	περιφερειακός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\294	TOK	ζώνη	ζώνη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[advp
+1\299	TOK	γύρω	γύρω	AdXxBa
+	SYN	[pp
+1\304	TOK	από	από	AsPpSp
+	SYN	[np_nm
+1\308	TOK	αυτές	αυτός	PnDmFe03PlNmXx
+	SYN	/np_nm]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[pp
+1\314	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\317	TOK	έκταση	έκταση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\324	DIG	357	357	DIG
+1\328	TOK	τ	τ	AtDfNePlAc
+1\329	PTERM_P	.	.	PTERM_P
+1\330	ABBR	χλμ	χλμ	ABBR
+	SYN	/cl]
+1\333	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\335	TOK	Το	ο	AtDfNeSgAc
+1\338	DIG	2003	2003	DIG
+	SYN	/np_ac]
+	SYN	[vg
+1\343	TOK	ιδρύθηκε	ιδρύω	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\352	TOK	ο	ο	AtDfMaSgNm
+1\354	TOK	φορέας	φορέας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\361	TOK	διαχείρισης	διαχείριση	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ge
+1\373	TOK	του	ο	AtDfNeSgGe
+	SYN	[adjp_ge
+1\377	TOK	Εθνικού	εθνικός	AjBaNeSgGe
+	SYN	/adjp_ge]
+1\385	TOK	πάρκου	πάρκο	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	[np_nm
+1\392	TOK	Δαδιάς	Δαδιάς	NoPrNeSgNm
+	SYN	/np_nm]
+1\399	PUNCT	-	-	PUNCT
+	SYN	[np_nm
+1\401	TOK	Λευκίμμης	Λευκίμμης	NoPrFeSgNm
+	SYN	/np_nm]
+1\411	PUNCT	-	-	PUNCT
+	SYN	[np_ge
+1\413	TOK	Σουφλίου	Σουφλίου	NoPrNeSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\421	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\424	TOK	Οι	ο	AtDfMaPlNm
+	SYN	[adjp_nm
+1\427	TOK	ομαλοί	ομαλός	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\434	TOK	λόφοι	λόφος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\440	TOK	της	ο	AtDfFeSgGe
+1\444	TOK	Δαδιάς	Δαδιάς	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\451	TOK	αυλακώνονται	αυλακώνω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\464	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\468	TOK	δεκάδες	δεκάδα	NmCtFePlAcNo
+	SYN	/adjp_ac]
+1\476	TOK	ρεματιές	ρεματιά	NoCmFePlAc
+	SYN	/np_ac]
+1\485	TOK	και	και	CjCo
+	SYN	[np_ac
+1\489	TOK	ρυάκια	ρυάκι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\495	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_nm
+1\497	TOK	τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\500	TOK	ώριμα	ώριμος	AjBaNePlNm
+	SYN	/adjp_nm]
+1\506	TOK	δάση	δάσος	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\511	TOK	πεύκων	πεύκος	NoCmMaPlGe
+	SYN	/np_ge]
+1\518	TOK	και	και	CjCo
+	SYN	[np_ge
+1\522	TOK	δρυών	δρυς	NoCmFePlGe
+	SYN	/np_ge]
+	SYN	[vg
+1\528	TOK	διακόπτονται	διακόπτω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\541	TOK	από	από	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\545	TOK	μικρά	μικρός	AjBaNePlAc
+1\551	TOK	ξέφωτα	ξέφωτος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\558	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\562	TOK	εναλλάσσονται	εναλλάσσω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\576	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\579	TOK	λιβάδια	λιβάδι	NoCmNePlAc
+	SYN	/np_ac]
+1\586	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\588	TOK	βοσκοτόπια	βοσκοτόπι	NoCmNePlAc
+	SYN	/np_ac]
+1\599	TOK	και	και	CjCo
+	SYN	[np_ac
+1\603	TOK	καλλιέργειες	καλλιέργεια	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\615	PUNCT	,	,	PUNCT
+	SYN	[cl
+1\617	TOK	ενώ	ενώ	CjCo
+	SYN	[np_ac
+1\621	TOK	ορθοπλαγιές	ορθοπλαγιά	NoCmFePlAc
+	SYN	/np_ac]
+1\633	TOK	και	και	CjCo
+	SYN	[np_ac
+1\637	TOK	βράχια	βράχος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[vg
+1\644	TOK	αναδύονται	αναδύομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\655	TOK	εδώ	εδώ	AdXxBa
+1\659	TOK	και	και	CjCo
+1\663	TOK	εκεί	εκεί	AdXxBa
+1\668	TOK	μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\673	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\676	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\680	TOK	ονειρικό	ονειρικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\689	TOK	τοπίο	τοπίο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\694	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\696	TOK	Αυτό	αυτός	PnDmNe03SgNmXx
+	SYN	/np_nm]
+	SYN	[np_ac
+1\701	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\704	TOK	πλούσιο	πλούσιος	AjBaNeSgAc
+1\712	TOK	μωσαϊκό	μωσαϊκός	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\720	TOK	βιοτόπων	βιότοπος	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	[vg
+1\729	TOK	φιλοξενεί	φιλοξενώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\739	TOK	πολλά	πολύς	AjBaNePlAc
+	SYN	/adjp_ac]
+1\745	TOK	ζώα	ζώο	NoCmNePlAc
+	SYN	/np_ac]
+1\749	TOK	και	και	CjCo
+	SYN	[np_ac
+1\753	TOK	φυτά	φυτό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\757	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\759	TOK	Εδώ	εδώ	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\763	TOK	βρίσκουν	βρίσκω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\772	TOK	καταφύγιο	καταφύγιο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[advp
+1\782	TOK	παραπάνω	παραπάνω	AdXxBa
+	SYN	[pp
+1\791	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\795	DIG	48	48	DIG
+1\798	TOK	είδη	είδος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\803	TOK	θηλαστικών	θηλαστικός	AjBaMaPlGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/advp]
+1\813	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\815	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\820	TOK	λύκοι	λύκος	NoCmMaPlNm
+	SYN	/np_nm]
+1\825	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\827	TOK	ζαρκάδια	ζαρκάδι	NoCmNePlAc
+	SYN	/np_ac]
+1\835	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\837	TOK	σκίουροι	σκίουρος	NoCmMaPlNm
+	SYN	/np_nm]
+1\845	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\847	TOK	νυχτερίδες	νυχτερίδα	NoCmFePlAc
+	SYN	/np_ac]
+1\857	PUNCT	,	,	PUNCT
+1\859	TOK	καθώς	καθώς	AdXxBa
+	SYN	[advp
+1\865	TOK	επίσης	επίσης	AdXxBa
+	SYN	/advp]
+1\872	TOK	και	και	CjCo
+	SYN	[np_ac
+1\876	DIG	41	41	DIG
+1\879	TOK	είδη	είδος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\884	TOK	ερπετών	ερπετό	NoCmNePlGe
+	SYN	/np_ge]
+1\892	TOK	και	και	CjCo
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\896	TOK	αμφιβίων	αμφίβιος	AjBaFePlGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	/cl]
+1\904	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\906	TOK	Εκείνο	εκείνος	PnDmNe03SgNmXx
+	SYN	/np_nm]
+1\913	TOK	όμως	όμως	CjCo
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\918	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\922	TOK	κάνει	κάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\928	TOK	ξεχωριστό	ξεχωριστός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ac
+1\938	TOK	το	ο	AtDfNeSgAc
+1\941	TOK	δάσος	δάσος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\947	TOK	της	ο	AtDfFeSgGe
+1\951	TOK	Δαδιάς	Δαδιάς	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	/cl_r]
+1\958	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\962	TOK	μοναδικό	μοναδικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[pp
+1\971	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\976	TOK	Ευρώπη	Ευρώπη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\983	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\989	TOK	τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\992	TOK	αρπακτικά	αρπακτικός	AjBaNePlNm
+	SYN	/adjp_nm]
+1\1002	TOK	πουλιά	πουλί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\1008	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\1010	TOK	Μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\1015	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1020	TOK	προστατευόμενη	προστατευόμενος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\1035	TOK	περιοχή	περιοχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[vg
+1\1043	TOK	έχουν	έχω	VbMnIdPr03PlXxIpAvXx
+1\1049	TOK	παρατηρηθεί	παρατηρώ	VbMnNfXxXxXxXxPePvXx
+	SYN	/vg]
+	SYN	[advp
+1\1061	TOK	συνολικά	συνολικά	AdXxBa
+	SYN	/advp]
+1\1070	DIG	36	36	DIG
+	SYN	[pp
+1\1073	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\1077	TOK	τα	ο	AtDfNePlAc
+1\1080	DIG	38	38	DIG
+1\1083	TOK	είδη	είδος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1088	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1092	TOK	υπάρχουν	υπάρχω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\1101	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\1106	TOK	Ευρώπη	Ευρώπη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\1112	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\1114	TOK	Από	από	AsPpSp
+	SYN	[np_ac
+1\1118	TOK	αυτά	αυτός	PnDmNe03PlAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+1\1122	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\1124	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\1129	TOK	περιοχή	περιοχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\1137	TOK	φωλιάζουν	φωλιάζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1147	TOK	μόνιμα	μόνιμος	AjBaNePlNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[np_ac
+1\1154	TOK	τα	ο	AtDfNePlAc
+1\1157	DIG	20	20	DIG
+	SYN	/np_ac]
+1\1159	PUNCT	,	,	PUNCT
+1\1161	TOK	ενώ	ενώ	CjCo
+	SYN	[np_ac
+1\1165	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\1168	TOK	υπόλοιπα	υπόλοιπος	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\1177	TOK	ξεχειμωνιάζουν	ξεχειμωνιάζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\1192	TOK	ή	ή	CjCo
+	SYN	[cl
+	SYN	[vg
+1\1194	TOK	διέρχονται	διέρχομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\1205	TOK	κατά	κατά	AsPpSp
+	SYN	[np_ac
+1\1210	TOK	τις	ο	AtDfFePlAc
+1\1214	TOK	μεταναστεύσεις	μετανάστευση	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\1228	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\1231	TOK	Στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\1236	TOK	περιοχή	περιοχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\1244	TOK	φωλιάζουν	φωλιάζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1254	TOK	κάθε	κάθε	PnIdMa03SgAcXx
+1\1259	TOK	χρόνο	χρόνος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\1265	DIG	20	20	DIG
+	SYN	[advp
+1\1268	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+1\1276	TOK	ζεύγη	ζεύγος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\1282	TOK	μαυρόγυπων	μαυρόγυπων	AjBaFePlGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+1\1292	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1294	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1298	TOK	αποτελούν	αποτελώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+1\1308	TOK	και	και	CjCo
+	SYN	[np_ac
+1\1312	TOK	τον	ο	AtDfMaSgAc
+	SYN	[adjp_ac
+1\1316	TOK	μοναδικό	μοναδικός	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\1325	TOK	πληθυσμό	πληθυσμός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1334	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1338	TOK	απέμεινε	απομένω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\1347	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1351	TOK	νοτιοανατολική	νοτιοανατολικός	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\1366	TOK	Ευρώπη	Ευρώπη	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\1372	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\1374	TOK	Άλλα	άλλος	PnIdNe03PlAcXx
+	SYN	/np_ac]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\1379	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+1\1384	TOK	σπάνια	σπάνιος	AjBaNePlNm
+	SYN	/adjp_nm]
+1\1391	TOK	είδη	είδος	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1396	TOK	είναι	είμαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1402	TOK	το	ο	AtDfNeSgAc
+1\1405	TOK	χρυσογέρακο	χρυσογέρακο	NoCmNeSgAc
+	SYN	/np_ac]
+1\1416	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\1418	TOK	η	ο	AtDfFeSgNm
+1\1420	TOK	αετογερακίνα	αετογερακίνα	NoCmFeSgNm
+	SYN	/np_nm]
+1\1432	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\1434	TOK	ο	ο	AtDfMaSgNm
+1\1436	TOK	κραυγαετός	κραυγαετός	NoPrMaSgNm
+	SYN	/np_nm]
+1\1446	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\1448	TOK	ο	ο	AtDfMaSgNm
+1\1450	TOK	χρυσαετός	χρυσαετός	NoCmMaSgNm
+	SYN	/np_nm]
+1\1459	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\1461	TOK	ο	ο	AtDfMaSgNm
+1\1463	TOK	πετρίτης	πετρίτης	NoCmMaSgNm
+	SYN	/np_nm]
+1\1472	TOK	και	και	CjCo
+	SYN	[np_nm
+1\1476	TOK	ο	ο	AtDfMaSgNm
+1\1478	TOK	ασπροπάρης	ασπροπάρης	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\1488	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\1490	TOK	Το	ο	AtDfNeSgNm
+1\1493	TOK	τοπίο	τοπίο	NoCmNeSgNm
+	SYN	/np_nm]
+1\1498	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\1500	TOK	η	ο	AtDfFeSgNm
+	SYN	[adjp_nm
+1\1502	TOK	πλούσια	πλούσιος	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\1510	TOK	πανίδα	πανίδα	NoCmFeSgNm
+	SYN	/np_nm]
+1\1516	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\1518	TOK	η	ο	AtDfFeSgNm
+1\1520	TOK	αφθονία	αφθονία	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\1528	TOK	των	ο	AtDfNePlGe
+	SYN	[adjp_ge
+1\1532	TOK	αρπακτικών	αρπακτικός	AjBaNePlGe
+	SYN	/adjp_ge]
+1\1543	TOK	πουλιών	πουλί	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	[cl_o
+1\1551	TOK	καθώς	καθώς	AdXxBa
+1\1557	TOK	και	και	CjCo
+	SYN	[np_nm
+1\1561	TOK	οι	ο	AtDfFePlNm
+1\1564	TOK	δραστηριότητες	δραστηριότητα	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\1579	TOK	που	που	PnReFe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\1583	TOK	αναπτύσσονται	αναπτύσσω	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	/cl_r]
+	SYN	[vg
+1\1597	TOK	κάνουν	κάνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1604	TOK	το	ο	AtDfNeSgAc
+1\1607	TOK	δάσος	δάσος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1613	TOK	της	ο	AtDfFeSgGe
+1\1617	TOK	Δαδιάς	Δαδιάς	NoPrFeSgGe
+	SYN	/np_ge]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1624	TOK	μοναδικό	μοναδικός	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\1633	TOK	τόπο	τόπος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1638	TOK	επίσκεψης	επίσκεψη	NoCmFeSgGe
+	SYN	/np_ge]
+	SYN	/cl_o]
+1\1647	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

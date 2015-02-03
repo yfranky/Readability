@@ -1,0 +1,33 @@
+1	Κανόνας	κανόνας	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+2	για	για	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	παιχνίδι	παιχνίδι	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+5	:	:	PTERM_P	PTERM_P	_	6	AuxG	_	_	
+6	Πες	λέγω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	1	Atr	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	όνομά	όνομα	No	NoCm	Ne|Sg|Ac	6	Obj	_	_	
+9	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	8	Pos	_	_	
+10	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+11	ρίξε	ρίχνω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	22	Obj_Co	_	_	
+12	την	ο	At	AtDf	Fe|Sg|Ac	13	Det	_	_	
+13	μπάλα	μπάλα	No	NoCm	Fe|Sg|Ac	11	Obj	_	_	
+14	σε	σε	AsPp	AsPpSp	_	17	AuxP	_	_	
+15	έναν	ένας	At	AtId	Ma|Sg|Ac	16	Det	_	_	
+16	συμμαθητή	συμμαθητής	No	NoCm	Ma|Sg|Ac	14	Adv_Co	_	_	
+17	ή	ή	Cj	CjCo	_	11	Coord	_	_	
+18	σε	σε	AsPp	AsPpSp	_	17	AuxP	_	_	
+19	μια	ένας	At	AtId	Fe|Sg|Ac	20	Det	_	_	
+20	συμμαθήτριά	συμμαθήτρια	No	NoCm	Fe|Sg|Ac	18	Adv	_	_	
+21	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	20	Pos	_	_	
+22	και	και	Cj	CjCo	_	6	Coord	_	_	
+23	ρώτησε	ρωτώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	22	Obj_Co	_	_	
+24	το	ο	At	AtDf	Ne|Sg|Ac	25	Det	_	_	
+25	όνομά	όνομα	No	NoCm	Ne|Sg|Ac	23	Obj	_	_	
+26	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	25	Pos	_	_	
+27	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	παιχνίδι	παιχνίδι	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+3	συνεχίζεται	συνεχίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

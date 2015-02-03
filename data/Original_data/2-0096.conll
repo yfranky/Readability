@@ -1,0 +1,142 @@
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	γιορτή	γιορτή	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	της	ο	At	AtDf	Fe|Sg|Ge	4	Det	_	_	
+4	φιλίας	φιλία	No	NoCm	Fe|Sg|Ge	2	Atr	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ρούντι	Ρούντι	Rg	RgFw	_	1	AuxY	_	_	
+3	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	4	Obj	_	_	
+4	έγινε	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	1	Pred_Co	_	_	
+5	σήμερα	σήμερα	Ad	Ad	Ba	4	Adv	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+7	σχολείο	σχολείο	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	ήρθα	έρχομαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	γιατί	γιατί	Cj	CjSb	_	2	AuxC	_	_	
+5	πονούσε	πονώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Adv	_	_	
+6	ο	ο	At	AtDf	Ma|Sg|Nm	7	Det	_	_	
+7	λαιμός	λαιμός	No	NoCm	Ma|Sg|Nm	5	Sb	_	_	
+8	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	7	Pos	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	3	AuxY	_	_	
+2	τι	τι	Pn	PnIr	Ne|03|Sg|Nm|Xx	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Nm	5	Atr	_	_	
+5	αυτά	αυτός	Pn	PnDm	Ne|03|Pl|Nm|Xx	3	Sb	_	_	
+6	που	που	Pn	PnRe	Ne|03|Sg|Nm|Xx	7	Sb	_	_	
+7	άπλωσες	απλώνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	5	Atr	_	_	
+8	εδώ	εδώ	Ad	Ad	Ba	7	Adv	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Κρίμα	κρίμα	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+3	που	που	Pn	PnRe	Ne|03|Sg|Nm|Xx	5	Sb	_	_	
+4	δεν	δεν	Pt	PtNg	_	5	AuxV	_	_	
+5	ήρθες	έρχομαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	2	Atr	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχασες	χάνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γιορτάσαμε	γιορτάζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τη	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+3	γιορτή	γιορτή	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+4	της	ο	At	AtDf	Fe|Sg|Ge	5	Det	_	_	
+5	φιλίας	φιλία	No	NoCm	Fe|Sg|Ge	3	Atr	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φτιάξαμε	φτιάχνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	5	Atr	_	_	
+3	αυτά	αυτός	Pn	PnDm	Ne|03|Pl|Ac|Xx	5	Atr	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	κολιέ	κολιός	No	NoCm	Ma|Sg|Ac	1	Obj	_	_	
+6	που	που	Pn	PnRe	Ma|03|Sg|Nm|Xx	7	Sb	_	_	
+7	βλέπεις	βλέπω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	5	Atr	_	_	
+8	εδώ	εδώ	Ad	Ad	Ba	7	Adv	_	_	
+9	για	για	AsPp	AsPpSp	_	7	AuxP	_	_	
+10	τους	ο	At	AtDf	Ma|Pl|Ac	11	Det	_	_	
+11	φίλους	φίλος	No	NoCm	Ma|Pl|Ac	9	Adv	_	_	
+12	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	11	Pos	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	2	Sb	_	_	
+2	πήρα	παίρνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+3	έξι	έξι	Nm	NmCd	Ma|Pl|Ac|Aj	2	Obj	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	έφτιαξα	φτιάχνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+6	άλλα	άλλος	Pn	PnId	Ne|03|Pl|Ac|Xx	5	Obj	_	_	
+7	τόσα	τόσος	Pn	PnDm	Ne|03|Pl|Ac|Xx	6	Atr	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	ήξερα	ξέρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πως	πως	Cj	CjSb	_	2	AuxC	_	_	
+4	έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+5	τόσο	τόσο	Ad	Ad	Ba	6	Adv	_	_	
+6	πολλούς	πολύς	Aj	Aj	Ba|Ma|Pl|Ac	7	Atr	_	_	
+7	φίλους	φίλος	No	NoCm	Ma|Pl|Ac	4	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δες	βλέπω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	έφτιαξα	φτιάχνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	και	και	Cj	CjCo	_	5	AuxY	_	_	
+5	για	για	AsPp	AsPpSp	_	7	Atr	_	_	
+6	σένα	εγώ	Pn	PnPe	Fe|02|Sg|Ac|St	7	Atr	_	_	
+7	ένα	ένας	At	AtId	Ne|Sg|Ac	3	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Atr	_	_	
+3	ωραίο	ωραίος	Aj	Aj	Ba|Ne|Sg|Ac	0	ExD	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ευχαριστώ	ευχαριστώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	2	AuxY	_	_	
+2	μετά	μετά	AsPp	AsPpSp	_	0	ExD	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	2	Atr	_	_	
+2	άλλο	άλλος	Pn	PnId	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+3	κάνατε	κάνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Μετά	μετά	AsPp	AsPpSp	_	3	AuxP	_	_	
+3	διαλέξαμε	διαλέγω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+4	ένα	ένας	Nm	NmCd	Ne|Sg|Ac|Aj	3	Obj	_	_	
+5	από	από	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	τους	ο	At	AtDf	Ma|Pl|Ac	7	Det	_	_	
+7	φίλους	φίλος	No	NoCm	Ma|Pl|Ac	5	Atr	_	_	
+8	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	7	Pos	_	_	
+9	και	και	Cj	CjCo	_	0	Coord	_	_	
+10	μιλήσαμε	μιλώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+11	γι'	για	AsPp	AsPpSp	_	10	AuxP	_	_	
+12	αυτόν	αυτός	Pn	PnDm	Ma|03|Sg|Ac|Xx	11	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μιλήσατε	μιλώ	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πως	πως	Cj	CjSb	_	0	ExD	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Διάβασε	διαβάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	παρακάτω	παρακάτω	Ad	Ad	Ba	2	Adv	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	1	Pnom	_	_	
+3	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	2	AuxP	_	_	
+4	επόμενη	επόμενος	Aj	Aj	Ba|Fe|Sg|Ac	5	Atr	_	_	
+5	σελίδα	σελίδα	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

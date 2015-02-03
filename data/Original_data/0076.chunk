@@ -1,0 +1,91 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1	TOK	Ξημερώνει	ξημερώνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\10	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\13	TOK	Στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\17	TOK	γειτονιά	γειτονιά	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\26	TOK	τραγουδάει	τραγουδώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\37	TOK	ένα	ένας	AtIdNeSgAc
+1\41	TOK	αηδόνι	αηδόνι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\47	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\50	TOK	Ο	ο	AtDfMaSgNm
+1\52	TOK	λαγός	λαγός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\58	TOK	μετράει	μετρώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\66	TOK	τα	ο	AtDfNePlAc
+1\69	TOK	αστέρια	αστέρι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\77	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\82	TOK	ουρανό	ουρανός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\88	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\91	TOK	Περιμένει	περιμένω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\100	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\103	TOK	Περιμένει	περιμένω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\113	TOK	τον	ο	AtDfMaSgAc
+1\117	TOK	ήλιο	ήλιος	NoCmMaSgAc
+	SYN	/np_ac]
+1\121	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\123	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\127	TOK	βγαίνει	βγαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\135	TOK	κάθε	κάθε	PnIdFe03SgAcXx
+1\140	TOK	μέρα	μέρα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[advp
+1\145	TOK	πίσω	πίσω	AdXxBa
+	SYN	[pp
+1\150	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\154	TOK	το	ο	AtDfNeSgAc
+1\157	TOK	βουνό	βουνό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\162	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

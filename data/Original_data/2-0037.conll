@@ -1,0 +1,112 @@
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Μαμά	μαμά	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Atr	_	_	
+5	καλά	καλά	Ad	Ad	Ba	6	Adv	_	_	
+6	νέα	νέος	Aj	Aj	Ba|Fe|Sg|Ac	4	Obj	_	_	
+7	σήμερα	σήμερα	Ad	Ad	Ba	6	Adv	_	_	
+8	από	από	AsPp	AsPpSp	_	6	AuxP	_	_	
+9	το	ο	At	AtDf	Ne|Sg|Ac	10	Det	_	_	
+10	σχολείο	σχολείο	No	NoCm	Ne|Sg|Ac	8	Adv	_	_	
+11	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	0	ExD	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πολύ	πολύ	Ad	Ad	Ba	2	Adv	_	_	
+2	χαίρομαι	χαίρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Άρεσε	αρέσω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	Αίσωπος	Αίσωπος	No	NoPr	Ma|Sg|Nm	1	Sb	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	4	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	πολύ	πολύ	Ad	Ad	Ba	0	ExD	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Για	για	AsPp	AsPpSp	_	6	AuxP	_	_	
+3	ποιό	ποιό	Pn	PnIr	Ne|03|Sg|Nm|Xx	4	Atr	_	_	
+4	μύθο	μύθος	No	NoCm	Ma|Sg|Ac	2	Adv	_	_	
+5	τους	μου	Pn	PnPo	Ma|03|Pl|Ge|Xx	4	Pos	_	_	
+6	μίλησες	μιλώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Για	για	AsPp	AsPpSp	_	0	ExD	_	_	
+3	"	"	OPUNCT	OPUNCT	_	6	AuxG	_	_	
+4	Το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	λιοντάρι	λιοντάρι	No	NoCm	Ne|Sg|Ac	6	Obj_Co	_	_	
+6	και	και	Cj	CjCo	_	2	Coord	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Nm	8	Det	_	_	
+8	ποντίκι	ποντίκι	No	NoCm	Ne|Sg|Nm	6	Sb	_	_	
+9	.	.	PTERM_P	PTERM_P	_	6	AuxK	_	_	
+10	"	"	CPUNCT	CPUNCT	_	6	AuxG	_	_	
+
+1	Επιτυχία	επιτυχία	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+2	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	1	Pos	_	_	
+3	λέω	λέγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μπράβο	μπράβο	Ij	Ij	_	4	Atr	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	Δήμητρα	Δήμητρα	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Καλά	καλά	Ad	Ad	Ba	2	Adv	_	_	
+2	κάναμε	κάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	λοιπόν	λοιπόν	Ad	Ad	Ba	2	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	αγοράσαμε	αγοράζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+8	το	ο	At	AtDf	Ne|Sg|Ac	9	Det	_	_	
+9	καλοκαίρι	καλοκαίρι	No	NoCm	Ne|Sg|Ac	7	Adv	_	_	
+10	από	από	AsPp	AsPpSp	_	9	AuxP	_	_	
+11	την	ο	At	AtDf	Fe|Sg|Ac	12	Det	_	_	
+12	Ελλάδα	Ελλάδα	No	NoPr	Fe|Sg|Ac	10	Atr	_	_	
+13	τους	ο	At	AtDf	Ma|Pl|Ac	14	Det	_	_	
+14	μύθους	μύθος	No	NoCm	Ma|Pl|Ac	7	Obj	_	_	
+15	του	ο	At	AtDf	Ma|Sg|Ge	16	Det	_	_	
+16	Αισώπου	Αίσωπος	No	NoPr	Ma|Sg|Ge	14	Atr	_	_	
+17	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	μαμά	μαμά	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σκέψου	σκέφτομαι	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	πως	πως	Cj	CjSb	_	1	AuxC	_	_	
+3	τα	ο	At	AtDf	Ne|Pl|Nm	6	Det	_	_	
+4	πιο	πιο	Ad	Ad	Ba	5	Adv	_	_	
+5	πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Nm	6	Atr	_	_	
+6	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	8	Sb	_	_	
+7	δεν	δεν	Pt	PtNg	_	8	AuxV	_	_	
+8	ήξεραν	ξέρω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+9	τον	ο	At	AtDf	Ma|Sg|Ac	10	Det	_	_	
+10	Αίσωπο	Αίσωπος	No	NoPr	Ma|Sg|Ac	8	Obj	_	_	
+11	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Να	να	Pt	PtSj	_	8	AuxV	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	λοιπόν	λοιπόν	Ad	Ad	Ba	8	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+6	που	που	Pn	PnRe	Fe|03|Pl|Nm|Xx	8	Sb	_	_	
+7	τον	εγώ	Pn	PnPe	Ma|03|Sg|Ac|We	8	Obj	_	_	
+8	γνώρισαν	γνωρίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	1	ExD_Co	_	_	
+9	κι	και	Cj	CjCo	_	11	AuxY	_	_	
+10	άλλα	άλλος	Pn	PnId	Ne|03|Pl|Ac|Xx	11	Atr	_	_	
+11	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	8	Sb	_	_	
+12	τον	ο	At	AtDf	Ma|Sg|Ac	13	Det	_	_	
+13	Αίσωπο	Αίσωπος	No	NoPr	Ma|Sg|Ac	8	Obj	_	_	
+14	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

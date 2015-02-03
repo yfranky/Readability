@@ -1,0 +1,104 @@
+1	Μην	μην	Pt	PtNg	_	2	AuxV	_	_	
+2	έρθεις	έρχομαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	τώρα	τώρα	Ad	Ad	Ba	2	Adv	_	_	
+4	γιατί	γιατί	Cj	CjSb	_	2	AuxC	_	_	
+5	διαβάζω	διαβάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Adv	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	0	ExD	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxV	_	_	
+2	Έλα	έλα	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Pv|Xx	8	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	Γιάννη	Γιάννης	No	NoPr	Ma|Sg|Ge	2	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+6	η	ο	At	AtDf	Fe|Sg|Nm	7	Det	_	_	
+7	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	8	Sb	_	_	
+8	είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μπορώ	μπορώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	έρθω	έρχομαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	1	Obj	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+5	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+6	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	5	Pos	_	_	
+7	τώρα	τώρα	Ad	Ad	Ba	3	Adv	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Όχι	όχι	Ad	Ad	Ba	3	Adv_Ap	_	_	
+3	,	,	PUNCT	PUNCT	_	1	Apos	_	_	
+4	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	3	Adv_Ap	_	_	
+5	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+6	μην	μην	Pt	PtNg	_	7	AuxV	_	_	
+7	έρθεις	έρχομαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+8	τώρα	τώρα	Ad	Ad	Ba	7	Adv	_	_	
+9	,	,	PUNCT	PUNCT	_	10	AuxX	_	_	
+10	γιατί	γιατί	Cj	CjSb	_	7	AuxC	_	_	
+11	διαβάζω	διαβάζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	10	Adv	_	_	
+12	αγγλικά	αγγλικός	No	NoCm	Ne|Pl|Ac	11	Obj	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Atr	_	_	
+3	ώρα	ώρα	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+4	μπορείς	μπορώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	ξέρω	ξέρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ακόμη	ακόμα	Ad	Ad	Ba	3	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+2	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	3	Obj	_	_	
+3	πάρω	παίρνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τηλέφωνο	τηλέφωνο	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Μην	μην	Pt	PtNg	_	3	AuxV	_	_	
+3	πάρεις	παίρνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+4	τηλέφωνο	τηλέφωνο	No	NoCm	Ne|Sg|Ac	3	Obj	_	_	
+5	όμως	όμως	Cj	CjCo	_	0	Coord	_	_	
+6	μετά	μετά	AsPp	AsPpSp	_	3	AuxP	_	_	
+7	τις	ο	At	AtDf	Fe|Pl|Ac	8	Det	_	_	
+8	οχτώ	οκτώ	Nm	NmCd	Ne|Pl|Ac|Aj	6	Atr	_	_	
+9	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+10	γιατί	γιατί	Cj	CjSb	_	0	AuxC	_	_	
+11	θα	θα	Pt	PtFu	_	12	AuxV	_	_	
+12	φύγω	φεύγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	10	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Καλά	καλά	Ad	Ad	Ba	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μην	μην	Pt	PtNg	_	2	AuxV	_	_	
+2	ξεχάσεις	ξεχνώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	όταν	όταν	Cj	CjSb	_	2	AuxC	_	_	
+4	έρθεις	έρχομαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	3	Adv	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	φέρεις	φέρω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	4	Obj	_	_	
+7	και	και	Cj	CjCo	_	9	AuxY	_	_	
+8	το	ο	At	AtDf	Ne|Sg|Nm	9	Det	_	_	
+9	σιντί	σιντί	No	NoCm	Ne|Sg|Da	6	Obj	_	_	
+10	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	9	Pos	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Εντάξει	εντάξει	Ad	Ad	Ba	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Άντε	άντε	Pt	PtOt	_	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	γεια	γεια	No	NoCm	Fe|Sg|Ac	1	ExD	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Γεια	γεια	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
