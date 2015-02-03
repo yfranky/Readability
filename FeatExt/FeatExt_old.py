@@ -633,7 +633,7 @@ Initialize variables
 # Get settings from configuration file and initialize
 
 # Define configuration filename. NOTE: specify full path if different from cwd.
-config_file = 'config.cfg'
+config_file = 'def_config.cfg'
 
 
 def get_filestems(data_path):

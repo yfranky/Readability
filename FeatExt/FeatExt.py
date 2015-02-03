@@ -1,12 +1,14 @@
 """
 Extract features from corpus (set of text files) for later readability assessment
 """
-import math
 
 __author__ = 'Yorgos'
 
 #Import modules
-import os
+import os, sys
+#import getopt
+import argparse
+#import math
 import codecs
 from datetime import datetime
 import statistics
@@ -67,6 +69,8 @@ def write_log(message):
     Returns:    nothing
     Globals:    log_filename
     """
+    global log_filename
+
     with  codecs.open(log_filename, "a", "utf-8") as f:
         f.write( '[' + str(datetime.now()) + '] ' + str(message) + '\n')
     f.close()
@@ -275,12 +279,12 @@ def get_Char(words):
     return sum(len(s[0]) for s in words)
 
 
-def get_AWL(words):
-    """
-    Average word length
-    Uses get_Char() and get_N()
-    """
-    return get_Char(words)/get_N(words)
+# def get_AWL(words):
+#     """
+#     Average word length
+#     Uses get_Char() and get_N()
+#     """
+#     return get_Char(words)/get_N(words)
 
 
 def get_S(sentences):
@@ -311,7 +315,7 @@ def get_SL30(sentences):
     return len([x for x in sentences if len(x) > 30])
 
 
-def get_ASL(words, sentences):
+def get_m_ASL(words, sentences):
     """
     Average sentence length in words
     """
@@ -386,6 +390,19 @@ def get_PnRe(words):
     Count PnRe pronouns
     """
     return len([x[1] for x in words if re.match('PnRe', x[2])])
+
+def get_PnRi(words):
+    """
+    Count PnRi pronouns
+    """
+    return len([x[1] for x in words if re.match('PnRi', x[2])])
+
+
+def get_PnIr(words):
+    """
+    Count PnIr pronouns
+    """
+    return len([x[1] for x in words if re.match('PnIr', x[2])])
 
 
 def get_Cnj(words):
@@ -641,56 +658,147 @@ def get_grammar_features(data, feature_list):
     #TODO: parameterize this
     type_freqs_num = 30
 
+    # count words
+    N = float(get_N(words)) #cast to float because it will be used later in floating point calculations
+    # count sentences
+    S = float(get_S(sentences))
+
 
     for feature in feature_list:
         if feature == 'All_tokens':
             features[feature] = get_All_tokens(data)
         elif feature == 'N':
-            features[feature] = get_N(words)
+            features[feature] = N
         elif feature == 'T':
             features[feature] = get_T(types)
+        elif feature == 'm_TTR':
+            features[feature] = (features['T'] if 'T' in features else get_T(types))/ N
         elif feature == 'Char':
             features[feature] = get_Char(words)
-        elif feature == 'AWL':
-            features[feature] = get_AWL(words)
+        elif feature == 'm_AWL':
+            features[feature] = get_Char(words) / N
         elif feature == 'S':
-            features[feature] = get_S(sentences)
+            features[feature] = S
         elif feature == 'SL10':
              features[feature] = get_SL10(sentences)
+        elif feature == 'm_SL10toS':
+             features[feature] = (features['SL10'] if 'SL10' in features else get_SL10(sentences))/ S
         elif feature == 'SL20':
              features[feature] = get_SL20(sentences)
+        elif feature == 'm_SL20toS':
+             features[feature] = (features['SL20'] if 'SL20' in features else get_SL20(sentences))/ S
         elif feature == 'SL30':
             features[feature] = get_SL30(sentences)
-        elif feature == 'ASL':
-             features[feature] = get_ASL(words, sentences)
+        elif feature == 'm_SL30toS':
+             features[feature] = (features['SL30'] if 'SL30' in features else get_SL30(sentences))/ S
+        elif feature == 'm_ASL':
+             features[feature] = get_m_ASL(words, sentences)
         elif feature == 'LemT':
              features[feature] = get_LemT(words)
+        elif feature == 'm_TTRLem':
+             features[feature] = (features['LemT'] if 'LemT' in features else get_LemT(words))/ N
         elif feature == 'Noun':
             features[feature] = get_Noun(words)
+        elif feature == 'm_NounToN':
+             features[feature] = (features['Noun'] if 'Noun' in features else get_Noun(words))/ N
         elif feature == 'Verb':
             features[feature] = get_Verb(words)
+        elif feature == 'm_VerbToN':
+            features[feature] = (features['Verb'] if 'Verb' in features else get_Verb(words))/ N
+        elif feature == 'm_VerbToS':
+            features[feature] = (features['Verb'] if 'Verb' in features else get_Verb(words))/ S
+        elif feature == 'm_NounToVerb':
+            features[feature] = (features['Noun'] if 'Noun' in features else get_Noun(words)) / \
+                                (features['Verb'] if 'Verb' in features else get_Verb(words))
         elif feature == 'Adj':
             features[feature] = get_Adj(words)
+        elif feature == 'm_AdjToN':
+            features[feature] = (features['Adj'] if 'Adj' in features else get_Adj(words))/ N
+        elif feature == 'm_AdjToNoun':
+            features[feature] = (features['Adj'] if 'Adj' in features else get_Adj(words))/ \
+                                (features['Noun'] if 'Noun' in features else get_Noun(words))
+        elif feature == 'm_AdjToS':
+            features[feature] = (features['Adj'] if 'Adj' in features else get_Adj(words))/ S
         elif feature == 'Adv':
             features[feature] = get_Adv(words)
+        elif feature == 'm_AdvToN':
+            features[feature] = (features['Adv'] if 'Adv' in features else get_Adv(words))/ N
+        elif feature == 'm_AdvToVerb':
+            features[feature] = (features['Adv'] if 'Adv' in features else get_Adv(words))/ \
+                                (features['Verb'] if 'Verb' in features else get_Verb(words))
+        elif feature == 'm_AdvToS':
+            features[feature] = (features['Adv'] if 'Adv' in features else get_Adv(words))/ S
         elif feature == 'Prn':
             features[feature] = get_Prn(words)
+        elif feature == 'm_PrnToN':
+            features[feature] = (features['Prn'] if 'Prn' in features else get_Prn(words))/ N
+        elif feature == 'm_PrnToNoun':
+            features[feature] = (features['Prn'] if 'Prn' in features else get_Prn(words))/ \
+                                 (features['Noun'] if 'Noun' in features else get_Noun(words))
+        elif feature == 'm_PrnToS':
+            features[feature] = (features['Prn'] if 'Prn' in features else get_Prn(words))/ S
         elif feature == 'PnPe':
             features[feature] = get_PnPe(words)
+        elif feature == 'm_PnPeToPrn':
+            features[feature] = (features['PnPe'] if 'PnPe' in features else get_PnPe(words)) / \
+                                (features['Prn'] if 'Prn' in features else get_Prn(words))
+        elif feature == 'm_PnPeToN':
+            features[feature] = (features['PnPe'] if 'PnPe' in features else get_PnPe(words))/ N
         elif feature == 'PnPe1':
             features[feature] = get_PnPe1(words)
+        elif feature == 'm_PnPe1ToN':
+            features[feature] = (features['PnPe1'] if 'PnPe' in features else get_PnPe1(words))/ N
         elif feature == 'PnPe2':
             features[feature] = get_PnPe2(words)
+        elif feature == 'm_PnPe2ToN':
+            features[feature] = (features['PnPe2'] if 'PnPe2' in features else get_PnPe2(words))/ N
         elif feature == 'PnRe':
             features[feature] = get_PnRe(words)
+        elif feature == 'm_PnReToPrn':
+            features[feature] = (features['PnRe'] if 'PnRe' in features else get_PnRe(words)) / \
+                                (features['Prn'] if 'Prn' in features else get_Prn(words))
+        elif feature == 'm_PnReToN':
+            features[feature] = (features['PnRe'] if 'PnRe' in features else get_PnRe(words))/ N
+        elif feature == 'PnRi':
+            features[feature] = get_PnRi(words)
+        elif feature == 'm_PnRiToPrn':
+            features[feature] = (features['PnRi'] if 'PnRi' in features else get_PnRi(words)) / \
+                                (features['Prn'] if 'Prn' in features else get_Prn(words))
+        elif feature == 'm_PnRiToN':
+            features[feature] = (features['PnRi'] if 'PnRi' in features else get_PnRi(words))/ N
+        elif feature == 'm_PnReRiToPrn':
+            features[feature] = ((features['PnRe'] if 'PnRe' in features else get_PnRe(words)) + \
+                                 (features['PnRi'] if 'PnRi' in features else get_PnRi(words))) / \
+                                (features['Prn'] if 'Prn' in features else get_Prn(words))
+        elif feature == 'm_PnReRiToN':
+            features[feature] = ((features['PnRe'] if 'PnRe' in features else get_PnRe(words)) + \
+                                 (features['PnRi'] if 'PnRi' in features else get_PnRi(words))) / N
+        elif feature == 'PnIr':
+            features[feature] = get_PnIr(words)
+        elif feature == 'm_PnIrToPrn':
+            features[feature] = (features['PnIr'] if 'PnIr' in features else get_PnIr(words)) / \
+                                (features['Prn'] if 'Prn' in features else get_Prn(words))
+        elif feature == 'm_PnIrToN':
+            features[feature] = (features['PnIr'] if 'PnIr' in features else get_PnIr(words))/ N
         elif feature == 'Cnj':
             features[feature] = get_Cnj(words)
+        elif feature == 'm_CnjToS':
+            features[feature] = (features['Cnj'] if 'Cnj' in features else get_Cnj(words))/ S
         elif feature == 'Prep':
             features[feature] = get_Prep(words)
+        elif feature == 'm_PrepToS':
+            features[feature] = (features['Prep'] if 'Prep' in features else get_Prep(words))/ S
         elif feature == 'Pt':
             features[feature] = get_Pt(words)
+        elif feature == 'm_PtToS':
+            features[feature] = (features['Pt'] if 'Pt' in features else get_Pt(words))/ S
         elif feature == 'PtSj':
             features[feature] = get_PtSj(words)
+        elif feature == 'm_PtSjToS':
+            features[feature] = (features['PtSj'] if 'PtSj' in features else get_PtSj(words))/ S
+        elif feature == 'm_PtSjToVerb':
+            features[feature] = (features['PtSj'] if 'PtSj' in features else get_PtSj(words))/ \
+                                (features['Verb'] if 'Verb' in features else get_Verb(words))
         elif feature == 'PVerb':
             features[feature] = get_PVerb(words)
         elif feature == 'Vb1':
@@ -733,7 +841,8 @@ def get_grammar_features(data, feature_list):
             features[feature] = get_RelEntr(types)
         else:
             # Unknown feature
-            write_log('Unable to extract feature: "' + feature + '". Unknown feature, skipped.')
+            pass
+            #write_log('Unable to extract feature: "' + feature + '". Unknown feature, skipped.')
         """ dummy elif
         if feature == '':
             features[feature] = get_()
@@ -925,7 +1034,7 @@ def get_DepWidth(sentences):
         #Create a frequency distribution list
         fdist = nltk.FreqDist(list)
         dep_width += fdist
-        debug_print('dep_width list: {0}'.format(dep_width))
+        #debug_print('dep_width list: {0}'.format(dep_width))
 
     return statistics.mean(dep_width) if len(dep_width) > 0 else 0
 
@@ -999,7 +1108,7 @@ def av_phrase_len(data, phrase_id):
             #word_counter = 0
         elif item[1] in ['TOK', 'ABBR', 'DIG']: # Word token
             word_counter += 1
-    debug_print("List of phrase lengths: {0}".format(len_list))
+    #debug_print("List of phrase lengths: {0}".format(len_list))
 
     return (statistics.mean(len_list) if len_list!=[] else 0)
 
@@ -1068,7 +1177,7 @@ def extract_grammar_features(features_list, path, text_ids):
             continue
 
         file_data = extract_data_from_tabbed_file(file)
-        debug_print(['file_data', file_data])
+        #debug_print(['file_data', file_data])
         write_log(file_data)
         result.append((
             text_id,
@@ -1160,122 +1269,111 @@ def extract_phrase_features(features_list, path, text_ids):
 
 #______________________________________________________________________________________________________
 
-"""
-Initialize variables
-"""
-# Get settings from configuration file and initialize
+if __name__ == "__main__":
+    # Define default configuration file. NOTE: specify full path if different from cwd.
+    default_config_file = 'def_config.cfg'
 
-# Define configuration filename. NOTE: specify full path if different from cwd.
-config_file = 'config.cfg'
+    #Parse command-line arguments
+    parser = argparse.ArgumentParser(description='Extract features from corpus')
+    #config_file: settings and configuration file. Optional, use default file if not specified.
+    parser.add_argument("-c", "--config_file", help="settings and configuration file")
+    args = parser.parse_args()
+    debug_print('Command-line arguments: "{0}"'.format(args))
+    if args.config_file:
+        config_file = args.config_file
+    else:
+        print('No configuration file given. Will try to use default configuration file "{0}" instead.' \
+              .format(default_config_file))
+        config_file = default_config_file
+    debug_print('Configuration file is "{0}"'.format(config_file))
 
+    #Get settings from configuration file and initialize
+    #Open configuration file.
+    try:
+        cfg_f = codecs.open(config_file, "r", "utf-8")
+    except :
+        # Erro if unable to open the configuration file. Should abort execution
+        print('Unable to open configuration file "{0}".'.format(config_file))
+        raise
 
-try:
-    # Get Settings from configuration file.
+    try:
+        # Get Settings from configuration file.
 
-    #Define paths for folders: Project, Data, Results.
-    config=configparser.ConfigParser(allow_no_value=True)
-    config.read_file(codecs.open(config_file, "r", "utf-8"))
-    paths = config['PATHS AND FILES']
+        #Define paths for folders: Project, Data, Results.
+        config=configparser.ConfigParser(allow_no_value=True)
+        config.read_file(cfg_f) #codecs.open(default_config_file, "r", "utf-8"))
+        paths = config['PATHS AND FILES']
 
-    # Get Features list from configuration file
-    grammar_features_list = config['FEATURES']['grammar_features_list'].split()
-    syntax_features_list = config['FEATURES']['syntax_features_list'].split()
-    phrase_features_list = config['FEATURES']['phrase_features_list'].split()
-    # If all feature lists are empty, no features can be extracted
-    if grammar_features_list == syntax_features_list == phrase_features_list == []: raise Exception
-except :
-    # If unable to read  from the configuration file, or no features found, use default values.
-    print('Error reading from configuration file, or no features found in it: {0} . \
-    Will use default configuration instead.'.format(config_file))
-    # Create a dummy 'paths' configparser object, so that the fallback values will be used in subsequent paths.get() calls
-    # note: configparser object is more or less like a dictionary, so dummy dictionary is used.
-    paths = {'Dummy': None }
-    grammar_features_list = [
-        'N',
-        'T',
-        'Char',
-        'awl',
-        'S',
-        'SL10',
-        'SL20',
-        'SL30',
-        'asl',
-        'LemT',
-        'Noun',
-        'Verb',
-        'Adj',
-        'Adv',
-        'Prn',
-        'PnPe',
-        'PnPe1',
-        'PnPe2',
-        'PnRe',
-        'Cnj',
-        'Prep',
-        'Pt',
-        'PtSj',
-        'PVerb',
-        'Vb1',
-        'Vb2',
-        'VbPr',
-        'VbPa',
-        'Pp',
-        'PpPv',
-        'CjCo',
-        'CjSb',
-        'NoGe',
-        'TNoun',
-        'TVerb',
-        'TAdj',
-        'TAdv',
-        'FuncT',
-        'FreqT'
-    ]
+        # Get Features list from configuration file
+        grammar_features_list = config['FEATURES']['grammar_features_list'].split()
+        syntax_features_list = config['FEATURES']['syntax_features_list'].split()
+        phrase_features_list = config['FEATURES']['phrase_features_list'].split()
+        # If all feature lists are empty, no features can be extracted
+        if grammar_features_list == syntax_features_list == phrase_features_list == []: raise Exception
+    except :
+        #Terminate program if failed to get settings from configuration file.
+        sys.exit('Error reading configuration file, or no features found in it: {0} . Unable to extract any features.'.\
+              format(config_file))
 
-# Working path. All other paths are relative to this.
-working_path = os.path.abspath( paths.get('working dir', '..'))
-debug_print(['working path', working_path])
-data_path = working_path + '\\' + paths.get('data dir', 'data')
-results_path = working_path + '\\' + paths.get('results dir', 'results')
+    # Working path. All other paths are relative to this.
+    working_path = os.path.abspath( paths.get('working dir', '..'))
+    debug_print(['working path', working_path])
+    data_path = os.path.join(working_path, paths.get('data dir', 'data'))
+    debug_print(['data path', data_path])
+    corpus_path = os.path.join(working_path, paths.get('corpus dir', 'corpus'))
+    debug_print(['corpus path', corpus_path])
+    results_path = os.path.join( working_path, paths.get('results dir', 'results'))
+    debug_print(['results path', results_path])
+    # Define output files
+    output_filename = os.path.join( results_path, paths.get('output filename', 'featext.txt'))
+    debug_print('output file: {}'.format(output_filename))
+    log_filename = os.path.join( results_path, paths.get('log filename', 'feature_extract.log'))
+    debug_print('logfile: {}'.format(log_filename))
+    # data_path = os.path.normpath(working_path + '\\' + paths.get('data dir', 'data'))
+    # debug_print(['data path', data_path])
+    # corpus_path = os.path.normpath(working_path + '\\' + paths.get('corpus dir', 'corpus'))
+    # debug_print(['corpus path', corpus_path])
+    # results_path = working_path + '\\' + paths.get('results dir', 'results')
+    # Define output files
+    # output_filename = results_path + '\\' + paths.get('output filename', 'featext.txt')
+    # log_filename = results_path + '\\' + paths.get('log filename', 'feature_extract.log')
+    # debug_print('logfile: {}'.format(log_filename))
 
-# Define output files
-output_filename = results_path + '\\' + paths.get('output filename', 'featext.txt')
-log_filename = results_path + '\\' + paths.get('log filename', 'feature_extract.log')
-debug_print('logfile: {}'.format(log_filename))
+    # Define file extensions
+    conll_file_extension = paths.get('conll file extension', 'conll')
+    lem_file_extension = paths.get('lem file extension', 'lem')
+    chunk_file_extension = paths.get('chunk file extension', 'chunk')
+    debug_print('{0} {1} {2}'.format(conll_file_extension, lem_file_extension, chunk_file_extension))
+    #Define text id's by searching for connl files and removing file extension
+    text_ids = get_basenames(corpus_path, conll_file_extension)
+    lem_datafiles = glob.glob(corpus_path + '\\*.lem')
+    debug_print(lem_datafiles)
+    #Define data files
+    functional_words_filename = data_path + '\\' + paths.get('functional words filename', 'functional words.txt')
 
-# Define file extensions
-conll_file_extension = paths.get('conll file extension', 'conll')
-lem_file_extension = paths.get('lem file extension', 'lem')
-chunk_file_extension = paths.get('chunk file extension', 'chunk')
-debug_print('{0} {1} {2}'.format(conll_file_extension, lem_file_extension, chunk_file_extension))
-#Define text id's by searching for connl files and removing file extension
-text_ids = get_basenames(data_path, conll_file_extension)
-lem_datafiles = glob.glob(data_path + '\\*.lem')
-debug_print(lem_datafiles)
-#Define data files
-functional_words_filename = data_path + '\\' + paths.get('functional words filename', 'functional words.txt')
+    # Write initial information to the log file
+    init_log(log_filename)
 
-# Write initial information to the log file
-init_log(log_filename)
+    # Extract grammar features
+    results_grammar_features = extract_grammar_features(grammar_features_list, corpus_path, text_ids)
+    write_log('Grammar features results: {0}'.format(results_grammar_features))
+    #debug_print('Grammar features results: {0}'.format(results_grammar_features))
+    # Extract syntax features
+    results_syntax_features = extract_syntax_features(syntax_features_list, corpus_path, text_ids)
+    write_log('Syntax features results: {0}'.format(results_syntax_features))
+    #debug_print('Syntax features results: {0}'.format(results_syntax_features))
+    # Extract phrase features
+    results_phrase_features = extract_phrase_features(phrase_features_list, corpus_path, text_ids)
+    #debug_print('Phrase features results: {0}'.format(results_phrase_features))
 
-# Extract grammar features
-results_grammar_features = extract_grammar_features(grammar_features_list, data_path, text_ids)
-write_log('Grammar features results: {0}'.format(results_grammar_features))
-debug_print('Grammar features results: {0}'.format(results_grammar_features))
-# Extract syntax features
-results_syntax_features = extract_syntax_features(syntax_features_list, data_path, text_ids)
-write_log('Syntax features results: {0}'.format(results_syntax_features))
-debug_print('Syntax features results: {0}'.format(results_syntax_features))
-results_phrase_features = extract_phrase_features(phrase_features_list, data_path, text_ids)
-debug_print('Phrase features results: {0}'.format(results_phrase_features))
+    #Write to output files
+    write_log('Writing results to files ...')
+    write_log('Writing grammar features')
+    write_results(output_filename[:-4] + '_grammar.txt', results_grammar_features, grammar_features_list)
+    write_log('Writing syntax features')
+    write_results(output_filename[:-4] + '_syntax.txt', results_syntax_features, syntax_features_list)
+    write_log('Writing phrase features')
+    write_results(output_filename[:-4] + '_phrase.txt', results_phrase_features, phrase_features_list)
+    write_log('  ... done')
+    write_log('---END OF PROGRAM---')
 
-#Write to output files
-write_log('Writing results to files ...')
-write_log('Writing grammar features')
-write_results(output_filename[:-4] + '_grammar.txt', results_grammar_features, grammar_features_list)
-write_log('Writing syntax features')
-write_results(output_filename[:-4] + '_syntax.txt', results_syntax_features, syntax_features_list)
-write_log('Writing phrase features')
-write_results(output_filename[:-4] + '_phrase.txt', results_phrase_features, phrase_features_list)
-write_log('  ... done')
-write_log('---END OF PROGRAM---')
