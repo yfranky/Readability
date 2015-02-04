@@ -6,10 +6,11 @@ __author__ = 'Yorgos'
 
 #Import modules
 import os, sys
+
 #import getopt
 import argparse
 import math
-#import numpy
+import numpy
 import codecs
 from datetime import datetime
 import statistics
@@ -32,6 +33,7 @@ except ImportError:
 # Print for debugging purposes only
 def debug_print(message):
     """Print for debugging purposes only."""
+    return
     print('Debug: {!s}'.format(message)[:240]) # truncate message because damned IDLE can't handle long output!!! (I wasted several hours to figure it out!)
     #write_log(message)
 
@@ -71,7 +73,7 @@ def write_log(message):
     Globals:    log_filename
     """
     global log_filename
-
+    return
     with  codecs.open(log_filename, "a", "utf-8") as f:
         f.write( '[' + str(datetime.now()) + '] ' + str(message) + '\n')
     f.close()
@@ -690,9 +692,10 @@ def get_grammar_features(data, feature_list):
     # count verbs
     V = float(get_Verb(words))
 
-    if 1:
-    #with numpy.errstate(divide='ignore'):
-        for feature in feature_list:
+
+    # with numpy.errstate(divide='ignore'):
+    for feature in feature_list:
+        try:
             if feature == 'All_tokens':
                 features[feature] = get_All_tokens(data)
             elif feature == 'N':
@@ -1018,6 +1021,8 @@ def get_grammar_features(data, feature_list):
             if feature == '':
                 features[feature] = get_()
             """
+        except ZeroDivisionError:
+            features[feature] = None
     return features
 
 
@@ -1527,11 +1532,11 @@ if __name__ == "__main__":
 
     # Extract grammar features
     results_grammar_features = extract_grammar_features(grammar_features_list, corpus_path, text_ids)
-    write_log('Grammar features results: {0}'.format(results_grammar_features))
+    #write_log('Grammar features results: {0}'.format(results_grammar_features))
     #debug_print('Grammar features results: {0}'.format(results_grammar_features))
     # Extract syntax features
     results_syntax_features = extract_syntax_features(syntax_features_list, corpus_path, text_ids)
-    write_log('Syntax features results: {0}'.format(results_syntax_features))
+    #write_log('Syntax features results: {0}'.format(results_syntax_features))
     #debug_print('Syntax features results: {0}'.format(results_syntax_features))
     # Extract phrase features
     results_phrase_features = extract_phrase_features(phrase_features_list, corpus_path, text_ids)
