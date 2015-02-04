@@ -9,6 +9,7 @@ import os, sys
 #import getopt
 import argparse
 import math
+#import numpy
 import codecs
 from datetime import datetime
 import statistics
@@ -334,6 +335,27 @@ def get_Noun(words):
     Count Nouns
     """
     return len([x[1] for x in words if re.match('No', x[2])])
+
+
+def get_NoPr(words):
+    """
+    Count Proper Nouns
+    """
+    return len([x[1] for x in words if re.match('NoPr', x[2])])
+
+
+def get_Dig(words):
+    """
+    Count Numbers (with digits, e.g.: 2015)
+    """
+    return len([x[1] for x in words if re.match('DIG', x[2])])
+
+
+def get_RgFw(words):
+    """
+    Count Foreign language Words
+    """
+    return len([x[1] for x in words if re.match('RgFw', x[2])])
 
 
 def get_Verb(words):
@@ -668,301 +690,334 @@ def get_grammar_features(data, feature_list):
     # count verbs
     V = float(get_Verb(words))
 
+    if 1:
+    #with numpy.errstate(divide='ignore'):
+        for feature in feature_list:
+            if feature == 'All_tokens':
+                features[feature] = get_All_tokens(data)
+            elif feature == 'N':
+                features[feature] = N
+            elif feature == 'T':
+                features[feature] = T
+            elif feature == 'm_TTR':
+                features[feature] = T / N
+            elif feature == 'FreqT':
+                freqt = getFreqT(types, type_freqs_num)
+                features.update(freqt)
+            elif feature == 'm_FreqTpc':
+                # Compute freqt only if it is not already computed, avoiding redundant computations
+                try:
+                    freqt
+                except NameError:
+                    freqt = getFreqT(types, type_freqs_num)
+                # Dictionary comprehension
+                freqtpc = {'m_'+key+'pc': freqt[key]/N for key in freqt.keys()}
+                features.update(freqtpc)
+            elif feature == 'm_DisToHapax':
+                # Compute hapax and dis only if it is not already computed, avoiding redundant computations
+                try:
+                    freqt
+                except NameError:
+                    myfreqt = getFreqT(types, 2)
+                else:
+                    myfreqt = freqt
+                features[feature] = myfreqt['Freq002'] / myfreqt['Freq001']
 
-    for feature in feature_list:
-        if feature == 'All_tokens':
-            features[feature] = get_All_tokens(data)
-        elif feature == 'N':
-            features[feature] = N
-        elif feature == 'T':
-            features[feature] = T
-        elif feature == 'm_TTR':
-            features[feature] = T / N
-        elif feature == 'Char':
-            features[feature] = get_Char(words)
-        elif feature == 'm_AWL':
-            features[feature] = get_Char(words) / N
-        elif feature == 'S':
-            features[feature] = S
-        elif feature == 'SL10':
-             features[feature] = get_SL10(sentences)
-        elif feature == 'm_SL10toS':
-             features[feature] = (features['SL10'] if 'SL10' in features else get_SL10(sentences))/ S
-        elif feature == 'SL20':
-             features[feature] = get_SL20(sentences)
-        elif feature == 'm_SL20toS':
-             features[feature] = (features['SL20'] if 'SL20' in features else get_SL20(sentences))/ S
-        elif feature == 'SL30':
-            features[feature] = get_SL30(sentences)
-        elif feature == 'm_SL30toS':
-             features[feature] = (features['SL30'] if 'SL30' in features else get_SL30(sentences))/ S
-        elif feature == 'm_ASL':
-             features[feature] = get_m_ASL(words, sentences)
-        elif feature == 'LemT':
-             features[feature] = get_LemT(words)
-        elif feature == 'm_TTRLem':
-             features[feature] = (features['LemT'] if 'LemT' in features else get_LemT(words))/ N
-        elif feature == 'Noun':
-            features[feature] = get_Noun(words)
-        elif feature == 'm_NounToN':
-             features[feature] = (features['Noun'] if 'Noun' in features else get_Noun(words))/ N
-        elif feature == 'Verb':
-            features[feature] = V
-        elif feature == 'm_VerbToN':
-            features[feature] = (features['Verb'] if 'Verb' in features else get_Verb(words))/ N
-        elif feature == 'm_VerbToS':
-            features[feature] = (features['Verb'] if 'Verb' in features else get_Verb(words))/ S
-        elif feature == 'm_NounToVerb':
-            features[feature] = (features['Noun'] if 'Noun' in features else get_Noun(words)) / \
-                                (features['Verb'] if 'Verb' in features else get_Verb(words))
-        elif feature == 'Adj':
-            features[feature] = get_Adj(words)
-        elif feature == 'm_AdjToN':
-            features[feature] = (features['Adj'] if 'Adj' in features else get_Adj(words))/ N
-        elif feature == 'm_AdjToNoun':
-            features[feature] = (features['Adj'] if 'Adj' in features else get_Adj(words))/ \
-                                (features['Noun'] if 'Noun' in features else get_Noun(words))
-        elif feature == 'm_AdjToS':
-            features[feature] = (features['Adj'] if 'Adj' in features else get_Adj(words))/ S
-        elif feature == 'Adv':
-            features[feature] = get_Adv(words)
-        elif feature == 'm_AdvToN':
-            features[feature] = (features['Adv'] if 'Adv' in features else get_Adv(words))/ N
-        elif feature == 'm_AdvToVerb':
-            features[feature] = (features['Adv'] if 'Adv' in features else get_Adv(words))/ \
-                                (features['Verb'] if 'Verb' in features else get_Verb(words))
-        elif feature == 'm_AdvToS':
-            features[feature] = (features['Adv'] if 'Adv' in features else get_Adv(words))/ S
-        elif feature == 'Prn':
-            features[feature] = get_Prn(words)
-        elif feature == 'm_PrnToN':
-            features[feature] = (features['Prn'] if 'Prn' in features else get_Prn(words))/ N
-        elif feature == 'm_PrnToNoun':
-            features[feature] = (features['Prn'] if 'Prn' in features else get_Prn(words))/ \
-                                 (features['Noun'] if 'Noun' in features else get_Noun(words))
-        elif feature == 'm_PrnToS':
-            features[feature] = (features['Prn'] if 'Prn' in features else get_Prn(words))/ S
-        elif feature == 'PnPe':
-            features[feature] = get_PnPe(words)
-        elif feature == 'm_PnPeToPrn':
-            features[feature] = (features['PnPe'] if 'PnPe' in features else get_PnPe(words)) / \
-                                (features['Prn'] if 'Prn' in features else get_Prn(words))
-        elif feature == 'm_PnPeToN':
-            features[feature] = (features['PnPe'] if 'PnPe' in features else get_PnPe(words))/ N
-        elif feature == 'PnPe1':
-            features[feature] = get_PnPe1(words)
-        elif feature == 'm_PnPe1ToN':
-            features[feature] = (features['PnPe1'] if 'PnPe' in features else get_PnPe1(words))/ N
-        elif feature == 'PnPe2':
-            features[feature] = get_PnPe2(words)
-        elif feature == 'm_PnPe2ToN':
-            features[feature] = (features['PnPe2'] if 'PnPe2' in features else get_PnPe2(words))/ N
-        elif feature == 'PnRe':
-            features[feature] = get_PnRe(words)
-        elif feature == 'm_PnReToPrn':
-            features[feature] = (features['PnRe'] if 'PnRe' in features else get_PnRe(words)) / \
-                                (features['Prn'] if 'Prn' in features else get_Prn(words))
-        elif feature == 'm_PnReToN':
-            features[feature] = (features['PnRe'] if 'PnRe' in features else get_PnRe(words))/ N
-        elif feature == 'PnRi':
-            features[feature] = get_PnRi(words)
-        elif feature == 'm_PnRiToPrn':
-            features[feature] = (features['PnRi'] if 'PnRi' in features else get_PnRi(words)) / \
-                                (features['Prn'] if 'Prn' in features else get_Prn(words))
-        elif feature == 'm_PnRiToN':
-            features[feature] = (features['PnRi'] if 'PnRi' in features else get_PnRi(words))/ N
-        elif feature == 'm_PnReRiToPrn':
-            features[feature] = ((features['PnRe'] if 'PnRe' in features else get_PnRe(words)) + \
-                                 (features['PnRi'] if 'PnRi' in features else get_PnRi(words))) / \
-                                (features['Prn'] if 'Prn' in features else get_Prn(words))
-        elif feature == 'm_PnReRiToN':
-            features[feature] = ((features['PnRe'] if 'PnRe' in features else get_PnRe(words)) + \
-                                 (features['PnRi'] if 'PnRi' in features else get_PnRi(words))) / N
-        elif feature == 'PnIr':
-            features[feature] = get_PnIr(words)
-        elif feature == 'm_PnIrToPrn':
-            features[feature] = (features['PnIr'] if 'PnIr' in features else get_PnIr(words)) / \
-                                (features['Prn'] if 'Prn' in features else get_Prn(words))
-        elif feature == 'm_PnIrToN':
-            features[feature] = (features['PnIr'] if 'PnIr' in features else get_PnIr(words))/ N
-        elif feature == 'Cnj':
-            features[feature] = get_Cnj(words)
-        elif feature == 'm_CnjToS':
-            features[feature] = (features['Cnj'] if 'Cnj' in features else get_Cnj(words))/ S
-        elif feature == 'Prep':
-            features[feature] = get_Prep(words)
-        elif feature == 'm_PrepToS':
-            features[feature] = (features['Prep'] if 'Prep' in features else get_Prep(words))/ S
-        elif feature == 'Pt':
-            features[feature] = get_Pt(words)
-        elif feature == 'm_PtToS':
-            features[feature] = (features['Pt'] if 'Pt' in features else get_Pt(words))/ S
-        elif feature == 'PtSj':
-            features[feature] = get_PtSj(words)
-        elif feature == 'm_PtSjToS':
-            features[feature] = (features['PtSj'] if 'PtSj' in features else get_PtSj(words))/ S
-        elif feature == 'm_PtSjToVerb':
-            features[feature] = (features['PtSj'] if 'PtSj' in features else get_PtSj(words))/ \
-                                (features['Verb'] if 'Verb' in features else get_Verb(words))
-        elif feature == 'PVerb':
-            features[feature] = get_PVerb(words)
-        elif feature == 'm_PVerbToVerb':
-            features[feature] = (features['PVerb'] if 'PVerb' in features else get_PVerb(words))/ V
-        elif feature == 'm_PVerbToS':
-            features[feature] = (features['PVerb'] if 'PVerb' in features else get_PVerb(words))/ S
-        elif feature == 'Vb1':
-            features[feature] = get_Vb1(words)
-        elif feature == 'm_Vb1ToVerb':
-            features[feature] = (features['Vb1'] if 'Vb1' in features else get_Vb1(words))/ V
-        elif feature == 'Vb2':
-            features[feature] = get_Vb2(words)
-        elif feature == 'm_Vb2ToVerb':
-            features[feature] = (features['Vb2'] if 'Vb2' in features else get_Vb2(words))/ V
-        elif feature == 'VbPr':
-            features[feature] = get_VbPr(words)
-        elif feature == 'm_VbPrToVerb':
-            features[feature] = (features['VbPr'] if 'VbPr' in features else get_VbPr(words))/ V
-        elif feature == 'VbPa':
-            features[feature] = get_VbPa(words)
-        elif feature == 'm_VbPaToVerb':
-            features[feature] = (features['VbPa'] if 'VbPa' in features else get_VbPa(words))/ V
-        elif feature == 'Pp':
-            features[feature] = get_Pp(words)
-        elif feature == 'm_PpToS':
-            features[feature] = (features['Pp'] if 'Pp' in features else get_Pp(words))/ S
-        elif feature == 'PpPv':
-            features[feature] = get_PpPv(words)
-        elif feature == 'm_PpPvToS':
-            features[feature] = (features['PpPv'] if 'PpPv' in features else get_PpPv(words))/ S
-        elif feature == 'm_AdjPpPvToS':
-            features[feature] = ((features['Adj'] if 'Adj' in features else get_Adj(words)) + \
-                                 (features['PpPv'] if 'PpPv' in features else get_PpPv(words))) / S
-        elif feature == 'm_AdjPpPvToNoun':
-            features[feature] = ((features['Adj'] if 'Adj' in features else get_Adj(words)) + \
-                                 (features['PpPv'] if 'PpPv' in features else get_PpPv(words))) / \
-                                (features['Noun'] if 'Noun' in features else get_Noun(words))
-        elif feature == 'CjCo':
-            features[feature] = get_CjCo(words)
-        elif feature == 'm_CjCoΤoS':
-            features[feature] = (features['CjCo'] if 'CjCo' in features else get_CjCo(words))/ S
-        elif feature == 'CjSb':
-            features[feature] = get_CjSb(words)
-        elif feature == 'm_CjSbΤoS':
-            features[feature] = (features['CjSb'] if 'CjSb' in features else get_CjSb(words))/ S
-        elif feature == 'm_CjSbΤoN':
-            features[feature] = (features['CjSb'] if 'CjSb' in features else get_CjSb(words))/ N
-        elif feature == 'm_CjCoCjSbΤoS':
-            features[feature] = ((features['CjCo'] if 'CjCo' in features else get_CjCo(words)) + \
-                                 (features['CjSb'] if 'CjSb' in features else get_CjSb(words))) / S
-        elif feature == 'm_CjCoCjSbΤoN':
-            features[feature] = ((features['CjCo'] if 'CjCo' in features else get_CjCo(words)) + \
-                                 (features['CjSb'] if 'CjSb' in features else get_CjSb(words))) / N
-        elif feature == 'NoGe':
-            features[feature] = get_NoGe(words)
-        elif feature == 'm_NoGeToNoun':
-            features[feature] = ((features['NoGe'] if 'NoGe' in features else get_NoGe(words)) / \
-                                 (features['Noun'] if 'Noun' in features else get_Noun(words)))
-        elif feature == 'FuncT':
-            features[feature] = get_FuncT(types, func_words)
-        elif feature == 'TNoun':
-            features[feature] = get_TNoun(words)
-        elif feature == 'm_ΤΝounToN':
-            features[feature] = (features['TNoun'] if 'TNoun' in features else get_TNoun(words)) / N
-        elif feature == 'm_ΤΝounToNoun':
-            features[feature] = (features['TNoun'] if 'TNoun' in features else get_TNoun(words)) / \
-                                 (features['Noun'] if 'Noun' in features else get_Noun(words))
-        elif feature == 'm_ΤΝounToNlex':
-            features[feature] = (features['TNoun'] if 'TNoun' in features else get_TNoun(words)) / \
-                                (N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words)))
-        elif feature == 'm_SqTNoun':
-            features[feature] = ((features['TNoun'] if 'TNoun' in features else get_TNoun(words))^2) / \
-                                 (features['Noun'] if 'Noun' in features else get_Noun(words))
-        elif feature == 'm_CorTNoun':
-            features[feature] = (features['TNoun'] if 'TNoun' in features else get_TNoun(words)) / \
-                                 math.sqrt( 2 * (features['Noun'] if 'Noun' in features else get_Noun(words)) )
-        elif feature == 'TVerb':
-            features[feature] = get_TVerb(words)
-        elif feature == 'm_ΤVerbToN':
-            features[feature] = (features['TVerb'] if 'TVerb' in features else get_TVerb(words)) / N
-        elif feature == 'm_ΤΝVerbToVerb':
-            features[feature] = (features['TVerb'] if 'TVerb' in features else get_TVerb(words)) / \
-                                 (features['Verb'] if 'Verb' in features else get_Verb(words))
-        elif feature == 'm_ΤVerbToNlex':
-            features[feature] = (features['TVerb'] if 'TVerb' in features else get_TVerb(words)) / \
-                                (N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words)))
-        elif feature == 'm_SqTVerb':
-            features[feature] = ((features['TVerb'] if 'TVerb' in features else get_TVerb(words))^2) / \
-                                 (features['Verb'] if 'Verb' in features else get_Verb(words))
-        elif feature == 'm_CorTVerb':
-            features[feature] = (features['TVerb'] if 'TVerb' in features else get_TVerb(words)) / \
-                                 math.sqrt( 2 * (features['Verb'] if 'Verb' in features else get_Verb(words)) )
-        elif feature == 'TAdj':
-            features[feature] = get_TAdj(words)
-        elif feature == 'm_ΤAdjToN':
-            features[feature] = (features['TAdj'] if 'TAdj' in features else get_TAdj(words)) / N
-        elif feature == 'm_ΤAdjToAdj':
-            features[feature] = (features['TAdj'] if 'TAdj' in features else get_TAdj(words)) / \
-                                 (features['Adj'] if 'Adj' in features else get_Adj(words))
-        elif feature == 'm_ΤAdjToNlex':
-            features[feature] = (features['TAdj'] if 'TAdj' in features else get_TAdj(words)) / \
-                                (N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words)))
-        elif feature == 'm_SqTAdj':
-            features[feature] = ((features['TAdj'] if 'TAdj' in features else get_TAdj(words))^2) / \
-                                 (features['Adj'] if 'Adj' in features else get_Adj(words))
-        elif feature == 'm_CorTAdj':
-            features[feature] = (features['TAdj'] if 'TAdj' in features else get_TAdj(words)) / \
-                                 math.sqrt( 2 * (features['Adj'] if 'Adj' in features else get_Adj(words)) )
-        elif feature == 'TAdv':
-            features[feature] = get_TAdv(words)
-        elif feature == 'm_ΤAdvToN':
-            features[feature] = (features['TAdv'] if 'TAdv' in features else get_TAdv(words)) / N
-        elif feature == 'm_ΤAdvToAdv':
-            features[feature] = (features['TAdv'] if 'TAdv' in features else get_TAdv(words)) / \
-                                 (features['Adv'] if 'Adv' in features else get_Adv(words))
-        elif feature == 'm_ΤAdvToNlex':
-            features[feature] = (features['TAdv'] if 'TAdv' in features else get_TAdv(words)) / \
-                                (N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words)))
-        elif feature == 'm_SqTAdv':
-            features[feature] = ((features['TAdv'] if 'TAdv' in features else get_TAdv(words))^2) / \
-                                 (features['Adv'] if 'Adv' in features else get_Adv(words))
-        elif feature == 'm_CorTAdv':
-            features[feature] = (features['TAdv'] if 'TAdv' in features else get_TAdv(words)) / \
-                                 math.sqrt( 2 * (features['Adv'] if 'Adv' in features else get_Adv(words)) )
-        elif feature == 'm_AdVar':
-            features[feature] = ((features['TAdj'] if 'TAdj' in features else get_TAdj(words)) + \
-                                 (features['TAdv'] if 'TAdv' in features else get_TAdv(words))  ) / \
-                                ( N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words)) )
-        elif feature == 'm_Density1':
-            features[feature] = (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_word)) / \
-                                ( N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words)))
-        elif feature == 'm_Density2':
-            features[feature] = (N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_word))) / N
-        elif feature == 'FreqT':
-            features.update(getFreqT(types, type_freqs_num))
-        elif feature == 'm_YuleK':
-            features[feature] = get_YuleK(types)
-        elif feature == 'm_D':
-            features[feature] = get_D(words, types)
-        elif feature == 'm_Entr':
-            features[feature] = get_Entr(types)
-        elif feature == 'm_RelEntr':
-            features[feature] = get_RelEntr(types)
-        elif feature == 'm_Uber':
-            lN = math.log10(N)
-            features[feature] = (lN*lN) / (lN - math.log10(T))
-        elif feature == 'm_Herdan':
-            features[feature] = math.log10(T) / math.log10(N)
-        elif feature == 'm_Guiraud':
-            features[feature] = T / math.sqrt(N)
 
-        else:
-            # Unknown feature
-            pass
-            #write_log('Unable to extract feature: "' + feature + '". Unknown feature, skipped.')
-        """ dummy elif
-        if feature == '':
-            features[feature] = get_()
-        """
+            elif feature == 'Char':
+                features[feature] = get_Char(words)
+            elif feature == 'm_AWL':
+                features[feature] = get_Char(words) / N
+            elif feature == 'S':
+                features[feature] = S
+            elif feature == 'SL10':
+                 features[feature] = get_SL10(sentences)
+            elif feature == 'm_SL10toS':
+                 features[feature] = (features['SL10'] if 'SL10' in features else get_SL10(sentences))/ S
+            elif feature == 'SL20':
+                 features[feature] = get_SL20(sentences)
+            elif feature == 'm_SL20toS':
+                 features[feature] = (features['SL20'] if 'SL20' in features else get_SL20(sentences))/ S
+            elif feature == 'SL30':
+                features[feature] = get_SL30(sentences)
+            elif feature == 'm_SL30toS':
+                 features[feature] = (features['SL30'] if 'SL30' in features else get_SL30(sentences))/ S
+            elif feature == 'm_ASL':
+                 features[feature] = get_m_ASL(words, sentences)
+            elif feature == 'LemT':
+                 features[feature] = get_LemT(words)
+            elif feature == 'm_TTRLem':
+                 features[feature] = (features['LemT'] if 'LemT' in features else get_LemT(words))/ N
+            elif feature == 'Noun':
+                features[feature] = get_Noun(words)
+            elif feature == 'm_NounToN':
+                 features[feature] = (features['Noun'] if 'Noun' in features else get_Noun(words))/ N
+            elif feature == 'NoPr':
+                features[feature] = get_NoPr(words)
+            elif feature == 'm_NoPrToN':
+                 features[feature] = (features['NoPr'] if 'NoPr' in features else get_NoPr(words))/ N
+            elif feature == 'Dig':
+                features[feature] = get_Dig(words)
+            elif feature == 'm_DigToN':
+                 features[feature] = (features['Dig'] if 'Dig' in features else get_Dig(words))/ N
+            elif feature == 'RgFw':
+                features[feature] = get_RgFw(words)
+            elif feature == 'm_RgFwToN':
+                 features[feature] = (features['RgFw'] if 'RgFw' in features else get_RgFw(words))/ N
+            elif feature == 'Verb':
+                features[feature] = V
+            elif feature == 'm_VerbToN':
+                features[feature] = (features['Verb'] if 'Verb' in features else get_Verb(words))/ N
+            elif feature == 'm_VerbToS':
+                features[feature] = (features['Verb'] if 'Verb' in features else get_Verb(words))/ S
+            elif feature == 'm_NounToVerb':
+                features[feature] = (features['Noun'] if 'Noun' in features else get_Noun(words)) / \
+                                    (features['Verb'] if 'Verb' in features else get_Verb(words))
+            elif feature == 'Adj':
+                features[feature] = get_Adj(words)
+            elif feature == 'm_AdjToN':
+                features[feature] = (features['Adj'] if 'Adj' in features else get_Adj(words))/ N
+            elif feature == 'm_AdjToNoun':
+                features[feature] = (features['Adj'] if 'Adj' in features else get_Adj(words))/ \
+                                    (features['Noun'] if 'Noun' in features else get_Noun(words))
+            elif feature == 'm_AdjToS':
+                features[feature] = (features['Adj'] if 'Adj' in features else get_Adj(words))/ S
+            elif feature == 'Adv':
+                features[feature] = get_Adv(words)
+            elif feature == 'm_AdvToN':
+                features[feature] = (features['Adv'] if 'Adv' in features else get_Adv(words))/ N
+            elif feature == 'm_AdvToVerb':
+                features[feature] = (features['Adv'] if 'Adv' in features else get_Adv(words))/ \
+                                    (features['Verb'] if 'Verb' in features else get_Verb(words))
+            elif feature == 'm_AdvToS':
+                features[feature] = (features['Adv'] if 'Adv' in features else get_Adv(words))/ S
+            elif feature == 'Prn':
+                features[feature] = get_Prn(words)
+            elif feature == 'm_PrnToN':
+                features[feature] = (features['Prn'] if 'Prn' in features else get_Prn(words))/ N
+            elif feature == 'm_PrnToNoun':
+                features[feature] = (features['Prn'] if 'Prn' in features else get_Prn(words))/ \
+                                     (features['Noun'] if 'Noun' in features else get_Noun(words))
+            elif feature == 'm_PrnToS':
+                features[feature] = (features['Prn'] if 'Prn' in features else get_Prn(words))/ S
+            elif feature == 'PnPe':
+                features[feature] = get_PnPe(words)
+            elif feature == 'm_PnPeToPrn':
+                features[feature] = (features['PnPe'] if 'PnPe' in features else get_PnPe(words)) / \
+                                    (features['Prn'] if 'Prn' in features else get_Prn(words))
+            elif feature == 'm_PnPeToN':
+                features[feature] = (features['PnPe'] if 'PnPe' in features else get_PnPe(words))/ N
+            elif feature == 'PnPe1':
+                features[feature] = get_PnPe1(words)
+            elif feature == 'm_PnPe1ToN':
+                features[feature] = (features['PnPe1'] if 'PnPe' in features else get_PnPe1(words))/ N
+            elif feature == 'PnPe2':
+                features[feature] = get_PnPe2(words)
+            elif feature == 'm_PnPe2ToN':
+                features[feature] = (features['PnPe2'] if 'PnPe2' in features else get_PnPe2(words))/ N
+            elif feature == 'PnRe':
+                features[feature] = get_PnRe(words)
+            elif feature == 'm_PnReToPrn':
+                features[feature] = (features['PnRe'] if 'PnRe' in features else get_PnRe(words)) / \
+                                    (features['Prn'] if 'Prn' in features else get_Prn(words))
+            elif feature == 'm_PnReToN':
+                features[feature] = (features['PnRe'] if 'PnRe' in features else get_PnRe(words))/ N
+            elif feature == 'PnRi':
+                features[feature] = get_PnRi(words)
+            elif feature == 'm_PnRiToPrn':
+                features[feature] = (features['PnRi'] if 'PnRi' in features else get_PnRi(words)) / \
+                                    (features['Prn'] if 'Prn' in features else get_Prn(words))
+            elif feature == 'm_PnRiToN':
+                features[feature] = (features['PnRi'] if 'PnRi' in features else get_PnRi(words))/ N
+            elif feature == 'm_PnReRiToPrn':
+                features[feature] = ((features['PnRe'] if 'PnRe' in features else get_PnRe(words)) + \
+                                     (features['PnRi'] if 'PnRi' in features else get_PnRi(words))) / \
+                                    (features['Prn'] if 'Prn' in features else get_Prn(words))
+            elif feature == 'm_PnReRiToN':
+                features[feature] = ((features['PnRe'] if 'PnRe' in features else get_PnRe(words)) + \
+                                     (features['PnRi'] if 'PnRi' in features else get_PnRi(words))) / N
+            elif feature == 'PnIr':
+                features[feature] = get_PnIr(words)
+            elif feature == 'm_PnIrToPrn':
+                features[feature] = (features['PnIr'] if 'PnIr' in features else get_PnIr(words)) / \
+                                    (features['Prn'] if 'Prn' in features else get_Prn(words))
+            elif feature == 'm_PnIrToN':
+                features[feature] = (features['PnIr'] if 'PnIr' in features else get_PnIr(words))/ N
+            elif feature == 'Cnj':
+                features[feature] = get_Cnj(words)
+            elif feature == 'm_CnjToS':
+                features[feature] = (features['Cnj'] if 'Cnj' in features else get_Cnj(words))/ S
+            elif feature == 'Prep':
+                features[feature] = get_Prep(words)
+            elif feature == 'm_PrepToS':
+                features[feature] = (features['Prep'] if 'Prep' in features else get_Prep(words))/ S
+            elif feature == 'Pt':
+                features[feature] = get_Pt(words)
+            elif feature == 'm_PtToS':
+                features[feature] = (features['Pt'] if 'Pt' in features else get_Pt(words))/ S
+            elif feature == 'PtSj':
+                features[feature] = get_PtSj(words)
+            elif feature == 'm_PtSjToS':
+                features[feature] = (features['PtSj'] if 'PtSj' in features else get_PtSj(words))/ S
+            elif feature == 'm_PtSjToVerb':
+                features[feature] = (features['PtSj'] if 'PtSj' in features else get_PtSj(words))/ \
+                                    (features['Verb'] if 'Verb' in features else get_Verb(words))
+            elif feature == 'PVerb':
+                features[feature] = get_PVerb(words)
+            elif feature == 'm_PVerbToVerb':
+                features[feature] = (features['PVerb'] if 'PVerb' in features else get_PVerb(words))/ V
+            elif feature == 'm_PVerbToS':
+                features[feature] = (features['PVerb'] if 'PVerb' in features else get_PVerb(words))/ S
+            elif feature == 'Vb1':
+                features[feature] = get_Vb1(words)
+            elif feature == 'm_Vb1ToVerb':
+                features[feature] = (features['Vb1'] if 'Vb1' in features else get_Vb1(words))/ V
+            elif feature == 'Vb2':
+                features[feature] = get_Vb2(words)
+            elif feature == 'm_Vb2ToVerb':
+                features[feature] = (features['Vb2'] if 'Vb2' in features else get_Vb2(words))/ V
+            elif feature == 'VbPr':
+                features[feature] = get_VbPr(words)
+            elif feature == 'm_VbPrToVerb':
+                features[feature] = (features['VbPr'] if 'VbPr' in features else get_VbPr(words))/ V
+            elif feature == 'VbPa':
+                features[feature] = get_VbPa(words)
+            elif feature == 'm_VbPaToVerb':
+                features[feature] = (features['VbPa'] if 'VbPa' in features else get_VbPa(words))/ V
+            elif feature == 'Pp':
+                features[feature] = get_Pp(words)
+            elif feature == 'm_PpToS':
+                features[feature] = (features['Pp'] if 'Pp' in features else get_Pp(words))/ S
+            elif feature == 'PpPv':
+                features[feature] = get_PpPv(words)
+            elif feature == 'm_PpPvToS':
+                features[feature] = (features['PpPv'] if 'PpPv' in features else get_PpPv(words))/ S
+            elif feature == 'm_AdjPpPvToS':
+                features[feature] = ((features['Adj'] if 'Adj' in features else get_Adj(words)) + \
+                                     (features['PpPv'] if 'PpPv' in features else get_PpPv(words))) / S
+            elif feature == 'm_AdjPpPvToNoun':
+                features[feature] = ((features['Adj'] if 'Adj' in features else get_Adj(words)) + \
+                                     (features['PpPv'] if 'PpPv' in features else get_PpPv(words))) / \
+                                    (features['Noun'] if 'Noun' in features else get_Noun(words))
+            elif feature == 'CjCo':
+                features[feature] = get_CjCo(words)
+            elif feature == 'm_CjCoΤoS':
+                features[feature] = (features['CjCo'] if 'CjCo' in features else get_CjCo(words))/ S
+            elif feature == 'CjSb':
+                features[feature] = get_CjSb(words)
+            elif feature == 'm_CjSbΤoS':
+                features[feature] = (features['CjSb'] if 'CjSb' in features else get_CjSb(words))/ S
+            elif feature == 'm_CjSbΤoN':
+                features[feature] = (features['CjSb'] if 'CjSb' in features else get_CjSb(words))/ N
+            elif feature == 'm_CjCoCjSbΤoS':
+                features[feature] = ((features['CjCo'] if 'CjCo' in features else get_CjCo(words)) + \
+                                     (features['CjSb'] if 'CjSb' in features else get_CjSb(words))) / S
+            elif feature == 'm_CjCoCjSbΤoN':
+                features[feature] = ((features['CjCo'] if 'CjCo' in features else get_CjCo(words)) + \
+                                     (features['CjSb'] if 'CjSb' in features else get_CjSb(words))) / N
+            elif feature == 'NoGe':
+                features[feature] = get_NoGe(words)
+            elif feature == 'm_NoGeToNoun':
+                features[feature] = ((features['NoGe'] if 'NoGe' in features else get_NoGe(words)) / \
+                                     (features['Noun'] if 'Noun' in features else get_Noun(words)))
+            elif feature == 'FuncT':
+                features[feature] = get_FuncT(types, func_words)
+            elif feature == 'TNoun':
+                features[feature] = get_TNoun(words)
+            elif feature == 'm_ΤΝounToN':
+                features[feature] = (features['TNoun'] if 'TNoun' in features else get_TNoun(words)) / N
+            elif feature == 'm_ΤΝounToNoun':
+                features[feature] = (features['TNoun'] if 'TNoun' in features else get_TNoun(words)) / \
+                                     (features['Noun'] if 'Noun' in features else get_Noun(words))
+            elif feature == 'm_ΤΝounToNlex':
+                features[feature] = (features['TNoun'] if 'TNoun' in features else get_TNoun(words)) / \
+                                    (N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words)))
+            elif feature == 'm_SqTNoun':
+                features[feature] = ((features['TNoun'] if 'TNoun' in features else get_TNoun(words))^2) / \
+                                     (features['Noun'] if 'Noun' in features else get_Noun(words))
+            elif feature == 'm_CorTNoun':
+                features[feature] = (features['TNoun'] if 'TNoun' in features else get_TNoun(words)) / \
+                                     math.sqrt( 2 * (features['Noun'] if 'Noun' in features else get_Noun(words)) )
+            elif feature == 'TVerb':
+                features[feature] = get_TVerb(words)
+            elif feature == 'm_ΤVerbToN':
+                features[feature] = (features['TVerb'] if 'TVerb' in features else get_TVerb(words)) / N
+            elif feature == 'm_ΤVerbToVerb':
+                features[feature] = (features['TVerb'] if 'TVerb' in features else get_TVerb(words)) / \
+                                     (features['Verb'] if 'Verb' in features else get_Verb(words))
+            elif feature == 'm_ΤVerbToNlex':
+                features[feature] = (features['TVerb'] if 'TVerb' in features else get_TVerb(words)) / \
+                                    (N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words)))
+            elif feature == 'm_SqTVerb':
+                features[feature] = ((features['TVerb'] if 'TVerb' in features else get_TVerb(words))^2) / \
+                                     (features['Verb'] if 'Verb' in features else get_Verb(words))
+            elif feature == 'm_CorTVerb':
+                features[feature] = (features['TVerb'] if 'TVerb' in features else get_TVerb(words)) / \
+                                     math.sqrt( 2 * (features['Verb'] if 'Verb' in features else get_Verb(words)) )
+            elif feature == 'TAdj':
+                features[feature] = get_TAdj(words)
+            elif feature == 'm_ΤAdjToN':
+                features[feature] = (features['TAdj'] if 'TAdj' in features else get_TAdj(words)) / N
+            elif feature == 'm_ΤAdjToAdj':
+                features[feature] = (features['TAdj'] if 'TAdj' in features else get_TAdj(words)) / \
+                                     (features['Adj'] if 'Adj' in features else get_Adj(words))
+            elif feature == 'm_ΤAdjToNlex':
+                features[feature] = (features['TAdj'] if 'TAdj' in features else get_TAdj(words)) / \
+                                    (N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words)))
+            elif feature == 'm_SqTAdj':
+                features[feature] = ((features['TAdj'] if 'TAdj' in features else get_TAdj(words))^2) / \
+                                     (features['Adj'] if 'Adj' in features else get_Adj(words))
+            elif feature == 'm_CorTAdj':
+                features[feature] = (features['TAdj'] if 'TAdj' in features else get_TAdj(words)) / \
+                                     math.sqrt( 2 * (features['Adj'] if 'Adj' in features else get_Adj(words)) )
+            elif feature == 'TAdv':
+                features[feature] = get_TAdv(words)
+            elif feature == 'm_ΤAdvToN':
+                features[feature] = (features['TAdv'] if 'TAdv' in features else get_TAdv(words)) / N
+            elif feature == 'm_ΤAdvToAdv':
+                features[feature] = (features['TAdv'] if 'TAdv' in features else get_TAdv(words)) / \
+                                     (features['Adv'] if 'Adv' in features else get_Adv(words))
+            elif feature == 'm_ΤAdvToNlex':
+                features[feature] = (features['TAdv'] if 'TAdv' in features else get_TAdv(words)) / \
+                                    (N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words)))
+            elif feature == 'm_SqTAdv':
+                features[feature] = ((features['TAdv'] if 'TAdv' in features else get_TAdv(words))^2) / \
+                                     (features['Adv'] if 'Adv' in features else get_Adv(words))
+            elif feature == 'm_CorTAdv':
+                features[feature] = (features['TAdv'] if 'TAdv' in features else get_TAdv(words)) / \
+                                     math.sqrt( 2 * (features['Adv'] if 'Adv' in features else get_Adv(words)) )
+            elif feature == 'm_AdVar':
+                features[feature] = ((features['TAdj'] if 'TAdj' in features else get_TAdj(words)) + \
+                                     (features['TAdv'] if 'TAdv' in features else get_TAdv(words))  ) / \
+                                    ( N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words)) )
+            elif feature == 'm_Density1':
+                features[feature] = (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words)) / \
+                                    ( N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words)))
+            elif feature == 'm_Density2':
+                features[feature] = (N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words))) / N
+            elif feature == 'm_YuleK':
+                features[feature] = get_YuleK(types)
+            elif feature == 'm_D':
+                features[feature] = get_D(words, types)
+            elif feature == 'm_Entr':
+                features[feature] = get_Entr(types)
+            elif feature == 'm_RelEntr':
+                features[feature] = get_RelEntr(types)
+            elif feature == 'm_Uber':
+                lN = math.log10(N)
+                features[feature] = (lN*lN) / (lN - math.log10(T))
+            elif feature == 'm_Herdan':
+                features[feature] = math.log10(T) / math.log10(N)
+            elif feature == 'm_Guiraud':
+                features[feature] = T / math.sqrt(N)
+
+            else:
+                # Unknown feature
+                write_log('Unable to extract feature: "' + feature + '". Unknown feature, skipped.')
+            """ dummy elif
+            if feature == '':
+                features[feature] = get_()
+            """
     return features
 
 
