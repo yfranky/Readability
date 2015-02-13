@@ -10,7 +10,7 @@ import os, sys
 #import getopt
 import argparse
 import math
-import numpy
+#import numpy
 import codecs
 from datetime import datetime
 import statistics
@@ -33,7 +33,6 @@ except ImportError:
 # Print for debugging purposes only
 def debug_print(message):
     """Print for debugging purposes only."""
-    return
     print('Debug: {!s}'.format(message)[:240]) # truncate message because damned IDLE can't handle long output!!! (I wasted several hours to figure it out!)
     #write_log(message)
 
@@ -73,16 +72,16 @@ def write_log(message):
     Globals:    log_filename
     """
     global log_filename
-    return
     with  codecs.open(log_filename, "a", "utf-8") as f:
         f.write( '[' + str(datetime.now()) + '] ' + str(message) + '\n')
     f.close()
+    debug_print('LOG: {0}'.format(message))
     # Print to standard output too, for debugging purposes. Should be removed when coding is finished
 #    debug_print(['LOG', message])
     return
 
 # Write Feature data to output file
-def write_results(filename, results, feature_list):
+def write_results(filename, results, feature_list, sep = ','):
     """
     Write Feature data to output file.
 
@@ -91,25 +90,26 @@ def write_results(filename, results, feature_list):
                                             results[][0] text id
                                             results[][1] filename
                                             results[][1] dictionary of feature values
-                    grammar_features_list: list of feature names as strings
-    One row of features for each file is written to output file as tabbed text.
+                    feature_list: list of feature names as strings
+                    sep: list separator
+    One row of features for each file is written to output file in CSV format.
     """
     # Open output file for writing
     with  codecs.open(filename, "w", "utf-8") as fout:
         # Write header row to output file
-        fout.write('text_id\tfilename')
+        fout.write('text_id{0}filename'.format(sep))
         #debug_print(['results[0][1]', results[0][1]])
         for x in sorted(results[0][2].keys()):
 #        for x in grammar_features_list:
-            fout.write('\t' + x)
+            fout.write(sep + x)
         fout.write('\n')
         #Write feature data, one row for each text
         for i in results:
             # i[0]: text id, i[1]: filename
-            fout.write( '{0}\t{1}'.format(str(i[0]), str(i[1])) )
+            fout.write( '{0}{1}{2}'.format(str(i[0]), sep, str(i[1])) )
             for feature in sorted(i[2].keys()):
 #            for feature in grammar_features_list:
-                fout.write('\t' + str(i[2][feature]))
+                fout.write(sep + str(i[2][feature]))
             fout.write('\n')
     fout.close()
 
@@ -125,7 +125,7 @@ def get_basenames(path, file_extension):
     """
     files = glob.glob(path + '\\*.' + file_extension)
     stems = [ os.path.splitext( os.path.split(file)[1] )[0] for file in files]
-    debug_print('Stems: {0}'.format(str(stems)))
+    # debug_print('Stems: {0}'.format(str(stems)))
     return stems
 
 
@@ -254,7 +254,7 @@ def get_All_tokens(data):
 
     #Only TOK, ABBR and DIG are considered proper words! This needs discussion.
     tokens = [x for x in data if x[1] not in ['(SENT', ')SENT', 'SYN']]
-    debug_print('All tokens: {0}'.format(tokens))
+    # debug_print('All tokens: {0}'.format(tokens))
     return len(tokens)
 
 
@@ -674,7 +674,7 @@ def get_grammar_features(data, feature_list):
     debug_print(['words', words])
     # build a list of types to avoid repetitive building later
     types = [x[3] for x in words]
-    debug_print(['types', types])
+    debug_print('Sentences: {0}, Words: {1}, Types: {2}'.format( sentences, words, types ))
 
     # get the list of functional words from file
     func_words = func_words_list(functional_words_filename)
@@ -904,18 +904,20 @@ def get_grammar_features(data, feature_list):
                                     (features['Noun'] if 'Noun' in features else get_Noun(words))
             elif feature == 'CjCo':
                 features[feature] = get_CjCo(words)
-            elif feature == 'm_CjCoΤoS':
+            elif feature == 'm_CjCoToS':
                 features[feature] = (features['CjCo'] if 'CjCo' in features else get_CjCo(words))/ S
+            elif feature == 'm_CjCoToN':
+                features[feature] = (features['CjCo'] if 'CjCo' in features else get_CjCo(words))/ N
             elif feature == 'CjSb':
                 features[feature] = get_CjSb(words)
-            elif feature == 'm_CjSbΤoS':
+            elif feature == 'm_CjSbToS':
                 features[feature] = (features['CjSb'] if 'CjSb' in features else get_CjSb(words))/ S
-            elif feature == 'm_CjSbΤoN':
+            elif feature == 'm_CjSbToN':
                 features[feature] = (features['CjSb'] if 'CjSb' in features else get_CjSb(words))/ N
-            elif feature == 'm_CjCoCjSbΤoS':
+            elif feature == 'm_CjCoCjSbToS':
                 features[feature] = ((features['CjCo'] if 'CjCo' in features else get_CjCo(words)) + \
                                      (features['CjSb'] if 'CjSb' in features else get_CjSb(words))) / S
-            elif feature == 'm_CjCoCjSbΤoN':
+            elif feature == 'm_CjCoCjSbToN':
                 features[feature] = ((features['CjCo'] if 'CjCo' in features else get_CjCo(words)) + \
                                      (features['CjSb'] if 'CjSb' in features else get_CjSb(words))) / N
             elif feature == 'NoGe':
@@ -927,12 +929,12 @@ def get_grammar_features(data, feature_list):
                 features[feature] = get_FuncT(types, func_words)
             elif feature == 'TNoun':
                 features[feature] = get_TNoun(words)
-            elif feature == 'm_ΤΝounToN':
+            elif feature == 'm_TNounToN':
                 features[feature] = (features['TNoun'] if 'TNoun' in features else get_TNoun(words)) / N
-            elif feature == 'm_ΤΝounToNoun':
+            elif feature == 'm_TNounToNoun':
                 features[feature] = (features['TNoun'] if 'TNoun' in features else get_TNoun(words)) / \
                                      (features['Noun'] if 'Noun' in features else get_Noun(words))
-            elif feature == 'm_ΤΝounToNlex':
+            elif feature == 'm_TNounToNlex':
                 features[feature] = (features['TNoun'] if 'TNoun' in features else get_TNoun(words)) / \
                                     (N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words)))
             elif feature == 'm_SqTNoun':
@@ -943,12 +945,12 @@ def get_grammar_features(data, feature_list):
                                      math.sqrt( 2 * (features['Noun'] if 'Noun' in features else get_Noun(words)) )
             elif feature == 'TVerb':
                 features[feature] = get_TVerb(words)
-            elif feature == 'm_ΤVerbToN':
+            elif feature == 'm_TVerbToN':
                 features[feature] = (features['TVerb'] if 'TVerb' in features else get_TVerb(words)) / N
-            elif feature == 'm_ΤVerbToVerb':
+            elif feature == 'm_TVerbToVerb':
                 features[feature] = (features['TVerb'] if 'TVerb' in features else get_TVerb(words)) / \
                                      (features['Verb'] if 'Verb' in features else get_Verb(words))
-            elif feature == 'm_ΤVerbToNlex':
+            elif feature == 'm_TVerbToNlex':
                 features[feature] = (features['TVerb'] if 'TVerb' in features else get_TVerb(words)) / \
                                     (N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words)))
             elif feature == 'm_SqTVerb':
@@ -959,12 +961,12 @@ def get_grammar_features(data, feature_list):
                                      math.sqrt( 2 * (features['Verb'] if 'Verb' in features else get_Verb(words)) )
             elif feature == 'TAdj':
                 features[feature] = get_TAdj(words)
-            elif feature == 'm_ΤAdjToN':
+            elif feature == 'm_TAdjToN':
                 features[feature] = (features['TAdj'] if 'TAdj' in features else get_TAdj(words)) / N
-            elif feature == 'm_ΤAdjToAdj':
+            elif feature == 'm_TAdjToAdj':
                 features[feature] = (features['TAdj'] if 'TAdj' in features else get_TAdj(words)) / \
                                      (features['Adj'] if 'Adj' in features else get_Adj(words))
-            elif feature == 'm_ΤAdjToNlex':
+            elif feature == 'm_TAdjToNlex':
                 features[feature] = (features['TAdj'] if 'TAdj' in features else get_TAdj(words)) / \
                                     (N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words)))
             elif feature == 'm_SqTAdj':
@@ -975,12 +977,12 @@ def get_grammar_features(data, feature_list):
                                      math.sqrt( 2 * (features['Adj'] if 'Adj' in features else get_Adj(words)) )
             elif feature == 'TAdv':
                 features[feature] = get_TAdv(words)
-            elif feature == 'm_ΤAdvToN':
+            elif feature == 'm_TAdvToN':
                 features[feature] = (features['TAdv'] if 'TAdv' in features else get_TAdv(words)) / N
-            elif feature == 'm_ΤAdvToAdv':
+            elif feature == 'm_TAdvToAdv':
                 features[feature] = (features['TAdv'] if 'TAdv' in features else get_TAdv(words)) / \
                                      (features['Adv'] if 'Adv' in features else get_Adv(words))
-            elif feature == 'm_ΤAdvToNlex':
+            elif feature == 'm_TAdvToNlex':
                 features[feature] = (features['TAdv'] if 'TAdv' in features else get_TAdv(words)) / \
                                     (N - (features['FuncT'] if 'FuncT' in features else get_FuncT(types, func_words)))
             elif feature == 'm_SqTAdv':
@@ -1049,7 +1051,6 @@ def conll_sentences(data):
     if sents[0] == []: del sents[0]
 
     write_log('Sentences: {0}'.format(sents))
-    debug_print('Sentences: {0}'.format(sents))
     return sents
 
 
@@ -1231,11 +1232,11 @@ def get_syntax_features(text_data, feature_list):
 
     #Create a frequency distribution of 8th column of text_data containing syntax parts
     syntax_ids = [x[7] for x in text_data]
-    debug_print('Syntax parts: {0}'.format(syntax_ids))
+    # debug_print('Syntax parts: {0}'.format(syntax_ids))
     syntax_ids_count = len(syntax_ids) #set to '= 1' when debugging
-    debug_print('Syntax parts count: {0}'.format(syntax_ids_count))
+    # debug_print('Syntax parts count: {0}'.format(syntax_ids_count))
     fd = nltk.FreqDist( syntax_ids )
-    debug_print(['syntax_feat_freq', fd.most_common(100)])
+    # debug_print(['syntax_feat_freq', fd.most_common(100)])
 
     for feature in feature_list:
         if feature in ['AuxS', 'Pred', 'Sb', 'Obj', 'IObj', 'Pnom', 'Atv', 'Atr', 'AuxP', 'AuxC', 'Coord', 'Apos',\
@@ -1264,29 +1265,96 @@ def get_syntax_features(text_data, feature_list):
     return features
 
 
-def av_phrase_len(data, phrase_id):
+# def av_phrase_len(data, phrase_id):
+#     """
+#     Calculate the average phrase length in text data for the given phrase
+#
+#     @param phrase_id:
+#     @param data:
+#     @return: a number indicating the mean phrase length of all phrases in data
+#     """
+#     len_list = []
+#     word_counter = {}
+#     into_phrase = 0
+#     word_counter[into_phrase] = 0
+#     for item in data:
+#         if (item[2] == '[' + phrase_id) and not into_phrase:  # Beginning of phrase
+#             into_phrase = 1
+#             # Start counting for the new phrase
+#             word_counter[into_phrase] = 0
+#         elif (item[2] == '[' + phrase_id) and into_phrase: # Nested phrase
+#             debug_print("NESTED PHRASE!!!")
+#             # word_counter[into_phrase] += 1  # count the whole nested sub-phrase as single entity
+#             into_phrase += 1
+#             word_counter[into_phrase] = 0  # start counting sub-phrase words
+#         elif (item[2] == '/' + phrase_id + ']') and into_phrase:  # End of phrase
+#             # Counter holds the word-count of phrase. Append it to the list of phrase word-counts
+#             len_list.append(word_counter[into_phrase])
+#             # add this phrase's word-count to upper-level phrase word-count
+#             word_counter[into_phrase-1] += word_counter[into_phrase]
+#             # Go up one phrase level
+#             into_phrase -= 1
+#         elif (item[2] == '/' + phrase_id + ']') and not into_phrase:  # Unexpected end of phrase
+#             into_phrase -= 1
+#             write_log("UNEXPECTED END-OF-PHRASE!!!")
+#         elif (item[1] in ['TOK', 'ABBR', 'DIG']) and into_phrase:  # Word token
+#             word_counter[into_phrase ] += 1
+#         #Check for unacceptable condition: into_phrase flag is <0
+#         if into_phrase < 0: write_log("ERORR: More phrases seem to close than open")
+#     #debug_print("List of phrase lengths: {0}".format(len_list))
+#
+#     return (statistics.mean(len_list) if len_list!=[] else 0)
+
+
+def phrase_len_list(data, phrase_id):
     """
-    Calculate the average phrase length in text data for the given phrase
+    Create a phrase length list for the given phrase
 
     @param phrase_id:
     @param data:
-    @return: a number indicating the mean phrase length of all phrases in data
+    @return: a list of integers containing all phrase lengths
     """
     len_list = []
-    word_counter = 0
+    word_counter = {}
+    into_phrase = 0
+    word_counter[into_phrase] = 0
     for item in data:
-        if item[2] == '[' + phrase_id : # Begin of phrase
+        if (item[2] == '[' + phrase_id) and not into_phrase:  # Beginning of phrase
+            into_phrase = 1
             # Start counting for the new phrase
-            word_counter = 0
-        elif item[2] == '/' + phrase_id + ']': # End of phrase
-            # Counter holds the length of phrase. Append it to the list of phrase lengths
-            len_list.append(word_counter)
-            #word_counter = 0
-        elif item[1] in ['TOK', 'ABBR', 'DIG']: # Word token
-            word_counter += 1
+            word_counter[into_phrase] = 0
+        elif (item[2] == '[' + phrase_id) and into_phrase: # Nested phrase
+            debug_print("NESTED PHRASE!!!")
+            # word_counter[into_phrase] += 1  # count the whole nested sub-phrase as single entity
+            into_phrase += 1
+            word_counter[into_phrase] = 0  # start counting sub-phrase words
+        elif (item[2] == '/' + phrase_id + ']') and into_phrase:  # End of phrase
+            # Counter holds the word-count of phrase. Append it to the list of phrase word-counts
+            len_list.append(word_counter[into_phrase])
+            # add this phrase's word-count to upper-level phrase word-count
+            word_counter[into_phrase-1] += word_counter[into_phrase]
+            # Go up one phrase level
+            into_phrase -= 1
+        elif (item[2] == '/' + phrase_id + ']') and not into_phrase:  # Unexpected end of phrase
+            into_phrase -= 1
+            write_log("UNEXPECTED END-OF-PHRASE!!!")
+        elif (item[1] in ['TOK', 'ABBR', 'DIG']) and into_phrase:  # Word token
+            word_counter[into_phrase ] += 1
+        #Check for unacceptable condition: into_phrase flag is <0
+        if into_phrase < 0: write_log("ERORR: More phrases seem to close than open")
     #debug_print("List of phrase lengths: {0}".format(len_list))
+    return len_list
 
-    return (statistics.mean(len_list) if len_list!=[] else 0)
+def list_mean(list):
+    """
+    Calculate the mean value of a list of numbers
+
+    @param list:
+
+    @return: a number indicating the mean value of the list, or None if list is empty
+    """
+
+    return statistics.mean(list) if list!=[] else 0
 
 
 def get_phrase_features(text_data, feature_list):
@@ -1299,26 +1367,49 @@ def get_phrase_features(text_data, feature_list):
     """
 
     phrase_list = [x[2] for x in text_data]
-    debug_print('Phrase list {0}'.format(phrase_list))
+    # debug_print('Phrase list {0}'.format(phrase_list))
 
     features = {}
 
     for feature in feature_list:
-        if feature in ['Np_nm', 'Np_ac', 'Np_ge', 'Np_da', 'Adjp_nm', 'Adjp_ac', 'Adjp_ge', 'Adjp_da', 'Advp', 'Pp', \
+        if feature in ['Np_nm', 'Np_ac', 'Np_ge', 'Np_da', 'Adjp_nm', 'Adjp_ac', 'Adjp_ge', 'Adjp_da', 'Advp',
                        'Vg', 'Vg_s', 'Vg_g', 'Cl', 'Cl_r', 'Cl_ri', 'Cl_q', 'Cl_o', 'Cl_t', 'Cl_c' ]:
             features[feature] = phrase_list.count('[' + feature.lower())
+        elif feature == 'Prp':
+            features[feature] = phrase_list.count('[pp')
         elif feature == 'Pou_np':
             # Sum-up 3 tags: Pou_np_nm, Pou_np_ac and Pou_np_ge
             features[feature] = phrase_list.count('[pou_np_nm') + phrase_list.count('[pou_np_ac') + \
-                                phrase_list.count('[pou_np_ge')
+                                phrase_list.count('[pou_np_ge') + phrase_list.count('[pou_np_da')
         elif feature in ['L_Np_nm', 'L_Np_ac', 'L_Np_ge', 'L_Np_da', 'L_Adjp_nm', 'L_Adjp_ac', 'L_Adjp_ge', \
-                         'L_Adjp_da', 'L_Advp', 'L_Pp', 'L_Vg', 'L_Vg_s', 'L_Vg_g', 'L_Cl', 'L_Cl_r', 'L_Cl_ri', \
+                         'L_Adjp_da', 'L_Advp', 'L_Vg', 'L_Vg_s', 'L_Vg_g', 'L_Cl', 'L_Cl_r', 'L_Cl_ri', \
                          'L_Cl_q', 'L_Cl_o', 'L_Cl_t', 'L_Cl_c']:
-            features[feature] = av_phrase_len( text_data, feature[2:].lower() )
+            features[feature] = list_mean(phrase_len_list( text_data, feature[2:].lower() ))
+        elif feature == 'L_Prp':
+            features[feature] = list_mean(phrase_len_list( text_data, 'pp' ))
         elif feature == 'L_Pou_np':
-            # Sum-up 3 tags: L_Pou_np_nm, L_Pou_np_ac and L_Pou_np_ge
-            features[feature] = av_phrase_len( text_data, 'pou_np_nm') + av_phrase_len( text_data, 'pou_np_ac') + \
-                                av_phrase_len( text_data, 'pou_np_ge')
+            # Mean length of 3 phrases: Pou_np_nm, Pou_np_ac and Pou_np_ge
+            features[feature] = list_mean( phrase_len_list( text_data, 'pou_np_nm') +
+                                           phrase_len_list( text_data, 'pou_np_ac') +
+                                           phrase_len_list( text_data, 'pou_np_ge') +
+                                           phrase_len_list( text_data, 'pou_np_da'))
+        elif feature in ['L_Np_all', 'L_Adjp_all']:
+            features[feature] = list_mean( phrase_len_list( text_data, feature[2:-3].lower()+'nm') +
+                                           phrase_len_list( text_data, feature[2:-3].lower()+'ac') +
+                                           phrase_len_list( text_data, feature[2:-3].lower()+'ge') +
+                                           phrase_len_list( text_data, feature[2:-3].lower()+'da'))
+        elif feature == 'L_Vg_all':
+            features[feature] = list_mean( phrase_len_list( text_data, 'vg') +
+                                           phrase_len_list( text_data, 'vg_s') +
+                                           phrase_len_list( text_data, 'vg_g'))
+        elif feature == 'L_Cl_all':
+            features[feature] = list_mean( phrase_len_list( text_data, 'cl') +
+                                           phrase_len_list( text_data, 'cl_r') +
+                                           phrase_len_list( text_data, 'cl_ri') +
+                                           phrase_len_list( text_data, 'cl_q') +
+                                           phrase_len_list( text_data, 'cl_o') +
+                                           phrase_len_list( text_data, 'cl_t') +
+                                           phrase_len_list( text_data, 'cl_c'))
         else:
             # Unknown feature
             write_log('Unable to extract feature: "' + feature + '". Unknown feature, skipped.')
@@ -1391,8 +1482,8 @@ def extract_syntax_features(features_list, path, text_ids):
             continue
 
         file_data = extract_data_from_tabbed_file(file)
-        debug_print(['file_data', file_data])
-        write_log(file_data)
+        # debug_print(['file_data', file_data])
+        write_log('file_data: {0}'.format(file_data))
         result.append((
             text_id,
             file_data[0], #filename
@@ -1431,7 +1522,7 @@ def extract_phrase_features(features_list, path, text_ids):
             continue
 
         file_data = extract_data_from_tabbed_file(file)
-        debug_print(['file_data', file_data])
+        # debug_print(['file_data', file_data])
         write_log(file_data)
         result.append((
             text_id,
@@ -1472,15 +1563,16 @@ if __name__ == "__main__":
         print('Unable to open configuration file "{0}".'.format(config_file))
         raise
 
+    # Get Settings from configuration file.
     try:
-        # Get Settings from configuration file.
-
-        #Define paths for folders: Project, Data, Results.
+        #define parser and open file
         config=configparser.ConfigParser(allow_no_value=True)
         config.read_file(cfg_f) #codecs.open(default_config_file, "r", "utf-8"))
+        # Parse settings.
+        settings = config['SETTINGS']
+        # Parse paths and files.
         paths = config['PATHS AND FILES']
-
-        # Get Features list from configuration file
+        # Parse Features list from configuration file
         grammar_features_list = config['FEATURES']['grammar_features_list'].split()
         syntax_features_list = config['FEATURES']['syntax_features_list'].split()
         phrase_features_list = config['FEATURES']['phrase_features_list'].split()
@@ -1491,6 +1583,8 @@ if __name__ == "__main__":
         sys.exit('Error reading configuration file, or no features found in it: {0} . Unable to extract any features.'.\
               format(config_file))
 
+    # Process Settings
+    CSV_SEP = settings.get('csv separator', '\t')
     # Working path. All other paths are relative to this.
     working_path = os.path.abspath( paths.get('working dir', '..'))
     debug_print(['working path', working_path])
@@ -1531,11 +1625,11 @@ if __name__ == "__main__":
     init_log(log_filename)
 
     # Extract grammar features
-    results_grammar_features = extract_grammar_features(grammar_features_list, corpus_path, text_ids)
+    #results_grammar_features = extract_grammar_features(grammar_features_list, corpus_path, text_ids)
     #write_log('Grammar features results: {0}'.format(results_grammar_features))
     #debug_print('Grammar features results: {0}'.format(results_grammar_features))
     # Extract syntax features
-    results_syntax_features = extract_syntax_features(syntax_features_list, corpus_path, text_ids)
+    #results_syntax_features = extract_syntax_features(syntax_features_list, corpus_path, text_ids)
     #write_log('Syntax features results: {0}'.format(results_syntax_features))
     #debug_print('Syntax features results: {0}'.format(results_syntax_features))
     # Extract phrase features
@@ -1544,12 +1638,12 @@ if __name__ == "__main__":
 
     #Write to output files
     write_log('Writing results to files ...')
-    write_log('Writing grammar features')
-    write_results(output_filename[:-4] + '_grammar.txt', results_grammar_features, grammar_features_list)
-    write_log('Writing syntax features')
-    write_results(output_filename[:-4] + '_syntax.txt', results_syntax_features, syntax_features_list)
+    #write_log('Writing grammar features')
+    #write_results(output_filename[:-4] + '_grammar.csv', results_grammar_features, grammar_features_list, CSV_SEP)
+    #write_log('Writing syntax features')
+    #write_results(output_filename[:-4] + '_syntax.csv', results_syntax_features, syntax_features_list, CSV_SEP)
     write_log('Writing phrase features')
-    write_results(output_filename[:-4] + '_phrase.txt', results_phrase_features, phrase_features_list)
+    write_results(output_filename[:-4] + '_phrase.csv', results_phrase_features, phrase_features_list, CSV_SEP)
     write_log('  ... done')
     write_log('---END OF PROGRAM---')
 
