@@ -13,6 +13,7 @@ import math
 #import numpy
 import codecs
 from datetime import datetime
+import collections
 import statistics
 from math import log2
 import sympy
@@ -25,10 +26,13 @@ except ImportError:
     print(ImportError)
     exit('Error importing module: NLTK ')
 
+# Define global variables and Constants
+div0 = 'Div/0!'
+missing = 'Missing!'
 
-
+#-------------------
 #Helper functions
-
+#-------------------
 
 # Print for debugging purposes only
 def debug_print(message):
@@ -37,14 +41,29 @@ def debug_print(message):
     #write_log(message)
 
 
-# Initialize log file.
+def merge_dicts_ord(*dicts):
+    """
+    Given any number of dicts consisting of ordered dicts, shallow copy and merge into a new dict,
+    precedence goes to key value pairs in latter dicts.
+
+    @rtype : a merged dictionary
+    @param *dicts: an arbitrary number of dictionaries to be merged
+    """
+
+    result = {}
+    for dictionary in dicts:
+        for key, value in dictionary.items():
+            result.setdefault(key, collections.OrderedDict())
+            result[key].update(value)
+    return result
+
+
 def init_log(log_filename):
     """
-    Initialize log file.
+    Initialize the log file.
 
-    Arguments:  none
-    Returns:    nothing
-    Globals:    log_filename
+    @rtype:    nothing
+    @param log_filename: the path of the log file
     """
 
     # Limit the size of log file.
@@ -83,35 +102,31 @@ def write_log(message):
 # Write Feature data to output file
 def write_results(filename, results, feature_list, sep = ','):
     """
-    Write Feature data to output file.
+    Write feature data to a CSV file.
 
     Arguments:  filename: the name of the output file, with path
-                    results:    a list of triples:
-                                            results[][0] text id
-                                            results[][1] filename
-                                            results[][1] dictionary of feature values
-                    feature_list: list of feature names as strings
-                    sep: list separator
+                    results:    a dictionary (keys: text ids) of
+                                ordered dictionaries (key: feature names) of features
+                    feature_list: list of feature names as strings (obsolete)
+                    sep: CSV separator
     One row of features for each file is written to output file in CSV format.
     """
     # Open output file for writing
-    with  codecs.open(filename, "w", "utf-8") as fout:
+    with  codecs.open(filename, "w", "utf-8") as output_file:
         # Write header row to output file
-        fout.write('text_id{0}filename'.format(sep))
-        #debug_print(['results[0][1]', results[0][1]])
-        for x in sorted(results[0][2].keys()):
-#        for x in grammar_features_list:
-            fout.write(sep + x)
-        fout.write('\n')
-        #Write feature data, one row for each text
-        for i in results:
-            # i[0]: text id, i[1]: filename
-            fout.write( '{0}{1}{2}'.format(str(i[0]), sep, str(i[1])) )
-            for feature in sorted(i[2].keys()):
-#            for feature in grammar_features_list:
-                fout.write(sep + str(i[2][feature]))
-            fout.write('\n')
-    fout.close()
+        output_file.write('text_id')
+        for feature_label in list(results.values())[0].keys():  # Iterate through keys of first record in results
+            output_file.write('{0}{1}'.format(sep, feature_label))
+        output_file.write('\n')
+        # Write feature data, one row for each text
+        for text_id in results.keys():  # Iterate through text ids
+            # Write text id
+            output_file.write(text_id)
+            # Write features
+            for feature in results[text_id].keys():
+                output_file.write(sep + str(results[text_id][feature]))
+            output_file.write('\n')
+    output_file.close()
 
 
 def get_basenames(path, file_extension):
@@ -580,10 +595,8 @@ def getFreqT(types, n=10):
     #Find the dictionary's biggest frequency
     max_key = sorted(d.keys(), reverse=True)[0]
     #debug_print(['max_key', max_key])
-    #Make dictionary of features from dictionary
-    f_dict = dict()
-    # for i in range (1, max_key+1):
-    #     f_dict['Freq' + str(i)] = d.get(i, 0)
+    #Create dictionary of features from dictionary
+    f_dict = {}
     for i in range (1, n+1):
         f_dict['Freq' + '{:03}'.format(i)] = d.get(i, 0)
     return f_dict
@@ -665,8 +678,8 @@ def get_grammar_features(data, feature_list):
                 grammar_features_list
     Returns:    a dictionary of features
     """
-
-    features = {}
+    # Create an ordered dictionary of features. Should me ordered to preserve  feature list order.
+    features = collections.OrderedDict()
     #extract words, sentences etc. from data
     sentences = get_sentences(data)
     debug_print(['sentences', sentences])
@@ -706,7 +719,7 @@ def get_grammar_features(data, feature_list):
                 features[feature] = T / N
             elif feature == 'FreqT':
                 freqt = getFreqT(types, type_freqs_num)
-                features.update(freqt)
+                features.update(sorted(freqt.items()))
             elif feature == 'm_FreqTpc':
                 # Compute freqt only if it is not already computed, avoiding redundant computations
                 try:
@@ -715,7 +728,7 @@ def get_grammar_features(data, feature_list):
                     freqt = getFreqT(types, type_freqs_num)
                 # Dictionary comprehension
                 freqtpc = {'m_'+key+'pc': freqt[key]/N for key in freqt.keys()}
-                features.update(freqtpc)
+                features.update(sorted(freqtpc.items()))
             elif feature == 'm_DisToHapax':
                 # Compute hapax and dis only if it is not already computed, avoiding redundant computations
                 try:
@@ -1024,7 +1037,7 @@ def get_grammar_features(data, feature_list):
                 features[feature] = get_()
             """
         except ZeroDivisionError:
-            features[feature] = None
+            features[feature] = div0
     return features
 
 
@@ -1228,7 +1241,8 @@ def get_syntax_features(text_data, feature_list):
     #extract words
     sentences = conll_sentences(text_data)
 
-    features = {}
+    # Create an ordered dictionary of features. Should me ordered to preserve  feature list order.
+    features = collections.OrderedDict()
 
     #Create a frequency distribution of 8th column of text_data containing syntax parts
     syntax_ids = [x[7] for x in text_data]
@@ -1369,12 +1383,24 @@ def get_phrase_features(text_data, feature_list):
     phrase_list = [x[2] for x in text_data]
     # debug_print('Phrase list {0}'.format(phrase_list))
 
-    features = {}
+    # Create an ordered dictionary of features. Should me ordered to preserve  feature list order.
+    features = collections.OrderedDict()
+
 
     for feature in feature_list:
         if feature in ['Np_nm', 'Np_ac', 'Np_ge', 'Np_da', 'Adjp_nm', 'Adjp_ac', 'Adjp_ge', 'Adjp_da', 'Advp',
                        'Vg', 'Vg_s', 'Vg_g', 'Cl', 'Cl_r', 'Cl_ri', 'Cl_q', 'Cl_o', 'Cl_t', 'Cl_c' ]:
             features[feature] = phrase_list.count('[' + feature.lower())
+        elif feature == 'Np_all':
+            features[feature] = phrase_list.count('[np_nm') + phrase_list.count('[np_ac') + \
+                                phrase_list.count('[np_ge') + phrase_list.count('[np_da')
+        elif feature == 'Adjp_all':
+            features[feature] = phrase_list.count('[adjp_nm') + phrase_list.count('[adjp_ac') + \
+                                phrase_list.count('[adjp_ge') + phrase_list.count('[adjp_da')
+        elif feature == 'Cl_all':
+            features[feature] = phrase_list.count('[cl') + phrase_list.count('[cl_r') + phrase_list.count('[cl_ri') + \
+                                phrase_list.count('[cl_q') + phrase_list.count('[cl_o') + phrase_list.count('[cl_t') + \
+                                phrase_list.count('[cl_c')
         elif feature == 'Prp':
             features[feature] = phrase_list.count('[pp')
         elif feature == 'Pou_np':
@@ -1431,7 +1457,7 @@ def extract_grammar_features(features_list, path, text_ids):
     write_log('Now extracting grammar features.')
     write_log('grammar feature list: {0}'.format(features_list))
 
-    result = []
+    result = {}
 
     # Iterate  texts and extract features
     for text_id in text_ids:
@@ -1446,11 +1472,12 @@ def extract_grammar_features(features_list, path, text_ids):
         file_data = extract_data_from_tabbed_file(file)
         #debug_print(['file_data', file_data])
         write_log(file_data)
-        result.append((
-            text_id,
-            file_data[0], #filename
-            get_grammar_features(file_data[1],grammar_features_list),
-            ))
+        result[text_id] = get_grammar_features(file_data[1],grammar_features_list)
+        # result.append((
+        #     text_id,
+        #     #file_data[0], #filename
+        #     get_grammar_features(file_data[1],grammar_features_list),
+        #     ))
 
     return result
 
@@ -1469,7 +1496,7 @@ def extract_syntax_features(features_list, path, text_ids):
     write_log('Now extracting syntax features.')
     write_log('Syntax feature list: {0}'.format(features_list))
 
-    result = []
+    result = {}
 
     # Iterate  data files and extract features
     for text_id in text_ids:
@@ -1484,11 +1511,12 @@ def extract_syntax_features(features_list, path, text_ids):
         file_data = extract_data_from_tabbed_file(file)
         # debug_print(['file_data', file_data])
         write_log('file_data: {0}'.format(file_data))
-        result.append((
-            text_id,
-            file_data[0], #filename
-            get_syntax_features(file_data[1],features_list),
-            ))
+        result[text_id] = get_syntax_features(file_data[1],features_list)
+        # result.append((
+        #     text_id,
+        #     #file_data[0], #filename
+        #     get_syntax_features(file_data[1],features_list),
+        #     ))
 
     return result
 
@@ -1509,7 +1537,7 @@ def extract_phrase_features(features_list, path, text_ids):
     write_log('Now extracting phrase features.')
     write_log('Phrase feature list: {0}'.format(features_list))
 
-    result = []
+    result = {}
 
     # Iterate  texts and extract features
     for text_id in text_ids:
@@ -1524,14 +1552,58 @@ def extract_phrase_features(features_list, path, text_ids):
         file_data = extract_data_from_tabbed_file(file)
         # debug_print(['file_data', file_data])
         write_log(file_data)
-        result.append((
-            text_id,
-            file_data[0], #filename
-            get_phrase_features(file_data[1],phrase_features_list),
-            ))
+        result[text_id] = get_phrase_features(file_data[1],phrase_features_list)
+        #result[text_id].update({"text_id": text_id})
+        # result.append((
+        #     text_id,
+        #     #file_data[0], #filename
+        #     get_phrase_features(file_data[1],phrase_features_list).append(text_id),
+        #     ))
     return result
 
 
+
+def get_meta_features(features_list, text_features):
+    """
+    Compute meta-features based on primary features.
+
+    @param feature_list: a list of features to extract
+    @param text_features: a dictionary (keys: text ids) of ordered dictionaries (key: feature names) of primary features
+    @rtype : an ordered dictionary of feature - value pairs
+    assert: all primary features required to compute any meta-feature in features_list should be present in prim_features
+    """
+
+    result = {}
+
+    for text_id, features in text_features.items():  #text_features: dictionary, where: key is text_id and value is features
+        # Create an ordered dictionary of features. Should me ordered to preserve  feature list order.
+        result[text_id]= collections.OrderedDict()
+        for feature in features_list:
+            try:
+                if feature in ['m_SbToS', 'm_ObjToS',  'm_PnomToS', 'm_Np_nmToS', 'm_Np_acToS', 'm_Np_geToS', 'm_Np_daToS',
+                               'm_Np_allToS', 'm_Pou_npToS', 'm_Adjp_nmToS', 'm_Adjp_acToS', 'm_Adjp_geToS', 'm_Adjp_daToS',
+                               'm_Adjp_allToS', 'm_AdvpToS', 'm_PrpToS', 'm_VgToS', 'm_Vg_sToS', 'm_Vg_gToS', 'm_ClToS',
+                               'm_Cl_rToS', 'm_Cl_riToS', 'm_Cl_qToS', 'm_Cl_oToS', 'm_Cl_tToS', 'm_Cl_cToS', 'm_Cl_allToS']:
+                    result[text_id][feature] = features[feature[2:-3]] / features['S']
+                elif feature in ['m_SbToVerb', 'm_ObjToVerb', 'm_PnomToVerb']:
+                    result[text_id][feature] = features[feature[2:-6]] / features['Verb']
+                elif feature == 'm_CoToAp':
+                    result[text_id][feature] = features['Coord'] / features['Apos']
+                elif feature in ['m_AuxXToChar', 'm_AuxKToChar', 'm_AuxGToChar']:
+                    result[text_id][feature] = features[feature[2:-6]] / features['Char']
+                elif feature == 'm_AuxToChar':
+                    result[text_id][feature] = ( features['AuxX'] + features['AuxK'] +
+                                                 features['AuxG'] ) / features['Char']
+                else:
+                    # Unknown feature
+                    write_log('Unable to extract feature: "' + feature + '". Unknown feature, skipped.')
+            except ZeroDivisionError:
+                result[text_id][feature] = div0
+            except KeyError:
+                write_log('ERROR: cannot compute meta-feature: {0} for text: {1}. Please make sure that all features '
+                          'required for this meta-feature have also been requested.'.format(feature, text_id))
+
+    return result
 
 
 #______________________________________________________________________________________________________
@@ -1576,8 +1648,9 @@ if __name__ == "__main__":
         grammar_features_list = config['FEATURES']['grammar_features_list'].split()
         syntax_features_list = config['FEATURES']['syntax_features_list'].split()
         phrase_features_list = config['FEATURES']['phrase_features_list'].split()
+        meta_features_list = config['FEATURES']['meta_features_list'].split()
         # If all feature lists are empty, no features can be extracted
-        if grammar_features_list == syntax_features_list == phrase_features_list == []: raise Exception
+        if grammar_features_list == syntax_features_list == phrase_features_list == meta_features_list == []: raise Exception
     except :
         #Terminate program if failed to get settings from configuration file.
         sys.exit('Error reading configuration file, or no features found in it: {0} . Unable to extract any features.'.\
@@ -1625,25 +1698,37 @@ if __name__ == "__main__":
     init_log(log_filename)
 
     # Extract grammar features
-    #results_grammar_features = extract_grammar_features(grammar_features_list, corpus_path, text_ids)
+    results_grammar_features = extract_grammar_features(grammar_features_list, corpus_path, text_ids)
     #write_log('Grammar features results: {0}'.format(results_grammar_features))
     #debug_print('Grammar features results: {0}'.format(results_grammar_features))
     # Extract syntax features
-    #results_syntax_features = extract_syntax_features(syntax_features_list, corpus_path, text_ids)
+    results_syntax_features = extract_syntax_features(syntax_features_list, corpus_path, text_ids)
     #write_log('Syntax features results: {0}'.format(results_syntax_features))
     #debug_print('Syntax features results: {0}'.format(results_syntax_features))
     # Extract phrase features
     results_phrase_features = extract_phrase_features(phrase_features_list, corpus_path, text_ids)
     #debug_print('Phrase features results: {0}'.format(results_phrase_features))
+    # Merge features
+    results_merged_features = merge_dicts_ord(results_grammar_features, results_syntax_features, results_phrase_features)
+    # Compute meta-features
+    results_meta_features = get_meta_features(meta_features_list, results_merged_features)
+    # Merge again with meta features to produce final results
+    results_all_features = merge_dicts_ord(results_merged_features, results_meta_features)
 
     #Write to output files
     write_log('Writing results to files ...')
-    #write_log('Writing grammar features')
-    #write_results(output_filename[:-4] + '_grammar.csv', results_grammar_features, grammar_features_list, CSV_SEP)
-    #write_log('Writing syntax features')
-    #write_results(output_filename[:-4] + '_syntax.csv', results_syntax_features, syntax_features_list, CSV_SEP)
+    write_log('Writing grammar features')
+    write_results(output_filename[:-4] + '_grammar.csv', results_grammar_features, grammar_features_list, CSV_SEP)
+    write_log('Writing syntax features')
+    write_results(output_filename[:-4] + '_syntax.csv', results_syntax_features, syntax_features_list, CSV_SEP)
     write_log('Writing phrase features')
     write_results(output_filename[:-4] + '_phrase.csv', results_phrase_features, phrase_features_list, CSV_SEP)
+    write_log('Writing merged features')
+    write_results(output_filename[:-4] + '_merged.csv', results_merged_features, phrase_features_list, CSV_SEP)
+    write_log('Writing meta features')
+    write_results(output_filename[:-4] + '_meta.csv', results_meta_features, phrase_features_list, CSV_SEP)
+    write_log('Writing all features')
+    write_results(output_filename[:-4] + '_all.csv', results_all_features, phrase_features_list, CSV_SEP)
     write_log('  ... done')
     write_log('---END OF PROGRAM---')
 
