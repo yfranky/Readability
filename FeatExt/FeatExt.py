@@ -1,5 +1,5 @@
 """
-Extract features from corpus (set of text files) for later readability assessment
+Extract features from corpus (set of preprocessed txt files) for later readability assessment
 """
 
 __author__ = 'Yorgos'
@@ -7,10 +7,8 @@ __author__ = 'Yorgos'
 #Import modules
 import os, sys
 
-#import getopt
 import argparse
 import math
-#import numpy
 import codecs
 from datetime import datetime
 import collections
@@ -38,7 +36,7 @@ missing = 'Missing!'
 def debug_print(message):
     """Print for debugging purposes only."""
     print('Debug: {!s}'.format(message)[:240]) # truncate message because damned IDLE can't handle long output!!! (I wasted several hours to figure it out!)
-    #write_log(message)
+
 
 
 def merge_dicts_ord(*dicts):
@@ -67,7 +65,7 @@ def init_log(log_filename):
     """
 
     # Limit the size of log file.
-    too_big_file = 1000000
+    too_big_file = 10000
     if os.path.isfile(log_filename):
         if os.path.getsize(log_filename) > too_big_file:
             with  codecs.open(log_filename, 'r', "utf-8") as f:
@@ -94,9 +92,8 @@ def write_log(message):
     with  codecs.open(log_filename, "a", "utf-8") as f:
         f.write( '[' + str(datetime.now()) + '] ' + str(message) + '\n')
     f.close()
-    debug_print('LOG: {0}'.format(message))
     # Print to standard output too, for debugging purposes. Should be removed when coding is finished
-#    debug_print(['LOG', message])
+    debug_print('LOG: {0}'.format(message))
     return
 
 # Write Feature data to output file
@@ -144,8 +141,9 @@ def get_basenames(path, file_extension):
     return stems
 
 
-
+#-------------------
 #Functions
+#-------------------
 
 
 # Extract tuples of data from file containing tabbed data
@@ -166,11 +164,9 @@ def extract_data_from_tabbed_file(file, separator='\t'):
             #if line == '\r\n': continue #empty line contains only a CR and a LF. ATTN:this is an empirical observation!
                                          #problem: '\r\n' seems to be system or editor dependent.
             line_data = line[:-1].split(separator)
-            #debug_print(line)
-            #debug_print(line_data)
             list_of_lists.append(line_data)
     f.close()
-    debug_print(['extract_data_from_tabbed_file', (os.path.basename(file), list_of_lists)])
+    #debug_print(['extract_data_from_tabbed_file', (os.path.basename(file), list_of_lists)])
     return (os.path.basename(file), list_of_lists)
 
 
@@ -200,7 +196,6 @@ def func_words_list(filename):
     """
 
     words = [x for line in codecs.open(filename, 'r', 'utf-8') for x in line.split()]
-    #debug_print(words)
     return words
 
 
@@ -226,12 +221,9 @@ def freq_of_freqs(list):
     """
     #Create a frequency distribution list
     fdist = nltk.FreqDist(list)
-    #debug_print(['fdist', fdist.most_common(100)])
     # Create a frequencies-frequency distribution list
     freqlist = [item[1] for item in fdist.items()] # Create a list of frequencies
-    #debug_print(['freqlist', freqlist])
     freqfreq = nltk.FreqDist(freqlist)
-    #debug_print(['freqfreq', freqfreq.most_common(100)])
     return freqfreq
 
 
@@ -269,7 +261,6 @@ def get_All_tokens(data):
 
     #Only TOK, ABBR and DIG are considered proper words! This needs discussion.
     tokens = [x for x in data if x[1] not in ['(SENT', ')SENT', 'SYN']]
-    # debug_print('All tokens: {0}'.format(tokens))
     return len(tokens)
 
 
@@ -295,14 +286,6 @@ def get_Char(words):
     count text characters, excluding whitespace and punctuation
     """
     return sum(len(s[0]) for s in words)
-
-
-# def get_AWL(words):
-#     """
-#     Average word length
-#     Uses get_Char() and get_N()
-#     """
-#     return get_Char(words)/get_N(words)
 
 
 def get_S(sentences):
@@ -584,6 +567,9 @@ def getFreqT(types, n=10):
     """
     Compute the frequencies of word Types.
 
+    @param types: a list of word types
+    @param n: the n higher frequencies should be computed
+    @return: a dictionary of type frequencies (keys: Freq001, Freq002, ... Freqn)
     """
     #Get the frequency of frequencies distribution of types
     #debug_print(['list(set', list(set([x[1] for x in words]))])
@@ -591,10 +577,11 @@ def getFreqT(types, n=10):
     #debug_print(['f_list', f_list])
     #Make dictionary from list
     d = dict(f_list)
-    #debug_print(['d', d])
+
     #Find the dictionary's biggest frequency
-    max_key = sorted(d.keys(), reverse=True)[0]
+    #max_key = sorted(d.keys(), reverse=True)[0]
     #debug_print(['max_key', max_key])
+
     #Create dictionary of features from dictionary
     f_dict = {}
     for i in range (1, n+1):
@@ -682,12 +669,12 @@ def get_grammar_features(data, feature_list):
     features = collections.OrderedDict()
     #extract words, sentences etc. from data
     sentences = get_sentences(data)
-    debug_print(['sentences', sentences])
+    #debug_print(['sentences', sentences])
     words = [item for sublist in sentences for item in sublist]
-    debug_print(['words', words])
+    #debug_print(['words', words])
     # build a list of types to avoid repetitive building later
     types = [x[3] for x in words]
-    debug_print('Sentences: {0}, Words: {1}, Types: {2}'.format( sentences, words, types ))
+    #debug_print('Sentences: {0}, Words: {1}, Types: {2}'.format( sentences, words, types ))
 
     # get the list of functional words from file
     func_words = func_words_list(functional_words_filename)
@@ -1036,6 +1023,7 @@ def get_grammar_features(data, feature_list):
             if feature == '':
                 features[feature] = get_()
             """
+        # Catch division by zero error
         except ZeroDivisionError:
             features[feature] = div0
     return features
@@ -1063,7 +1051,7 @@ def conll_sentences(data):
     # remove empty first sentence
     if sents[0] == []: del sents[0]
 
-    write_log('Sentences: {0}'.format(sents))
+    #debug_print('Sentences: {0}'.format(sents))
     return sents
 
 
@@ -1471,7 +1459,6 @@ def extract_grammar_features(features_list, path, text_ids):
 
         file_data = extract_data_from_tabbed_file(file)
         #debug_print(['file_data', file_data])
-        write_log(file_data)
         result[text_id] = get_grammar_features(file_data[1],grammar_features_list)
         # result.append((
         #     text_id,
@@ -1510,7 +1497,6 @@ def extract_syntax_features(features_list, path, text_ids):
 
         file_data = extract_data_from_tabbed_file(file)
         # debug_print(['file_data', file_data])
-        write_log('file_data: {0}'.format(file_data))
         result[text_id] = get_syntax_features(file_data[1],features_list)
         # result.append((
         #     text_id,
@@ -1551,7 +1537,6 @@ def extract_phrase_features(features_list, path, text_ids):
 
         file_data = extract_data_from_tabbed_file(file)
         # debug_print(['file_data', file_data])
-        write_log(file_data)
         result[text_id] = get_phrase_features(file_data[1],phrase_features_list)
         #result[text_id].update({"text_id": text_id})
         # result.append((
@@ -1574,6 +1559,9 @@ def get_meta_features(features_list, text_features):
     """
 
     result = {}
+
+    write_log('Now extracting additional meta-features.')
+    write_log('Meta-feature list: {0}'.format(features_list))
 
     for text_id, features in text_features.items():  #text_features: dictionary, where: key is text_id and value is features
         # Create an ordered dictionary of features. Should me ordered to preserve  feature list order.
@@ -1668,8 +1656,8 @@ if __name__ == "__main__":
     results_path = os.path.join( working_path, paths.get('results dir', 'results'))
     debug_print(['results path', results_path])
     # Define output files
-    output_filename = os.path.join( results_path, paths.get('output filename', 'featext.txt'))
-    debug_print('output file: {}'.format(output_filename))
+    output_filename_stemm = os.path.join( results_path, paths.get('output filename stemm', 'featext'))
+    debug_print('output file: {}'.format(output_filename_stemm))
     log_filename = os.path.join( results_path, paths.get('log filename', 'feature_extract.log'))
     debug_print('logfile: {}'.format(log_filename))
     # data_path = os.path.normpath(working_path + '\\' + paths.get('data dir', 'data'))
@@ -1678,7 +1666,7 @@ if __name__ == "__main__":
     # debug_print(['corpus path', corpus_path])
     # results_path = working_path + '\\' + paths.get('results dir', 'results')
     # Define output files
-    # output_filename = results_path + '\\' + paths.get('output filename', 'featext.txt')
+    # output_filename_stemm = results_path + '\\' + paths.get('output filename stemm', 'featext')
     # log_filename = results_path + '\\' + paths.get('log filename', 'feature_extract.log')
     # debug_print('logfile: {}'.format(log_filename))
 
@@ -1686,11 +1674,11 @@ if __name__ == "__main__":
     conll_file_extension = paths.get('conll file extension', 'conll')
     lem_file_extension = paths.get('lem file extension', 'lem')
     chunk_file_extension = paths.get('chunk file extension', 'chunk')
-    debug_print('{0} {1} {2}'.format(conll_file_extension, lem_file_extension, chunk_file_extension))
+    # debug_print('{0} {1} {2}'.format(conll_file_extension, lem_file_extension, chunk_file_extension))
     #Define text id's by searching for connl files and removing file extension
     text_ids = get_basenames(corpus_path, conll_file_extension)
     lem_datafiles = glob.glob(corpus_path + '\\*.lem')
-    debug_print(lem_datafiles)
+    #debug_print(lem_datafiles)
     #Define data files
     functional_words_filename = data_path + '\\' + paths.get('functional words filename', 'functional words.txt')
 
@@ -1700,35 +1688,33 @@ if __name__ == "__main__":
     # Extract grammar features
     results_grammar_features = extract_grammar_features(grammar_features_list, corpus_path, text_ids)
     #write_log('Grammar features results: {0}'.format(results_grammar_features))
-    #debug_print('Grammar features results: {0}'.format(results_grammar_features))
     # Extract syntax features
     results_syntax_features = extract_syntax_features(syntax_features_list, corpus_path, text_ids)
     #write_log('Syntax features results: {0}'.format(results_syntax_features))
-    #debug_print('Syntax features results: {0}'.format(results_syntax_features))
     # Extract phrase features
     results_phrase_features = extract_phrase_features(phrase_features_list, corpus_path, text_ids)
     #debug_print('Phrase features results: {0}'.format(results_phrase_features))
     # Merge features
     results_merged_features = merge_dicts_ord(results_grammar_features, results_syntax_features, results_phrase_features)
-    # Compute meta-features
+    # Compute additional meta-features
     results_meta_features = get_meta_features(meta_features_list, results_merged_features)
     # Merge again with meta features to produce final results
     results_all_features = merge_dicts_ord(results_merged_features, results_meta_features)
 
     #Write to output files
     write_log('Writing results to files ...')
-    write_log('Writing grammar features')
-    write_results(output_filename[:-4] + '_grammar.csv', results_grammar_features, grammar_features_list, CSV_SEP)
-    write_log('Writing syntax features')
-    write_results(output_filename[:-4] + '_syntax.csv', results_syntax_features, syntax_features_list, CSV_SEP)
-    write_log('Writing phrase features')
-    write_results(output_filename[:-4] + '_phrase.csv', results_phrase_features, phrase_features_list, CSV_SEP)
-    write_log('Writing merged features')
-    write_results(output_filename[:-4] + '_merged.csv', results_merged_features, phrase_features_list, CSV_SEP)
-    write_log('Writing meta features')
-    write_results(output_filename[:-4] + '_meta.csv', results_meta_features, phrase_features_list, CSV_SEP)
+    # write_log('Writing grammar features')
+    # write_results(output_filename_stemm + '_grammar.csv', results_grammar_features, grammar_features_list, CSV_SEP)
+    # write_log('Writing syntax features')
+    # write_results(output_filename_stemm + '_syntax.csv', results_syntax_features, syntax_features_list, CSV_SEP)
+    # write_log('Writing phrase features')
+    # write_results(output_filename_stemm + '_phrase.csv', results_phrase_features, phrase_features_list, CSV_SEP)
+    # write_log('Writing merged features')
+    # write_results(output_filename_stemm + '_merged.csv', results_merged_features, phrase_features_list, CSV_SEP)
+    # write_log('Writing additional meta features')
+    # write_results(output_filename_stemm + '_meta.csv', results_meta_features, phrase_features_list, CSV_SEP)
     write_log('Writing all features')
-    write_results(output_filename[:-4] + '_all.csv', results_all_features, phrase_features_list, CSV_SEP)
+    write_results(output_filename_stemm + '_all.csv', results_all_features, phrase_features_list, CSV_SEP)
     write_log('  ... done')
     write_log('---END OF PROGRAM---')
 

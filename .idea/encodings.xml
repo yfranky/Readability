@@ -3,7 +3,5 @@
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
     <file url="file://$PROJECT_DIR$/FeatExt/config.cfg" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/FeatExt/def_config.cfg" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/FeatExt/def_config.cfg.old" charset="UTF-8" />
   </component>
 </project>
-
