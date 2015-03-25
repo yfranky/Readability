@@ -1,0 +1,196 @@
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ποιος	ποιος	Pn	PnIr	Ma|03|Sg|Nm|Xx	3	Sb	_	_	
+3	παντρεύεται	παντρεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	αυτή	αυτός	Pn	PnDm	Fe|03|Sg|Nm|Xx	6	Atr	_	_	
+5	τη	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	φορά	φορά	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	θείος	θείος	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+4	Μάικ	Μάικ	Rg	RgFw	_	3	Atr	_	_	
+5	από	από	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	τον	ο	At	AtDf	Ma|Sg|Ac	7	Det	_	_	
+7	Καναδά	Καναδάς	No	NoPr	Ma|Sg|Ac	5	Adv	_	_	
+8	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	3	AuxY	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	κοίτα	κοιτάζω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	8	Adv	_	_	
+4	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+5	ο	ο	At	AtDf	Ma|Sg|Nm	6	Det	_	_	
+6	γάμος	γάμος	No	NoCm	Ma|Sg|Nm	8	Sb	_	_	
+7	θα	θα	Pt	PtFu	_	8	AuxV	_	_	
+8	γίνει	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+9	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	8	AuxP	_	_	
+10	Κρήτη	Κρήτη	No	NoPr	Fe|Sg|Ac	9	Adv	_	_	
+11	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πώς	πώς	Ad	Ad	Ba	0	ExD	_	_	
+3	έτσι	έτσι	Ad	Ad	Ba	2	Adv	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	γιατί	γιατί	Cj	CjSb	_	1	AuxC	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	θείος	θείος	No	NoCm	Ma|Sg|Nm	7	Sb	_	_	
+6	θα	θα	Pt	PtFu	_	7	AuxV	_	_	
+7	παντρευτεί	παντρεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	3	Atr	_	_	
+8	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	7	AuxP	_	_	
+9	Κρήτη	Κρήτη	No	NoPr	Fe|Sg|Ac	8	Adv	_	_	
+10	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	είδατε	βλέπω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	την	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	πρόσκληση	πρόσκληση	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	νύφη	νύφη	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	5	Pred_Co	_	_	
+4	Κρητικιά	Κρητικιά	No	NoPr	Fe|Sg|Ac	3	Pnom	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	θα	θα	Pt	PtFu	_	7	AuxV	_	_	
+7	κάνουν	κάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+8	παραδοσιακό	παραδοσιακός	Aj	Aj	Ba|Ma|Sg|Ac	9	Atr	_	_	
+9	γάμο	γάμος	No	NoCm	Ma|Sg|Ac	7	Obj	_	_	
+10	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Και	και	Cj	CjCo	_	0	Coord	_	_	
+3	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	4	Atr	_	_	
+4	διαφορετικό	διαφορετικός	Aj	Aj	Ba|Ne|Sg|Ac	6	Obj	_	_	
+5	θα	θα	Pt	PtFu	_	6	AuxV	_	_	
+6	γίνει	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	2	Pred_Co	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ξέρεις	ξέρω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	τώρα	τώρα	Ad	Ad	Ba	2	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	στρωθεί	στρώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	16	Pred_Co	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Nm	4	Det	_	_	
+4	κρεβάτι	κρεβάτι	No	NoCm	Ne|Sg|Nm	2	Sb	_	_	
+5	την	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	Πέμπτη	Πέμπτη	Nm	NmOd	Fe|Sg|Ac|Aj	2	Adv	_	_	
+7	πριν	πριν	Ad	Ad	Ba	6	Adv	_	_	
+8	απ’	από	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	το	ο	At	AtDf	Ma|Sg|Ac	10	Det	_	_	
+10	γάμο	γάμος	No	NoCm	Ma|Sg|Ac	8	Adv	_	_	
+11	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+12	θα	θα	Pt	PtFu	_	13	AuxV	_	_	
+13	μαζευτούν	μαζεύω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	16	Pred_Co	_	_	
+14	οι	ο	At	AtDf	Ma|Pl|Nm	15	Det	_	_	
+15	συγγενείς	συγγενής	No	NoCm	Ma|Pl|Nm	13	Sb	_	_	
+16	και	και	Cj	CjCo	_	0	Coord	_	_	
+17	θα	θα	Pt	PtFu	_	18	AuxV	_	_	
+18	γίνει	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	16	Pred_Co	_	_	
+19	μεγάλο	μεγάλος	Aj	Aj	Ba|Ne|Sg|Ac	20	Atr	_	_	
+20	γλέντι	γλέντι	No	NoCm	Ne|Sg|Ac	18	Pnom	_	_	
+21	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	3	AuxY	_	_	
+2	τη	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+3	μέρα	μέρα	No	NoCm	Fe|Sg|Ac	9	Adv	_	_	
+4	του	ο	At	AtDf	Ma|Sg|Ge	5	Det	_	_	
+5	γάμου	γάμος	No	NoCm	Ma|Sg|Ge	3	Atr	_	_	
+6	η	ο	At	AtDf	Fe|Sg|Nm	7	Det	_	_	
+7	νύφη	νύφη	No	NoCm	Fe|Sg|Nm	3	Atr	_	_	
+8	θα	θα	Pt	PtFu	_	9	AuxV	_	_	
+9	ντυθεί	ντύνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	13	Pred_Co	_	_	
+10	,	,	PUNCT	PUNCT	_	13	AuxX	_	_	
+11	θα	θα	Pt	PtFu	_	12	AuxV	_	_	
+12	στολιστεί	στολίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	13	Pred_Co	_	_	
+13	και	και	Cj	CjCo	_	0	Coord	_	_	
+14	θα	θα	Pt	PtFu	_	15	AuxV	_	_	
+15	πάει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	13	Pred_Co	_	_	
+16	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	15	AuxP	_	_	
+17	εκκλησία	εκκλησία	No	NoCm	Fe|Sg|Ac	16	Adv	_	_	
+18	μετά	μετά	AsPp	AsPpSp	_	17	AuxP	_	_	
+19	το	ο	At	AtDf	Ma|Sg|Ac	20	Det	_	_	
+20	γαμπρό	γαμπρός	No	NoCm	Ma|Sg|Ac	18	Atr	_	_	
+21	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ύστερα	ύστερα	Ad	Ad	Ba	7	Adv	_	_	
+2	από	από	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	το	ο	At	AtDf	Ma|Sg|Ac	4	Det	_	_	
+4	γάμο	γάμος	No	NoCm	Ma|Sg|Ac	2	Adv	_	_	
+5	θα	θα	Pt	PtFu	_	7	AuxV	_	_	
+6	τους	εγώ	Pn	PnPe	Ma|03|Pl|Ge|We	7	IObj	_	_	
+7	ευχηθούμε	εύχομαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	10	Pred_Co	_	_	
+8	να	να	Pt	PtSj	_	9	AuxV	_	_	
+9	ζήσουν	ζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+10	και	και	Cj	CjCo	_	0	Coord	_	_	
+11	θα	θα	Pt	PtFu	_	13	AuxV	_	_	
+12	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ge|We	13	IObj	_	_	
+13	δώσουν	δίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	10	Pred_Co	_	_	
+14	μπομπονιέρες	μπομπονιέρα	No	NoCm	Fe|Pl|Ac	13	Obj	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Αυτά	αυτός	Pn	PnDm	Ne|03|Pl|Nm|Xx	3	Sb	_	_	
+3	γίνονται	γίνομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	σ’	σε	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	όλους	όλος	Aj	Aj	Ba|Ma|Pl|Ac	7	Atr	_	_	
+6	τους	ο	At	AtDf	Ma|Pl|Ac	7	Det	_	_	
+7	γάμους	γάμος	No	NoCm	Ma|Pl|Ac	4	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εδώ	εδώ	Ad	Ad	Ba	3	Adv	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	ζυμωθεί	ζυμώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	μέχρι	μέχρι	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	και	και	Cj	CjCo	_	7	AuxY	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Ac	7	Det	_	_	
+7	ψωμί	ψωμί	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	0	ExD	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Βέβαια	βέβαια	Ad	Ad	Ba	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	3	AuxY	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	φτιαχτούνε	φτιάχνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	πίτες	πίτα	No	NoCm	Fe|Pl|Nm	3	Sb	_	_	
+5	και	και	Cj	CjCo	_	6	AuxY	_	_	
+6	γλυκά	γλυκά	Ad	Ad	Ba	7	Adv	_	_	
+7	σπιτικά	σπιτικός	Aj	Aj	Ba|Ne|Pl|Ac	4	Atr	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Και	και	Cj	CjCo	_	6	AuxY	_	_	
+3	ποιος	ποιος	Pn	PnIr	Ma|03|Sg|Nm|Xx	4	Atr	_	_	
+4	τρελός	τρελός	Aj	Aj	Ba|Ma|Sg|Nm	6	Sb	_	_	
+5	θα	θα	Pt	PtFu	_	6	AuxV	_	_	
+6	μαγειρέψει	μαγειρεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	για	για	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	τόσο	τόσο	Ad	Ad	Ba	9	Adv	_	_	
+9	κόσμο	κόσμος	No	NoCm	Ma|Sg|Ac	7	Adv	_	_	
+10	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μη	μην	Pt	PtNg	_	4	AuxV	_	_	
+3	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	4	Obj	_	_	
+4	νοιάζει	νοιάζει	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	Δημητράκη	Δημητράκης	No	NoPr	Ma|Sg|Ac	4	ExD	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	2	Sb	_	_	
+2	είμαι	είμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	εδώ	εδώ	Ad	Ad	Ba	2	Adv	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

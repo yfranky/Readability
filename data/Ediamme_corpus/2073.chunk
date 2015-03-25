@@ -1,0 +1,102 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Μαμά	μαμά	NoCmFeSgNm
+	SYN	/np_nm]
+1\5	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\7	TOK	γιατί	γιατί	CjSb
+	SYN	[vg
+1\13	TOK	έπλυνες	πλένω	VbMnIdPa02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\21	TOK	το	ο	AtDfNeSgAc
+	SYN	[adjp_ac
+1\24	TOK	παλιό	παλιός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ac
+1\30	TOK	τζιν	τζιν	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\34	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\37	TOK	Δεν	δεν	PtNg
+	SYN	[np_ac
+1\41	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+1\44	TOK	έπλυνα	πλένω	VbMnIdPa01SgXxIpAvXx
+	SYN	/vg]
+1\50	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\52	TOK	αγάπη	αγάπη	NoCmFeSgNm
+1\58	TOK	μου	μου	PnPoFe01SgGeXx
+	SYN	/np_nm]
+	SYN	/cl]
+1\61	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\63	TOK	Είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\69	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\74	TOK	ντουλάπα	ντουλάπα	NoCmFeSgAc
+1\83	TOK	σου	μου	PnPoMa02SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\87	TOK	εδώ	εδώ	AdXxBa
+	SYN	/advp]
+1\91	TOK	κι	και	CjCo
+	SYN	[np_ac
+1\94	TOK	ένα	ένας	AtIdMaSgAc
+1\98	TOK	μήνα	μήνας	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\102	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\105	TOK	Δεν	δεν	PtNg
+1\109	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\115	TOK	δυνατό	δυνατός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\121	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\123	TOK	Ενάμισι	ενάμισης	NmCdNeSgAcAj
+	SYN	/adjp_ac]
+1\131	TOK	κιλό	κιλό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[advp
+1\136	TOK	παραπάνω	παραπάνω	AdXxBa
+	SYN	/advp]
+1\144	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_ac
+1\146	TOK	Τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\149	TOK	κάνουμε	κάνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\157	TOK	τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	/cl_q]
+1\161	PTERM_P	;	;	PTERM_P
+	)SENT	</S>

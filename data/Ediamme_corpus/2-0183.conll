@@ -1,0 +1,42 @@
+1	Το	ο	At	AtDf	Ne|Sg|Ac	2	Det	_	_	
+2	1821	1821	DIG	DIG	_	3	Adv	_	_	
+3	ξαναπήραμε	ξαναπαίρνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	όπλα	όπλο	No	NoCm	Ne|Pl|Ac	3	Obj	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ήμασταν	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	6	Pred_Co	_	_	
+2	τότε	τότε	Ad	Ad	Ba	4	Adv	_	_	
+3	πιο	πιο	Ad	Ad	Ba	4	Adv	_	_	
+4	δυνατοί	δυνατός	Aj	Aj	Ba|Ma|Pl|Nm	1	Pnom	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	...	...	PTERM_P	PTERM_P	_	8	AuxG	_	_	
+8	ενωμένοι	ενωμένος	Aj	Aj	Ba|Ma|Pl|Nm	6	Pred_Co	_	_	
+9	...	...	PTERM_P	PTERM_P	_	8	AuxG	_	_	
+
+1	Το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	2	Obj	_	_	
+2	είχαμε	έχω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πάρει	παίρνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+4	απόφαση	απόφαση	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+5	παντού	παντού	Ad	Ad	Ba	4	Adv	_	_	
+6	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	5	AuxP	_	_	
+7	Ελλάδα	Ελλάδα	No	NoPr	Fe|Sg|Ac	6	Adv	_	_	
+8	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είπαμε	λέγω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	1	Sb	_	_	
+3	με	με	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	μια	ένας	At	AtId	Fe|Sg|Ac	5	Det	_	_	
+5	φωνή	φωνή	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+6	"	"	OPUNCT	OPUNCT	_	7	AuxG	_	_	
+7	Φτάνει	φτάνω	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Atr	_	_	
+8	πια	πια	Ad	Ad	Ba	7	Adv	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ελευθερία	Ελευθερία	No	NoPr	Fe|Sg|Ac	2	Adv_Co	_	_	
+2	ή	ή	Cj	CjCo	_	0	Coord	_	_	
+3	Θάνατος	θάνατος	No	NoCm	Ma|Sg|Nm	2	ExD_Co	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+5	"	"	CPUNCT	CPUNCT	_	0	AuxG	_	_	
+

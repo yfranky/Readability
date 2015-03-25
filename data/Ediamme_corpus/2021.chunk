@@ -1,0 +1,206 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	O	O	NoCmMaSgNm
+1\3	TOK	Δημήτρης	Δημήτρης	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\12	TOK	Μυταράς	μυταράς	NoCmMaSgNm
+	SYN	/np_nm]
+1\19	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\21	TOK	ένας	ένας	AtIdMaSgNm
+	SYN	[adjp_nm
+1\26	TOK	γνωστός	γνωστός	AjBaMaSgNm
+	SYN	/adjp_nm]
+1\34	TOK	Έλληνας	Έλληνας	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\42	TOK	ζωγράφος	ζωγράφος	NoCmMaSgNm
+	SYN	/np_nm]
+1\50	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\52	TOK	μιλάει	μιλώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\59	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\63	TOK	τη	ο	AtDfFeSgAc
+1\66	TOK	ζωγραφική	ζωγραφικός	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\77	ENUM	-	-	ENUM
+1\78	OPUNCT	“	“	OPUNCT
+	SYN	[advp
+1\79	TOK	Πρώτα	πρώτα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\85	TOK	φτιάχνω	φτιάχνω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\93	TOK	έναν	ένας	AtIdMaSgAc
+1\98	TOK	πίνακα	πίνακας	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\105	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\109	TOK	μυαλό	μυαλό	NoCmNeSgAc
+1\115	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\119	TOK	και	και	CjCo
+	SYN	[cl
+1\123	TOK	μετά	μετά	AsPpSp
+	SYN	[vg
+1\128	TOK	ζωγραφίζω	ζωγραφίζω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+1\137	PTERM_P	.	.	PTERM_P
+1\138	CPUNCT	”	”	CPUNCT
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\141	ENUM	-	-	ENUM
+1\142	OPUNCT	“	“	OPUNCT
+	SYN	[pp
+1\143	TOK	Για	για	AsPpSp
+	SYN	[np_ac
+1\147	TOK	έναν	ένας	AtIdMaSgAc
+1\152	TOK	ζωγράφο	ζωγράφος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\159	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\161	TOK	το	ο	AtDfNeSgNm
+1\164	TOK	χρώμα	χρώμα	NoCmNeSgNm
+	SYN	/np_nm]
+1\170	TOK	και	και	CjCo
+	SYN	[np_nm
+1\174	TOK	το	ο	AtDfNeSgNm
+1\177	TOK	σχήμα	σχήμα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\183	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\189	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\194	TOK	μια	ένας	AtIdFeSgNm
+1\198	TOK	λέξη	λέξη	NoCmFeSgNm
+	SYN	/np_nm]
+1\203	TOK	ή	ή	CjCo
+	SYN	[np_ac
+1\205	TOK	μια	ένας	AtIdFeSgAc
+1\209	TOK	πρόταση	πρόταση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\217	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\221	TOK	έναν	ένας	AtIdMaSgAc
+1\226	TOK	συγγραφέα	συγγραφέας	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\235	PTERM_P	.	.	PTERM_P
+1\236	CPUNCT	”	”	CPUNCT
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+1\239	ENUM	-	-	ENUM
+1\240	OPUNCT	“	“	OPUNCT
+	SYN	[cl_t
+1\241	TOK	Όταν	όταν	CjSb
+	SYN	[vg
+1\246	TOK	διαβάζουμε	διαβάζω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\257	TOK	ένα	ένας	AtIdNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\261	TOK	παραμύθι	παραμύθι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_t]
+1\269	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\271	TOK	πιστεύουμε	πιστεύω	VbMnIdPr01PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\282	TOK	ότι	ότι	CjSb
+	SYN	[np_nm
+1\286	TOK	ένα	ένας	AtIdNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\290	TOK	ζώο	ζώο	NoCmNeSgAc
+	SYN	/np_ac]
+1\294	TOK	ή	ή	CjCo
+	SYN	[np_nm
+1\296	TOK	ένα	ένας	AtIdNeSgNm
+1\300	TOK	λουλούδι	λουλούδι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\309	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\314	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\318	TOK	δική	δικός	AjBaFeSgAc
+1\323	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/adjp_ac]
+1\327	TOK	ζωή	ζωή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\330	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\332	TOK	Έτσι	έτσι	AdXxBa
+	SYN	/advp]
+1\337	TOK	και	και	CjCo
+	SYN	[pp
+1\341	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\345	TOK	ζωγραφική	ζωγραφικός	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\354	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\356	TOK	υπάρχει	υπάρχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\364	TOK	ζωή	ζωή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[advp
+1\368	TOK	μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\373	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\376	TOK	κάθε	κάθε	PnIdNe03SgAcXx
+1\381	TOK	πράγμα	πράγμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\387	PTERM_P	.	.	PTERM_P
+1\388	CPUNCT	”	”	CPUNCT
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\391	TOK	Μια	ένας	AtIdFeSgNm
+1\395	TOK	Κυριακή	Κυριακή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\403	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\406	TOK	τον	ο	AtDfMaSgAc
+1\410	TOK	Μυταρά	μυταράς	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>

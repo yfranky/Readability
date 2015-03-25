@@ -1,0 +1,57 @@
+1	Κρυφτό	κρυφτός	Aj	Aj	Ba|Ma|Sg|Ac	0	ExD	_	_	
+2	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+3	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	2	Adv	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+2	όμορφη	όμορφος	Aj	Aj	Ba|Fe|Sg|Nm	5	Atr	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	μικρή	μικρός	Aj	Aj	Ba|Fe|Sg|Nm	5	Atr	_	_	
+5	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	5	Atr	_	_	
+8	μια	ένας	At	AtId	Fe|Sg|Nm	10	Det	_	_	
+9	σωστή	σωστός	Aj	Aj	Ba|Fe|Sg|Nm	10	Atr	_	_	
+10	κυρία	κυρία	No	NoCm	Fe|Sg|Nm	7	Pnom	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θέλει	θέλω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	πάντα	πάντα	Ad	Ad	Ba	1	Adv	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	φοράει	φορώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+5	όμορφα	όμορφα	Ad	Ad	Ba	4	Adv	_	_	
+6	φορεματάκια	φορεματάκι	No	NoCm	Ne|Pl|Ac	4	Obj	_	_	
+7	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+
+1	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	0	AuxP	_	_	
+2	μαλλάκια	μαλλάκια	Aj	Aj	Ba|Ne|Pl|Ac	3	Atr	_	_	
+3	τσιμπιδάκια	τσιμπιδάκι	No	NoCm	Ne|Pl|Ac	4	Obj_Co	_	_	
+4	και	και	Cj	CjCo	_	1	Coord	_	_	
+5	ωραία	ωραίος	Aj	Aj	Ba|Ne|Pl|Ac	7	Atr	_	_	
+6	ροζ	ροζ	Aj	Aj	Ba|Ne|Pl|Ac	7	Atr	_	_	
+7	φιογκάκια	φιογκάκι	No	NoCm	Ne|Pl|Ac	4	Obj_Co	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+2	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	1	Adv	_	_	
+3	παίζουνε	παίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	κρυφτό	κρυφτός	Aj	Aj	Ba|Ma|Sg|Ac	9	Atv	_	_	
+5	και	και	Cj	CjCo	_	4	AuxY	_	_	
+6	η	ο	At	AtDf	Fe|Sg|Nm	7	Det	_	_	
+7	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	9	Sb	_	_	
+8	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	9	Obj	_	_	
+9	φυλάει	φυλάω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Obj	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Με	με	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Ac	3	Det	_	_	
+3	μάτια	μάτι	No	NoCm	Ne|Pl|Ac	5	Obj_Ap	_	_	
+4	της	ο	At	AtDf	Fe|Sg|Ge	5	Det	_	_	
+5	κλειστά	κλειστά	Ad	Ad	Ba	1	Apos	_	_	
+6	ένα	ένας	At	AtId	Ne|Sg|Ac	11	Det	_	_	
+7	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+8	δύο	δύο	Nm	NmCd	Ne|Pl|Ac|Aj	11	Atr	_	_	
+9	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+10	τρία	τρεις	Nm	NmCd	Ne|Pl|Ac|Aj	11	Obj	_	_	
+11	μετράει	μετρώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Obj_Ap	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

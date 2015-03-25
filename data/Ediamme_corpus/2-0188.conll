@@ -1,0 +1,110 @@
+1	Πάμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	θέατρο	θέατρο	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	Σαββατοκύριακο	σαββατοκύριακο	No	NoCm	Ne|Sg|Ac	2	Atr	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+2	"	"	OPUNCT	OPUNCT	_	3	AuxG	_	_	
+3	Θέατρο	θέατρο	No	NoCm	Ne|Sg|Nm	6	Sb	_	_	
+4	Τέχνη	τέχνη	No	NoCm	Fe|Sg|Ac	3	Atr	_	_	
+5	"	"	CPUNCT	CPUNCT	_	6	AuxG	_	_	
+6	παρουσιάζει	παρουσιάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	απόγευμα	απόγευμα	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+9	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	6	AuxP	_	_	
+10	5	5	DIG	DIG	_	11	Adv_Co	_	_	
+11	και	και	Cj	CjCo	_	9	Coord	_	_	
+12	την	ο	At	AtDf	Fe|Sg|Ac	13	Det	_	_	
+13	Κυριακή	Κυριακή	No	NoCm	Fe|Sg|Ac	11	Adv_Co	_	_	
+14	το	ο	At	AtDf	Ne|Sg|Ac	15	Det	_	_	
+15	πρωί	πρωί	No	NoCm	Ne|Sg|Ac	13	Atr	_	_	
+16	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	6	AuxP	_	_	
+17	11	11	DIG	DIG	_	16	Adv	_	_	
+18	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	6	AuxP	_	_	
+19	"	"	OPUNCT	OPUNCT	_	20	AuxG	_	_	
+20	Theatre	Theatre	Rg	RgFw	_	23	Adv_Ap	_	_	
+21	Elysee	Elysee	Rg	RgFw	_	20	Atr	_	_	
+22	"	"	CPUNCT	CPUNCT	_	21	AuxG	_	_	
+23	,	,	PUNCT	PUNCT	_	18	Apos	_	_	
+24	το	ο	At	AtDf	Ne|Sg|Nm	25	Det	_	_	
+25	έργο	έργο	No	NoCm	Ne|Sg|Nm	23	Adv_Ap	_	_	
+26	του	ο	At	AtDf	Ne|Sg|Ge	27	Det	_	_	
+27	Αντουάν	Αντουάν	No	NoPr	Ne|Sg|Ge	25	Atr	_	_	
+28	ντε	ντε	Rg	RgFw	_	33	Atr	_	_	
+29	Σαιντ-Εξυπερύ	Σαιντ-Εξυπερύ	No	NoPr	Ma|Sg|Nm	33	Atr	_	_	
+30	"	"	OPUNCT	OPUNCT	_	33	AuxG	_	_	
+31	Ο	ο	At	AtDf	Ma|Sg|Nm	33	Det	_	_	
+32	μικρός	μικρός	Aj	Aj	Ba|Ma|Sg|Nm	33	Atr	_	_	
+33	πρίγκιπας	πρίγκιπας	No	NoCm	Ma|Sg|Nm	25	Atr	_	_	
+34	"	"	CPUNCT	CPUNCT	_	33	AuxG	_	_	
+
+1	Λαμβάνουν	λαμβάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μέρος	μέρος	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+3	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+4	τη	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	σειρά	σειρά	No	NoCm	Fe|Sg|Ac	3	Adv	_	_	
+6	που	που	Pn	PnRe	Fe|03|Sg|Ac|Xx	7	Obj	_	_	
+7	εμφανίζονται	εμφανίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	5	Atr	_	_	
+8	οι	ο	At	AtDf	Ma|Pl|Nm	9	Det	_	_	
+9	ηθοποιοί	ηθοποιός	No	NoCm	Ma|Pl|Nm	7	Sb	_	_	
+
+1	ΑΦΗΓΗΤΗΣ	αφηγητής	No	NoCm	Ma|Sg|Nm	2	ExD_Co	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	Coord	_	_	
+3	Μίμης	Μίμης	No	NoPr	Ma|Sg|Nm	4	Atr	_	_	
+4	Κουγιουμτζής	κουγιουμτζής	No	NoCm	Ma|Sg|Nm	2	ExD_Co	_	_	
+
+1	ΜΙΚΡΟΣ	μικρός	Aj	Aj	Ba|Ma|Sg|Nm	2	Atr	_	_	
+2	ΠΡΙΓΚΙΠΑΣ	πρίγκιπας	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+3	:	:	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+4	Κέλλυ	Κέλλυ	No	NoPr	Ma|Sg|Nm	5	Atr	_	_	
+5	Σαρατσοπούλου	Σαρατσοπούλου	No	NoPr	Fe|Sg|Nm	2	Atr	_	_	
+
+1	ΠΙΛΟΤΟΣ	πιλότος	No	NoCm	Ma|Sg|Nm	2	ExD_Co	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	Coord	_	_	
+3	Νίκος	Νίκος	No	NoPr	Ma|Sg|Nm	4	Atr	_	_	
+4	Μόσχοβος	Μόσχοβος	No	NoPr	Ma|Sg|Nm	2	ExD_Co	_	_	
+
+1	ΑΣΤΡΟΝΟΜΟΣ	αστρονόμος	No	NoCm	Ma|Sg|Nm	2	ExD_Co	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	Coord	_	_	
+3	Π.	Π.	INIT	INIT	_	4	Atr	_	_	
+4	Καρακωνσταντόγλου	Καρακωνσταντόγλου	No	NoPr	Ma|Sg|Nm	2	ExD_Co	_	_	
+
+1	ΤΡΙΑΝΤΑΦΥΛΛΟ	Τριαντάφυλλος	No	NoCm	Ne|Sg|Nm	2	ExD_Co	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	Coord	_	_	
+3	Στέλλα	Στέλλα	No	NoPr	Fe|Sg|Nm	4	Atr	_	_	
+4	Νικολοθανάση	Νικολοθανάση	No	NoPr	Fe|Sg|Nm	2	ExD_Co	_	_	
+
+1	ΑΛΕΠΟΥ	αλεπού	No	NoCm	Fe|Sg|Nm	2	ExD_Co	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	Coord	_	_	
+3	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	4	Atr	_	_	
+4	Πρωτόπαππα	Πρωτόπαππα	No	NoCm	Ma|Sg|Ac	2	ExD_Co	_	_	
+
+1	Θεατρική	θεατρικός	Aj	Aj	Ba|Fe|Sg|Nm	2	Atr	_	_	
+2	διασκευή	διασκευή	No	NoCm	Fe|Sg|Nm	3	Sb_Ap	_	_	
+3	-	-	PUNCT	PUNCT	_	0	Apos	_	_	
+4	σκηνοθεσία	σκηνοθεσία	No	NoCm	Fe|Sg|Nm	3	Sb_Ap	_	_	
+5	:	:	PTERM_P	PTERM_P	_	3	AuxG	_	_	
+6	Μίμης	Μίμης	No	NoPr	Ma|Sg|Nm	7	Atr	_	_	
+7	Κουγιουμτζής	κουγιουμτζής	No	NoCm	Ma|Sg|Nm	3	Sb_Ap	_	_	
+
+1	Σκηνικά	σκηνικός	No	NoCm	Ne|Pl|Nm	2	ExD_Co	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	Coord	_	_	
+3	Γιάννης	Γιάννης	No	NoPr	Ma|Sg|Nm	4	Atr	_	_	
+4	Τσουκλίδης	Τσουκλίδης	No	NoPr	Ma|Sg|Nm	2	ExD_Co	_	_	
+
+1	Κοστούμια	κοστούμι	No	NoCm	Ne|Pl|Nm	2	ExD_Co	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	Coord	_	_	
+3	Χαρά	χαρά	No	NoCm	Fe|Sg|Ac	2	ExD_Co	_	_	
+4	Κοκκίνου	Κοκκίνου	Aj	Aj	Ba|Ma|Sg|Ge	3	Atr	_	_	
+
+1	Χορός	χορός	No	NoCm	Ma|Sg|Nm	2	ExD_Co	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	Coord	_	_	
+3	Έλενα	Έλενα	No	NoPr	Fe|Sg|Ac	4	Atr	_	_	
+4	Βακαλοπούλου	Βακαλόπουλος	No	NoPr	Ma|Sg|Ge	2	Atr	_	_	
+
+1	Μουσική	μουσική	No	NoCm	Fe|Sg|Nm	2	ExD_Co	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	Coord	_	_	
+3	Φίλιππος	Φίλιππος	No	NoPr	Ma|Sg|Nm	4	Atr	_	_	
+4	Τσαλαχούρης	Τσαλαχούρης	No	NoPr	Ma|Sg|Nm	2	ExD_Co	_	_	
+

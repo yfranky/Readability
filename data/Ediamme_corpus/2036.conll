@@ -1,0 +1,107 @@
+1	Φρουτοσαλάτα	φρουτοσαλάτα	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+
+1	ΥΛΙΚΑ	υλικό	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	2-3	2-3	DIG	DIG	_	2	Atr	_	_	
+2	πορτοκάλια	πορτοκάλι	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+
+1	1	1	DIG	DIG	_	2	Atr	_	_	
+2	λεμόνι	λεμόνι	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+
+1	3	3	DIG	DIG	_	2	Atr	_	_	
+2	μπανάνες	μπανάνα	No	NoCm	Fe|Pl|Ac	0	ExD	_	_	
+
+1	2	2	DIG	DIG	_	2	Atr	_	_	
+2	μήλα	μήλο	No	NoCm	Ne|Pl|Nm	5	ExD_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	κεράσια	κεράσι	No	NoCm	Ne|Pl|Ac	5	ExD_Co	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	φράουλες	φράουλα	No	NoCm	Fe|Pl|Ac	5	ExD_Co	_	_	
+
+1	1	1	DIG	DIG	_	2	Atr	_	_	
+2	ανανάς	ανανάς	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+
+1	2	2	DIG	DIG	_	2	Atr	_	_	
+2	αχλάδια	αχλάδι	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+
+1	3	3	DIG	DIG	_	2	Atr	_	_	
+2	κουταλιές	κουταλιά	No	NoCm	Fe|Pl|Ac	0	ExD	_	_	
+3	της	ο	At	AtDf	Fe|Sg|Ge	4	Det	_	_	
+4	σούπας	σούπα	No	NoCm	Fe|Sg|Ge	2	Atr	_	_	
+5	ζάχαρη	ζάχαρη	No	NoCm	Fe|Sg|Ac	4	Atr	_	_	
+
+1	2	2	DIG	DIG	_	2	Atr	_	_	
+2	κουταλάκια	κουταλάκι	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+3	του	ο	At	AtDf	Ne|Sg|Ge	5	Det	_	_	
+4	γλυκού	γλυκός	Aj	Aj	Ba|Ne|Sg|Ge	5	Atr	_	_	
+5	κονιάκ	κονιάκ	No	NoCm	Ne|Pl|Ac	2	Atr	_	_	
+
+1	ΕΚΤΕΛΕΣΗ	εκτέλεση	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στύβουμε	στύβω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+3	ένα	ένας	Pn	PnId	Ne|03|Sg|Nm|Xx	4	Atr	_	_	
+4	πορτοκάλι	πορτοκάλι	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Nm	7	Det	_	_	
+7	λεμόνι	λεμόνι	No	NoCm	Ne|Sg|Nm	5	ExD_Co	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ξεφλουδίζουμε	ξεφλουδίζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Ac	3	Det	_	_	
+3	φρούτα	φρούτο	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	6	Obj	_	_	
+6	κόβουμε	κόβω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+7	σε	σε	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	μικρά	μικρός	Aj	Aj	Ba|Ne|Pl|Ac	9	Atr	_	_	
+9	κομμάτια	κομμάτι	No	NoCm	Ne|Pl|Ac	7	Adv	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ανακατεύουμε	ανακατεύω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τον	ο	At	AtDf	Ma|Sg|Ac	3	Det	_	_	
+3	χυμό	χυμός	No	NoCm	Ma|Sg|Ac	1	Obj	_	_	
+4	του	ο	At	AtDf	Ma|Sg|Ge	5	Det	_	_	
+5	πορτοκαλιού	πορτοκαλής	Aj	Aj	Ba|Ma|Sg|Ge	6	Atr_Co	_	_	
+6	και	και	Cj	CjCo	_	3	Coord	_	_	
+7	του	ο	At	AtDf	Ma|Sg|Ge	8	Det	_	_	
+8	λεμονιού	λεμονής	Aj	Aj	Ba|Ma|Sg|Ge	6	Atr_Co	_	_	
+9	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+10	τη	ο	At	AtDf	Fe|Sg|Ac	11	Det	_	_	
+11	ζάχαρη	ζάχαρη	No	NoCm	Fe|Sg|Ac	12	Adv_Co	_	_	
+12	και	και	Cj	CjCo	_	9	Coord	_	_	
+13	το	ο	At	AtDf	Ne|Sg|Ac	14	Det	_	_	
+14	κονιάκ	κονιάκ	No	NoCm	Ne|Pl|Ac	12	Adv_Co	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μετά	μετά	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	τον	ο	At	AtDf	Ma|Sg|Ac	3	Det	_	_	
+3	ρίχνουμε	ρίχνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	1	Adv	_	_	
+4	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	3	AuxP	_	_	
+5	φρούτα	φρούτο	No	NoCm	Ne|Pl|Ac	4	Adv	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βάζουμε	βάζω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τη	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+3	φρουτοσαλάτα	φρουτοσαλάτα	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+5	ψυγείο	ψυγείο	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+6	για	για	AsPp	AsPpSp	_	1	AuxP	_	_	
+7	δύο	δύο	Nm	NmCd	Fe|Pl|Ac|Aj	8	Atr	_	_	
+8	ώρες	ώρα	No	NoCm	Fe|Pl|Ac	6	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τη	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	2	Obj	_	_	
+2	σερβίρουμε	σερβίρω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	σκέτη	σκέτος	Aj	Aj	Ba|Fe|Sg|Ac	4	Obj_Co	_	_	
+4	ή	ή	Cj	CjCo	_	2	Coord	_	_	
+5	με	με	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	σαντιγί	σαντιγί	No	NoCm	Fe|Sg|Ac	5	Adv_Co	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Καλή	καλός	Aj	Aj	Ba|Fe|Sg|Nm	2	Atr	_	_	
+2	όρεξη	όρεξη	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

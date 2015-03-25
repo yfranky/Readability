@@ -1,0 +1,38 @@
+1	Γιώργος	Γιώργος	No	NoPr	Ma|Sg|Nm	2	Atr	_	_	
+2	Κασσανδρινός	Κασσανδρινός	No	NoPr	Ma|Sg|Nm	5	Atr	_	_	
+3	.	.	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+4	11	11	DIG	DIG	_	5	Atr	_	_	
+5	χρονών	χρονών	No	NoCm	Ma|Pl|Ge	0	ExD	_	_	
+6	(	(	OPUNCT	OPUNCT	_	8	AuxG	_	_	
+7	Ε'	Ε'	Nm	NmOd	Ma|Sg|Ge|Aj	8	Atr	_	_	
+8	τάξη	τάξη	No	NoCm	Fe|Sg|Nm	5	Atr_Pa	_	_	
+9	)	)	CPUNCT	CPUNCT	_	8	AuxG	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	ο	At	AtDf	Ne|Sg|Nm	2	Det	_	_	
+2	χόμπι	χόμπι	No	NoCm	Ne|Sg|Nm	4	Sb	_	_	
+3	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	2	Pos	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Nm	6	Det	_	_	
+6	ποδόσφαιρο	ποδόσφαιρο	No	NoCm	Ne|Sg|Nm	4	Pnom	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	αλληλογραφήσω	αλληλογραφώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Obj	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	παιδιά	παιδί	No	NoCm	Ne|Pl|Ac	4	Adv	_	_	
+6	απ'	από	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	όλη	όλος	Aj	Aj	Ba|Fe|Sg|Ac	9	Atr	_	_	
+8	την	ο	At	AtDf	Fe|Sg|Ac	9	Det	_	_	
+9	Ελλάδα	Ελλάδα	No	NoPr	Fe|Sg|Ac	6	Atr	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ν.	Ν.	ENUM	ENUM	_	2	Atr	_	_	
+2	Μαρμαράς	μαρμαράς	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+3	Χαλκιδικής	Χαλκιδική	No	NoPr	Fe|Sg|Ge	2	Atr	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	Τ.Κ.	Τ.Κ.	ABBR	ABBR	_	2	Atr	_	_	
+6	630	630	DIG	DIG	_	5	Atr	_	_	
+7	81	81	DIG	DIG	_	5	Atr	_	_	
+

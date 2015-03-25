@@ -1,0 +1,107 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Πρόσκληση	πρόσκληση	NoCmFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+1\12	TOK	Αγαπητέ	αγαπητός	AjBaMaSgVo
+	SYN	[np_ac
+1\20	TOK	Θωμά	Θωμάς	NoPrMaSgAc
+	SYN	/np_ac]
+1\24	PUNCT	,	,	PUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\27	TOK	σε	εγώ	PnPeMa02SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\30	TOK	προσκαλώ	προσκαλώ	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\39	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\43	TOK	πάρτι	πάρτι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\49	TOK	που	που	PnReNe03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\53	TOK	θα	θα	PtFu
+1\56	TOK	κάνω	κάνω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\61	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\65	TOK	τα	ο	AtDfNePlAc
+	SYN	[adjp_ac
+1\68	TOK	γενέθλιά	γενέθλιος	AjBaNePlAc
+1\77	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+1\80	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\82	TOK	το	ο	AtDfNeSgNm
+1\85	TOK	Σάββατο	Σάββατο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\93	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ge
+1\98	DIG	23	23	DIG
+1\101	TOK	Σεπτεμβρίου	Σεπτέμβριος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\112	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\114	TOK	ώρα	ώρα	NoCmFeSgAc
+1\118	DIG	4	4	DIG
+	SYN	/np_ac]
+	SYN	[np_ac
+1\120	TOK	το	ο	AtDfNeSgAc
+1\123	TOK	απόγευμα	απόγευμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\131	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\134	TOK	Διεύθυνση	διεύθυνση	NoCmFeSgNm
+	SYN	/np_nm]
+1\143	PTERM_P	:	:	PTERM_P
+	SYN	[np_nm
+1\145	TOK	Θεοτοκοπούλου	Θεοτοκοπούλου	NoPrFeSgNm
+	SYN	/np_nm]
+1\159	DIG	32	32	DIG
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\163	TOK	Τηλέφωνο	τηλέφωνο	NoCmNeSgNm
+	SYN	/np_nm]
+1\171	PTERM_P	:	:	PTERM_P
+1\173	DIG	34657	34657	DIG
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\180	TOK	Σε	σε	AsPpSp
+	SYN	[vg
+1\183	TOK	περιμένω	περιμένω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[pp
+1\193	TOK	Με	με	AsPpSp
+	SYN	[np_ac
+1\196	TOK	αγάπη	αγάπη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\203	TOK	Μαρία	Μαρία	NoPrFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>

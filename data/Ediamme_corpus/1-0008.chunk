@@ -1,0 +1,73 @@
+	(SENT	<S>
+1\1	TOK	Ζήτω	ζήτω	Ij
+1\6	TOK	το	ο	AtDfNeSgAc
+	SYN	[advp
+1\9	TOK	ΟΧΙ	όχι	AdXxBa
+	SYN	/advp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\14	TOK	Η	ο	AtDfFeSgNm
+1\16	TOK	Ζέτα	Ζέτα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\21	TOK	πάει	πηγαίνω	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\26	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\31	TOK	γιορτή	γιορτή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\37	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\40	TOK	Ζήτω	ζήτω	Ij
+1\45	TOK	το	ο	AtDfNeSgAc
+	SYN	[advp
+1\48	TOK	ΟΧΙ	όχι	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\52	TOK	λέει	λέγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+1\57	TOK	κι	και	CjCo
+	SYN	[np_ac
+1\60	TOK	αυτή	αυτός	PnDmFe03SgAcXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\64	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\67	TOK	Κάθεται	κάθομαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\75	TOK	προσεκτικά	προσεκτικά	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+1\88	TOK	κι	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\91	TOK	ακούει	ακούω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_ir
+	SYN	[np_ac
+1\98	TOK	τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\101	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\106	TOK	τα	ο	AtDfNePlNm
+1\109	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/cl_ir]
+1\115	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,463 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Κάθε	κάθε	PnIdNe03SgNmXx
+1\6	TOK	παιδί	παιδί	NoCmNeSgNm
+	SYN	/np_nm]
+1\12	TOK	και	και	CjCo
+	SYN	[np_nm
+1\16	TOK	ένα	ένας	AtIdNeSgNm
+1\19	PTERM_P	...	...	PTERM_P
+1\23	TOK	λουλούδι	λουλούδι	NoCmNeSgNm
+	SYN	/np_nm]
+1\31	PTERM_P	!	!	PTERM_P
+1\32	PTERM_P	!	!	PTERM_P
+1\33	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\36	TOK	Ο	ο	AtDfMaSgNm
+1\38	TOK	Γιάννης	Γιάννης	NoPrMaSgNm
+	SYN	/np_nm]
+1\46	TOK	και	και	CjCo
+1\50	TOK	τα	ο	AtDfNePlNm
+	SYN	[np_ac
+1\53	TOK	άλλα	άλλος	PnIdNe03PlAcXx
+	SYN	/np_ac]
+	SYN	[np_nm
+1\58	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\65	TOK	έπαιξαν	παίζω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\73	TOK	ένα	ένας	AtIdNeSgAc
+1\77	TOK	παιχνίδι	παιχνίδι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\86	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\91	TOK	τάξη	τάξη	NoCmFeSgAc
+1\96	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\100	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\102	TOK	Κάθε	κάθε	PnIdNe03SgNmXx
+1\107	TOK	παιδί	παιδί	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\113	TOK	έλεγε	λέγω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\119	TOK	κάτι	κάτι	PnIdNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[pp
+1\124	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\128	TOK	τον	ο	AtDfMaSgAc
+1\132	TOK	εαυτό	εαυτός	NoCmMaSgAc
+1\138	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\142	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[advp
+1\146	TOK	έπειτα	έπειτα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\153	TOK	ζωγράφιζε	ζωγραφίζω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\163	TOK	ένα	ένας	AtIdNeSgNm
+1\167	TOK	λουλούδι	λουλούδι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[pp
+1\176	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\181	TOK	πίνακα	πίνακας	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\187	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+	SYN	[vg_s
+1\189	TOK	Να	να	PtSj
+	SYN	[np_ac
+1\192	TOK	τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+1\195	TOK	είπαν	λέγω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_nm
+1\201	TOK	τα	ο	AtDfNePlNm
+1\204	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\210	PTERM_P	:	:	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\213	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\214	TOK	Με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\217	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\222	TOK	Γιάννη	Γιάννης	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	/cl]
+1\228	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\230	TOK	ζω	ζω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\233	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\237	TOK	Γερμανία	Γερμανία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\246	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\250	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\256	TOK	Έλληνας	Έλληνας	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\263	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\265	TOK	Παίζω	παίζω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\271	TOK	σκάκι	σκάκι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\276	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\278	TOK	Ζωγραφίζω	ζωγραφίζω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\288	TOK	το	ο	AtDfNeSgAc
+1\291	TOK	γιασεμί	γιασεμί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\298	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\301	ENUM	-	-	ENUM
+	SYN	[np_ge
+1\302	TOK	Εμένα	εγώ	PnPeMa01SgGeSt
+	SYN	/np_ge]
+	SYN	[np_ac
+1\308	TOK	με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\311	TOK	φωνάζουν	φωνάζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\320	TOK	Κάθριν	Κάθριν	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\327	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\331	TOK	πηγαίνω	πηγαίνω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\339	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\344	TOK	τρίτη	τρίτος	NmOdFeSgAcAj
+	SYN	/adjp_ac]
+1\350	TOK	τάξη	τάξη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\354	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\356	TOK	Ο	ο	AtDfMaSgNm
+1\358	TOK	μπαμπάς	μπαμπάς	NoCmMaSgNm
+1\366	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\370	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\376	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\380	TOK	την	ο	AtDfFeSgAc
+1\384	TOK	Αμερική	Αμερική	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\392	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\396	TOK	η	ο	AtDfFeSgNm
+1\398	TOK	μαμά	μαμά	NoCmFeSgNm
+1\403	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+	SYN	[pp
+1\407	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\411	TOK	τη	ο	AtDfFeSgAc
+1\414	TOK	Γερμανία	Γερμανία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\423	TOK	ζωγραφίζω	ζωγραφίζω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\433	TOK	ένα	ένας	AtIdNeSgAc
+1\437	TOK	γαρύφαλλο	γαρίφαλο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\446	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\449	ENUM	-	-	ENUM
+	SYN	[vg
+1\450	TOK	Ονομάζομαι	ονομάζω	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\461	TOK	Γιόχαν	Γιόχαν	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\468	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\472	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\478	TOK	Γερμανός	Γερμανός	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\486	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\488	TOK	Τρέχω	τρέχω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\494	TOK	σαν	σαν	AdXxBa
+	SYN	[np_ac
+1\498	TOK	ελάφι	ελάφι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/advp]
+	SYN	/cl]
+1\503	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\505	TOK	Εγώ	εγώ	PnPeMa01SgNmSt
+	SYN	/np_nm]
+	SYN	[vg
+1\509	TOK	θα	θα	PtFu
+1\512	TOK	ζωγραφίσω	ζωγραφίζω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\522	TOK	το	ο	AtDfNeSgAc
+1\525	TOK	περιβόλι	περιβόλι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\533	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\536	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\537	TOK	Με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\540	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+1\545	TOK	Μάριο	Μάριο	RgFwTr
+	SYN	/cl]
+1\550	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\552	TOK	Οι	ο	AtDfMaPlNm
+1\555	TOK	γονείς	γονέας	NoCmMaPlNm
+1\562	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\566	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[pp
+1\572	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\576	TOK	την	ο	AtDfFeSgAc
+1\580	TOK	Ιταλία	Ιταλία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\586	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\588	TOK	Ξέρω	ξέρω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\593	TOK	να	να	PtSj
+1\596	TOK	τραγουδώ	τραγουδώ	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\605	TOK	ιταλικά	ιταλικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\613	TOK	τραγούδια	τραγούδι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\622	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\624	TOK	Εγώ	εγώ	PnPeMa01SgNmSt
+	SYN	/np_nm]
+	SYN	[vg
+1\628	TOK	ζωγράφισα	ζωγραφίζω	VbMnIdPa01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\638	TOK	ένα	ένας	AtIdNeSgAc
+1\642	TOK	χρυσάνθεμο	χρυσάνθεμο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\652	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\655	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\656	TOK	Με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\659	TOK	λένε	λέγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\664	TOK	Μαρία	Μαρία	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\670	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\674	TOK	ζω	ζω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\677	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\681	TOK	Γερμανία	Γερμανία	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\689	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\691	TOK	Δεν	δεν	PtNg
+1\695	TOK	ζωγραφίζω	ζωγραφίζω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\705	TOK	τίποτα	τίποτα	PnIdNe03SgAcXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\711	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\714	TOK	Μετά	μετά	AsPpSp
+	SYN	[np_ac
+1\719	TOK	τον	ο	AtDfMaSgAc
+1\723	TOK	Γιάννη	Γιάννης	NoPrMaSgAc
+	SYN	/np_ac]
+1\729	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\731	TOK	τον	ο	AtDfMaSgAc
+1\735	TOK	Γιόχαν	Γιόχαν	NoPrMaSgAc
+	SYN	/np_ac]
+1\741	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\743	TOK	την	ο	AtDfFeSgAc
+1\747	TOK	Κάθριν	Κάθριν	NoPrFeSgAc
+	SYN	/np_ac]
+1\753	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\755	TOK	τον	ο	AtDfMaSgAc
+1\759	TOK	Μάριο	Μάριο	RgFwTr
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\765	TOK	μίλησαν	μιλώ	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\773	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\777	TOK	ζωγράφισαν	ζωγραφίζω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+1\788	TOK	και	και	CjCo
+	SYN	[np_ac
+1\792	TOK	άλλα	άλλος	PnIdNe03PlAcXx
+	SYN	/np_ac]
+	SYN	[np_nm
+1\797	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\803	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\805	TOK	Στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\809	TOK	τέλος	τέλος	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\815	TOK	ο	ο	AtDfMaSgNm
+1\817	TOK	πίνακας	πίνακας	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\825	TOK	έμοιαζε	μοιάζω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\833	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\836	TOK	κήπο	κήπος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\840	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

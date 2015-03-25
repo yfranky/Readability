@@ -1,0 +1,124 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\1	TOK	Στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\6	TOK	αρχή	αρχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\11	TOK	έφτιαξε	φτιάχνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\19	TOK	ο	ο	AtDfMaSgNm
+1\21	TOK	Θεός	θεός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\26	TOK	τον	ο	AtDfMaSgAc
+1\30	TOK	ουρανό	ουρανός	NoCmMaSgAc
+	SYN	/np_ac]
+1\37	TOK	και	και	CjCo
+	SYN	[np_ac
+1\41	TOK	τη	ο	AtDfFeSgAc
+1\44	TOK	γη	γη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\46	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\48	TOK	Η	ο	AtDfFeSgNm
+1\50	TOK	γη	γη	NoCmFeSgNm
+	SYN	/np_nm]
+1\53	TOK	όμως	όμως	CjCo
+	SYN	[vg
+1\58	TOK	δεν	δεν	PtNg
+1\62	TOK	φαινόταν	φαίνομαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\71	TOK	ακόμα	ακόμα	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\78	TOK	κι	και	CjCo
+1\81	TOK	ούτε	ούτε	CjCo
+	SYN	[cl
+	SYN	[advp
+1\86	TOK	βέβαια	βέβαια	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\93	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[advp
+1\98	TOK	όπως	όπως	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\103	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\109	TOK	σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+	SYN	/cl_o]
+1\115	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\117	TOK	Υπήρχε	υπάρχω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\124	TOK	σκοτάδι	σκοτάδι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\132	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\136	TOK	το	ο	AtDfNeSgNm
+1\139	TOK	πνεύμα	πνεύμα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\146	TOK	του	ο	AtDfMaSgGe
+1\150	TOK	Θεού	θεός	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\155	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\160	TOK	πάνω	πάνω	AdXxBa
+	SYN	[pp
+1\165	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\169	TOK	το	ο	AtDfNeSgAc
+1\172	TOK	νερό	νερό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\176	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\178	TOK	Κάποια	κάποιος	PnIdFe03SgAcXx
+1\185	TOK	στιγμή	στιγμή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\192	TOK	είπε	λέγω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\197	TOK	ο	ο	AtDfMaSgNm
+1\199	TOK	Θεός	θεός	NoCmMaSgNm
+	SYN	/np_nm]
+1\203	PTERM_P	:	:	PTERM_P
+1\205	OPUNCT	"	"	OPUNCT
+1\206	TOK	Ας	ας	PtOt
+1\209	TOK	γεννηθεί	γεννώ	VbMnNfXxXxXxXxPePvXx
+	SYN	[np_nm
+1\218	TOK	το	ο	AtDfNeSgNm
+1\221	TOK	φως	φως	NoCmNeSgNm
+	SYN	/np_nm]
+1\224	PTERM_P	...	...	PTERM_P
+	SYN	/cl]
+	)SENT	</S>

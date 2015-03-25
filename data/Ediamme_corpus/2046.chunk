@@ -1,0 +1,80 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	ΔΕΥΤΕΡΑ	Δευτέρα	NoCmFeSgNm
+1\9	TOK	οδοντίατρος	οδοντίατρος	NoCmMaSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\23	TOK	ΤΡΙΤΗ	Τρίτη	NmOdFeSgAcAj
+	SYN	/adjp_ac]
+1\29	TOK	δώρο	δώρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\34	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\38	TOK	τη	ο	AtDfFeSgAc
+1\41	TOK	Βαγγελιώ	Βαγγελιώ	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\51	TOK	ΤΕΤΑΡΤΗ	Τετάρτη	NmOdFeSgAcAj
+	SYN	/adjp_ac]
+1\59	TOK	συνάντηση	συνάντηση	NoCmFeSgAc
+	SYN	/np_ac]
+1\69	TOK	με	με	AsPpSp
+1\72	TOK	τον	ο	AtDfMaSgAc
+	SYN	[np_ge
+1\76	TOK	Γεωργίου	Γεώργιος	NoPrMaSgGe
+	SYN	/np_ge]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\86	TOK	ΠΕΜΠΤΗ	πεμπτός	NmOdFeSgAcAj
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_nm
+1\93	TOK	μάθημα	μάθημα	NoCmNeSgNm
+1\100	TOK	κομπιούτερ	κομπιούτερ	RgFwTr
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\114	TOK	ΠΑΡΑΣΚΕΥΗ	Παρασκευή	NoCmFeSgNm
+1\124	TOK	ποδόσφαιρο	ποδόσφαιρο	NoCmNeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\136	TOK	ΣΑΒΒΑΤΟ	Σάββατο	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\144	TOK	ταξίδι	ταξίδι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\151	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\155	TOK	χωριό	χωριό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\162	TOK	ΚΥΡΙΑΚΗ	Κυριακή	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[np_ac
+1\170	TOK	φαγητό	φαγητό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\177	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\180	TOK	τον	ο	AtDfMaSgAc
+1\184	TOK	Ευαγγελίδη	Ευαγγελίδη	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	)SENT	</S>

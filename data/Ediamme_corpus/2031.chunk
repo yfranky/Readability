@@ -1,0 +1,236 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1	TOK	Τα	ο	AtDfNePlNm
+1\4	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\11	TOK	φεύγουν	φεύγω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\19	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\23	TOK	το	ο	AtDfNeSgAc
+1\26	TOK	χωριό	χωριό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\32	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\36	TOK	χρειάζονται	χρειάζομαι	VbMnIdPr03PlXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\48	TOK	τσάντες	τσάντα	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[pp
+1\56	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\60	TOK	τα	ο	AtDfNePlAc
+1\63	TOK	πράγματά	πράγμα	NoCmNePlAc
+1\72	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\76	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\78	TOK	Αδειάζουν	αδειάζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+1\87	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\89	TOK	λοιπόν	λοιπόν	AdXxBa
+	SYN	/advp]
+1\95	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\97	TOK	τα	ο	AtDfNePlNm
+	SYN	[adjp_nm
+1\100	TOK	σχολικά	σχολικός	AjBaNePlNm
+1\108	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/adjp_nm]
+1\113	TOK	σακίδια	σακίδιο	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\120	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\123	TOK	Ο	ο	AtDfMaSgNm
+1\125	TOK	Δημητρης	Δημήτρης	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\134	TOK	σηκώνει	σηκώνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\142	TOK	το	ο	AtDfNeSgAc
+1\145	TOK	σακίδιό	σακίδιο	NoCmNeSgAc
+1\153	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\157	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\161	TOK	πέφτουν	πέφτω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\169	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\173	TOK	πάτωμα	πάτωμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\180	TOK	σχολικά	σχολικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\188	TOK	βιβλία	βιβλίο	NoCmNePlAc
+	SYN	/np_ac]
+1\194	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\196	TOK	γεωμετρικά	γεωμετρικός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\207	TOK	όργανα	όργανο	NoCmNePlAc
+	SYN	/np_ac]
+1\213	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\215	TOK	χρωματιστοί	χρωματιστός	AjBaMaPlNm
+	SYN	/adjp_nm]
+1\227	TOK	μαρκαδόροι	μαρκαδόρος	NoCmMaPlNm
+	SYN	/np_nm]
+1\237	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\239	TOK	μεταλλικές	μεταλλικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\250	TOK	ξύστρες	ξύστρα	NoCmFePlAc
+	SYN	/np_ac]
+1\257	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\259	TOK	αυτοκόλλητα	αυτοκόλλητος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\271	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\274	TOK	διάσημους	διάσημος	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\284	TOK	αθλητές	αθλητής	NoCmMaPlAc
+	SYN	/np_ac]
+1\292	TOK	και	και	CjCo
+	SYN	[np_ac
+1\296	TOK	μια	ένας	AtIdFeSgAc
+1\300	TOK	φωτογραφία	φωτογραφία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\311	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\314	TOK	τους	ο	AtDfMaPlAc
+1\319	TOK	συμμαθητές	συμμαθητής	NoCmMaPlAc
+1\330	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\333	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\336	TOK	Η	ο	AtDfFeSgNm
+1\338	TOK	Χριστίνα	Χριστίνα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\347	TOK	βγάζει	βγάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\354	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\357	TOK	προσοχή	προσοχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\365	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\369	TOK	το	ο	AtDfNeSgAc
+1\372	TOK	σακίδιό	σακίδιο	NoCmNeSgAc
+1\380	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\384	TOK	μικρά	μικρός	AjBaNePlNm
+1\390	TOK	και	και	CjCo
+1\394	TOK	μεγάλα	μεγάλος	AjBaNePlNm
+	SYN	/adjp_nm]
+1\401	TOK	τετράδια	τετράδιο	NoCmNePlNm
+	SYN	/np_nm]
+1\409	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\411	TOK	πλαστικούς	πλαστικός	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\422	TOK	χάρακες	χάρακας	NoCmMaPlAc
+	SYN	/np_ac]
+1\429	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\431	TOK	πολύχρωμες	πολύχρωμος	AjBaFePlAc
+	SYN	/adjp_ac]
+1\442	TOK	νερομπογιές	νερομπογιά	NoCmFePlAc
+	SYN	/np_ac]
+1\454	TOK	και	και	CjCo
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\458	TOK	άσπρα	άσπρος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\464	TOK	χαρτιά	χαρτί	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\470	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\472	TOK	Ανοίγει	ανοίγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\480	TOK	την	ο	AtDfFeSgAc
+1\484	TOK	κασετίνα	κασετίνα	NoCmFeSgAc
+1\493	TOK	της	μου	PnPoFe03SgGeXx
+	SYN	/np_ac]
+	SYN	/cl]
+1\497	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\501	TOK	βρίσκει	βρίσκω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\509	TOK	αρωματικές	αρωματικός	AjBaFePlAc
+	SYN	/adjp_ac]
+1\520	TOK	γόμες	γόμα	NoCmFePlAc
+	SYN	/np_ac]
+1\526	TOK	και	και	CjCo
+	SYN	[np_ac
+1\530	TOK	κάρτες	κάρτα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\537	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\540	TOK	τους	ο	AtDfMaPlAc
+	SYN	[adjp_ac
+1\545	TOK	αγαπημένους	αγαπημένος	AjBaMaPlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+1\557	TOK	της	ο	AtDfFeSgGe
+	SYN	[np_ac
+1\561	TOK	τραγουδιστές	τραγουδιστής	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\573	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

@@ -1,0 +1,106 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Ανάσταση	ανάσταση	NoCmFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\11	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\12	TOK	Χριστός	χριστός	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\20	TOK	ανέστη	ανίσταμαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\27	TOK	εκ	εκ	AsPpSp
+	SYN	[np_ge
+	SYN	[adjp_ge
+1\30	TOK	νεκρών	νεκρός	AjBaFePlGe
+	SYN	/adjp_ge]
+	SYN	/np_ge]
+	SYN	/pp]
+1\36	PTERM_P	...	...	PTERM_P
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+1\41	ENUM	-	-	ENUM
+1\42	TOK	Και	και	CjCo
+	SYN	[np_ge
+1\46	TOK	του	ο	AtDfMaSgGe
+1\50	TOK	χρόνου	χρόνος	NoCmMaSgGe
+	SYN	/np_ge]
+1\56	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\59	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\60	TOK	Χριστός	χριστός	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\68	TOK	ανέστη	ανίσταμαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	/cl]
+1\74	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\77	ENUM	-	-	ENUM
+	SYN	[advp
+1\78	TOK	Αληθώς	αληθώς	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\85	TOK	ανέστη	ανίσταμαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	/cl]
+1\91	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\94	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\95	TOK	Μας	εγώ	PnPeMa01PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\99	TOK	περιμένει	περιμένω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\109	TOK	η	ο	AtDfFeSgNm
+1\111	TOK	μαγειρίτσα	μαγειρίτσα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\121	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\124	ENUM	-	-	ENUM
+	SYN	[vg
+1\125	TOK	Έλα	έλα	VbMnMpXx02SgXxPePvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\129	TOK	να	να	PtSj
+1\132	TOK	τσουγκρίσουμε	τσουγκρίζω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\146	TOK	τα	ο	AtDfNePlAc
+1\149	TOK	αυγά	αυγό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\153	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+1\156	ENUM	-	-	ENUM
+	SYN	[vg
+1\157	TOK	Θα	θα	PtFu
+1\160	TOK	σουβλίσετε	σουβλίζω	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\171	TOK	αρνί	αρνί	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_q]
+1\175	PTERM_P	;	;	PTERM_P
+	)SENT	</S>

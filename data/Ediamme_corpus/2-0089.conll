@@ -1,0 +1,160 @@
+1	Σύδνεϋ	Σύδνεϋ	No	NoPr	Ne|Sg|Ac	0	ExD	_	_	
+2	24-12-98	24-12-98	DATE	DATE	_	1	Adv	_	_	
+
+1	Αλεξάνδρα	Αλεξάνδρα	No	NoPr	Fe|Sg|Nm	3	Atr	_	_	
+2	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	3	Pos	_	_	
+3	γεια	γεια	No	NoCm	Fe|Sg|Ac	0	ExD	_	_	
+4	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	3	Pos	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+3	τρίτη	τρίτος	Nm	NmOd	Fe|Sg|Nm|Aj	4	Atr	_	_	
+4	μέρα	μέρα	No	NoCm	Fe|Sg|Nm	1	Pnom	_	_	
+5	που	που	Pn	PnRe	Fe|03|Sg|Nm|Xx	9	Sb	_	_	
+6	είμαστε	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	9	Atr_Co	_	_	
+7	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	6	AuxP	_	_	
+8	Σύδνεϋ	Σύδνεϋ	No	NoPr	Ne|Sg|Ac	7	Adv	_	_	
+9	και	και	Cj	CjCo	_	4	Coord	_	_	
+10	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	11	IObj	_	_	
+11	αρέσει	αρέσω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	9	Atr_Co	_	_	
+12	πολύ	πολύ	Ad	Ad	Ba	11	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Χτες	χθες	Ad	Ad	Ba	3	Adv	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	πήγαμε	πηγαίνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τη	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	μητέρα	μητέρα	No	NoCm	Fe|Sg|Ac	4	Adv	_	_	
+7	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	6	Pos	_	_	
+8	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	6	AuxP	_	_	
+9	λιμάνι	λιμάνι	No	NoCm	Ne|Sg|Ac	8	Atr	_	_	
+10	του	ο	At	AtDf	Ne|Sg|Ge	11	Det	_	_	
+11	Ντάρλιγκ	Ντάρλιγκ	No	NoPr	Ne|Sg|Ge	9	Atr	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είδαμε	βλέπω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+2	και	και	Cj	CjCo	_	0	Coord	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Nm	4	Det	_	_	
+4	κτίριο	κτίριο	No	NoCm	Ne|Sg|Nm	2	ExD_Co	_	_	
+5	της	ο	At	AtDf	Fe|Sg|Ge	6	Det	_	_	
+6	Όπερας	όπερα	No	NoCm	Fe|Sg|Ge	4	Atr	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	2	IObj	_	_	
+2	έκανε	κάνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+3	εντύπωση	εντύπωση	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Ac	5	Det	_	_	
+5	χρώμα	χρώμα	No	NoCm	Ne|Sg|Ac	3	Atr	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Nm	8	Det	_	_	
+8	σχήμα	σχήμα	No	NoCm	Ne|Sg|Nm	6	ExD_Co	_	_	
+9	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	8	Pos	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είχε	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+2	πολλή	πολύς	Aj	Aj	Ba|Fe|Sg|Nm	3	Atr	_	_	
+3	ζέστη	ζέστη	No	NoCm	Fe|Sg|Nm	1	Sb	_	_	
+4	κι	και	Cj	CjCo	_	0	Coord	_	_	
+5	φορούσατε	φορώ	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+6	τα	ο	At	AtDf	Ne|Pl|Ac	7	Det	_	_	
+7	καλοκαιρινά	καλοκαιρινός	Aj	Aj	Ba|Ne|Pl|Ac	5	Obj	_	_	
+8	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	7	Pos	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σήμερα	σήμερα	Ad	Ad	Ba	2	Adv	_	_	
+2	είμαστε	είμαι	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	4	Atr	_	_	
+4	καλεσμένοι	καλεσμένος	Aj	Aj	Ba|Ma|Pl|Nm	2	Pnom	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+6	σπίτι	σπίτι	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+7	του	ο	At	AtDf	Ne|Sg|Ge	8	Det	_	_	
+8	θείου	θείο	No	NoCm	Ne|Sg|Ge	6	Atr	_	_	
+9	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	8	Pos	_	_	
+10	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+11	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	2	AuxP	_	_	
+12	Μπόνταϊ	Μπόνταϊ	No	NoPr	Ne|Sg|Ac	11	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πήραμε	παίρνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	μαζί	μαζί	Ad	Ad	Ba	1	Adv	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	μαγιό	μαγιό	No	NoCm	Ne|Pl|Ac	2	Adv	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ίσως	ίσως	Ad	Ad	Ba	3	Adv	_	_	
+2	να	να	Pt	PtSj	_	3	AuxV	_	_	
+3	κολυμπήσουμε	κολυμπώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	αν	αν	Cj	CjSb	_	3	AuxC	_	_	
+6	ο	ο	At	AtDf	Ma|Sg|Nm	7	Det	_	_	
+7	καιρός	καιρός	No	NoCm	Ma|Sg|Nm	8	Sb	_	_	
+8	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	5	Adv	_	_	
+9	καλός	καλός	Aj	Aj	Ba|Ma|Sg|Nm	8	Pnom	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	2	Obj	_	_	
+2	φαντάζεσαι	φαντάζομαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μπάνιο	μπάνιο	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+2	χριστουγεννιάτικα	χριστουγεννιάτικος	Aj	Aj	Ba|Ne|Pl|Ac	1	Atr	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αύριο	αύριο	Ad	Ad	Ba	2	Adv	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	Χριστούγεννα	Χριστούγεννα	No	NoPr	Ne|Pl|Ac	2	Pnom	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έχω	έχω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	έτοιμα	έτοιμος	Aj	Aj	Ba|Ne|Pl|Nm	4	Atr	_	_	
+3	τα	ο	At	AtDf	Ne|Pl|Nm	4	Det	_	_	
+4	δώρα	δώρο	No	NoCm	Ne|Pl|Nm	1	Sb	_	_	
+5	για	για	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	τους	ο	At	AtDf	Ma|Pl|Ac	7	Det	_	_	
+7	γονείς	γονέας	No	NoCm	Ma|Pl|Ac	9	Adv_Co	_	_	
+8	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	7	Pos	_	_	
+9	και	και	Cj	CjCo	_	5	Coord	_	_	
+10	την	ο	At	AtDf	Fe|Sg|Ac	11	Det	_	_	
+11	αδελφή	αδελφή	No	NoCm	Fe|Sg|Ac	9	Adv_Co	_	_	
+12	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	11	Pos	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ελπίζω	ελπίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	να	να	Pt	PtSj	_	4	AuxV	_	_	
+3	τους	εγώ	Pn	PnPe	Ma|03|Pl|Ac|We	4	Obj	_	_	
+4	αρέσουν	αρέσω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	1	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	3	Sb	_	_	
+2	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	3	Obj	_	_	
+3	ψωνίζεις	ψωνίζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τους	ο	At	AtDf	Ma|Pl|Ac	6	Det	_	_	
+6	δικούς	δικός	Aj	Aj	Ba|Ma|Pl|Ac	4	Obj	_	_	
+7	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	6	Atr	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+2	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	3	Obj	_	_	
+3	δω	βλέπω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	σε	σε	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	δύο	δύο	Nm	NmCd	Fe|Pl|Ac|Aj	6	Atr	_	_	
+6	βδομάδες	βδομάδα	No	NoCm	Fe|Pl|Ac	4	Adv	_	_	
+7	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+8	δηλαδή	δηλαδή	Ad	Ad	Ba	3	AuxC	_	_	
+9	του	ο	At	AtDf	Ma|Sg|Ge	10	Det	_	_	
+10	χρόνου	χρόνος	No	NoCm	Ma|Sg|Ge	8	Adv	_	_	
+11	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Καλά	καλά	Ad	Ad	Ba	3	Adv	_	_	
+2	Χριστούγεννα	Χριστούγεννα	No	NoPr	Ne|Pl|Ac	3	Atr_Co	_	_	
+3	και	και	Cj	CjCo	_	0	Coord	_	_	
+4	Καλή	καλός	Aj	Aj	Ba|Fe|Sg|Ac	5	Atr	_	_	
+5	χρονιά	χρονιά	No	NoCm	Fe|Sg|Ac	3	Adv_Co	_	_	
+
+1	Πολλά	πολύς	Aj	Aj	Ba|Ne|Pl|Nm	2	Atr	_	_	
+2	φιλιά	φιλί	No	NoCm	Ne|Pl|Nm	0	ExD	_	_	
+
+1	Λεωνίδας	Λεωνίδας	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+

@@ -1,0 +1,79 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\1	TOK	Στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\6	TOK	αρχή	αρχή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[vg
+1\11	TOK	υπήρχε	υπάρχω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\18	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\23	TOK	νερό	νερό	NoCmNeSgAc
+	SYN	/np_ac]
+1\28	TOK	και	και	CjCo
+	SYN	[np_ac
+1\32	TOK	σκοτάδι	σκοτάδι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\39	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\41	TOK	Ο	ο	AtDfMaSgNm
+	SYN	[np_ac
+1\43	TOK	Ιό	ιός	NoCmMaSgAc
+	SYN	/np_ac]
+1\45	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\47	TOK	ο	ο	AtDfMaSgNm
+	SYN	[adjp_nm
+1\49	TOK	μεγαλύτερος	μεγάλος	AjCpMaSgNm
+	SYN	/adjp_nm]
+1\61	TOK	θεός	θεός	NoCmMaSgNm
+	SYN	/np_nm]
+1\65	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\67	TOK	χώρισε	χωρίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\74	TOK	τα	ο	AtDfNePlAc
+1\77	TOK	νερά	νερό	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[advp
+1\82	TOK	μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\87	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\90	TOK	τον	ο	AtDfMaSgAc
+1\94	TOK	λόγο	λόγος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\98	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\100	TOK	Έτσι	έτσι	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\105	TOK	έφτιαξε	φτιάχνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\113	TOK	τον	ο	AtDfMaSgAc
+1\117	TOK	ουρανό	ουρανός	NoCmMaSgAc
+	SYN	/np_ac]
+1\124	TOK	και	και	CjCo
+	SYN	[np_ac
+1\128	TOK	τη	ο	AtDfFeSgAc
+1\131	TOK	γη	γη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\133	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

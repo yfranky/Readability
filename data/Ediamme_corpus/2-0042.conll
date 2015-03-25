@@ -1,0 +1,183 @@
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Κώστας	Κώστας	No	NoPr	Ma|Sg|Nm	3	Sb_Co	_	_	
+3	και	και	Cj	CjCo	_	6	Coord	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	Άννα	Άννα	No	NoPr	Fe|Sg|Nm	3	Sb_Co	_	_	
+6	ψωνίζουν	ψωνίζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	6	AuxP	_	_	
+8	λαϊκή	λαϊκός	Aj	Aj	Ba|Fe|Sg|Ac	7	Obj	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ορίστε	ορίζω	Ad	Ad	Ba	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	παρακαλώ	παρακαλώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Θέλουμε	θέλω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	βερίκοκα	βερίκοκο	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πόσα	πόσος	Pn	PnIr	Ne|03|Pl|Nm|Xx	3	Sb	_	_	
+3	θέλετε	θέλω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ένα	ένας	At	AtId	Ne|Sg|Nm	3	Det	_	_	
+3	κιλό	κιλό	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	3	AuxY	_	_	
+2	μισό	μισός	Aj	Aj	Ba|Ne|Sg|Ac	3	Atr	_	_	
+3	κιλό	κιλό	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+4	φράουλες	φράουλα	No	NoCm	Fe|Pl|Ac	3	Atr	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ορίστε	ορίζω	Ad	Ad	Ba	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	έχετε	έχω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	τσάντα	τσάντα	No	NoCm	Fe|Sg|Ac	4	Obj	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μια	ένας	At	AtId	Fe|Sg|Nm	2	Det	_	_	
+2	στιγμή	στιγμή	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μάκη	Μάκης	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	άνοιξε	ανοίγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Pred	_	_	
+4	την	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	τσάντα	τσάντα	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Θέλετε	θέλω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τίποτα	τίποτα	Pn	PnId	Ne|03|Sg|Ac|Xx	4	Atr	_	_	
+4	άλλο	άλλος	Pn	PnId	Ne|03|Sg|Ac|Xx	2	Obj	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	Atr	_	_	
+2	Ένα	ένας	At	AtId	Ne|Sg|Nm	3	Det	_	_	
+3	κιλό	κιλό	No	NoCm	Ne|Sg|Nm	5	ExD_Ap	_	_	
+4	κολοκυθάκια	κολοκυθάκι	No	NoCm	Ne|Pl|Ac	3	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	0	Apos	_	_	
+6	ένα	ένας	At	AtId	Ne|Sg|Ac	7	Det	_	_	
+7	κιλό	κιλό	No	NoCm	Ne|Sg|Ac	5	ExD_Ap	_	_	
+8	καρότα	καρότο	No	NoCm	Ne|Pl|Ac	7	Atr	_	_	
+9	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τίποτ'	τίποτα	Pn	PnId	Ne|03|Sg|Nm|Xx	3	Atr	_	_	
+3	άλλο	άλλος	Pn	PnId	Ne|03|Sg|Ac|Xx	0	ExD	_	_	
+4	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	και	και	Cj	CjCo	_	0	Coord	_	_	
+5	δύο	δύο	Nm	NmCd	Ne|Pl|Nm|Aj	6	Atr	_	_	
+6	αγγούρια	αγγούρι	No	NoCm	Ne|Pl|Ac	4	ExD_Co	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+3	σημείωμα	σημείωμα	No	NoCm	Ne|Sg|Nm	4	Sb	_	_	
+4	γράφει	γράφω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	και	και	Cj	CjCo	_	7	AuxY	_	_	
+6	τρία	τρεις	Nm	NmCd	Ne|Pl|Ac|Aj	7	Atr	_	_	
+7	κιλά	κιλό	No	NoCm	Ne|Pl|Ac	4	Obj	_	_	
+8	πατάτες	πατάτα	No	NoCm	Fe|Pl|Ac	7	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	3	AuxG	_	_	
+2	Πόσο	πόσο	Ad	Ad	Ba	3	Adv	_	_	
+3	κάνουν	κάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	3	Obj	_	_	
+5	μαζί	μαζί	Ad	Ad	Ba	3	Adv	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Λοιπόν	λοιπόν	Ad	Ad	Ba	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	έχουμε	έχω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	:	:	PTERM_P	PTERM_P	_	4	AuxG	_	_	
+6	ένα	ένας	At	AtId	Ne|Sg|Ac	7	Det	_	_	
+7	κιλό	κιλό	No	NoCm	Ne|Sg|Ac	13	Obj_Ap	_	_	
+8	βερίκοκα	βερίκοκο	No	NoCm	Ne|Pl|Nm	13	ExD_Co	_	_	
+9	,	,	PUNCT	PUNCT	_	13	AuxX	_	_	
+10	μισό	μισός	Aj	Aj	Ba|Ne|Sg|Ac	11	Atr	_	_	
+11	κιλό	κιλό	No	NoCm	Ne|Sg|Ac	13	Obj_Ap	_	_	
+12	φράουλες	φράουλα	No	NoCm	Fe|Pl|Ac	11	Atr	_	_	
+13	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+14	ένα	ένας	At	AtId	Ne|Sg|Ac	15	Det	_	_	
+15	κιλό	κιλό	No	NoCm	Ne|Sg|Ac	13	Obj_Ap	_	_	
+16	κολοκυθάκια	κολοκυθάκι	No	NoCm	Ne|Pl|Ac	15	Atr	_	_	
+17	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+18	τρία	τρεις	Nm	NmCd	Ne|Pl|Ac|Aj	19	Atr	_	_	
+19	κιλά	κιλό	No	NoCm	Ne|Pl|Ac	15	Atr	_	_	
+20	πατάτες	πατάτα	No	NoCm	Fe|Pl|Ac	19	Atr	_	_	
+21	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ξεχάσατε	ξεχνώ	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	τ'	τ'	At	AtDf	Ne|Pl|Ac	4	Det	_	_	
+4	αγγούρια	αγγούρι	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ναι	ναι	Ad	Ad	Ba	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ξανά	ξανά	Ad	Ad	Ba	6	Adv	_	_	
+2	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+3	λοιπόν	λοιπόν	Ad	Ad	Ba	6	Adv	_	_	
+4	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+5	έχουμε	έχω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+6	και	και	Cj	CjCo	_	0	Coord	_	_	
+7	λέμε	λέγω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+8	:	:	PTERM_P	PTERM_P	_	7	Apos	_	_	
+9	600	600	DIG	DIG	_	10	Atr_Co	_	_	
+10	και	και	Cj	CjCo	_	12	Coord_Co	_	_	
+11	400	400	DIG	DIG	_	10	Atr_Co	_	_	
+12	και	και	Cj	CjCo	_	8	Coord_Ap	_	_	
+13	200	200	DIG	DIG	_	14	Atr_Co	_	_	
+14	και	και	Cj	CjCo	_	12	Coord	_	_	
+15	900	900	DIG	DIG	_	14	Atr_Co	_	_	
+16	,	,	PUNCT	PUNCT	_	18	AuxX	_	_	
+17	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ac|We	18	Obj	_	_	
+18	κάνουν	κάνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	12	Pred	_	_	
+19	2.700	2.700	DIG	DIG	_	20	Atr	_	_	
+20	δραχμές	δραχμή	No	NoCm	Fe|Pl|Ac	18	Obj	_	_	
+21	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Ac	22	Atr	_	_	
+22	μαζί	μαζί	Ad	Ad	Ba	20	Atr	_	_	
+23	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ορίστε	ορίζω	Ad	Ad	Ba	5	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	ένα	ένας	At	AtId	Ne|Sg|Ac	5	Det	_	_	
+5	πεντοχίλιαρο	πεντοχίλιαρο	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ένα	ένας	At	AtId	Ne|Sg|Nm	3	Det	_	_	
+3	λεπτό	λεπτό	No	NoCm	Ne|Sg|Nm	4	Sb_Ap	_	_	
+4	,	,	PUNCT	PUNCT	_	0	Apos	_	_	
+5	να	να	Pt	PtSj	_	7	AuxV	_	_	
+6	σας	εγώ	Pn	PnPe	Ma|02|Pl|Ge|We	7	IObj	_	_	
+7	δώσω	δίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Sb_Ap	_	_	
+8	τα	ο	At	AtDf	Ne|Pl|Ac	11	Det	_	_	
+9	ρέστα	ρέστος	Aj	Aj	Ba|Ne|Pl|Ac	11	Atr	_	_	
+10	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+11	παιδιά	παιδί	No	NoCm	Ne|Pl|Ac	7	Obj	_	_	
+12	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ευχαριστώ	ευχαριστώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

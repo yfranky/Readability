@@ -1,0 +1,406 @@
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	γιορτή	γιορτή	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+3	του	ο	At	AtDf	Ne|Sg|Ge	4	Det	_	_	
+4	Halloween	Halloween	Rg	RgFw	_	2	Atr	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Πού	πού	Ad	Ad	Ba	3	Adv	_	_	
+3	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+5	μάσκα	μάσκα	No	NoCm	Fe|Sg|Nm	3	Sb	_	_	
+6	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	5	Pos	_	_	
+7	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πού	πού	Ad	Ad	Ba	2	Adv	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	μάσκα	μάσκα	No	NoCm	Fe|Sg|Nm	2	Sb	_	_	
+5	του	ο	At	AtDf	Ma|Sg|Ge	6	Det	_	_	
+6	κλόουν	κλόουν	No	NoCm	Ma|Pl|Ac	4	Atr	_	_	
+7	που	που	Pn	PnRe	Ma|03|Pl|Ac|Xx	9	Obj	_	_	
+8	μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	9	IObj	_	_	
+9	υποσχέθηκες	υπόσχομαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	6	Atr	_	_	
+10	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δε	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	βρήκα	βρίσκω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γύρισα	γυρίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	όλα	όλος	Aj	Aj	Ba|Ne|Pl|Nm	1	Pnom	_	_	
+3	σχεδόν	σχεδόν	Ad	Ad	Ba	5	Adv	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Nm	5	Det	_	_	
+5	καταστήματα	κατάστημα	No	NoCm	Ne|Pl|Nm	1	Sb	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	5	AuxP	_	_	
+7	κέντρο	κέντρο	No	NoCm	Ne|Sg|Ac	6	Atr	_	_	
+8	του	ο	At	AtDf	Ne|Sg|Ge	9	Det	_	_	
+9	Μόντρεαλ	Μόντρεαλ	No	NoPr	Ne|Sg|Ge	7	Atr	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έφερα	φέρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	όμως	όμως	Cj	CjCo	_	7	AuxY	_	_	
+3	δύο	δύο	Nm	NmCd	Ma|Pl|Ac|Aj	6	Atr	_	_	
+4	μεγάλες	μεγάλος	Aj	Aj	Ba|Fe|Pl|Ac	6	Atr	_	_	
+5	πορτοκαλί	πορτοκαλής	Aj	Aj	Ba|Ma|Pl|Ac	6	Atr	_	_	
+6	κολοκύθες	κολοκύθας	No	NoCm	Ma|Pl|Ac	7	Obj_Co	_	_	
+7	και	και	Cj	CjCo	_	9	Coord	_	_	
+8	πολλές	πολύς	Aj	Aj	Ba|Fe|Pl|Ac	7	Atr_Co	_	_	
+9	καραμέλες	καραμέλα	No	NoCm	Fe|Pl|Ac	1	Obj	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+3	Κώστα	Κώστας	No	NoPr	Ma|Sg|Ge	5	ExD	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	ελάτε	ελάτε	Vb	VbMn	Mp|Xx|02|Pl|Xx|Xx|Pv|Xx	1	Pred	_	_	
+6	να	να	Pt	PtSj	_	8	AuxV	_	_	
+7	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	8	Obj	_	_	
+8	βοηθήσετε	βοηθώ	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	5	Obj	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	5	Obj	_	_	
+3	να	να	Pt	PtSj	_	5	AuxV	_	_	
+4	τις	εγώ	Pn	PnPe	Fe|03|Pl|Ac|We	5	Obj	_	_	
+5	κάνω	κάνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Pred_Co	_	_	
+6	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	5	Sb	_	_	
+7	τις	ο	At	AtDf	Fe|Pl|Ac	8	Det	_	_	
+8	κολοκύθες	κολοκύθας	No	NoCm	Ma|Pl|Ac	5	Obj	_	_	
+9	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	3	Sb	_	_	
+2	μασκαράς	μασκαράς	No	NoCm	Ma|Sg|Nm	3	Pnom	_	_	
+3	θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	5	AuxV	_	_	
+5	ντυθώ	ντύνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	2	Atr	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πώς	πώς	Ad	Ad	Ba	3	Adv	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	βγω	βγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	με	με	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τους	ο	At	AtDf	Ma|Pl|Ac	6	Det	_	_	
+6	φίλους	φίλος	No	NoCm	Ma|Pl|Ac	4	Adv	_	_	
+7	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	6	Pos	_	_	
+8	το	ο	At	AtDf	Ne|Sg|Ac	9	Det	_	_	
+9	βράδυ	βράδυ	No	NoCm	Ne|Sg|Ac	6	Atr	_	_	
+10	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	2	Atr	_	_	
+2	μασκαρεμένοι	μασκαρεμένος	Aj	Aj	Ba|Ma|Pl|Nm	4	Sb	_	_	
+3	θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Προμηθέα	προμηθέας	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	σταμάτα	σταματώ	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	2	Atr	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	κλαψουρίζεις	κλαψουρίζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	4	Obj	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Σκέψου	σκέφτομαι	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	πως	πως	Cj	CjSb	_	1	AuxC	_	_	
+3	υπάρχουν	υπάρχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	2	Obj	_	_	
+4	και	και	Cj	CjCo	_	5	AuxY	_	_	
+5	παιδιά	παιδί	No	NoCm	Ne|Pl|Nm	3	Sb	_	_	
+6	που	που	Pn	PnRe	Ne|03|Pl|Nm|Xx	8	Sb	_	_	
+7	δεν	δεν	Pt	PtNg	_	8	AuxV	_	_	
+8	μπορούν	μπορώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	5	Atr	_	_	
+9	ν'	να	Pt	PtSj	_	10	AuxV	_	_	
+10	αγοράσουν	αγοράζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	8	Obj	_	_	
+11	στολή	στολή	No	NoCm	Fe|Sg|Ac	10	Obj	_	_	
+12	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ποιοι	ποιος	Pn	PnIr	Ma|03|Pl|Nm|Xx	4	Sb	_	_	
+3	δεν	δεν	Pt	PtNg	_	4	AuxV	_	_	
+4	μπορούν	μπορώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	2	Atr	_	_	
+2	κάτι	κάτι	Pn	PnId	Ne|03|Sg|Ac|Xx	4	Obj	_	_	
+3	έχουν	έχω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	4	AuxV	_	_	
+4	βρει	βρίσκω	Vb	VbMn	Nf|Xx|Xx|Xx|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	,	,	PUNCT	PUNCT	_	8	AuxX	_	_	
+6	εδώ	εδώ	Ad	Ad	Ba	8	AuxY	_	_	
+7	και	και	Cj	CjCo	_	8	AuxY	_	_	
+8	καιρό	καιρός	No	NoCm	Ma|Sg|Ac	4	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Της	ο	At	AtDf	Fe|Sg|Ge	2	Det	_	_	
+2	Γιολάντας	Γιολάντας	No	NoPr	Fe|Sg|Ge	0	ExD	_	_	
+3	τής	τής	Pn	PnPe	Fe|03|Sg|Ge|We	4	Obj	_	_	
+4	έραψε	ράβω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+5	η	ο	At	AtDf	Fe|Sg|Nm	6	Det	_	_	
+6	μαμά	μαμά	No	NoCm	Fe|Sg|Nm	4	Sb	_	_	
+7	της	ο	At	AtDf	Fe|Sg|Ge	9	Det	_	_	
+8	μια	ένας	Pn	PnId	Fe|03|Sg|Ac|Xx	9	Atr	_	_	
+9	στολή	στολή	No	NoCm	Fe|Sg|Ac	6	Atr	_	_	
+10	από	από	AsPp	AsPpSp	_	9	AuxP	_	_	
+11	αστροναύτη	αστροναύτης	No	NoCm	Ma|Sg|Ac	10	Atr	_	_	
+12	,	,	PUNCT	PUNCT	_	13	AuxX	_	_	
+13	ασημένια	ασημένιος	Aj	Aj	Ba|Fe|Sg|Nm	6	Atr	_	_	
+14	.	.	PTERM_P	PTERM_P	_	13	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Ρενό	Ρενό	Rg	RgFw	_	0	ExD	_	_	
+3	εδώ	εδώ	Ad	Ad	Ba	4	AuxY	_	_	
+4	και	και	Cj	CjCo	_	2	Coord	_	_	
+5	ένα	ένας	At	AtId	Ma|Sg|Ac	6	Det	_	_	
+6	μήνα	μήνας	No	NoCm	Ma|Sg|Ac	7	Adv	_	_	
+7	βρήκε	βρίσκω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	4	Pred_Co	_	_	
+8	από	από	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	παλιατζίδικο	παλιατζίδικο	No	NoCm	Ne|Sg|Ac	8	Adv	_	_	
+10	μια	ένας	At	AtId	Fe|Sg|Ac	11	Det	_	_	
+11	στολή	στολή	No	NoCm	Fe|Sg|Ac	7	Obj	_	_	
+12	παπουτσωμένου	παπουτσωμένος	Aj	Aj	Ba|Ma|Sg|Ge	13	Atr	_	_	
+13	γάτου	γάτος	No	NoCm	Ma|Sg|Ge	11	Atr	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Ελί	Ελί	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	στολή	στολή	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+5	λιονταριού	λιοντάρι	No	NoCm	Ne|Sg|Ge	4	Atr	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	από	από	AsPp	AsPpSp	_	3	AuxP	_	_	
+8	πέρυσι	πέρυσι	Ad	Ad	Ba	7	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Μαίρη	Μαίρη	No	NoPr	Fe|Sg|Nm	6	Sb	_	_	
+3	απ’	από	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	τα	ο	At	AtDf	Ne|Pl|Ac	5	Det	_	_	
+5	Χριστούγεννα	Χριστούγεννα	No	NoPr	Ne|Pl|Ac	3	Atr	_	_	
+6	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	τη	ο	At	AtDf	Fe|Sg|Ac	8	Det	_	_	
+8	στολή	στολή	No	NoCm	Fe|Sg|Ac	6	Obj	_	_	
+9	του	ο	At	AtDf	Ne|Sg|Ge	10	Det	_	_	
+10	θεάτρου	θέατρο	No	NoCm	Ne|Sg|Ge	8	Atr	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Πάψε	παύω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πια	πια	Ad	Ad	Ba	2	Adv	_	_	
+4	την	ο	At	AtDf	Fe|Sg|Ac	5	Det	_	_	
+5	γκρίνια	γκρίνια	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+6	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+7	Προμηθέα	προμηθέας	No	NoPr	Ma|Sg|Ac	2	Obj	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κουρσάρος	κουρσάρος	No	NoCm	Ma|Sg|Nm	3	Sb	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	ντυθείς	ντύνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Φτιάξε	φτιάχνω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+2	μουστάκι	μουστάκι	No	NoCm	Ne|Sg|Ac	3	Obj_Co	_	_	
+3	και	και	Cj	CjCo	_	1	Coord	_	_	
+4	γένια	γένι	No	NoCm	Ne|Pl|Ac	3	Obj_Co	_	_	
+5	μ'	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+6	αυτό	αυτός	Pn	PnDm	Ne|03|Sg|Ac|Xx	8	Atr	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	μολύβι	μολύβι	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+9	και	και	Cj	CjCo	_	0	Coord	_	_	
+10	σκέπασε	σκεπάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+11	με	με	AsPp	AsPpSp	_	10	AuxP	_	_	
+12	το	ο	At	AtDf	Ne|Sg|Ac	14	Det	_	_	
+13	μαύρο	μαύρος	Aj	Aj	Ba|Ne|Sg|Ac	14	Atr	_	_	
+14	πανί	πανί	No	NoCm	Ne|Sg|Ac	11	Adv	_	_	
+15	το	ο	At	AtDf	Ne|Sg|Ac	16	Det	_	_	
+16	ένα	ένας	Pn	PnId	Ne|03|Sg|Nm|Xx	18	Atr	_	_	
+17	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	18	Atr	_	_	
+18	μάτι	μάτι	No	NoCm	Ne|Sg|Nm	14	Atr	_	_	
+19	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βάλε	βάζω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	9	Pred_Co	_	_	
+2	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+3	κόκκινο	κόκκινος	Aj	Aj	Ba|Ne|Sg|Ac	4	Atr	_	_	
+4	μαντήλι	μαντήλι	No	NoCm	Ne|Sg|Ac	1	Obj	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+6	κεφάλι	κεφάλι	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+7	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	6	Pos	_	_	
+8	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+9	και	και	Cj	CjCo	_	0	Coord	_	_	
+10	...	...	PTERM_P	PTERM_P	_	13	AuxG	_	_	
+11	να	να	Pt	PtSj	_	13	Atr	_	_	
+12	ένας	ένας	At	AtId	Ma|Sg|Nm	13	Det	_	_	
+13	κουρσάρος	κουρσάρος	No	NoCm	Ma|Sg|Nm	9	ExD_Co	_	_	
+14	!	!	PTERM_P	PTERM_P	_	13	AuxG	_	_	
+
+1	Ποιος	ποιος	Pn	PnIr	Ma|03|Sg|Nm|Xx	2	Atr	_	_	
+2	κουρσάρος	κουρσάρος	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	τελειώσαμε	τελειώνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Με	με	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Ac	3	Det	_	_	
+3	υπόλοιπα	υπόλοιπος	Aj	Aj	Ba|Ne|Pl|Ac	1	Atr	_	_	
+4	τι	τι	Pn	PnIr	Ne|03|Sg|Ac|Xx	5	Obj	_	_	
+5	κάνουμε	κάνω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	3	Atr	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxY	_	_	
+2	Ένας	ένας	At	AtId	Ma|Sg|Nm	4	Det	_	_	
+3	γκρινιάρης	γκρινιάρης	Aj	Aj	Ba|Ma|Sg|Nm	4	Atr	_	_	
+4	κουρσάρος	κουρσάρος	No	NoCm	Ma|Sg|Nm	0	ExD	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	θες	θες	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	4	Atr	_	_	
+7	να	να	Pt	PtSj	_	8	AuxV	_	_	
+8	πεις	λέγω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	6	Obj	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	9	Sb	_	_	
+2	αντί	αντί	AsPp	AsPpSp	_	9	AuxP	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	πειράζεις	πειράζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	2	Adv	_	_	
+5	τον	ο	At	AtDf	Ma|Sg|Ac	6	Det	_	_	
+6	αδερφό	αδερφός	No	NoCm	Ma|Sg|Ac	4	Obj	_	_	
+7	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	6	Pos	_	_	
+8	,	,	PUNCT	PUNCT	_	9	AuxX	_	_	
+9	ετοίμασε	ετοιμάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	12	Pred_Co	_	_	
+10	την	ο	At	AtDf	Fe|Sg|Ac	11	Det	_	_	
+11	κολοκύθα	κολοκύθας	No	NoCm	Ma|Sg|Ac	9	Obj	_	_	
+12	και	και	Cj	CjCo	_	0	Coord	_	_	
+13	βάλτην	βάλτην	Ad	Ad	Ba	12	Adv	_	_	
+14	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	13	AuxP	_	_	
+15	μπαλκόνι	μπαλκόνι	No	NoCm	Ne|Sg|Ac	14	Adv	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	2	Atr	_	_	
+2	Προμηθέα	προμηθέας	No	NoPr	Ma|Sg|Ac	17	Apos_Co	_	_	
+3	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+4	πήγαινε	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+6	υπόγειο	υπόγειος	Aj	Aj	Ba|Ne|Sg|Ac	5	Adv	_	_	
+7	και	και	Cj	CjCo	_	2	Coord	_	_	
+8	πάρε	παίρνω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	7	Atr_Co	_	_	
+9	από	από	AsPp	AsPpSp	_	8	AuxP	_	_	
+10	το	ο	At	AtDf	Ne|Sg|Ac	11	Det	_	_	
+11	μπαούλο	μπαούλο	No	NoCm	Ne|Sg|Ac	9	Adv	_	_	
+12	τις	ο	At	AtDf	Fe|Pl|Ac	13	Det	_	_	
+13	μπότες	μπότα	No	NoCm	Fe|Pl|Ac	11	Atr	_	_	
+14	,	,	PUNCT	PUNCT	_	17	AuxX	_	_	
+15	το	ο	At	AtDf	Ne|Sg|Nm	16	Det	_	_	
+16	ζωνάρι	ζωνάρι	No	NoCm	Ne|Sg|Nm	17	Sb_Co	_	_	
+17	και	και	Cj	CjCo	_	0	Coord	_	_	
+18	το	ο	At	AtDf	Ne|Sg|Nm	19	Det	_	_	
+19	γιλέκο	γιλέκο	No	NoCm	Ne|Sg|Nm	17	ExD_Co	_	_	
+20	της	ο	At	AtDf	Fe|Sg|Ge	22	Det	_	_	
+21	νησιώτικης	νησιώτικος	Aj	Aj	Ba|Fe|Sg|Ge	22	Atr	_	_	
+22	φορεσιάς	φορεσιά	No	NoCm	Fe|Sg|Ge	19	Atr	_	_	
+23	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κι	και	Cj	CjCo	_	0	Coord	_	_	
+2	εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	6	Sb	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	Κώστα	Κώστας	No	NoPr	Ma|Sg|Ge	2	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	ρίξε	ρίχνω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	1	Pred_Co	_	_	
+7	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	6	AuxP	_	_	
+8	μεγάλο	μεγάλος	Aj	Aj	Ba|Ne|Sg|Ac	9	Atr	_	_	
+9	πανέρι	πανέρι	No	NoCm	Ne|Sg|Ac	7	Adv	_	_	
+10	τις	ο	At	AtDf	Fe|Pl|Ac	11	Det	_	_	
+11	σοκολάτες	σοκολάτα	No	NoCm	Fe|Pl|Ac	12	Obj_Co	_	_	
+12	και	και	Cj	CjCo	_	6	Coord	_	_	
+13	τα	ο	At	AtDf	Ne|Pl|Ac	14	Det	_	_	
+14	γλειφιτζούρια	γλειφιτζούρι	No	NoCm	Ne|Pl|Ac	12	Obj_Co	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+2	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	3	Obj	_	_	
+3	δίνεις	δίνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	στα	στου	AsPp	AsPpPa	Ne|Pl|Ac	3	AuxP	_	_	
+5	παιδιά	παιδί	No	NoCm	Ne|Pl|Ac	4	IObj	_	_	
+6	που	που	Pn	PnRe	Ne|03|Sg|Ac|Xx	8	Obj	_	_	
+7	θα	θα	Pt	PtFu	_	8	AuxV	_	_	
+8	περνούν	περνώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	5	Atr	_	_	
+9	μασκαρεμένα	μασκαρεμένος	Aj	Aj	Ba|Ne|Pl|Ac	8	Pnom	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Προμηθέα	προμηθέας	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	3	AuxX	_	_	
+3	ετοιμάστηκες	ετοιμάζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	1	Pred_Co	_	_	
+4	επιτέλους	επιτέλους	Ad	Ad	Ba	3	Adv	_	_	
+5	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Έτοιμος	έτοιμος	Aj	Aj	Ba|Fe|Sg|Nm	4	Atv	_	_	
+3	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+4	φεύγω	φεύγω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	κι	και	Cj	CjCo	_	0	Coord	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	4	Det	_	_	
+4	σακούλα	σακούλα	No	NoCm	Fe|Sg|Nm	2	ExD_Co	_	_	
+5	για	για	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	τις	ο	At	AtDf	Fe|Pl|Ac	7	Det	_	_	
+7	λιχουδιές	λιχουδιά	No	NoCm	Fe|Pl|Ac	5	Atr	_	_	
+8	που	που	Pn	PnRe	Fe|03|Pl|Nm|Xx	11	Sb	_	_	
+9	θα	θα	Pt	PtFu	_	11	AuxV	_	_	
+10	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ac|We	11	Obj	_	_	
+11	δίνουν	δίνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	7	Atr	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Ένα	ένας	At	AtId	Ne|Sg|Nm	3	Det	_	_	
+3	λεπτό	λεπτό	No	NoCm	Ne|Sg|Nm	0	ExD	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μόνοι	μόνος	Aj	Aj	Ba|Ma|Pl|Nm	3	Pnom	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	γυρίζετε	γυρίζω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	στους	στου	AsPp	AsPpPa	Ma|Pl|Ac	3	AuxP	_	_	
+5	δρόμους	δρόμος	No	NoCm	Ma|Pl|Ac	4	IObj	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Όχι	όχι	Ad	Ad	Ba	5	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	θα	θα	Pt	PtFu	_	5	AuxV	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+6	κι	και	Cj	CjCo	_	8	AuxY	_	_	
+7	ο	ο	At	AtDf	Ma|Sg|Nm	8	Det	_	_	
+8	πατέρας	πατέρας	No	NoCm	Ma|Sg|Nm	5	Pnom	_	_	
+9	του	ο	At	AtDf	Ma|Sg|Ge	10	Det	_	_	
+10	Ρενό	Ρενό	Rg	RgFw	_	8	Atr	_	_	
+11	μαζί	μαζί	Ad	Ad	Ba	10	Atr	_	_	
+12	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ge|We	11	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Και	και	Cj	CjCo	_	0	Coord	_	_	
+3	στον	στου	AsPp	AsPpPa	Ma|Sg|Ac	2	AuxP	_	_	
+4	δρόμο	δρόμος	No	NoCm	Ma|Sg|Ac	3	ExD_Co	_	_	
+5	να	να	Pt	PtSj	_	6	AuxV	_	_	
+6	προσέχεις	προσέχω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	4	Atr	_	_	
+7	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	περπατάτε	περπατώ	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	πάντα	πάντα	Ad	Ad	Ba	2	Adv	_	_	
+4	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	2	AuxP	_	_	
+5	πεζοδρόμιο	πεζοδρόμιο	No	NoCm	Ne|Sg|Ac	4	Adv	_	_	
+6	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+7	όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	2	ExD	_	_	
+8	μαζί	μαζί	Ad	Ad	Ba	7	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	4	Atr	_	_	
+2	Σύμφωνοι	σύμφωνος	Aj	Aj	Ba|Ma|Pl|Nm	4	Atr	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	μαμά	μαμά	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γεια	γεια	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+2	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	1	Pos	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

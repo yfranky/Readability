@@ -1,0 +1,130 @@
+	(SENT	<S>
+	SYN	[cl_q
+1\1	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\2	TOK	Εσύ	εγώ	PnPeMa02SgNmSt
+	SYN	/np_nm]
+1\6	TOK	πού	πού	AdXxBa
+	SYN	[vg
+1\10	TOK	πήγες	πηγαίνω	VbMnIdPa02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\16	TOK	χτες	χθες	AdXxBa
+	SYN	/advp]
+	SYN	/cl_q]
+1\20	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\23	ENUM	-	-	ENUM
+	SYN	[vg
+1\24	TOK	Πήγα	πηγαίνω	VbMnIdPa01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\29	TOK	σινεμά	σινεμά	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\35	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\38	ENUM	-	-	ENUM
+1\39	TOK	Κι	και	CjCo
+	SYN	[np_nm
+1\42	TOK	ο	ο	AtDfMaSgNm
+1\44	TOK	Γιάννης	Γιάννης	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\52	TOK	πήγε	πηγαίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\57	TOK	σινεμά	σινεμά	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\63	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\66	ENUM	-	-	ENUM
+1\67	TOK	Ε	ε	Ij
+1\68	PUNCT	,	,	PUNCT
+	SYN	[advp
+1\70	TOK	βέβαια	βέβαια	AdXxBa
+1\76	PUNCT	,	,	PUNCT
+1\78	TOK	μαζί	μαζί	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\83	TOK	πήγαμε	πηγαίνω	VbMnIdPa01PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\89	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_nm
+1\91	TOK	Εσείς	εγώ	PnPeMa02PlNmSt
+	SYN	/np_nm]
+1\97	TOK	πού	πού	AdXxBa
+	SYN	[vg
+1\101	TOK	πήγατε	πηγαίνω	VbMnIdPa02PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\107	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\110	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\111	TOK	Ο	ο	AtDfMaSgNm
+1\113	TOK	Αλέξανδρος	Αλέξανδρος	NoPrMaSgNm
+	SYN	/np_nm]
+1\124	TOK	κι	και	CjCo
+	SYN	[np_nm
+1\127	TOK	εγώ	εγώ	PnPeMa01SgNmSt
+	SYN	/np_nm]
+	SYN	[vg
+1\131	TOK	πήγαμε	πηγαίνω	VbMnIdPa01PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\138	TOK	για	για	AsPpSp
+	SYN	[np_ge
+1\142	TOK	μπάσκετ	μπάσκετ	NoCmNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+1\150	TOK	και	και	CjCo
+	SYN	[advp
+1\154	TOK	μετά	μετά	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\159	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\163	TOK	φαγητό	φαγητό	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\169	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\171	TOK	Η	ο	AtDfFeSgNm
+1\173	TOK	Ελένη	Ελένη	NoPrFeSgNm
+	SYN	/np_nm]
+1\179	TOK	κι	και	CjCo
+	SYN	[np_nm
+1\182	TOK	ο	ο	AtDfMaSgNm
+1\184	TOK	Δημήτρης	Δημήτρης	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\193	TOK	δεν	δεν	PtNg
+1\197	TOK	ξέρω	ξέρω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_ir
+1\202	TOK	πού	πού	AdXxBa
+	SYN	[vg
+1\206	TOK	πήγαν	πηγαίνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl_ir]
+1\211	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

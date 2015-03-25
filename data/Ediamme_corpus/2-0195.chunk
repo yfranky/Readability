@@ -1,0 +1,111 @@
+	(SENT	<S>
+1\1	TOK	Και	και	CjCo
+	SYN	[cl
+1\5	TOK	ενώ	ενώ	CjCo
+	SYN	[np_nm
+1\9	TOK	ο	ο	AtDfMaSgNm
+1\11	TOK	Ιησούς	Ιησούς	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\18	TOK	μιλούσε	μιλώ	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\26	TOK	ακόμη	ακόμα	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\32	TOK	στους	στου	AsPpPaMaPlAc
+	SYN	[np_ac
+1\38	TOK	Μαθητές	μαθητής	NoCmMaPlAc
+1\46	TOK	Του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\49	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\51	TOK	ήρθε	έρχομαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\56	TOK	ο	ο	AtDfMaSgNm
+1\58	TOK	Ιούδας	Ιούδας	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[advp
+1\65	TOK	μαζί	μαζί	AdXxBa
+	SYN	[pp
+1\70	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\73	TOK	τους	ο	AtDfMaPlAc
+1\78	TOK	στρατιώτες	στρατιώτης	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\89	TOK	και	και	CjCo
+	SYN	[advp
+1\93	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\98	TOK	κόσμο	κόσμος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\103	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\105	TOK	Τον	εγώ	PnPeMa03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\109	TOK	πλησίασε	πλησιάζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\117	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_ac
+1\119	TOK	Τον	εγώ	PnPeMa03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\123	TOK	φίλησε	φιλώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\130	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_ac
+1\134	TOK	Τον	εγώ	PnPeMa03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\138	TOK	χαιρέτησε	χαιρετώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\147	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\149	TOK	Οι	ο	AtDfMaPlNm
+1\152	TOK	στρατιώτες	στρατιώτης	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\163	TOK	έπιασαν	πιάνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\171	TOK	τον	ο	AtDfMaSgAc
+1\175	TOK	Ιησού	Ιησούς	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\181	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_ac
+1\185	TOK	τον	εγώ	PnPeMa03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\189	TOK	πήγαν	πηγαίνω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\195	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\200	TOK	Καϊάφα	Καϊάφας	NoPrMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\206	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

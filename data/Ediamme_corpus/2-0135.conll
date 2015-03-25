@@ -1,0 +1,24 @@
+1	Αντώνης	Αντώνης	No	NoPr	Ma|Sg|Nm	2	Atr	_	_	
+2	Φρατζής	Φρατζής	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+4	10	10	DIG	DIG	_	5	Atr	_	_	
+5	χρονών	χρονών	No	NoCm	Ma|Pl|Ge	2	Atr	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ζητώ	ζητώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	αλληλογραφία	αλληλογραφία	No	NoCm	Fe|Sg|Ac	1	Obj	_	_	
+3	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+4	Ελληνόπουλα	ελληνόπουλο	No	NoCm	Ne|Pl|Ac	3	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	ανεξαρτήτως	ανεξάρτητα	Ad	Ad	Ba	1	Adv	_	_	
+7	ηλικίας	ηλικία	No	NoCm	Fe|Sg|Ge	8	Atr_Co	_	_	
+8	και	και	Cj	CjCo	_	6	Coord	_	_	
+9	φύλου	φύλο	No	NoCm	Ne|Sg|Ge	8	Atr_Co	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μου	εγώ	Pn	PnPe	Ma|01|Sg|Ge|We	2	IObj	_	_	
+2	αρέσει	αρέσω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	αθλητισμός	αθλητισμός	No	NoCm	Ma|Sg|Nm	2	Sb	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

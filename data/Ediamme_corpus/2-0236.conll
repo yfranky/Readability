@@ -1,0 +1,88 @@
+1	Το	ο	At	AtDf	Ne|Sg|Nm	3	Det	_	_	
+2	περασμένο	περασμένος	Aj	Aj	Ba|Ne|Sg|Nm	3	Atr	_	_	
+3	Σάββατο	Σάββατο	No	NoCm	Ne|Sg|Nm	4	Sb	_	_	
+4	έγινε	γίνομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+6	σχολείο	σχολείο	No	NoCm	Ne|Sg|Ac	5	Adv	_	_	
+7	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	6	Pos	_	_	
+8	ο	ο	At	AtDf	Ma|Sg|Nm	9	Det	_	_	
+9	αγιασμός	αγιασμός	No	NoCm	Ma|Sg|Nm	4	Pnom	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ήρθε	έρχομαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	πατήρ	πατέρας	No	NoCm	Ma|Sg|Nm	1	Sb	_	_	
+4	Στέφανος	Στέφανος	No	NoPr	Ma|Sg|Nm	3	Atr	_	_	
+5	με	με	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	δύο	δύο	Nm	NmCd	Ma|Pl|Ac|Aj	7	Atr	_	_	
+7	ψάλτες	ψάλτης	No	NoCm	Ma|Pl|Ac	5	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Έψαλλαν	ψέλνω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	για	για	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	λίγο	λίγο	Ad	Ad	Ba	4	Atr_Co	_	_	
+4	και	και	Cj	CjCo	_	2	Coord	_	_	
+5	μετά	μετά	AsPp	AsPpSp	_	4	AuxP	_	_	
+6	ακούσαμε	ακούω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	5	Adv	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	8	Det	_	_	
+8	Ευαγγέλιο	ευαγγέλιο	No	NoCm	Ne|Sg|Ac	6	Obj	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ύστερα	ύστερα	Ad	Ad	Ba	4	Adv	_	_	
+2	ο	ο	At	AtDf	Ma|Sg|Nm	3	Det	_	_	
+3	παπάς	παπάς	No	NoCm	Ma|Sg|Nm	4	Sb	_	_	
+4	άγιασε	αγιάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Ac	6	Det	_	_	
+6	νερό	νερό	No	NoCm	Ne|Sg|Ac	4	Obj	_	_	
+7	που	που	Pn	PnRe	Ne|03|Sg|Nm|Xx	8	Sb	_	_	
+8	ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	6	Atr	_	_	
+9	σε	σε	AsPp	AsPpSp	_	8	AuxP	_	_	
+10	ένα	ένας	At	AtId	Ne|Sg|Ac	12	Det	_	_	
+11	γυάλινο	γυάλινος	Aj	Aj	Ba|Ma|Sg|Ac	12	Atr	_	_	
+12	μπολ	μπολ	Rg	RgFw	_	9	Adv	_	_	
+13	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+2	τέλος	τέλος	No	NoCm	Ne|Sg|Ac	1	Adv	_	_	
+3	φιλήσαμε	φιλώ	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+4	όλοι	όλος	Aj	Aj	Ba|Ma|Pl|Nm	6	Atr	_	_	
+5	τον	ο	At	AtDf	Ma|Sg|Ac	6	Det	_	_	
+6	σταυρό	σταυρός	No	NoCm	Ma|Sg|Ac	3	Obj	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	ο	ο	At	AtDf	Ma|Sg|Nm	9	Det	_	_	
+9	ιερέας	ιερέας	No	NoCm	Ma|Sg|Nm	11	Sb	_	_	
+10	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	9	Pos	_	_	
+11	ράντισε	ραντίζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+12	μ'	με	AsPp	AsPpSp	_	11	AuxP	_	_	
+13	ένα	ένας	At	AtId	Ne|Sg|Ac	14	Det	_	_	
+14	ματσάκι	ματσάκι	No	NoCm	Ne|Sg|Ac	12	Adv	_	_	
+15	βασιλικό	βασιλικός	Aj	Aj	Ba|Ma|Sg|Ac	14	Atr	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	διευθυντής	διευθυντής	No	NoCm	Ma|Sg|Nm	3	Sb_Co	_	_	
+3	και	και	Cj	CjCo	_	7	Coord	_	_	
+4	οι	ο	At	AtDf	Ma|Pl|Nm	5	Det	_	_	
+5	δάσκαλοι	δάσκαλος	No	NoCm	Ma|Pl|Nm	3	Sb_Co	_	_	
+6	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	5	Pos	_	_	
+7	ευχήθηκαν	εύχομαι	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Pv|Xx	0	Pred	_	_	
+8	καλή	καλός	Aj	Aj	Ba|Fe|Sg|Ac	10	Atr	_	_	
+9	σχολική	σχολικός	Aj	Aj	Ba|Fe|Sg|Ac	10	Atr	_	_	
+10	χρονιά	χρονιά	No	NoCm	Fe|Sg|Ac	7	Obj	_	_	
+11	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	6	AuxP	_	_	
+2	διάλειμμα	διάλειμμα	No	NoCm	Ne|Sg|Ac	1	Adv	_	_	
+3	οι	ο	At	AtDf	Fe|Pl|Nm	4	Det	_	_	
+4	μητέρες	μητέρα	No	NoCm	Fe|Pl|Nm	6	Sb	_	_	
+5	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	4	Pos	_	_	
+6	κέρασαν	κερνώ	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	όλους	όλος	Aj	Aj	Ba|Ma|Pl|Ac	8	Atr	_	_	
+8	σοκολατάκια	σοκολατάκι	No	NoCm	Ne|Pl|Ac	6	Obj	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ήταν	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	πολύ	πολύ	Ad	Ad	Ba	3	Adv	_	_	
+3	ωραία	ωραίος	Aj	Aj	Ba|Fe|Sg|Nm	1	Pnom	_	_	
+4	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

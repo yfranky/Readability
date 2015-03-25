@@ -1,0 +1,928 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Το	ο	AtDfNeSgNm
+1\4	TOK	σπίτι	σπίτι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\10	TOK	του	ο	AtDfMaSgGe
+1\14	TOK	Κώστα	Κώστας	NoPrMaSgGe
+	SYN	/np_ge]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\21	TOK	Ο	ο	AtDfMaSgNm
+1\23	TOK	Κώστας	Κώστας	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\30	TOK	μετακόμισε	μετακομίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\41	TOK	πριν	πριν	AdXxBa
+	SYN	[pp
+1\46	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\50	TOK	ένα	ένας	AtIdMaSgAc
+1\54	TOK	μήνα	μήνας	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl]
+1\59	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[advp
+1\63	TOK	σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\70	TOK	ζει	ζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\74	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\77	TOK	τους	ο	AtDfMaPlAc
+1\82	TOK	γονείς	γονέας	NoCmMaPlAc
+1\89	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\93	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\98	TOK	πόλη	πόλη	NoCmFeSgAc
+1\103	TOK	Ντάργουιν	Ντάργουιν	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\112	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_ac
+1\114	TOK	Την	ο	AtDfFeSgAc
+	SYN	[adjp_ac
+1\118	TOK	προηγούμενη	προηγούμενος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\130	TOK	βδομάδα	βδομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+1\137	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\139	TOK	ο	ο	AtDfMaSgNm
+1\141	TOK	δάσκαλος	δάσκαλος	NoCmMaSgNm
+1\150	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\155	TOK	έφερε	φέρω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\161	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\166	TOK	τάξη	τάξη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\171	TOK	φωτογραφίες	φωτογραφία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[pp
+1\183	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\186	TOK	διαφορετικούς	διαφορετικός	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\200	TOK	τύπους	τύπος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\207	TOK	σπιτιών	σπίτι	NoCmNePlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\214	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\217	ENUM	-	-	ENUM
+	SYN	[advp
+1\218	TOK	Σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+1\224	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\226	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+1\232	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\234	TOK	είπε	λέγω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\238	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\240	TOK	θα	θα	PtFu
+1\243	TOK	κάνουμε	κάνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\251	TOK	ένα	ένας	AtIdNeSgAc
+1\255	TOK	ταξίδι	ταξίδι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\261	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\263	TOK	Θα	θα	PtFu
+1\266	TOK	ταξιδέψουμε	ταξιδεύω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\278	TOK	πίσω	πίσω	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\283	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\288	TOK	χρόνο	χρόνος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\293	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\295	TOK	θα	θα	PtFu
+1\298	TOK	πάμε	πηγαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\303	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\306	TOK	άλλες	άλλος	PnIdFe03PlAcXx
+1\312	TOK	εποχές	εποχή	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\319	TOK	και	και	CjCo
+	SYN	[pp
+1\323	TOK	σ'	σε	AsPpSp
+	SYN	[np_ac
+1\326	TOK	άλλα	άλλος	PnIdNe03PlAcXx
+1\331	TOK	μέρη	μέρος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\335	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\337	TOK	Θα	θα	PtFu
+1\340	TOK	προσπαθήσουμε	προσπαθώ	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\354	TOK	να	να	PtSj
+1\357	TOK	μάθουμε	μαθαίνω	VbMnIdXx01PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+	SYN	[cl_ir
+	SYN	[np_ac
+1\365	TOK	τι	τι	PnIrNe03SgAcXx
+1\368	TOK	σχέση	σχέση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[vg
+1\374	TOK	έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\379	TOK	το	ο	AtDfNeSgAc
+1\382	TOK	κλίμα	κλίμα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\388	TOK	με	με	AsPpSp
+	SYN	[np_ac
+1\391	TOK	τον	ο	AtDfMaSgAc
+1\395	TOK	τρόπο	τρόπος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\401	TOK	που	που	PnReMa03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[np_nm
+1\405	TOK	οι	ο	AtDfMaPlNm
+1\408	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\417	TOK	φτιάχνουν	φτιάχνω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\427	TOK	τα	ο	AtDfNePlAc
+1\430	TOK	σπίτια	σπίτι	NoCmNePlAc
+1\437	TOK	τους	μου	PnPoMa03PlGeXx
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl_ir]
+1\441	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\443	TOK	Τα	ο	AtDfNePlNm
+1\446	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\453	TOK	χωρίστηκαν	χωρίζω	VbMnIdPa03PlXxPePvXx
+	SYN	/vg]
+	SYN	[pp
+1\464	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\467	TOK	ομάδες	ομάδα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\474	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\478	TOK	διάλεξαν	διαλέγω	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\487	TOK	φωτογραφίες	φωτογραφία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\498	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\500	TOK	Μόνο	μόνο	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\505	TOK	ο	ο	AtDfMaSgNm
+1\507	TOK	Κώστας	Κώστας	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\514	TOK	δεν	δεν	PtNg
+1\518	TOK	πήγε	πηγαίνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\523	TOK	σε	σε	AsPpSp
+	SYN	[np_ac
+1\526	TOK	καμιά	κανένας	PnIdFe03SgAcXx
+1\532	TOK	ομάδα	ομάδα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\537	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_t
+1\539	TOK	Όταν	όταν	CjSb
+	SYN	[vg
+1\544	TOK	ήρθε	έρχομαι	VbMnIdPa03SgXxPePvXx
+	SYN	/vg]
+	SYN	/cl_t]
+	SYN	[cl_o
+	SYN	[np_nm
+1\549	TOK	η	ο	AtDfFeSgNm
+1\551	TOK	σειρά	σειρά	NoCmFeSgNm
+1\557	TOK	του	μου	PnPoMa03SgGeXx
+	SYN	/np_nm]
+	SYN	[vg_s
+1\561	TOK	να	να	PtSj
+1\564	TOK	μιλήσει	μιλώ	VbMnIdXx03SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\571	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[np_ac
+1\573	TOK	τους	εγώ	PnPeMa03PlAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\578	TOK	εξήγησε	εξηγώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+1\586	TOK	γιατί	γιατί	CjSb
+	SYN	/cl]
+1\591	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\595	ENUM	-	-	ENUM
+	SYN	[vg
+1\596	TOK	Θα	θα	PtFu
+	SYN	[np_ge
+1\599	TOK	σας	εγώ	PnPeMa02PlGeWe
+	SYN	/np_ge]
+1\603	TOK	μιλήσω	μιλώ	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\610	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\614	TOK	ένα	ένας	AtIdNeSgAc
+1\618	TOK	σπίτι	σπίτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\624	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\628	TOK	δεν	δεν	PtNg
+1\632	TOK	μοιάζει	μοιάζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+1\640	TOK	με	με	AsPpSp
+1\643	TOK	τ'	τ'	AtDfMaSgAc
+	SYN	[np_ac
+1\646	TOK	άλλα	άλλος	PnIdNe03PlAcXx
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\650	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\652	TOK	Είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\658	TOK	το	ο	AtDfNeSgNm
+	SYN	[adjp_nm
+1\661	TOK	παλιό	παλιός	AjBaNeSgNm
+1\667	TOK	μας	μου	PnPoMa01PlGeXx
+	SYN	/adjp_nm]
+1\671	TOK	σπίτι	σπίτι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\676	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\678	TOK	Ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\683	TOK	μεγάλο	μεγάλος	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[pp
+1\690	TOK	με	με	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\693	TOK	πολλούς	πολύς	AjBaMaPlAc
+	SYN	/adjp_ac]
+1\701	TOK	χώρους	χώρος	NoCmMaPlAc
+	SYN	/np_ac]
+	SYN	/pp]
+1\707	PTERM_P	:	:	PTERM_P
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\709	TOK	τέσσερα	τέσσερις	NmCdNePlAcAj
+	SYN	/adjp_ac]
+1\717	TOK	υπνοδωμάτια	υπνοδωμάτιο	NoCmNePlAc
+	SYN	/np_ac]
+1\728	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\730	TOK	ένα	ένας	AtIdNeSgNm
+	SYN	[adjp_nm
+1\734	TOK	ωραίο	ωραίος	AjBaNeSgNm
+	SYN	/adjp_nm]
+1\740	TOK	σαλόνι	σαλόνι	NoCmNeSgNm
+	SYN	/np_nm]
+1\746	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\748	TOK	δυο	δύο	NmCdNePlAcAj
+	SYN	/adjp_ac]
+1\752	TOK	μπάνια	μπάνιο	NoCmNePlAc
+	SYN	/np_ac]
+1\759	TOK	και	και	CjCo
+	SYN	[np_ac
+1\763	TOK	μια	ένας	AtIdFeSgAc
+1\767	TOK	κουζίνα	κουζίνα	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\774	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\776	TOK	Είχε	έχω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\781	TOK	ακόμα	ακόμα	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\787	TOK	μια	ένας	AtIdFeSgAc
+1\791	TOK	τραπεζαρία	τραπεζαρία	NoCmFeSgAc
+	SYN	/np_ac]
+1\802	TOK	κι	και	CjCo
+	SYN	[np_ac
+1\805	TOK	ένα	ένας	AtIdNeSgAc
+1\809	TOK	γραφείο	γραφείο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\816	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\819	ENUM	-	-	ENUM
+	SYN	[vg
+1\820	TOK	Δεν	δεν	PtNg
+1\824	TOK	βλέπω	βλέπω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_ir
+	SYN	[np_ac
+1\830	TOK	τι	τι	PnIrNe03SgAcXx
+	SYN	[adjp_ac
+1\833	TOK	διαφορετικό	διαφορετικός	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[vg
+1\845	TOK	είχε	έχω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\850	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\854	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\858	TOK	μεγάλο	μεγάλος	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\865	TOK	σπίτι	σπίτι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_ir]
+1\870	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\872	TOK	φώναξε	φωνάζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\879	TOK	ο	ο	AtDfMaSgNm
+1\881	TOK	Μάικλ	Μάικλ	RgFwTr
+	SYN	/np_nm]
+	SYN	/cl]
+1\886	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\889	ENUM	-	-	ENUM
+	SYN	[np_nm
+1\890	TOK	Το	ο	AtDfNeSgNm
+1\893	TOK	σπίτι	σπίτι	NoCmNeSgNm
+1\899	TOK	εκείνο	εκείνος	PnDmNe03SgNmXx
+	SYN	/np_nm]
+1\905	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\907	TOK	συνέχισε	συνεχίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\916	TOK	ο	ο	AtDfMaSgNm
+1\918	TOK	Κώστας	Κώστας	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\924	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\926	TOK	δεν	δεν	PtNg
+1\930	TOK	είχε	έχω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\935	TOK	παράθυρα	παράθυρο	NoCmNePlAc
+	SYN	/np_ac]
+1\943	PUNCT	,	,	PUNCT
+1\945	TOK	ούτε	ούτε	CjCo
+	SYN	[np_ac
+1\950	TOK	μπαλκόνια	μπαλκόνι	NoCmNePlAc
+	SYN	/np_ac]
+1\960	TOK	και	και	CjCo
+	SYN	[np_ac
+1\964	TOK	κήπο	κήπος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\968	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\970	TOK	Ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\975	TOK	χρισμένο	χρισμένος	AjBaMaSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[advp
+1\984	TOK	κάτω	κάτω	AdXxBa
+	SYN	[pp
+1\989	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\993	TOK	τη	ο	AtDfFeSgAc
+1\996	TOK	γη	γη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\998	PUNCT	,	,	PUNCT
+	SYN	[pp
+1\1000	TOK	στην	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\1005	TOK	έρημο	έρημος	AjBaNeSgAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1011	TOK	του	ο	AtDfNeSgGe
+1\1015	TOK	Κούμπερ	Κούμπερ	NoPrNeSgGe
+1\1023	TOK	Πέντι	Πέντι	NoPrNeSgGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	/cl]
+1\1028	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1031	ENUM	-	-	ENUM
+	SYN	[advp
+1\1032	TOK	Κάτω	κάτω	AdXxBa
+	SYN	[pp
+1\1037	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\1041	TOK	τη	ο	AtDfFeSgAc
+1\1044	TOK	γη	γη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+1\1046	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1048	TOK	Και	και	CjCo
+	SYN	[cl_q
+	SYN	[np_ge
+1\1052	TOK	σου	εγώ	PnPeMa02SgGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\1056	TOK	άρεσε	αρέσω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\1061	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_ge
+1\1063	TOK	Σου	εγώ	PnPeMa02SgGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\1067	TOK	λείπει	λείπω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\1074	TOK	τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	/cl_q]
+1\1078	PTERM_P	;	;	PTERM_P
+	SYN	[cl
+	SYN	[vg
+1\1080	TOK	ρώτησαν	ρωτώ	VbMnIdPa03PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1088	TOK	τα	ο	AtDfNePlNm
+1\1091	TOK	παιδιά	παιδί	NoCmNePlNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\1097	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1100	ENUM	-	-	ENUM
+	SYN	[advp
+1\1101	TOK	Ναι	ναι	AdXxBa
+	SYN	/advp]
+1\1104	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1106	TOK	Ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1111	TOK	το	ο	AtDfNeSgNm
+1\1114	TOK	σπίτι	σπίτι	NoCmNeSgNm
+1\1120	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+	SYN	/cl]
+1\1123	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1125	TOK	Ζήσαμε	ζω	VbMnIdPa01PlXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\1132	TOK	εκεί	εκεί	AdXxBa
+	SYN	/advp]
+1\1137	TOK	πέντε	πέντε	NmCdNePlAcAj
+1\1143	TOK	ολόκληρα	ολόκληρος	AjBaNePlAc
+	SYN	/adjp_ac]
+1\1152	TOK	χρόνια	χρόνος	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1158	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1160	TOK	Δεν	δεν	PtNg
+1\1164	TOK	θα	θα	PtFu
+	SYN	[np_ac
+1\1167	TOK	το	εγώ	PnPeNe03SgAcWe
+	SYN	/np_ac]
+1\1170	TOK	ξεχάσω	ξεχνώ	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\1177	TOK	ποτέ	ποτέ	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\1181	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1184	ENUM	-	-	ENUM
+1\1185	TOK	Και	και	CjCo
+	SYN	[cl_q
+1\1189	TOK	πού	πού	AdXxBa
+	SYN	[vg
+1\1193	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1199	TOK	το	ο	AtDfNeSgNm
+1\1202	TOK	Κούμπερ	Κούμπερ	NoPrNeSgNm
+1\1210	TOK	Πέντι	Πέντι	NoPrNeSgNm
+	SYN	/np_nm]
+	SYN	/cl_q]
+1\1215	PTERM_P	;	;	PTERM_P
+	SYN	[cl
+	SYN	[vg
+1\1217	TOK	ρώτησε	ρωτώ	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1224	TOK	η	ο	AtDfFeSgNm
+1\1226	TOK	Ρεβέκα	Ρεβέκα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\1232	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\1235	ENUM	-	-	ENUM
+	SYN	[vg
+1\1236	TOK	Βρίσκεται	βρίσκω	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\1246	TOK	σχεδόν	σχεδόν	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\1253	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\1257	TOK	κέντρο	κέντρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\1264	TOK	της	ο	AtDfFeSgGe
+1\1268	TOK	Αυστραλίας	Αυστραλία	NoPrFeSgGe
+	SYN	/np_ge]
+1\1278	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1280	DIG	850	850	DIG
+1\1284	TOK	χιλιόμετρα	χιλιόμετρο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\1295	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\1299	TOK	την	ο	AtDfFeSgAc
+1\1303	TOK	Αδελαΐδα	Αδελαΐδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\1311	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\1313	TOK	είπε	λέγω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1318	TOK	ο	ο	AtDfMaSgNm
+1\1320	TOK	δάσκαλος	δάσκαλος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\1328	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\1330	TOK	Το	ο	AtDfNeSgNm
+1\1333	TOK	μέρος	μέρος	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[advp
+1\1339	TOK	εκεί	εκεί	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\1344	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1350	TOK	ξηρό	ξηρός	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\1355	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[np_nm
+1\1359	TOK	το	ο	AtDfNeSgNm
+1\1362	TOK	καλοκαίρι	καλοκαίρι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1372	TOK	κάνει	κάνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1378	TOK	πολλή	πολύς	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\1384	TOK	ζέστη	ζέστη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\1389	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1392	ENUM	-	-	ENUM
+1\1393	TOK	Και	και	CjCo
+	SYN	[cl_o
+1\1397	TOK	γιατί	γιατί	CjSb
+	SYN	[vg_s
+1\1403	TOK	να	να	PtSj
+1\1406	TOK	μείνουν	μένω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[advp
+1\1414	TOK	εκεί	εκεί	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\1419	TOK	άνθρωποι	άνθρωπος	NoCmMaPlNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\1427	PUNCT	,	,	PUNCT
+	SYN	[cl_o
+1\1429	TOK	αφού	αφού	CjSb
+	SYN	[np_nm
+1\1434	TOK	το	ο	AtDfNeSgNm
+1\1437	TOK	κλίμα	κλίμα	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1443	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\1449	TOK	τόσο	τόσο	AdXxBa
+	SYN	/advp]
+1\1454	TOK	δύσκολο	δύσκολος	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\1461	PTERM_P	;	;	PTERM_P
+	SYN	[cl
+	SYN	[vg
+1\1463	TOK	είχε	έχω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\1468	TOK	την	ο	AtDfFeSgAc
+1\1472	TOK	απορία	απορία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_nm
+1\1479	TOK	ο	ο	AtDfMaSgNm
+1\1481	TOK	Ντέιβιντ	Ντέιβιντ	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\1489	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\1492	ENUM	-	-	ENUM
+	SYN	[cl_o
+1\1493	TOK	Γιατί	γιατί	AdXxBa
+	SYN	[advp
+1\1499	TOK	εκεί	εκεί	AdXxBa
+	SYN	/advp]
+	SYN	[vg
+1\1504	TOK	βγάζουν	βγάζω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\1512	TOK	μέσα	μέσα	AdXxBa
+	SYN	[pp
+1\1517	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\1521	TOK	τη	ο	AtDfFeSgAc
+1\1524	TOK	γη	γη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	[np_ac
+1\1527	TOK	μια	ένας	AtIdFeSgAc
+	SYN	[adjp_ac
+1\1531	TOK	πολύτιμη	πολύτιμος	AjBaFeSgAc
+	SYN	/adjp_ac]
+1\1540	TOK	πέτρα	πέτρα	NoCmFeSgAc
+	SYN	/np_ac]
+1\1545	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\1547	TOK	το	ο	AtDfNeSgNm
+1\1550	TOK	οπάλι	οπάλι	NoCmNeSgNm
+	SYN	/np_nm]
+	SYN	/cl_o]
+1\1555	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[advp
+1\1557	TOK	Εξάλλου	εξάλλου	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\1565	TOK	η	ο	AtDfFeSgNm
+1\1567	TOK	πόλη	πόλη	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\1572	TOK	δεν	δεν	PtNg
+1\1576	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\1582	TOK	τόσο	τόσο	AdXxBa
+	SYN	/advp]
+1\1587	TOK	μεγάλη	μεγάλος	AjBaFeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\1593	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1595	TOK	Έχει	έχω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\1600	TOK	περίπου	περίπου	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\1608	DIG	2.000	2.000	DIG
+1\1614	TOK	ανθρώπους	άνθρωπος	NoCmMaPlAc
+	SYN	/np_ac]
+1\1623	PUNCT	,	,	PUNCT
+	SYN	[np_ac
+1\1625	TOK	αρκετούς	αρκετός	PnIdMa03PlAcXx
+	SYN	/np_ac]
+	SYN	[np_nm
+1\1634	TOK	Έλληνες	Έλληνας	NoPrMaPlNm
+	SYN	/np_nm]
+1\1642	TOK	και	και	CjCo
+	SYN	[np_ac
+1\1646	TOK	άλλες	άλλος	PnIdFe03PlAcXx
+1\1652	TOK	εθνικότητες	εθνικότητα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\1663	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_ac
+1\1665	TOK	Τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\1668	TOK	λες	λέγω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ge
+1\1672	TOK	Κώστα	Κώστας	NoPrMaSgGe
+	SYN	/np_ge]
+	SYN	/cl_q]
+1\1677	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\1679	TOK	συνέχισε	συνεχίζω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\1688	TOK	ο	ο	AtDfMaSgNm
+1\1690	TOK	δάσκαλος	δάσκαλος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\1698	PUNCT	,	,	PUNCT
+	SYN	[cl_q
+	SYN	[vg
+1\1700	TOK	θα	θα	PtFu
+	SYN	[np_ge
+1\1703	TOK	μας	εγώ	PnPeMa01PlGeWe
+	SYN	/np_ge]
+1\1707	TOK	μιλήσεις	μιλώ	VbMnIdXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\1716	TOK	στο	στου	AsPpPaNeSgAc
+	SYN	[np_ac
+1\1720	TOK	άλλο	άλλος	PnIdNe03SgAcXx
+1\1725	TOK	μάθημα	μάθημα	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[pp
+1\1732	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\1736	TOK	το	ο	AtDfNeSgAc
+1\1739	TOK	οπάλι	οπάλι	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_q]
+1\1744	PTERM_P	;	;	PTERM_P
+	)SENT	</S>

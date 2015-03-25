@@ -1,0 +1,112 @@
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	κάνετε	κάνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	κάτι	κάτι	Pn	PnId	Ne|03|Sg|Ac|Xx	2	Obj	_	_	
+4	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τη	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	γιορτή	γιορτή	No	NoCm	Fe|Sg|Ac	4	Atr	_	_	
+7	της	μου	Pn	PnPo	Fe|03|Sg|Ge|Xx	6	Pos	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	χαίρεσαι	χαίρω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	τη	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	μαμά	μαμά	No	NoCm	Fe|Sg|Ac	2	Obj	_	_	
+5	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	4	Pos	_	_	
+6	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ευχαριστώ	ευχαριστώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	πολύ	πολύ	Ad	Ad	Ba	1	Adv	_	_	
+3	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	κάνετε	κάνω	Vb	VbMn	Id|Xx|02|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	κάτι	κάτι	Pn	PnId	Ne|03|Sg|Ac|Xx	2	Obj	_	_	
+4	για	για	AsPp	AsPpSp	_	3	AuxP	_	_	
+5	τη	ο	At	AtDf	Fe|Sg|Ac	6	Det	_	_	
+6	γιορτή	γιορτή	No	NoCm	Fe|Sg|Ac	4	Atr	_	_	
+7	της	μου	Pn	PnPo	Fe|03|Sg|Ge|Xx	6	Pos	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Δημήτρης	Δημήτρης	No	NoPr	Ma|Sg|Nm	4	Sb	_	_	
+3	θα	θα	Pt	PtFu	_	4	AuxV	_	_	
+4	αγοράσει	αγοράζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+5	λουλούδια	λουλούδι	No	NoCm	Ne|Pl|Ac	4	Obj	_	_	
+6	κι	και	Cj	CjCo	_	0	Coord	_	_	
+7	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	9	IObj	_	_	
+8	θα	θα	Pt	PtFu	_	9	AuxV	_	_	
+9	φτιάξω	φτιάχνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	6	Pred_Co	_	_	
+10	ένα	ένας	At	AtId	Ne|Sg|Ac	12	Det	_	_	
+11	γλυκό	γλυκός	Aj	Aj	Ba|Ne|Sg|Vo	12	Atr_Co	_	_	
+12	και	και	Cj	CjCo	_	9	Coord	_	_	
+13	θα	θα	Pt	PtFu	_	15	AuxV	_	_	
+14	της	εγώ	Pn	PnPe	Fe|03|Sg|Ge|We	15	IObj	_	_	
+15	γράψω	γράφω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	12	Obj_Co	_	_	
+16	μια	ένας	At	AtId	Fe|Sg|Ac	17	Det	_	_	
+17	κάρτα	κάρτα	No	NoCm	Fe|Sg|Ac	15	Obj	_	_	
+18	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μήπως	μήπως	Ad	Ad	Ba	2	Adv	_	_	
+2	ξέρεις	ξέρω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	καμιά	κανένας	Pn	PnId	Fe|03|Sg|Nm|Xx	5	Atr	_	_	
+4	εύκολη	εύκολος	Aj	Aj	Ba|Fe|Sg|Nm	5	Atr	_	_	
+5	συνταγή	συνταγή	No	NoCm	Fe|Sg|Nm	2	Sb	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Γιατί	γιατί	Ad	Ad	Ba	3	Adv	_	_	
+2	δεν	δεν	Pt	PtNg	_	3	AuxV	_	_	
+3	κάνεις	κάνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	ζελέ	ζελές	No	NoCm	Ma|Sg|Ac	3	Obj	_	_	
+5	φράουλα	φράουλα	No	NoCm	Fe|Sg|Ac	4	Atr	_	_	
+6	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	τίποτα	τίποτα	Pn	PnId	Ne|03|Sg|Nm|Xx	2	Pnom	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Θα	θα	Pt	PtFu	_	2	AuxV	_	_	
+2	πάρεις	παίρνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	δύο	δύο	Nm	NmCd	Ne|Pl|Ac|Aj	4	Atr	_	_	
+4	κουτιά	κουτί	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+5	ζελέ	ζελές	No	NoCm	Ma|Sg|Ac	4	Atr	_	_	
+6	από	από	AsPp	AsPpSp	_	5	AuxP	_	_	
+7	το	ο	At	AtDf	Ne|Sg|Ac	9	Det	_	_	
+8	σούπερ	σούπερ	Aj	Aj	Ba|Ne|Pl|Ac	9	Atr	_	_	
+9	μάρκετ	μάρκετ	No	NoCm	Ne|Pl|Ac	10	Adv_Co	_	_	
+10	και	και	Cj	CjCo	_	6	Coord	_	_	
+11	λίγες	λίγος	Aj	Aj	Ba|Fe|Pl|Ac	12	Atr	_	_	
+12	φράουλες	φράουλα	No	NoCm	Fe|Pl|Ac	10	Adv_Co	_	_	
+13	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Και	και	Cj	CjCo	_	2	AuxY	_	_	
+2	μετά	μετά	AsPp	AsPpSp	_	0	ExD	_	_	
+3	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μετά	μετά	AsPp	AsPpSp	_	3	AuxP	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	διαβάσεις	διαβάζω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	τις	ο	At	AtDf	Fe|Pl|Ac	5	Det	_	_	
+5	οδηγίες	οδηγία	No	NoCm	Fe|Pl|Ac	3	Obj	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	3	AuxP	_	_	
+7	κουτί	κουτί	No	NoCm	Ne|Sg|Ac	6	Adv	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	πολύ	πολύ	Ad	Ad	Ba	3	Adv	_	_	
+3	εύκολο	εύκολος	Aj	Aj	Ba|Ne|Sg|Nm	1	Pnom	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ωραία	ωραία	Ad	Ad	Ba	0	ExD	_	_	
+2	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πάω	πηγαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	αμέσως	αμέσως	Ad	Ad	Ba	1	Adv	_	_	
+3	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	1	AuxP	_	_	
+4	σούπερ	σούπερ	Aj	Aj	Ba|Ne|Pl|Nm	5	Atr	_	_	
+5	μάρκετ	μάρκετ	No	NoCm	Ne|Pl|Nm	3	Adv	_	_	
+6	γιατί	γιατί	Cj	CjSb	_	1	AuxC	_	_	
+7	θα	θα	Pt	PtFu	_	8	AuxV	_	_	
+8	κλείσει	κλείνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Adv	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

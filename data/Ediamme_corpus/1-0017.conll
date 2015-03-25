@@ -1,0 +1,27 @@
+1	Μια	ένας	At	AtId	Fe|Sg|Nm	3	Det	_	_	
+2	όμορφη	όμορφος	Aj	Aj	Ba|Fe|Sg|Nm	3	Atr	_	_	
+3	γειτονιά	γειτονιά	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Γωγώ	Γωγώ	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+3	η	ο	At	AtDf	Fe|Sg|Nm	5	Det	_	_	
+4	γκρίζα	γκρίζος	Aj	Aj	Ba|Fe|Sg|Nm	5	Atr	_	_	
+5	γάτα	γάτα	No	NoCm	Fe|Sg|Nm	2	Atr	_	_	
+
+1	αγαπάει	αγαπώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	πολύ	πολύ	Ad	Ad	Ba	1	Adv	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Nm	4	Det	_	_	
+4	γάλα	γάλα	No	NoCm	Ne|Sg|Nm	1	Sb	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	Γωγώ	Γωγώ	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+3	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	2	AuxP	_	_	
+4	γειτονιά	γειτονιά	No	NoCm	Fe|Sg|Ac	3	Atr	_	_	
+
+1	φίλους	φίλος	No	NoCm	Ma|Pl|Ac	0	ExD	_	_	
+2	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	1	Atr	_	_	
+3	τα	ο	At	AtDf	Ne|Pl|Ac	4	Det	_	_	
+4	παιδιά	παιδί	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

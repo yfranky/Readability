@@ -1,0 +1,120 @@
+1	Οι	ο	At	AtDf	Fe|Pl|Nm	2	Det	_	_	
+2	συμβουλές	συμβουλή	No	NoCm	Fe|Pl|Nm	0	ExD	_	_	
+3	του	ο	At	AtDf	Ne|Sg|Ge	4	Det	_	_	
+4	Χάλουιν	Χάλουιν	No	NoPr	Ne|Sg|Ge	2	Atr	_	_	
+
+1	Άφησε	αφήνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τη	ο	At	AtDf	Fe|Sg|Ac	3	Det	_	_	
+3	μαμά	μαμά	No	NoCm	Fe|Sg|Ac	4	Obj_Co	_	_	
+4	ή	ή	Cj	CjCo	_	1	Coord	_	_	
+5	τον	ο	At	AtDf	Ma|Sg|Ac	6	Det	_	_	
+6	μπαμπά	μπαμπάς	No	NoCm	Ma|Sg|Ac	4	Obj_Co	_	_	
+7	να	να	Pt	PtSj	_	8	AuxV	_	_	
+8	διαλέξει	διαλέγω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	6	Atr	_	_	
+9	από	από	AsPp	AsPpSp	_	8	AuxP	_	_	
+10	το	ο	At	AtDf	Ne|Sg|Ac	11	Det	_	_	
+11	καλαθάκι	καλαθάκι	No	NoCm	Ne|Sg|Ac	9	Adv	_	_	
+12	τις	ο	At	AtDf	Fe|Pl|Ac	14	Det	_	_	
+13	καλές	καλός	Aj	Aj	Ba|Fe|Pl|Ac	14	Atr	_	_	
+14	καραμέλες	καραμέλα	No	NoCm	Fe|Pl|Ac	8	Obj	_	_	
+15	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	φοράς	φορώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	κουστούμια	κουστούμι	No	NoCm	Ne|Pl|Ac	2	Obj	_	_	
+4	με	με	AsPp	AsPpSp	_	2	AuxP	_	_	
+5	ανοιχτά	ανοιχτός	Aj	Aj	Ba|Ne|Pl|Ac	6	Atr	_	_	
+6	χρώματα	χρώμα	No	NoCm	Ne|Pl|Ac	4	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	περπατάς	περπατώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	με	με	AsPp	AsPpSp	_	2	AuxP	_	_	
+4	ένα	ένας	At	AtId	Ma|Sg|Ac	6	Det	_	_	
+5	αναμμένο	αναμμένος	Aj	Aj	Ba|Ma|Sg|Ac	6	Atr	_	_	
+6	φακό	φακός	No	NoCm	Ma|Sg|Ac	3	Adv	_	_	
+7	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πρόσεξε	προσέχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+3	να	να	Pt	PtSj	_	5	AuxV	_	_	
+4	μην	μην	Pt	PtNg	_	5	AuxV	_	_	
+5	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	1	Obj	_	_	
+6	το	ο	At	AtDf	Ne|Sg|Nm	7	Det	_	_	
+7	κουστούμι	κουστούμι	No	NoCm	Ne|Sg|Nm	5	Pnom	_	_	
+8	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	7	Pos	_	_	
+9	ούτε	ούτε	Cj	CjCo	_	11	Adv	_	_	
+10	πολύ	πολύ	Ad	Ad	Ba	11	Adv	_	_	
+11	μακρύ	μακρύς	Aj	Aj	Ba|Ma|Sg|Ac	13	Pnom_Co	_	_	
+12	,	,	PUNCT	PUNCT	_	13	AuxX	_	_	
+13	ούτε	ούτε	Cj	CjCo	_	5	Coord	_	_	
+14	πολύ	πολύ	Ad	Ad	Ba	15	Adv	_	_	
+15	βαρύ	βαρύς	Aj	Aj	Ba|Ne|Sg|Ac	13	Pnom_Co	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	φοράς	φορώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	μαχαίρια	μαχαίρι	No	NoCm	Ne|Pl|Ac	6	Obj_Co	_	_	
+4	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+5	πιστόλια	πιστόλι	No	NoCm	Ne|Pl|Ac	6	Adv_Co	_	_	
+6	και	και	Cj	CjCo	_	2	Coord	_	_	
+7	σπαθιά	σπαθιά	No	NoCm	Fe|Sg|Ac	6	Obj_Co	_	_	
+8	από	από	AsPp	AsPpSp	_	6	AuxP	_	_	
+9	χαρτόνι	χαρτόνι	No	NoCm	Ne|Sg|Ac	8	Adv_Co	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Η	ο	At	AtDf	Fe|Sg|Nm	2	Det	_	_	
+2	περούκα	περούκα	No	NoCm	Fe|Sg|Nm	3	Sb_Co	_	_	
+3	και	και	Cj	CjCo	_	9	Coord	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Nm	5	Det	_	_	
+5	μούσι	μούσι	No	NoCm	Ne|Sg|Nm	3	Sb_Co	_	_	
+6	δεν	δεν	Pt	PtNg	_	7	AuxV	_	_	
+7	πρέπει	πρέπει	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+8	να	να	Pt	PtSj	_	9	AuxV	_	_	
+9	σκεπάζουν	σκεπάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	7	Sb	_	_	
+10	τα	ο	At	AtDf	Ne|Pl|Ac	11	Det	_	_	
+11	μάτια	μάτι	No	NoCm	Ne|Pl|Ac	12	Obj_Co	_	_	
+12	και	και	Cj	CjCo	_	9	Coord	_	_	
+13	το	ο	At	AtDf	Ne|Sg|Ac	14	Det	_	_	
+14	στόμα	στόμα	No	NoCm	Ne|Sg|Ac	12	Obj_Co	_	_	
+15	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	14	Pos	_	_	
+16	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Μην	μην	Pt	PtNg	_	2	AuxV	_	_	
+2	φοράς	φορώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	μάσκες	μάσκα	No	NoCm	Fe|Pl|Ac	2	Obj	_	_	
+4	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Να	να	Pt	PtSj	_	2	AuxV	_	_	
+2	προτιμάς	προτιμώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	βάφεις	βάφω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Ac	6	Det	_	_	
+6	πρόσωπό	πρόσωπο	No	NoCm	Ne|Sg|Ac	4	Obj	_	_	
+7	σου	μου	Pn	PnPo	Ma|02|Sg|Ge|Xx	6	Pos	_	_	
+8	με	με	AsPp	AsPpSp	_	4	AuxP	_	_	
+9	καλλυντικά	καλλυντικό	No	NoCm	Ne|Pl|Ac	8	Adv	_	_	
+10	καλής	καλός	Aj	Aj	Ba|Fe|Sg|Ge	11	Atr	_	_	
+11	ποιότητας	ποιότητα	No	NoCm	Fe|Sg|Ge	9	Atr	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δεν	δεν	Pt	PtNg	_	2	AuxV	_	_	
+2	πρέπει	πρέπει	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	να	να	Pt	PtSj	_	4	AuxV	_	_	
+4	είσαι	είμαι	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Pv|Xx	2	Sb	_	_	
+5	ποτέ	ποτέ	Ad	Ad	Ba	4	Adv	_	_	
+6	μόνος	μόνος	Aj	Aj	Ba|Ma|Sg|Nm	4	Pnom	_	_	
+7	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	6	Atr	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Πάντοτε	πάντοτε	Ad	Ad	Ba	3	Adv	_	_	
+2	θα	θα	Pt	PtFu	_	3	AuxV	_	_	
+3	πρέπει	πρέπει	Vb	VbIs	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	να	να	Pt	PtSj	_	6	AuxV	_	_	
+5	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	6	Obj	_	_	
+6	συνοδεύει	συνοδεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	3	Sb	_	_	
+7	κάποιος	κάποιος	Pn	PnId	Ma|03|Sg|Nm|Xx	8	Atr	_	_	
+8	μεγαλύτερος	μεγάλος	Aj	Aj	Cp|Ma|Sg|Nm	6	Sb	_	_	
+9	σου	εγώ	Pn	PnPe	Ma|02|Sg|Ge|We	8	Atr	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

@@ -1,0 +1,94 @@
+	(SENT	<S>
+	SYN	[cl
+1\1	ENUM	-	-	ENUM
+	SYN	[np_ac
+1\2	TOK	Νίκο	Νίκος	NoPrMaSgAc
+	SYN	/np_ac]
+1\6	PUNCT	,	,	PUNCT
+	SYN	[vg
+1\8	TOK	ξύπνα	ξυπνώ	VbMnMpXx02SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\13	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+	SYN	[np_nm
+1\15	TOK	Ώρα	ώρα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg_s
+1\19	TOK	να	να	PtSj
+1\22	TOK	σηκωθείς	σηκώνω	VbMnIdXx02SgXxPePvXx
+	SYN	/vg_s]
+	SYN	/cl_o]
+1\30	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+1\33	ENUM	-	-	ENUM
+	SYN	[advp
+1\34	TOK	Καλά	καλά	AdXxBa
+	SYN	/advp]
+	SYN	[cl_r
+	SYN	[pou_advp
+1\39	TOK	που	που	AdXxBa
+	SYN	/pou_advp]
+	SYN	[np_ac
+1\43	TOK	με	εγώ	PnPeMa01SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\46	TOK	ξύπνησες	ξυπνώ	VbMnIdPa02SgXxPeAvXx
+	SYN	/vg]
+	SYN	/cl_r]
+1\54	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\56	TOK	Είδα	βλέπω	VbMnIdPa01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\61	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	[adjp_ac
+1\65	TOK	τρελό	τρελός	AjBaNeSgAc
+	SYN	/adjp_ac]
+1\71	TOK	όνειρο	όνειρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl]
+1\77	PTERM_P	!	!	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\80	ENUM	-	-	ENUM
+	SYN	[vg
+1\81	TOK	Άκου	ακούω	VbMnMpXx02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\86	TOK	ένα	ένας	AtIdNeSgAc
+1\90	TOK	όνειρο	όνειρο	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\97	TOK	που	που	PnReNe03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\101	TOK	είδα	βλέπω	VbMnIdPa01SgXxPeAvXx
+	SYN	/vg]
+	SYN	[advp
+1\106	TOK	χτες	χθες	AdXxBa
+	SYN	/advp]
+	SYN	[np_ac
+1\111	TOK	βράδυ	βράδυ	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl]
+1\116	PTERM_P	:	:	PTERM_P
+	SYN	[cl
+	SYN	[vg
+1\118	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\123	TOK	ένα	ένας	AtIdNeSgAc
+	SYN	/np_ac]
+1\126	PTERM_P	...	...	PTERM_P
+	SYN	/cl]
+	)SENT	</S>

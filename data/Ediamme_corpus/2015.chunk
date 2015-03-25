@@ -1,0 +1,127 @@
+	(SENT	<S>
+	SYN	[np_nm
+1\1	TOK	Μαμά	μαμά	NoCmFeSgNm
+	SYN	/np_nm]
+1\6	TOK	και	και	CjCo
+	SYN	[np_ac
+1\10	TOK	μπαμπά	μπαμπάς	NoCmMaSgAc
+	SYN	/np_ac]
+1\16	PUNCT	,	,	PUNCT
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_ac
+1\19	TOK	Τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg
+1\22	TOK	κάνετε	κάνω	VbMnIdXx02PlXxPeAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\28	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\30	TOK	Εγώ	εγώ	PnPeMa01SgNmSt
+	SYN	/np_nm]
+	SYN	[vg
+1\34	TOK	είμαι	είμαι	VbMnIdPr01SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\40	TOK	πολύ	πολύ	AdXxBa
+1\45	TOK	καλά	καλά	AdXxBa
+1\50	TOK	και	και	CjCo
+1\54	TOK	τώρα	τώρα	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+	SYN	[cl
+	SYN	[vg
+1\59	TOK	γράφω	γράφω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\65	TOK	λίγο	λίγο	AdXxBa
+	SYN	/advp]
+	SYN	[pp
+1\70	TOK	στα	στου	AsPpPaNePlAc
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\74	TOK	ελληνικά	ελληνικός	AjBaNePlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\82	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\84	TOK	Στέλνω	στέλνω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\91	TOK	μια	ένας	AtIdFeSgAc
+1\95	TOK	φωτογραφία	φωτογραφία	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\106	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\110	TOK	την	ο	AtDfFeSgAc
+1\114	TOK	Ελλάδα	Ελλάδα	NoPrFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\120	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[vg
+1\122	TOK	Βλέπετε	βλέπω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\129	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\131	TOK	Είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\137	TOK	ο	ο	AtDfMaSgNm
+1\139	TOK	παππούς	παππούς	NoCmMaSgNm
+1\147	TOK	Χαράλαμπος	Χαράλαμπος	NoPrMaSgNm
+	SYN	/np_nm]
+1\158	TOK	και	και	CjCo
+	SYN	[np_nm
+1\162	TOK	η	ο	AtDfFeSgNm
+1\164	TOK	γιαγιά	γιαγιά	NoCmFeSgNm
+1\171	TOK	Αγγελική	Αγγελική	NoPrFeSgNm
+	SYN	/np_nm]
+1\179	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\181	TOK	ο	ο	AtDfMaSgNm
+1\183	TOK	θείος	θείος	NoCmMaSgNm
+1\189	TOK	Γιώργος	Γιώργος	NoPrMaSgNm
+	SYN	/np_nm]
+1\197	TOK	και	και	CjCo
+	SYN	[np_nm
+1\201	TOK	η	ο	AtDfFeSgNm
+1\203	TOK	θεία	θεία	NoCmFeSgNm
+1\208	TOK	Βαγγελιώ	Βαγγελιώ	NoPrFeSgNm
+	SYN	/np_nm]
+1\216	PUNCT	,	,	PUNCT
+	SYN	[np_nm
+1\218	TOK	ο	ο	AtDfMaSgNm
+1\220	TOK	Δημήτρης	Δημήτρης	NoPrMaSgNm
+	SYN	/np_nm]
+1\229	TOK	και	και	CjCo
+	SYN	[np_nm
+1\233	TOK	η	ο	AtDfFeSgNm
+1\235	TOK	Χριστίνα	Χριστίνα	NoPrFeSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\243	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[np_nm
+1\246	TOK	Ελένη	Ελένη	NoPrFeSgNm
+	SYN	/np_nm]
+	)SENT	</S>

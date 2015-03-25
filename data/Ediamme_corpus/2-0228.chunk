@@ -1,0 +1,309 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\1	TOK	Ξέρετε	ξέρω	VbMnIdPr02PlXxIpAvXx
+	SYN	/vg]
+1\8	TOK	ότι	ότι	CjSb
+1\11	PTERM_P	...	...	PTERM_P
+	SYN	/cl]
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\16	PTERM_P	...	...	PTERM_P
+	SYN	[pp
+1\20	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\24	TOK	τους	ο	AtDfMaPlAc
+	SYN	[adjp_ac
+1\29	TOK	αρχαίους	αρχαίος	AjBaMaPlAc
+	SYN	/adjp_ac]
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\38	TOK	Έλληνες	Έλληνας	NoPrMaPlNm
+	SYN	/np_nm]
+	SYN	[np_nm
+1\46	TOK	ο	ο	AtDfMaSgNm
+1\48	TOK	θεός	θεός	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[np_ge
+1\53	TOK	του	ο	AtDfMaSgGe
+1\57	TOK	ήλιου	ήλιος	NoCmMaSgGe
+	SYN	/np_ge]
+	SYN	[vg
+1\63	TOK	ήταν	είμαι	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\68	TOK	ο	ο	AtDfMaSgNm
+1\70	TOK	Απόλλωνας	Απόλλωνας	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	/cl]
+1\79	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\81	TOK	Πίστευαν	πιστεύω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\90	TOK	πως	πως	CjSb
+	SYN	[vg
+1\94	TOK	είχε	έχω	VbMnIdPa03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\99	TOK	μια	ένας	AtIdFeSgNm
+	SYN	[adjp_nm
+1\103	TOK	μεγάλη	μεγάλος	AjBaFeSgNm
+	SYN	/adjp_nm]
+1\110	TOK	άμαξα	άμαξα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\116	TOK	που	που	PnReMa03PlNmXx
+	SYN	/pou_np_nm]
+	SYN	[np_ac
+1\120	TOK	την	εγώ	PnPeFe03SgAcWe
+	SYN	/np_ac]
+	SYN	[vg
+1\124	TOK	έσερναν	σέρνω	VbMnIdPa03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\132	TOK	τέσσερα	τέσσερις	NmCdNePlAcAj
+1\140	TOK	φτερωτά	φτερωτός	AjBaNePlAc
+	SYN	/adjp_ac]
+1\148	TOK	άλογα	άλογο	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	/cl_r]
+	SYN	/cl_o]
+1\153	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\155	TOK	Κάθε	κάθε	PnIdFe03SgNmXx
+1\160	TOK	μέρα	μέρα	NoCmFeSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\165	TOK	έκανε	κάνω	VbMnIdPa03SgXxPeAvXx
+	SYN	/vg]
+	SYN	[pp
+1\171	TOK	στον	στου	AsPpPaMaSgAc
+	SYN	[np_ac
+1\176	TOK	ουρανό	ουρανός	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_ac
+1\183	TOK	τη	ο	AtDfFeSgAc
+1\186	TOK	διαδρομή	διαδρομή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[pp
+1\195	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\199	TOK	την	ο	AtDfFeSgAc
+1\203	TOK	Ανατολή	ανατολή	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[advp
+1\211	TOK	ως	ως	AdXxBa
+	SYN	[np_ac
+1\214	TOK	τη	ο	AtDfFeSgAc
+1\217	TOK	Δύση	δύση	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/advp]
+	SYN	/cl]
+1\221	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[pp
+1\223	TOK	Γι'	για	AsPpSp
+	SYN	[np_ac
+1\227	TOK	αυτό	αυτός	PnDmNe03SgAcXx
+	SYN	/np_ac]
+	SYN	/pp]
+1\232	TOK	κι	και	CjCo
+	SYN	[np_nm
+1\235	TOK	ο	ο	AtDfMaSgNm
+1\237	TOK	Απόλλωνας	Απόλλωνας	NoPrMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\247	TOK	λεγόταν	λέγω	VbMnIdPa03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[advp
+1\255	TOK	συχνά	συχνά	AdXxBa
+	SYN	/advp]
+	SYN	[np_nm
+1\261	TOK	Φοίβος	Φοίβος	NoPrMaSgNm
+	SYN	/np_nm]
+1\267	PUNCT	,	,	PUNCT
+	SYN	[cl_r
+	SYN	[pou_np_nm
+1\269	TOK	που	που	PnReMa03SgNmXx
+	SYN	/pou_np_nm]
+	SYN	[vg
+1\273	TOK	σημαίνει	σημαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\282	TOK	φωτεινός	φωτεινός	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl_r]
+1\291	TOK	και	και	CjCo
+	SYN	[cl_r
+	SYN	[vg
+1\295	TOK	βγαίνει	βγαίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\303	TOK	από	από	AsPpSp
+	SYN	[np_ac
+1\307	TOK	τη	ο	AtDfFeSgAc
+1\310	TOK	λέξη	λέξη	NoCmFeSgAc
+1\315	TOK	φως	φως	NoCmNeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl_r]
+	SYN	/cl]
+1\318	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\321	PTERM_P	...	...	PTERM_P
+	SYN	[pp
+1\325	TOK	από	από	AsPpSp
+	SYN	[advp
+1\329	TOK	τότε	τότε	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	[pp
+1\334	TOK	μέχρι	μέχρι	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+	SYN	[advp
+1\340	TOK	σήμερα	σήμερα	AdXxBa
+	SYN	/advp]
+1\347	TOK	πολλές	πολύς	AjBaFePlAc
+	SYN	/adjp_ac]
+1\354	TOK	παραδόσεις	παράδοση	NoCmFePlAc
+	SYN	/np_ac]
+1\365	TOK	και	και	CjCo
+	SYN	[np_ac
+1\369	TOK	τραγούδια	τραγούδι	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\379	TOK	του	ο	AtDfMaSgGe
+1\383	TOK	λαού	λαός	NoCmMaSgGe
+1\388	TOK	μας	μου	PnPoMa01PlGeXx
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[vg
+1\392	TOK	μιλούν	μιλώ	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\399	TOK	για	για	AsPpSp
+	SYN	[np_ac
+1\403	TOK	τον	ο	AtDfMaSgAc
+1\407	TOK	ήλιο	ήλιος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/cl]
+1\411	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\414	PTERM_P	...	...	PTERM_P
+1\418	TOK	και	και	CjCo
+	SYN	[pp
+1\422	TOK	στις	στου	AsPpPaFePlAc
+	SYN	[np_ac
+1\427	TOK	μυθολογίες	μυθολογία	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	[np_ge
+1\438	TOK	άλλων	άλλος	PnIdMa03PlGeXx
+1\444	TOK	λαών	λαός	NoCmMaPlGe
+	SYN	/np_ge]
+	SYN	/pp]
+	SYN	[pp
+1\449	TOK	σ'	σε	AsPpSp
+	SYN	[np_ac
+	SYN	[adjp_ac
+1\452	TOK	όλο	όλος	AjBaMaSgAc
+	SYN	/adjp_ac]
+1\456	TOK	τον	ο	AtDfMaSgAc
+1\460	TOK	κόσμο	κόσμος	NoCmMaSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	[np_nm
+1\466	TOK	ο	ο	AtDfMaSgNm
+1\468	TOK	ήλιος	ήλιος	NoCmMaSgNm
+	SYN	/np_nm]
+	SYN	[vg
+1\474	TOK	είναι	είμαι	VbMnIdPr03SgXxIpPvXx
+	SYN	/vg]
+	SYN	[np_nm
+	SYN	[adjp_nm
+	SYN	[advp
+1\480	TOK	πολύ	πολύ	AdXxBa
+	SYN	/advp]
+1\485	TOK	σημαντικός	σημαντικός	AjBaMaSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	/cl]
+1\495	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+1\497	TOK	Καθώς	καθώς	CjSb
+	SYN	[np_ge
+1\503	TOK	μας	εγώ	PnPeMa01PlGeWe
+	SYN	/np_ge]
+	SYN	[vg
+1\507	TOK	βλέπει	βλέπω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	[pp
+1\514	TOK	από	από	AsPpSp
+	SYN	[advp
+1\518	TOK	ψηλά	ψηλά	AdXxBa
+	SYN	/advp]
+	SYN	/pp]
+	SYN	/cl_o]
+	SYN	[cl
+	SYN	[vg
+1\523	TOK	φωτίζει	φωτίζω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\530	PUNCT	,	,	PUNCT
+	SYN	[cl
+	SYN	[vg
+1\532	TOK	ζεσταίνει	ζεσταίνω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\542	TOK	και	και	CjCo
+	SYN	[cl
+	SYN	[vg
+1\546	TOK	βοηθά	βοηθώ	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+	SYN	[vg_s
+1\552	TOK	να	να	PtSj
+1\555	TOK	μεγαλώσουν	μεγαλώνω	VbMnIdXx03PlXxPeAvXx
+	SYN	/vg_s]
+	SYN	[np_ac
+1\566	TOK	τα	ο	AtDfNePlAc
+1\569	TOK	πάντα	πάν	NoCmNePlAc
+	SYN	/np_ac]
+	SYN	[advp
+1\575	TOK	πάνω	πάνω	AdXxBa
+	SYN	[pp
+1\580	TOK	στη	στου	AsPpPaFeSgAc
+	SYN	[np_ac
+1\584	TOK	γη	γη	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	/pp]
+	SYN	/advp]
+	SYN	/cl_o]
+1\586	PTERM_P	.	.	PTERM_P
+	)SENT	</S>

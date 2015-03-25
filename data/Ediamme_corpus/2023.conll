@@ -1,0 +1,122 @@
+1	“	“	OPUNCT	OPUNCT	_	2	AuxG	_	_	
+2	Χτυπάει	χτυπώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	το	ο	At	AtDf	Ne|Sg|Ac	4	Det	_	_	
+4	τηλέφωνο	τηλέφωνο	No	NoCm	Ne|Sg|Ac	2	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Μάνος	Μάνος	No	NoPr	Ma|Sg|Nm	4	Sb	_	_	
+3	το	εγώ	Pn	PnPe	Ne|03|Sg|Ac|We	4	Obj	_	_	
+4	σηκώνει	σηκώνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	ξαδέρφη	ξαδέρφη	No	NoCm	Fe|Sg|Nm	5	Sb_Ap	_	_	
+4	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	3	Pos	_	_	
+5	,	,	PUNCT	PUNCT	_	1	Apos	_	_	
+6	η	ο	At	AtDf	Fe|Sg|Nm	7	Det	_	_	
+7	Μαργαρίτα	Μαργαρίτα	No	NoPr	Fe|Sg|Nm	5	Sb_Ap	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ζει	ζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	με	με	AsPp	AsPpSp	_	1	AuxP	_	_	
+3	τη	ο	At	AtDf	Fe|Sg|Ac	4	Det	_	_	
+4	μαμά	μαμά	No	NoCm	Fe|Sg|Ac	2	Adv	_	_	
+5	της	μου	Pn	PnPo	Fe|03|Sg|Ge|Xx	4	Pos	_	_	
+6	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	4	AuxP	_	_	
+7	κάτω	κάτω	Ad	Ad	Ba	8	Atr	_	_	
+8	πάτωμα	πάτωμα	No	NoCm	Ne|Sg|Ac	6	Atr	_	_	
+9	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Όταν	όταν	Cj	CjSb	_	7	AuxC	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	Μαργαρίτα	Μαργαρίτα	No	NoPr	Fe|Sg|Nm	4	Sb	_	_	
+4	είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	1	Adv	_	_	
+5	άρρωστη	άρρωστος	Aj	Aj	Ba|Fe|Sg|Nm	4	Pnom	_	_	
+6	,	,	PUNCT	PUNCT	_	7	AuxX	_	_	
+7	τηλεφωνεί	τηλεφωνώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+8	στη	στου	AsPp	AsPpPa	Fe|Sg|Ac	7	AuxP	_	_	
+9	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Ac	8	Adv	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Τότε	τότε	Ad	Ad	Ba	5	Adv	_	_	
+2	η	ο	At	AtDf	Fe|Sg|Nm	3	Det	_	_	
+3	γιαγιά	γιαγιά	No	NoCm	Fe|Sg|Nm	5	Sb	_	_	
+4	πηγαίνει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Atr_Co	_	_	
+5	και	και	Cj	CjCo	_	0	Coord	_	_	
+6	μένει	μένω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	5	Pred_Co	_	_	
+7	με	με	AsPp	AsPpSp	_	6	AuxP	_	_	
+8	τη	ο	At	AtDf	Fe|Sg|Ac	9	Det	_	_	
+9	Μαργαρίτα	Μαργαρίτα	No	NoPr	Fe|Sg|Ac	7	Adv	_	_	
+10	,	,	PUNCT	PUNCT	_	11	AuxX	_	_	
+11	γιατί	γιατί	Cj	CjSb	_	6	AuxC	_	_	
+12	η	ο	At	AtDf	Fe|Sg|Nm	13	Det	_	_	
+13	μαμά	μαμά	No	NoCm	Fe|Sg|Nm	15	Sb	_	_	
+14	της	μου	Pn	PnPo	Fe|03|Sg|Ge|Xx	13	Pos	_	_	
+15	δουλεύει	δουλεύω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	11	Adv	_	_	
+16	όλη	όλος	Aj	Aj	Ba|Fe|Sg|Ac	17	Atr	_	_	
+17	μέρα	μέρα	No	NoCm	Fe|Sg|Ac	15	Adv	_	_	
+18	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Μάνος	Μάνος	No	NoPr	Ma|Sg|Nm	6	Sb	_	_	
+3	με	με	AsPp	AsPpSp	_	6	AuxP	_	_	
+4	τον	ο	At	AtDf	Ma|Sg|Ac	5	Det	_	_	
+5	παππού	παππούς	No	NoCm	Ma|Sg|Ac	3	Adv	_	_	
+6	κοιτάνε	κοιτάζω	Vb	VbMn	Id|Xx|03|Pl|Xx|Xx|Av|Xx	0	Pred	_	_	
+7	τώρα	τώρα	Ad	Ad	Ba	6	Adv	_	_	
+8	μια	ένας	At	AtId	Fe|Sg|Ac	9	Det	_	_	
+9	ταινία	ταινία	No	NoCm	Fe|Sg|Ac	6	Obj	_	_	
+10	στην	στου	AsPp	AsPpPa	Fe|Sg|Ac	9	AuxP	_	_	
+11	τηλεόραση	τηλεόραση	No	NoCm	Fe|Sg|Ac	10	Atr	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Δηλαδή	δηλαδή	Ad	Ad	Ba	5	Adv	_	_	
+2	μόνο	μόνο	Ad	Ad	Ba	4	Adv	_	_	
+3	ο	ο	At	AtDf	Ma|Sg|Nm	4	Det	_	_	
+4	παππούς	παππούς	No	NoCm	Ma|Sg|Nm	5	Sb	_	_	
+5	κοιτάει	κοιτάζω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ο	ο	At	AtDf	Ma|Sg|Nm	2	Det	_	_	
+2	Μάνος	Μάνος	No	NoPr	Ma|Sg|Nm	3	Sb	_	_	
+3	έχει	έχω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+4	αλλού	αλλού	Ad	Ad	Ba	3	Adv	_	_	
+5	το	ο	At	AtDf	Ne|Sg|Nm	6	Det	_	_	
+6	μυαλό	μυαλό	No	NoCm	Ne|Sg|Nm	3	Sb	_	_	
+7	του	μου	Pn	PnPo	Ma|03|Sg|Ge|Xx	6	Pos	_	_	
+8	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	AuxG	_	_	
+2	Είναι	είμαι	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Pv|Xx	7	Obj	_	_	
+3	έτοιμο	έτοιμος	Aj	Aj	Ba|Ne|Sg|Nm	2	Pnom	_	_	
+4	το	ο	At	AtDf	Ne|Sg|Nm	5	Det	_	_	
+5	φαγητό	φαγητό	No	NoCm	Ne|Sg|Nm	2	Sb	_	_	
+6	;	;	PTERM_P	PTERM_P	_	2	AuxG	_	_	
+7	ρωτάει	ρωτώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+8	ο	ο	At	AtDf	Ma|Sg|Nm	9	Det	_	_	
+9	παππούς	παππούς	No	NoCm	Ma|Sg|Nm	7	Sb	_	_	
+10	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Σε	σε	AsPp	AsPpSp	_	5	AuxP	_	_	
+3	λίγο	λίγο	Ad	Ad	Ba	2	Adv	_	_	
+4	,	,	PUNCT	PUNCT	_	5	AuxX	_	_	
+5	απαντάει	απαντώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+6	η	ο	At	AtDf	Fe|Sg|Nm	7	Det	_	_	
+7	μαμά	μαμά	No	NoCm	Fe|Sg|Nm	5	Sb	_	_	
+8	από	από	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	την	ο	At	AtDf	Fe|Sg|Ac	10	Det	_	_	
+10	κουζίνα	κουζίνα	No	NoCm	Fe|Sg|Ac	8	Atr	_	_	
+11	”	”	CPUNCT	CPUNCT	_	5	AuxG	_	_	
+12	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Άλκη	Άλκης	No	NoPr	Ma|Sg|Ac	2	Atr	_	_	
+2	Ζέη	Ζέη	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+4	Τα	ο	At	AtDf	Ne|Pl|Nm	5	Det	_	_	
+5	παπούτσια	παπούτσι	No	NoCm	Ne|Pl|Nm	2	Atr	_	_	
+6	του	ο	At	AtDf	Ma|Sg|Ge	7	Det	_	_	
+7	Αννίβα	Αννίβας	No	NoPr	Ma|Sg|Ge	5	Atr	_	_	
+

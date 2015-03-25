@@ -1,0 +1,47 @@
+1	Πρόσκληση	πρόσκληση	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+
+1	Αγαπητέ	αγαπητός	Aj	Aj	Ba|Ma|Sg|Vo	2	Atr	_	_	
+2	Θωμά	Θωμάς	No	NoPr	Ma|Sg|Ac	0	ExD	_	_	
+3	,	,	PUNCT	PUNCT	_	0	AuxX	_	_	
+
+1	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	2	Obj	_	_	
+2	προσκαλώ	προσκαλώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+3	στο	στου	AsPp	AsPpPa	Ne|Sg|Ac	2	AuxP	_	_	
+4	πάρτι	πάρτι	No	NoCm	Ne|Pl|Ac	3	Adv	_	_	
+5	που	που	Pn	PnRe	Ne|03|Pl|Nm|Xx	7	Sb	_	_	
+6	θα	θα	Pt	PtFu	_	7	AuxV	_	_	
+7	κάνω	κάνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	4	Atr	_	_	
+8	για	για	AsPp	AsPpSp	_	7	AuxP	_	_	
+9	τα	ο	At	AtDf	Ne|Pl|Ac	10	Det	_	_	
+10	γενέθλιά	γενέθλιος	Aj	Aj	Ba|Ne|Pl|Ac	8	Adv	_	_	
+11	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	10	Pos	_	_	
+12	,	,	PUNCT	PUNCT	_	2	AuxX	_	_	
+13	το	ο	At	AtDf	Ne|Sg|Nm	14	Det	_	_	
+14	Σάββατο	Σάββατο	No	NoCm	Ne|Sg|Nm	2	ExD	_	_	
+15	στις	στου	AsPp	AsPpPa	Fe|Pl|Ac	14	AuxP	_	_	
+16	23	23	DIG	DIG	_	15	Adv	_	_	
+17	Σεπτεμβρίου	Σεπτέμβριος	No	NoCm	Ma|Sg|Ge	16	Atr	_	_	
+18	,	,	PUNCT	PUNCT	_	19	AuxX	_	_	
+19	ώρα	ώρα	No	NoCm	Fe|Sg|Ac	14	Atr	_	_	
+20	4	4	DIG	DIG	_	19	Atr	_	_	
+21	το	ο	At	AtDf	Ne|Sg|Ac	22	Det	_	_	
+22	απόγευμα	απόγευμα	No	NoCm	Ne|Sg|Ac	19	Atr	_	_	
+23	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Διεύθυνση	διεύθυνση	No	NoCm	Fe|Sg|Nm	0	ExD	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+3	Θεοτοκοπούλου	Θεοτοκοπούλου	No	NoPr	Fe|Sg|Nm	2	ExD_Ap	_	_	
+4	32	32	DIG	DIG	_	3	Atr	_	_	
+
+1	Τηλέφωνο	τηλέφωνο	No	NoCm	Ne|Sg|Nm	2	ExD_Co	_	_	
+2	:	:	PTERM_P	PTERM_P	_	0	Coord	_	_	
+3	34657	34657	DIG	DIG	_	2	ExD_Co	_	_	
+
+1	Σε	σε	AsPp	AsPpSp	_	0	Coord	_	_	
+2	περιμένω	περιμένω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Pred_Co	_	_	
+
+1	Με	με	AsPp	AsPpSp	_	0	AuxP	_	_	
+2	αγάπη	αγάπη	No	NoCm	Fe|Sg|Ac	1	Adv	_	_	
+
+1	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+

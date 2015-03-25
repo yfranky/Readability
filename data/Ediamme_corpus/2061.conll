@@ -1,0 +1,72 @@
+1	-	-	ENUM	ENUM	_	2	AuxV	_	_	
+2	Έλα	έλα	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	Φίλιππε	Φίλιππος	No	NoPr	Ma|Sg|Vo	2	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+6	πώς	πώς	Ad	Ad	Ba	7	Adv	_	_	
+7	πάει	πηγαίνω	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	2	Obj	_	_	
+8	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Καλά	καλά	Ad	Ad	Ba	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	βαριέμαι	βαριέμαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κάθομαι	κάθομαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	2	Pred_Co	_	_	
+2	και	και	Cj	CjCo	_	0	Coord	_	_	
+3	βλέπω	βλέπω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Pred_Co	_	_	
+4	τηλεόραση	τηλεόραση	No	NoCm	Fe|Sg|Ac	3	Obj	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Εσύ	εγώ	Pn	PnPe	Ma|02|Sg|Nm|St	0	ExD	_	_	
+2	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Άστα	άστον	No	NoPr	Ma|Sg|Nm	0	ExD	_	_	
+3	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αύριο	αύριο	Ad	Ad	Ba	2	Adv	_	_	
+2	γράφουμε	γράφω	Vb	VbMn	Id|Xx|01|Pl|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+3	διαγώνισμα	διαγώνισμα	No	NoCm	Ne|Sg|Ac	5	Obj_Co	_	_	
+4	γεωμετρία	γεωμετρία	No	NoCm	Fe|Sg|Ac	5	Obj_Co	_	_	
+5	και	και	Cj	CjCo	_	2	Coord	_	_	
+6	φυσική	φυσικός	Aj	Aj	Ba|Fe|Sg|Ac	5	Obj_Co	_	_	
+7	και	και	Cj	CjCo	_	0	Coord	_	_	
+8	δεν	δεν	Pt	PtNg	_	9	AuxV	_	_	
+9	ξέρω	ξέρω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	7	Pred_Co	_	_	
+10	πού	πού	Ad	Ad	Ba	11	Adv	_	_	
+11	παν’	παν’	Nm	NmOd	Ne|Sg|Nm|Aj	9	Pnom	_	_	
+12	τα	ο	At	AtDf	Ne|Pl|Ac	13	Det	_	_	
+13	τέσσερα	τέσσερις	Nm	NmCd	Ne|Pl|Ac|Aj	11	Atr	_	_	
+14	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Αν	αν	Cj	CjSb	_	7	AuxC	_	_	
+2	δε	δε	Ad	Ad	Ba	4	Adv	_	_	
+3	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	4	Obj	_	_	
+4	βοηθήσεις	βοηθώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	1	Adv	_	_	
+5	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+6	την	εγώ	Pn	PnPe	Fe|03|Sg|Ac|We	7	Obj	_	_	
+7	έβαψα	βάφω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+8	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Ξέρεις	ξέρω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	10	Adv	_	_	
+2	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+3	αυτός	αυτός	Pn	PnDm	Ma|03|Sg|Nm|Xx	5	Atr	_	_	
+4	ο	ο	At	AtDf	Ma|Sg|Nm	5	Det	_	_	
+5	μαθηματικός	μαθηματικός	No	NoCm	Ma|Sg|Nm	10	Sb	_	_	
+6	μας	μου	Pn	PnPo	Ma|01|Pl|Ge|Xx	5	Pos	_	_	
+7	δε	δε	Ad	Ad	Ba	10	Adv	_	_	
+8	μας	εγώ	Pn	PnPe	Ma|01|Pl|Ge|We	10	IObj	_	_	
+9	τα	εγώ	Pn	PnPe	Ne|03|Pl|Ac|We	10	Obj	_	_	
+10	εξηγεί	εξηγώ	Vb	VbMn	Id|Xx|03|Sg|Xx|Xx|Av|Xx	12	Pred_Co	_	_	
+11	καλά	καλά	Ad	Ad	Ba	10	Adv	_	_	
+12	και	και	Cj	CjCo	_	0	Coord	_	_	
+13	...	...	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Καλά	καλά	Ad	Ad	Ba	1	Adv	_	_	
+3	,	,	PUNCT	PUNCT	_	4	AuxX	_	_	
+4	έρχομαι	έρχομαι	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Pv|Xx	0	Pred	_	_	
+5	.	.	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+

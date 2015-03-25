@@ -1,0 +1,106 @@
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+	SYN	[adjp_nm
+1\1	TOK	Όλο	όλος	AjBaNeSgNm
+	SYN	/adjp_nm]
+	SYN	/np_nm]
+	SYN	[vg
+1\5	TOK	τρώω	τρώω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[advp
+1\10	TOK	γλυκά	γλυκά	AdXxBa
+	SYN	/advp]
+	SYN	/cl]
+1\15	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_q
+	SYN	[np_nm
+1\17	TOK	Η	ο	AtDfFeSgNm
+1\19	TOK	μαμά	μαμά	NoCmFeSgNm
+1\24	TOK	μου	μου	PnPoMa01SgGeXx
+	SYN	/np_nm]
+	SYN	[vg
+1\28	TOK	λέει	λέγω	VbMnIdPr03SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_q]
+1\32	PTERM_P	:	:	PTERM_P
+1\34	OPUNCT	"	"	OPUNCT
+	SYN	[cl_o
+1\35	TOK	Γιατί	γιατί	AdXxBa
+	SYN	[vg
+1\41	TOK	δεν	δεν	PtNg
+1\45	TOK	ακούς	ακούω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl_o]
+1\50	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl_o
+1\52	TOK	Γιατί	γιατί	AdXxBa
+	SYN	[vg
+1\58	TOK	τρως	τρώω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_ac
+1\63	TOK	συνέχεια	συνέχεια	NoCmFeSgAc
+	SYN	/np_ac]
+	SYN	[np_ac
+1\72	TOK	σοκολάτες	σοκολάτα	NoCmFePlAc
+	SYN	/np_ac]
+	SYN	/cl_o]
+1\81	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+1\83	TOK	Μετά	μετά	AsPpSp
+	SYN	[vg
+1\88	TOK	κλαις	κλαίω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+	SYN	[cl_o
+1\94	TOK	γιατί	γιατί	CjSb
+	SYN	[vg
+1\100	TOK	παχαίνεις	παχαίνω	VbMnIdPr02SgXxIpAvXx
+	SYN	/vg]
+1\109	PTERM_P	.	.	PTERM_P
+1\110	CPUNCT	"	"	CPUNCT
+	SYN	/cl_o]
+	)SENT	</S>
+	(SENT	<S>
+1\112	TOK	Μα	μα	CjCo
+	SYN	[cl_q
+	SYN	[np_ac
+1\115	TOK	τι	τι	PnIrNe03SgAcXx
+	SYN	/np_ac]
+	SYN	[vg_s
+1\118	TOK	να	να	PtSj
+1\121	TOK	κάνω	κάνω	VbMnIdXx01SgXxPeAvXx
+	SYN	/vg_s]
+	SYN	/cl_q]
+1\125	PTERM_P	;	;	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[vg
+1\127	TOK	Δε	δεν	PtNg
+1\130	TOK	φταιω	φταίω	VbMnIdPr01SgXxIpAvXx
+	SYN	/vg]
+	SYN	[np_nm
+1\136	TOK	εγώ	εγώ	PnPeMa01SgNmSt
+	SYN	/np_nm]
+	SYN	/cl]
+1\139	PTERM_P	.	.	PTERM_P
+	)SENT	</S>
+	(SENT	<S>
+	SYN	[cl
+	SYN	[np_nm
+1\141	TOK	Οι	ο	AtDfFePlNm
+1\144	TOK	σοκολάτες	σοκολάτα	NoCmFePlNm
+	SYN	/np_nm]
+	SYN	[vg
+1\154	TOK	φταίνε	φταίω	VbMnIdPr03PlXxIpAvXx
+	SYN	/vg]
+	SYN	/cl]
+1\160	PTERM_P	!	!	PTERM_P
+	)SENT	</S>

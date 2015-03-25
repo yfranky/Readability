@@ -1,0 +1,51 @@
+1	Πρωινό	πρωινός	Aj	Aj	Ba|Ne|Sg|Ac	2	Atr	_	_	
+2	ξύπνημα	ξύπνημα	No	NoCm	Ne|Sg|Ac	0	ExD	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Άντε	άντε	Pt	PtOt	_	3	Atr	_	_	
+3	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	8	Sb	_	_	
+4	βγες	βγαίνω	Vb	VbMn	Mp|Xx|02|Sg|Xx|Xx|Av|Xx	8	Adv	_	_	
+5	επιτέλους	επιτέλους	Ad	Ad	Ba	4	Adv	_	_	
+6	έξω	έξω	Ad	Ad	Ba	4	Obj	_	_	
+7	!	!	PTERM_P	PTERM_P	_	6	AuxG	_	_	
+8	θέλω	θέλω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+9	να	να	Pt	PtSj	_	10	AuxV	_	_	
+10	μπω	μπαίνω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	8	Obj	_	_	
+11	κι	και	Cj	CjCo	_	12	AuxY	_	_	
+12	εγώ	εγώ	Pn	PnPe	Ma|01|Sg|Nm|St	10	Sb	_	_	
+13	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	0	AuxG	_	_	
+2	Μη	μην	Pt	PtNg	_	4	AuxV	_	_	
+3	με	εγώ	Pn	PnPe	Ma|01|Sg|Ac|We	4	Obj	_	_	
+4	ενοχλείς	ενοχλώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Βουρτσίζω	βουρτσίζω	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	0	Pred	_	_	
+2	τα	ο	At	AtDf	Ne|Pl|Ac	3	Det	_	_	
+3	δόντια	δόντι	No	NoCm	Ne|Pl|Ac	1	Obj	_	_	
+4	μου	μου	Pn	PnPo	Ma|01|Sg|Ge|Xx	3	Pos	_	_	
+5	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	-	-	ENUM	ENUM	_	2	Atr	_	_	
+2	Μαρία	Μαρία	No	NoPr	Fe|Sg|Nm	0	ExD	_	_	
+3	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	4	Obj	_	_	
+4	παρακαλώ	παρακαλώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	2	Atr	_	_	
+5	,	,	PUNCT	PUNCT	_	6	AuxX	_	_	
+6	μπορείς	μπορώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	4	Adv	_	_	
+7	να	να	Pt	PtSj	_	8	AuxV	_	_	
+8	κάνεις	κάνω	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	6	Obj	_	_	
+9	πιο	πιο	Ad	Ad	Ba	10	Adv	_	_	
+10	γρήγορα	γρήγορα	Ad	Ad	Ba	8	Adv	_	_	
+11	;	;	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
+1	Κώστα	Κώστας	No	NoPr	Ma|Sg|Ge	0	ExD	_	_	
+2	,	,	PUNCT	PUNCT	_	1	AuxX	_	_	
+3	σε	εγώ	Pn	PnPe	Ma|02|Sg|Ac|We	4	Obj	_	_	
+4	παρακαλώ	παρακαλώ	Vb	VbMn	Id|Xx|01|Sg|Xx|Xx|Av|Xx	1	Pred_Co	_	_	
+5	μη	μην	Pt	PtNg	_	6	AuxV	_	_	
+6	χτυπάς	χτυπώ	Vb	VbMn	Id|Xx|02|Sg|Xx|Xx|Av|Xx	4	IObj	_	_	
+7	την	ο	At	AtDf	Fe|Sg|Ac	8	Det	_	_	
+8	πόρτα	πόρτα	No	NoCm	Fe|Sg|Ac	6	Obj	_	_	
+9	!	!	PTERM_P	PTERM_P	_	0	AuxK	_	_	
+
