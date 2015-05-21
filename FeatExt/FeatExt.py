@@ -20,6 +20,7 @@ import configparser
 
 import sympy
 
+
 try:
     import nltk
 except ImportError:
@@ -1678,6 +1679,10 @@ if __name__ == "__main__":
     # debug_print('{0} {1} {2}'.format(conll_file_extension, lem_file_extension, chunk_file_extension))
     #Define text id's by searching for connl files and removing file extension
     text_ids = get_basenames(corpus_path, conll_file_extension)
+    # Assure that corpus contains some texts. If not, exit.
+    if text_ids ==[]:
+        sys.exit('No corpus found at: {0} , or corpus does not contain any texts. Please check your corpus. Exiting...'.\
+              format(corpus_path))
     lem_datafiles = glob.glob(corpus_path + '\\*.lem')
     #debug_print(lem_datafiles)
     #Define data files
