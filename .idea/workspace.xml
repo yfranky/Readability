@@ -1,1100 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edb88c13-dc40-4123-9c46-eb20c7a15420" name="Default" comment="Produce single output file with all features. &#10;Clean-up files.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FeatExt/config.cfg" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\Perl Implementation\Result.csv" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\Perl Implementation\Results.csv" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\Perl Implementation\Results.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\Perl Implementation\Stylometrics_new_uc.pl" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\Perl Implementation\Tokenized corpus\0001.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\Perl Implementation\Tokenized corpus\1-0001.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\Perl Implementation\Tokenized corpus\1-0002.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\Perl Implementation\Tokenized corpus\1-0003.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\Perl Implementation\Tokenized corpus\1-0004.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\Perl Implementation\Tokenized corpus\1-0005.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\Perl Implementation\Tokenized corpus\1-0006.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\Perl Implementation\Tokenizer_uc.pl" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\Perl Implementation\functional words.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\Perl Implementation\tokenize_vp.pl" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0001.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0001.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0001.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0002.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0002.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0002.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0003.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0003.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0003.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0004.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0004.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0004.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0005.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0005.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0005.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0006.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0006.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0006.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0007.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0007.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0007.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0008.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0008.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0008.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0009.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0009.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0009.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0010.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0010.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0010.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0011.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0011.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0011.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0012.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0012.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0012.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0013.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0013.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0013.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0014.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0014.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0014.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0015.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0015.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0015.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0016.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0016.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0016.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0017.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0017.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0017.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0018.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0018.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0018.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0019.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0019.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0019.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0020.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0020.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0020.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0021.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0021.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0021.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0022.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0022.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0022.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0023.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0023.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\1-0023.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0012.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0012.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0012.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0013.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0013.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0013.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0014.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0014.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0014.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0015.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0015.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0015.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0016.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0016.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0016.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0017.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0017.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0017.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0018.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0018.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0018.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0019.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0019.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0019.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0020.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0020.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0020.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0021.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0021.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0021.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0022.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0022.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0022.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0023.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0023.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0023.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0024.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0024.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0024.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0025.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0025.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0025.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0026.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0026.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0026.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0027.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0027.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0027.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0028.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0028.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0028.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0029.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0029.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0029.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0030.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0030.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0030.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0031.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0031.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0031.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0032.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0032.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0032.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0033.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0033.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0033.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0034.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0034.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0034.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0035.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0035.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0035.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0036.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0036.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0036.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0037.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0037.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0037.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0038.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0038.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0038.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0039.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0039.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0039.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0040.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0040.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0040.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0041.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0041.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0041.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0042.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0042.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0042.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0043.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0043.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0043.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0044.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0044.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0044.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0045.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0045.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0045.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0046.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0046.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0046.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0047.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0047.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0047.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0048.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0048.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0048.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0049.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0049.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0049.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0050.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0050.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0050.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0051.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0051.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0051.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0052.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0052.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0052.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0053.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0053.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0053.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0054.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0054.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0054.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0055.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0055.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0055.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0056.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0056.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0056.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0057.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0057.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0057.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0058.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0058.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0058.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0059.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0059.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0059.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0060.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0060.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0060.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0061.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0061.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0061.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0062.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0062.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0062.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0063.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0063.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0063.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0064.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0064.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0064.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0065.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0065.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0065.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0066.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0066.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0066.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0067.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0067.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0067.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0068.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0068.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0068.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0069.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0069.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0069.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0070.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0070.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0070.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0071.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0071.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0071.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0072.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0072.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0072.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0073.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0073.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0073.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0074.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0074.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0074.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0075.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0075.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0075.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0076.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0076.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0076.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0078.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0078.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0078.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0079.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0079.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0079.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0080.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0080.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0080.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0081.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0081.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0081.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0082.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0082.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0082.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0083.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0083.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0083.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0084.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0084.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0084.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0085.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0085.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0085.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0086.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0086.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0086.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0087.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0087.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0087.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0088.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0088.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0088.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0089.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0089.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0089.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0090.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0090.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0090.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0091.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0091.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0091.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0092.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0092.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0092.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0093.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0093.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0093.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0094.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0094.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0094.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0095.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0095.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0095.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0096.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0096.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0096.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0097.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0097.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0097.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0098.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0098.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0098.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0099.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0099.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0099.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0100.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0100.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0100.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0101.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0101.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0101.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0102.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0102.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0102.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0103.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0103.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0103.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0104.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0104.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0104.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0105.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0105.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0105.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0106.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0106.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0106.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0107.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0107.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0107.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0108.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0108.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0108.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0109.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0109.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0109.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0110.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0110.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0110.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0111.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0111.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0111.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0112.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0112.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0112.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0113.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0113.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0113.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0114.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0114.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0114.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0115.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0115.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0115.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0116.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0116.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0116.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0117.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0117.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0117.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0118.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0118.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0118.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0119.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0119.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0119.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0120.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0120.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0120.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0121.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0121.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0121.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0122.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0122.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0122.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0123.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0123.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0123.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0124.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0124.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0124.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0125.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0125.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0125.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0126.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0126.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0126.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0127.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0127.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0127.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0128.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0128.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0128.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0129.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0129.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0129.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0130.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0130.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0130.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0131.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0131.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0131.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0132.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0132.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0132.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0133.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0133.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0133.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0134.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0134.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0134.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0135.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0135.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0135.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0136.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0136.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0136.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0137.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0137.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0137.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0138.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0138.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0138.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0139.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0139.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0139.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0140.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0140.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0140.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0141.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0141.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0141.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0142.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0142.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0142.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0143.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0143.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0143.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0144.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0144.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0144.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0145.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0145.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0145.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0146.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0146.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0146.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0147.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0147.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0147.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0148.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0148.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0148.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0149.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0149.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0149.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0150.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0150.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0150.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0151.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0151.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0151.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0152.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0152.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0152.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0153.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0153.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0153.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0154.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0154.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0154.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0155.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0155.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0155.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0156.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0156.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0156.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0158.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0158.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0158.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0159.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0159.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0159.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0160.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0160.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0160.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0161.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0161.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0161.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0162.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0162.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0162.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0163.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0163.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0163.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0164.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0164.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0164.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0165.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0165.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0165.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0166.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0166.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0166.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0167.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0167.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0167.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0168.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0168.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0168.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0169.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0169.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0169.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0170.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0170.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0170.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0171.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0171.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0171.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0172.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0172.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0172.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0173.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0173.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0173.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0174.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0174.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0174.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0175.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0175.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0175.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0176.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0176.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0176.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0177.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0177.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0177.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0178.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0178.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0178.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0179.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0179.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0179.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0180.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0180.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0180.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0181.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0181.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0181.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0182.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0182.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0182.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0183.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0183.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0183.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0184.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0184.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0184.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0185.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0185.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0185.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0186.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0186.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0186.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0187.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0187.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0187.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0188.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0188.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0188.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0189.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0189.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0189.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0190.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0190.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0190.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0191.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0191.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0191.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0192.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0192.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0192.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0193.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0193.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0193.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0194.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0194.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0194.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0195.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0195.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0195.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0196.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0196.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0196.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0198.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0198.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0198.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0199.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0199.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0199.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0200.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0200.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0200.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0201.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0201.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0201.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0202.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0202.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0202.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0203.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0203.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0203.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0204.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0204.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0204.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0205.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0205.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0205.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0206.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0206.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0206.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0207.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0207.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0207.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0208.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0208.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0208.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0209.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0209.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0209.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0210.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0210.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0210.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0211.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0211.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0211.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0212.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0212.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0212.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0213.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0213.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0213.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0214.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0214.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0214.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0215.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0215.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0215.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0216.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0216.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0216.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0217.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0217.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0217.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0218.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0218.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0218.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0219.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0219.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0219.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0220.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0220.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0220.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0221.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0221.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0221.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0222.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0222.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0222.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0223.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0223.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0223.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0224.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0224.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0224.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0225.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0225.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0225.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0226.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0226.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0226.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0227.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0227.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0227.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0228.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0228.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0228.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0229.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0229.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0229.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0230.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0230.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0230.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0231.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0231.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0231.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0232.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0232.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0232.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0233.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0233.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0233.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0234.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0234.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0234.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0235.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0235.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0235.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0236.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0236.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0236.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0237.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0237.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0237.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0238.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0238.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0238.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0239.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0239.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0239.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0240.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0240.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0240.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0241.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0241.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0241.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0242.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0242.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0242.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0243.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0243.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0243.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0244.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0244.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0244.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0245.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0245.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0245.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0246.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0246.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0246.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0247.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0247.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0247.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0248.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0248.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0248.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0249.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0249.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0249.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0250.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0250.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0250.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0251.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0251.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0251.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0252.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0252.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0252.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0253.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0253.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0253.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0254.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0254.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0254.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0255.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0255.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2-0255.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2001.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2001.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2001.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2002.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2002.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2002.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2003.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2003.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2003.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2004.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2004.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2004.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2005.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2005.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2005.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2006.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2006.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2006.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2007.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2007.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2007.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2008.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2008.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2008.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2009.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2009.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2009.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2010.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2010.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2010.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2011.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2011.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2011.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2012.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2012.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2012.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2013.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2013.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2013.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2014.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2014.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2014.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2015.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2015.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2015.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2016.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2016.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2016.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2017.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2017.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2017.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2018.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2018.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2018.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2019.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2019.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2019.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2020.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2020.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2020.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2021.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2021.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2021.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2022.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2022.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2022.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2023.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2023.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2023.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2024.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2024.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2024.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2025.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2025.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2025.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2026.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2026.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2026.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2027.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2027.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2027.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2028.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2028.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2028.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2029.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2029.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2029.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2030.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2030.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2030.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2031.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2031.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2031.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2032.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2032.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2032.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2033.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2033.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2033.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2034.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2034.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2034.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2035.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2035.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2035.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2036.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2036.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2036.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2037.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2037.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2037.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2038.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2038.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2038.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2039.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2039.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2039.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2040.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2040.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2040.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2041.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2041.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2041.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2042.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2042.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2042.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2043.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2043.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2043.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2044.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2044.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2044.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2045.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2045.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2045.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2046.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2046.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2046.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2047.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2047.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2047.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2048.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2048.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2048.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2049.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2049.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2049.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2050.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2050.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2050.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2051.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2051.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2051.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2052.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2052.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2052.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2053.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2053.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2053.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2054.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2054.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2054.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2055.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2055.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2055.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2056.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2056.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2056.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2058.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2058.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2058.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2059.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2059.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2059.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2060.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2060.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2060.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2061.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2061.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2061.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2062.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2062.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2062.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2063.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2063.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2063.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2064.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2064.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2064.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2065.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2065.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2065.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2066.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2066.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2066.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2067.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2067.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2067.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2068.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2068.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2068.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2069.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2069.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2069.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2070.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2070.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2070.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2071.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2071.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2071.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2072.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2072.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2072.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2073.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2073.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2073.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2074.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2074.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2074.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2075.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2075.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2075.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2076.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2076.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2076.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2077.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2077.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2077.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2078.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2078.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2078.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2079.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2079.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2079.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2080.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2080.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2080.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2081.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2081.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2081.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2082.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2082.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2082.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2083.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2083.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2083.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2084.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2084.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2084.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2085.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2085.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2085.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2086.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2086.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2086.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2087.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2087.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2087.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2088.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2088.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2088.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2089.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2089.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2089.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2090.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2090.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2090.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2091.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2091.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2091.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2092.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2092.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2092.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2093.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\Ediamme_corpus\2093.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\test_corpus\6109.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\test_corpus\6109.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\test_corpus\6138.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\test_corpus\6138.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\test_corpus\6144.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\test_corpus\6144.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\test_corpus\6151.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\test_corpus\6151.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\test_corpus\6159.chunk" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\data\test_corpus\6159.conll" afterPath="" />
-      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\setup.py" afterPath="" />
+    <list default="true" id="edb88c13-dc40-4123-9c46-eb20c7a15420" name="Default" comment="Produce single output file containing all features. &#10;Clean-up files. ver 2">
+      <change type="DELETED" beforePath="F:\Users\Yorgos\Documents\GitHub\Readability\FeatExt\config.cfg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FeatExt/FeatExt.py" afterPath="$PROJECT_DIR$/FeatExt/FeatExt.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FeatExt1.iws" />
@@ -1111,9 +21,10 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Readability$FeatExt1.coverage" NAME="FeatExt1 Coverage Results" MODIFIED="1416357670585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FeatExt" />
     <SUITE FILE_PATH="coverage/FeatExt1$FeatExt1.coverage" NAME="FeatExt1 Coverage Results" MODIFIED="1410265857442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FeatExt1" />
-    <SUITE FILE_PATH="coverage/Readability$FeatExt.coverage" NAME="FeatExt Coverage Results" MODIFIED="1416383112242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FeatExt" />
+    <SUITE FILE_PATH="coverage/Readability$FeatExt.coverage" NAME="FeatExt Coverage Results" MODIFIED="1432213458814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FeatExt" />
     <SUITE FILE_PATH="coverage/Readability$FeatExt1__1_.coverage" NAME="FeatExt1 (1) Coverage Results" MODIFIED="1413048354671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FeatExt" />
     <SUITE FILE_PATH="coverage/Readability$FeatExt__1_.coverage" NAME="FeatExt (1) Coverage Results" MODIFIED="1427320846170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FeatExt" />
+    <SUITE FILE_PATH="coverage/Readability$FeatExt_with_config_file.coverage" NAME="FeatExt with config file Coverage Results" MODIFIED="1430872122390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -1127,24 +38,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FeatExt.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FeatExt.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FeatExt/FeatExt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="28310" max-vertical-offset="29342">
-              <caret line="1688" column="10" selection-start-line="1688" selection-start-column="10" selection-end-line="1688" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.29383886" vertical-offset="579" max-vertical-offset="29342">
+              <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
               <folding>
-                <element signature="e#142#156#0" expanded="true" />
+                <element signature="e#142#151#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.cfg" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FeatExt/config.cfg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8092">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -1152,8 +53,21 @@
       <file leaf-file-name="def_config.cfg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FeatExt/def_config.cfg">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="8092">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="8092">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="featext_all.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/results/featext_all.csv">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12920">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1169,8 +83,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="yfranky" />
         <option value="Yorgos" />
+        <option value="yfranky" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -1182,6 +96,7 @@
         <option value="$PROJECT_DIR$/results/featext_merged.csv" />
         <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/FeatExt/def_config.cfg" />
+        <option value="$PROJECT_DIR$/FeatExt/config.cfg" />
         <option value="$PROJECT_DIR$/FeatExt/FeatExt.py" />
       </list>
     </option>
@@ -1190,10 +105,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="317" />
-    <option name="y" value="13" />
+    <option name="x" value="92" />
+    <option name="y" value="15" />
     <option name="width" value="1392" />
-    <option name="height" value="1182" />
+    <option name="height" value="1164" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -1310,6 +225,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="results" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Readability" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Readability" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1336,7 +265,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="configurable.group.project" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -1361,53 +290,13 @@
       <recent name="C:\Users\Yorgos\PycharmProjects\FeatExt1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Users\Yorgos\Documents\GitHub\Readability\results" />
       <recent name="F:\Users\Yorgos\Documents\GitHub\Readability\data" />
+      <recent name="F:\Users\Yorgos\Documents\GitHub\Readability\results" />
       <recent name="F:\Users\Yorgos\Documents\GitHub\Readability\FeatExt" />
       <recent name="C:\Users\Yorgos\PycharmProjects\FeatExt1\FeatExt1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.FeatExt (1)">
-    <configuration default="false" name="FeatExt" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FeatExt" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Readability" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\Users\Yorgos\Documents\GitHub\Readability\FeatExt\FeatExt_old.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="FeatExt1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FeatExt" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Readability" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\Users\Yorgos\Documents\GitHub\Readability\FeatExt\FeatExt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.FeatExt">
     <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1632,7 +521,27 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="FeatExt (1)" type="PythonConfigurationType" factoryName="Python">
+    <configuration default="false" name="FeatExt with config file" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Readability" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FeatExt/FeatExt.py" />
+      <option name="PARAMETERS" value="-c c:\readability\config.cfg" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FeatExt" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1656,17 +565,10 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Python.FeatExt (1)" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.FeatExt with config file" />
       <item index="1" class="java.lang.String" itemvalue="Python.FeatExt" />
-      <item index="2" class="java.lang.String" itemvalue="Python.FeatExt1" />
     </list>
-    <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.FeatExt" />
-        <item index="1" class="java.lang.String" itemvalue="Python.FeatExt1" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration" myUseAcceleration="nothing">
@@ -1751,7 +653,19 @@
       <option name="project" value="LOCAL" />
       <updated>1427321792521</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Produce single output file containing all features. &#10;Clean-up files.">
+      <created>1427348535320</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1427348535320</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Produce single output file containing all features. &#10;Clean-up files.">
+      <created>1427349245361</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1427349245361</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1775,32 +689,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="317" y="13" width="1392" height="1182" extended-state="0" />
-    <editor active="false" />
+    <frame x="92" y="15" width="1392" height="1164" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32264152" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25487256" sideWeight="0.58068615" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924527" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33200794" sideWeight="0.49949747" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2962264" sideWeight="0.22470714" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32815966" sideWeight="0.6712095" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32950193" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917467" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19019443" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29522863" sideWeight="0.7752929" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32703215" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28485757" sideWeight="0.58068615" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32815966" sideWeight="0.6712095" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19019443" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.118625276" sideWeight="0.4180432" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26218325" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33205375" sideWeight="0.49949747" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4647399" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="166" y="92" width="1662" height="1016" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2967864" sideWeight="0.7752929" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21981132" sideWeight="0.49779737" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2624521" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32264152" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -1837,6 +751,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
@@ -1844,11 +759,21 @@
     <MESSAGE value="2nd Commit&#10;" />
     <MESSAGE value="Produce single output file with all features.&#10;Clean-up files." />
     <MESSAGE value="Produce single output file with all features. &#10;Clean-up files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Produce single output file with all features. &#10;Clean-up files." />
+    <MESSAGE value="Produce single output file containing all features. &#10;Clean-up files." />
+    <MESSAGE value="Produce single output file containing all features. &#10;Clean-up files. ver 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Produce single output file containing all features. &#10;Clean-up files. ver 2" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FeatExt/FeatExt.py</url>
+          <line>1649</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
@@ -1859,17 +784,81 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="55" />
+      <option name="time" value="59" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/FeatExt/FeatExt.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="29325">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#142#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeatExt/def_config.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="8092">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeatExt/FeatExt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="29325">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#142#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeatExt/def_config.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="8092">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeatExt/FeatExt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="29325">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#142#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeatExt/def_config.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="8092">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeatExt/FeatExt.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="29342">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#142#156#0" expanded="true" />
+            <element signature="e#142#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeatExt/FeatExt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="28310" max-vertical-offset="29342">
+          <caret line="1688" column="10" selection-start-line="1688" selection-start-column="10" selection-end-line="1688" selection-end-column="10" />
+          <folding>
+            <element signature="e#142#151#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1887,7 +876,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="29342">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#142#156#0" expanded="true" />
+            <element signature="e#142#151#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1905,7 +894,25 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="29342">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#142#156#0" expanded="true" />
+            <element signature="e#142#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeatExt/def_config.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="8092">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeatExt/FeatExt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="29342">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#142#151#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1923,7 +930,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="29580">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#142#156#0" expanded="true" />
+            <element signature="e#142#151#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1941,7 +948,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="631" max-vertical-offset="28475">
           <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
           <folding>
-            <element signature="e#142#156#0" expanded="true" />
+            <element signature="e#142#151#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1959,7 +966,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="26452">
           <caret line="951" column="36" selection-start-line="951" selection-start-column="36" selection-end-line="951" selection-end-column="36" />
           <folding>
-            <element signature="e#142#156#0" expanded="true" />
+            <element signature="e#142#151#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1969,7 +976,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="25517">
           <caret line="951" column="36" selection-start-line="951" selection-start-column="36" selection-end-line="951" selection-end-column="36" />
           <folding>
-            <element signature="e#142#156#0" expanded="true" />
+            <element signature="e#142#151#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1993,7 +1000,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="3978" max-vertical-offset="13039">
           <caret line="234" column="15" selection-start-line="234" selection-start-column="15" selection-end-line="234" selection-end-column="15" />
           <folding>
-            <element signature="e#142#156#0" expanded="true" />
+            <element signature="e#142#151#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2160,38 +1167,41 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.54046243" vertical-offset="0" max-vertical-offset="692">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
         </state>
       </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FeatExt/def_config.cfg">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8092">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="8092">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/featext_all.csv">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12920">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FeatExt/FeatExt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="28310" max-vertical-offset="29342">
-          <caret line="1688" column="10" selection-start-line="1688" selection-start-column="10" selection-end-line="1688" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.29383886" vertical-offset="579" max-vertical-offset="29342">
+          <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
           <folding>
-            <element signature="e#142#156#0" expanded="true" />
+            <element signature="e#142#151#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FeatExt/config.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8092">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>

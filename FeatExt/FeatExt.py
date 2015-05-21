@@ -5,8 +5,8 @@ Extract features from corpus (set of preprocessed txt files) for later readabili
 __author__ = 'Yorgos'
 
 #Import modules
-import os, sys
-
+import os
+import sys
 import argparse
 import math
 import codecs
@@ -14,10 +14,12 @@ from datetime import datetime
 import collections
 import statistics
 from math import log2
-import sympy
 import glob
 import re
 import configparser
+
+import sympy
+
 try:
     import nltk
 except ImportError:
@@ -1597,9 +1599,8 @@ def get_meta_features(features_list, text_features):
 #______________________________________________________________________________________________________
 
 if __name__ == "__main__":
-    # Define default configuration file. NOTE: specify full path if different from cwd.
-    default_config_file = 'def_config.cfg'
-
+    # Define default configuration file. NOTE: the file should reside in this script's path.
+    default_config_file = os.path.join( os.path.dirname(os.path.abspath(__file__)), 'def_config.cfg')
     #Parse command-line arguments
     parser = argparse.ArgumentParser(description='Extract features from corpus')
     #config_file: settings and configuration file. Optional, use default file if not specified.
@@ -1647,7 +1648,7 @@ if __name__ == "__main__":
     # Process Settings
     CSV_SEP = settings.get('csv separator', '\t')
     # Working path. All other paths are relative to this.
-    working_path = os.path.abspath( paths.get('working dir', '..'))
+    working_path = os.path.normpath( os.path.join( os.path.dirname(config_file), paths.get('working dir', '..')) )
     debug_print(['working path', working_path])
     data_path = os.path.join(working_path, paths.get('data dir', 'data'))
     debug_print(['data path', data_path])
