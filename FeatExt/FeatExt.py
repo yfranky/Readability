@@ -20,7 +20,6 @@ import configparser
 
 import sympy
 
-
 try:
     import nltk
 except ImportError:
@@ -677,7 +676,7 @@ def get_grammar_features(data, feature_list):
     #debug_print(['words', words])
     # build a list of types to avoid repetitive building later
     types = [x[3] for x in words]
-    #debug_print('Sentences: {0}, Words: {1}, Types: {2}'.format( sentences, words, types ))
+    debug_print('Sentences: {0}, Words: {1}, Types: {2}'.format( sentences, words, types ))
 
     # get the list of functional words from file
     func_words = func_words_list(functional_words_filename)
@@ -1238,7 +1237,7 @@ def get_syntax_features(text_data, feature_list):
     #Create a frequency distribution of 8th column of text_data containing syntax parts
     syntax_ids = [x[7] for x in text_data]
     # debug_print('Syntax parts: {0}'.format(syntax_ids))
-    syntax_ids_count = len(syntax_ids) #set to '= 1' when debugging
+    #syntax_ids_count = len(syntax_ids) #set to '= 1' when debugging
     # debug_print('Syntax parts count: {0}'.format(syntax_ids_count))
     fd = nltk.FreqDist( syntax_ids )
     # debug_print(['syntax_feat_freq', fd.most_common(100)])
@@ -1246,9 +1245,9 @@ def get_syntax_features(text_data, feature_list):
     for feature in feature_list:
         if feature in ['AuxS', 'Pred', 'Sb', 'Obj', 'IObj', 'Pnom', 'Atv', 'Atr', 'AuxP', 'AuxC', 'Coord', 'Apos',\
                        'AuxX', 'AuxK', 'AuxG', 'ExD', 'AuxY', 'AuxV' ]:
-            features[feature] = fd[feature] / syntax_ids_count
+            features[feature] = fd[feature] #/ syntax_ids_count
         elif feature in [ 'all_Co', 'all_Ap', 'all_Pa' ]:
-            features[feature] = len( [ x for x in syntax_ids if feature[-3:]==x[-3:] ] ) / syntax_ids_count
+            features[feature] = len( [ x for x in syntax_ids if feature[-3:]==x[-3:] ] ) #/ syntax_ids_count
         elif feature == 'DepDist':
             features[feature] = get_DepDist(text_data)
         elif feature == 'HeadsSum':
