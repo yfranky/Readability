@@ -676,7 +676,7 @@ def get_grammar_features(data, feature_list):
     #debug_print(['words', words])
     # build a list of types to avoid repetitive building later
     types = [x[3] for x in words]
-    debug_print('Sentences: {0}, Words: {1}, Types: {2}'.format( sentences, words, types ))
+    #debug_print('Sentences: {0}, Words: {1}, Types: {2}'.format( sentences, words, types ))
 
     # get the list of functional words from file
     func_words = func_words_list(functional_words_filename)
@@ -1049,7 +1049,8 @@ def conll_sentences(data):
             sent = [item]
         else: # inside sentence
            sent.append(item)
-
+    # Append last sentence in sentences.
+    sents.append(sent)
     # remove empty first sentence
     if sents[0] == []: del sents[0]
 
@@ -1228,10 +1229,10 @@ def get_syntax_features(text_data, feature_list):
     @rtype : a dictionary of feature - value pairs
     """
 
-    #extract words
+    #extract sentences
     sentences = conll_sentences(text_data)
 
-    # Create an ordered dictionary of features. Should me ordered to preserve  feature list order.
+    # Create an ordered dictionary of features. Should be ordered to preserve  feature list order.
     features = collections.OrderedDict()
 
     #Create a frequency distribution of 8th column of text_data containing syntax parts
@@ -1248,6 +1249,8 @@ def get_syntax_features(text_data, feature_list):
             features[feature] = fd[feature] #/ syntax_ids_count
         elif feature in [ 'all_Co', 'all_Ap', 'all_Pa' ]:
             features[feature] = len( [ x for x in syntax_ids if feature[-3:]==x[-3:] ] ) #/ syntax_ids_count
+        elif feature == 'Trees':
+            features[feature] = len(sentences)
         elif feature == 'DepDist':
             features[feature] = get_DepDist(text_data)
         elif feature == 'HeadsSum':
@@ -1328,7 +1331,7 @@ def phrase_len_list(data, phrase_id):
             # Start counting for the new phrase
             word_counter[into_phrase] = 0
         elif (item[2] == '[' + phrase_id) and into_phrase: # Nested phrase
-            debug_print("NESTED PHRASE!!!")
+            #debug_print("NESTED PHRASE!!!")
             # word_counter[into_phrase] += 1  # count the whole nested sub-phrase as single entity
             into_phrase += 1
             word_counter[into_phrase] = 0  # start counting sub-phrase words
@@ -1453,7 +1456,7 @@ def extract_grammar_features(features_list, path, text_ids):
     for text_id in text_ids:
         #Create file name from text id
         file = os.path.join(path, text_id + '.' + chunk_file_extension)
-        write_log('Extracting grammar features for text: {0} from file: {1}'.format(text_id, file))
+        #write_log('Extracting grammar features for text: {0} from file: {1}'.format(text_id, file))
         #Check if file exists, skip if not
         if not os.path.exists(file):
             write_log('ERROR: could not find file {0}. Skipping.'.format(file))
@@ -1491,7 +1494,7 @@ def extract_syntax_features(features_list, path, text_ids):
     for text_id in text_ids:
         #Create file name from text id
         file = os.path.join(path, text_id + '.' + conll_file_extension)
-        write_log('Extracting syntax features for text: {0} from file: {1}'.format(text_id, file))
+        #write_log('Extracting syntax features for text: {0} from file: {1}'.format(text_id, file))
         #Check if file exists, skip if not
         if not os.path.exists(file):
             write_log('ERROR: could not find file {0}. Skipping.'.format(file))
@@ -1531,7 +1534,7 @@ def extract_phrase_features(features_list, path, text_ids):
     for text_id in text_ids:
         #Create file name from text id
         file = os.path.join(path, text_id + '.' + chunk_file_extension)
-        write_log('Extracting phrase features for text: {0} from file: {1}'.format(text_id, file))
+        #write_log('Extracting phrase features for text: {0} from file: {1}'.format(text_id, file))
         #Check if file exists, skip if not
         if not os.path.exists(file):
             write_log('ERROR: could not find file {0}. Skipping.'.format(file))
